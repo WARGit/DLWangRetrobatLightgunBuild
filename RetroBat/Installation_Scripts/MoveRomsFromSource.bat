@@ -19,6 +19,21 @@ mkdir "%directory%"
 REM ==== Move entire bios dir out of source===
 move /Y "%~dp0bios" "%directory%"
 
+
+REM TODO dos Roms
+REM TODO dreamcast Roms 
+REM TODO mame Roms 
+REM TODO megadrive Roms 
+REM TODO model3 Roms 
+REM TODO naomi Roms 
+REM TODO nes Roms 
+REM TODO ps2 Roms 
+REM TODO psx Roms 
+REM TODO snes Roms 
+REM TODO teknoparrot Roms 
+REM TODO wii Roms 
+
+
 REM === Create Roms\Windows dir in destination ===
 mkdir "%directory%\roms\windows"
 
