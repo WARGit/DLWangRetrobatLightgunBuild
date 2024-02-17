@@ -6,7 +6,7 @@ REM Usage:   Place in the root of the source at the same level as retrobat.exe.
 REM Version: 0.1
 REM ====================================
 
-REM === Ask user for destination dir
+REM === Ask user for destination dir ===
 @echo on
 set /p directory="Enter dir path to copy files to: "
 echo %directory%
