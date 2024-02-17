@@ -16,6 +16,9 @@ mkdir "%directory%"
 
 REM ==== Move entire bios dir out of source===
 move /Y "%~dp0bios" "%directory%"
+
+REM === Move Roms out of source here..... ====
+
 pause
 
 
