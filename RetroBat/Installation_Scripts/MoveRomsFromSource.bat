@@ -1,3 +1,4 @@
+@echo off
 REM ====================================
 REM Author:  Wayne Robinson
 REM Date: 	 17th Feb 24
@@ -10,6 +11,7 @@ REM === Ask user for destination dir ===
 @echo on
 set /p directory="Enter dir path to copy files to: "
 echo %directory%
+@echo off
 
 REM === Create destination dir if not exist ===
 mkdir "%directory%"
@@ -17,8 +19,11 @@ mkdir "%directory%"
 REM ==== Move entire bios dir out of source===
 move /Y "%~dp0bios" "%directory%"
 
-REM === Move Roms out of source here..... ====
+REM === Create Roms\Windows dir in destination ===
+mkdir "%directory%\roms\windows"
 
+REM === Move Roms out of source here..... ====
+rem move /Y "%~dp0roms\windows" "%directory"
 pause
 
 
