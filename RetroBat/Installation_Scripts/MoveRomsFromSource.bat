@@ -284,8 +284,6 @@ move /Y "%~dp0roms\windows\House Of The Dead Scarlet Dawn.pc" "%directory%\roms\
 
 REM ==== Lots more in Windows dir to move
 
-REM === TODO XBOX AREA 51 To Move =====
-
 REM === Create Roms\xbox dir in destination ===
 mkdir "%directory%\roms\xbox"
 
