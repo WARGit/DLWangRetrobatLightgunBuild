@@ -281,8 +281,22 @@ move /Y "%~dp0roms\windows\Haunted Museum 2.pc" "%directory%\roms\windows"
 move /Y "%~dp0roms\windows\Haunted Museum.pc" "%directory%\roms\windows"
 move /Y "%~dp0roms\windows\House  Of The Dead Overkill.pc" "%directory%\roms\windows"
 move /Y "%~dp0roms\windows\House Of The Dead Scarlet Dawn.pc" "%directory%\roms\windows"
+move /Y "%~dp0roms\windows\Lets go Island 3d.pc" "%directory%\roms\windows"
+move /Y "%~dp0roms\windows\Mad Bullets.pc" "%directory%\roms\windows"
+move /Y "%~dp0roms\windows\Major Mayhem.pc" "%directory%\roms\windows"
+move /Y "%~dp0roms\windows\Music Gungun! 2.pc" "%directory%\roms\windows"
+move /Y "%~dp0roms\windows\Rabbids Hollywood Arcade.pc" "%directory%\roms\windows"
+move /Y "%~dp0roms\windows\Silent Hill The Arcade.pc" "%directory%\roms\windows"
+move /Y "%~dp0roms\windows\Silent Scope 2.pc" "%directory%\roms\windows"
+move /Y "%~dp0roms\windows\THE HOUSE OF THE DEAD Remake.pc" "%directory%\roms\windows"
+move /Y "%~dp0roms\windows\Time Crisis 5.pc" "%directory%\roms\windows"
+move /Y "%~dp0roms\windows\Tomb RaiderLC.pc" "%directory%\roms\windows"
+move /Y "%~dp0roms\windows\Wild West Shoot Out.pc" "%directory%\roms\windows"
 
-REM ==== Lots more in Windows dir to move
+
+REM ==== RPCS3.pc to move also
+
+
 
 REM === Create Roms\xbox dir in destination ===
 mkdir "%directory%\roms\xbox"
