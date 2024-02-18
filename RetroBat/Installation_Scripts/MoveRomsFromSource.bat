@@ -135,14 +135,11 @@ move /Y "%~dp0roms\model3\swtrilgy.zip" "%directory%\roms\model3"
 
 REM === Create Roms\naomi dirs in destination ===
 mkdir "%directory%\roms\naomi"
-mkdir "%directory%\roms\naomi\confmiss"
-mkdir "%directory%\roms\naomi\lupinsho"
-mkdir "%directory%\roms\naomi\mok"
 
 REM === Move naomi Roms out of source ====
 move /Y "%~dp0roms\naomi\confmiss" "%directory%\roms\naomi"
-move /Y "%~dp0roms\naomi\confmiss" "%directory%\roms\naomi"
-move /Y "%~dp0roms\naomi\confmiss" "%directory%\roms\namoi"
+move /Y "%~dp0roms\naomi\lupinsho" "%directory%\roms\naomi"
+move /Y "%~dp0roms\naomi\mok" "%directory%\roms\naomi"
 REM === NOTE:: There are more videos in here than roms, correct? TBC.
 
 REM === Create Roms\nes dir in destination ===
