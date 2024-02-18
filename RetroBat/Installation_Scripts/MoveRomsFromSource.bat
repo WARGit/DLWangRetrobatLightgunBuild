@@ -257,8 +257,10 @@ move /Y "%~dp0roms\wii\Target Terror.wbfs" "%directory%\roms\wii"
 move /Y "%~dp0roms\wii\Top Shot Arcade.wbfs" "%directory%\roms\wii"
 move /Y "%~dp0roms\wii\Top Shot Dinosaur Hunter (USA).wbfs" "%directory%\roms\wii"
 
-REM === Create Roms\Windows dir in destination ===
+REM === Create Roms\windows dir in destination ===
 mkdir "%directory%\roms\windows"
+mkdir "%directory%\roms\windows\RPCS3.pc"
+mkdir "%directory%\roms\windows\PCSX2 1.6.0.pc"
 
 REM === Move Windows Roms out of source ====
 move /Y "%~dp0roms\windows\Banzai Escape 2.PC" "%directory%\roms\windows"
@@ -281,11 +283,13 @@ move /Y "%~dp0roms\windows\Haunted Museum 2.pc" "%directory%\roms\windows"
 move /Y "%~dp0roms\windows\Haunted Museum.pc" "%directory%\roms\windows"
 move /Y "%~dp0roms\windows\House  Of The Dead Overkill.pc" "%directory%\roms\windows"
 move /Y "%~dp0roms\windows\House Of The Dead Scarlet Dawn.pc" "%directory%\roms\windows"
+move /Y "%~dp0roms\windows\Intake.pc" "%directory%\roms\windows"
 move /Y "%~dp0roms\windows\Lets go Island 3d.pc" "%directory%\roms\windows"
 move /Y "%~dp0roms\windows\Mad Bullets.pc" "%directory%\roms\windows"
 move /Y "%~dp0roms\windows\Major Mayhem.pc" "%directory%\roms\windows"
 move /Y "%~dp0roms\windows\Music Gungun! 2.pc" "%directory%\roms\windows"
 move /Y "%~dp0roms\windows\Rabbids Hollywood Arcade.pc" "%directory%\roms\windows"
+move /Y "%~dp0roms\windows\Reload.pc" "%directory%\roms\windows"
 move /Y "%~dp0roms\windows\Silent Hill The Arcade.pc" "%directory%\roms\windows"
 move /Y "%~dp0roms\windows\Silent Scope 2.pc" "%directory%\roms\windows"
 move /Y "%~dp0roms\windows\THE HOUSE OF THE DEAD Remake.pc" "%directory%\roms\windows"
@@ -293,10 +297,23 @@ move /Y "%~dp0roms\windows\Time Crisis 5.pc" "%directory%\roms\windows"
 move /Y "%~dp0roms\windows\Tomb RaiderLC.pc" "%directory%\roms\windows"
 move /Y "%~dp0roms\windows\Wild West Shoot Out.pc" "%directory%\roms\windows"
 
+REM === Create PCSX2 directories in destination ===
+mkdir "%directory%\roms\windows\PCSX2 1.6.0.pc"
+mkdir "%directory%\roms\windows\PCSX2 1.6.0.pc\roms"
 
-REM ==== RPCS3.pc to move also
+REM === Move PS2 Roms out of source ====
+move /Y "%~dp0roms\windows\PCSX2 1.6.0.pc\roms\Time Crisis 2.gz" "%directory%\roms\windows\PCSX2 1.6.0.pc\roms"
+move /Y "%~dp0roms\windows\PCSX2 1.6.0.pc\roms\Time Crisis 3.gz" "%directory%\roms\windows\PCSX2 1.6.0.pc\roms"
+move /Y "%~dp0roms\windows\PCSX2 1.6.0.pc\roms\Time Crisis Crisis Zone.iso" "%directory%\roms\windows\PCSX2 1.6.0.pc\roms"
+REM - TODO - These roms are in a different location to Vampire Night above, why? - TBC
+REM - .tmp files also in this dir, TBC if these are required / not
+REM - TODO There a number of save states in the "sstates" folder, TBC if these are required or not.
 
+REM === Move xbox PS2 bios files out of source ====
+move /Y "%~dp0roms\windows\PCSX2 1.6.0.pc\bios" "%directory%\roms\windows\PCSX2 1.6.0.pc"
 
+REM === Create Roms\windows dir in destination ===
+mkdir "%directory%\roms\windows\RPCS3.pc"
 
 REM === Create Roms\xbox dir in destination ===
 mkdir "%directory%\roms\xbox"
