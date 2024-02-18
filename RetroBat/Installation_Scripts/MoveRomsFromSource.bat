@@ -140,9 +140,9 @@ mkdir "%directory%\roms\naomi\lupinsho"
 mkdir "%directory%\roms\naomi\mok"
 
 REM === Move naomi Roms out of source ====
-move /Y "%~dp0roms\naomi\confmiss\confmiss\gds-0001.chd" "%directory%\roms\naomi\confmiss"
-move /Y "%~dp0roms\naomi\confmiss\lupinsho\lupinsho\gds-0018.chd" "%directory%\roms\naomi\lupinsho"
-move /Y "%~dp0roms\naomi\confmiss\mok\gds-0022.chd" "%directory%\roms\mok\confmiss"
+move /Y "%~dp0roms\naomi\confmiss\confmiss" "%directory%\roms\naomi"
+move /Y "%~dp0roms\naomi\confmiss\lupinsho" "%directory%\roms\naomi"
+move /Y "%~dp0roms\naomi\confmiss\mok" "%directory%\roms\namoi"
 REM === NOTE:: There are more videos in here than roms, correct? TBC.
 
 REM === Create Roms\nes dir in destination ===
@@ -247,7 +247,7 @@ move /Y "%~dp0roms\wii\Martian Panic.wbfs" "%directory%\roms\wii"
 move /Y "%~dp0roms\wii\Nerf N-Strike - Double Blast Bundle (USA).wbfs" "%directory%\roms\wii"
 move /Y "%~dp0roms\wii\Nerf N-Strike (USA).wbfs" "%directory%\roms\wii"
 move /Y "%~dp0roms\wii\North American Hunting Extravaganza.wbfs" "%directory%\roms\wii"
-move /Y "%~dp0roms\wii\Operation Wolf (USA) (NES) (Virtual Console).wbfs" "%directory%\roms\wii"
+move /Y "%~dp0roms\wii\Operation Wolf (USA) (NES) (Virtual Console).wad" "%directory%\roms\wii"
 move /Y "%~dp0roms\wii\Remington Great American Bird Hunt.wbfs" "%directory%\roms\wii"
 move /Y "%~dp0roms\wii\Resident Evil - The Darkside Chronicles.wbfs" "%directory%\roms\wii"
 move /Y "%~dp0roms\wii\Resident Evil - The Umbrella Chronicles.wbfs" "%directory%\roms\wii"
@@ -284,6 +284,9 @@ move /Y "%~dp0roms\windows\Haunted Museum 2.pc" "%directory%\roms\windows"
 move /Y "%~dp0roms\windows\Haunted Museum.pc" "%directory%\roms\windows"
 move /Y "%~dp0roms\windows\House  Of The Dead Overkill.pc" "%directory%\roms\windows"
 move /Y "%~dp0roms\windows\House Of The Dead Scarlet Dawn.pc" "%directory%\roms\windows"
+
+
+REM === TODO XBOX AREA 51 To Move =====
 
 pause
 
