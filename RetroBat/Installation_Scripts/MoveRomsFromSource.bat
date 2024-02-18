@@ -317,21 +317,32 @@ move /Y "%~dp0roms\windows\PCSX2 1.6.0.pc\sstates" "%directory%\roms\windows\PCS
 
 REM === Create RPCS3 dir in destination ===
 mkdir "%directory%\roms\windows\RPCS3.pc"
+mkdir "%directory%\roms\windows\RPCS3.pc\dev_hdd0"
+mkdir "%directory%\roms\windows\RPCS3.pc\dev_hdd1"
+mkdir "%directory%\roms\windows\RPCS3.pc\dev_hdd0\disc"
+mkdir "%directory%\roms\windows\RPCS3.pc\dev_hdd0\game"
 
-REM === Move files/folders out of PS3 emu source ====
-move /Y "%~dp0roms\windows\RPCS3.pc\dev_bdvd" "%directory%\roms\windows\RPCS3.pc"
-move /Y "%~dp0roms\windows\RPCS3.pc\dev_flash" "%directory%\roms\windows\RPCS3.pc"
-move /Y "%~dp0roms\windows\RPCS3.pc\dev_flash2" "%directory%\roms\windows\RPCS3.pc"
-move /Y "%~dp0roms\windows\RPCS3.pc\dev_flash3" "%directory%\roms\windows\RPCS3.pc"
-move /Y "%~dp0roms\windows\RPCS3.pc\dev_hdd0" "%directory%\roms\windows\RPCS3.pc"
-move /Y "%~dp0roms\windows\RPCS3.pc\dev_hdd1" "%directory%\roms\windows\RPCS3.pc"
-move /Y "%~dp0roms\windows\RPCS3.pc\dev_usb000" "%directory%\roms\windows\RPCS3.pc"
+REM === Move PS3 Roms out of source ====
+move /Y "%~dp0roms\windows\RPCS3.pc\dev_hdd0\disc\Time Crisis Razing Storm BLUS30528" "%directory%\roms\windows\RPCS3.pc\dev_hdd0\disc"
+move /Y "%~dp0roms\windows\RPCS3.pc\dev_hdd0\game\BLUS30528_DSP" "%directory%\roms\windows\RPCS3.pc\dev_hdd0\game"
+move /Y "%~dp0roms\windows\RPCS3.pc\dev_hdd0\game\BLUS30528" "%directory%\roms\windows\RPCS3.pc\dev_hdd0\game"
+move /Y "%~dp0roms\windows\RPCS3.pc\dev_hdd0\game\BLUS30093" "%directory%\roms\windows\RPCS3.pc\dev_hdd0\game"
+REM - BLUS30528 = Time Crisis Razing Storm
+REM - BLUS30093 = Time Crisis 4
+
+REM === Move other files/folders out of PS3 emu source ====
 move /Y "%~dp0roms\windows\RPCS3.pc\savestates" "%directory%\roms\windows\RPCS3.pc"
 move /Y "%~dp0roms\windows\RPCS3.pc\cache" "%directory%\roms\windows\RPCS3.pc"
+move /Y "%~dp0roms\windows\RPCS3.pc\dev_hdd1\caches" "%directory%\roms\windows\RPCS3.pc\dev_hdd1"
+move /Y "%~dp0roms\windows\RPCS3.pc\dev_flash" "%directory%\roms\windows\RPCS3.pc"
 
 REM === Remove .git folder from RPCS3.pc ===
 rmdir /S /Q "%~dp0roms\windows\RPCS3.pc\git"
 REM - there is also a dir "rpcs3_old", presume this is not required - TBC
+REM - there is also a dir "dev_hdd1\caches", this contains cache files for Tekken by the look of it, probably not required - TBC
+REM - there is also a cache folder at the root of the RPCS3.pc dir - not sure what is required from here - TBC
+REM - there is also a savestates folder at the root of the RPCS3.pc dir - not sure what is required from here - TBC
+
 
 REM === Create Roms\xbox dir in destination ===
 mkdir "%directory%\roms\xbox"
