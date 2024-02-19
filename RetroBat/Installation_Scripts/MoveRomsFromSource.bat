@@ -22,14 +22,21 @@ move /Y "%~dp0bios" "%directory%"
 REM === Create Roms\dos dir in destination ===
 mkdir "%directory%\roms\dos"
 
-REM === Move Dos Roms out of source ====
+REM === Move dos Roms out of source ====
 move /Y "%~dp0roms\dos\Duke Nukem 3D (Shareware).dosz" "%directory%\roms\dos"
+
+REM === Move dos images out of source ====
+move /Y "%~dp0roms\dos\images" "%directory%\roms\dos"
 
 REM === Create Roms\dreamcast dir in destination ===
 mkdir "%directory%\roms\dreamcast"
 
 REM === Move Dreamcast Roms out of source ====
 move /Y "%~dp0roms\dreamcast\Virtua Cop 2 v1.011 (2000)(Sega)(NTSC)(JP)(en)[!].chd" "%directory%\roms\dreamcast"
+
+REM === Move dreamcast videos/images out of source ====
+move /Y "%~dp0roms\dreamcast\images" "%directory%\roms\dreamcast"
+move /Y "%~dp0roms\dreamcast\videos" "%directory%\roms\dreamcast"
 
 REM === Create Roms\mame dir in destination ===
 mkdir "%directory%\roms\mame"
@@ -120,9 +127,17 @@ move /Y "%~dp0roms\mame\spectrum" "%directory%\roms\mame"
 move /Y "%~dp0roms\mame\stic" "%directory%\roms\mame"
 move /Y "%~dp0roms\mame\tg16" "%directory%\roms\mame"
 
+REM === Move mame videos/images out of source ====
+move /Y "%~dp0roms\mame\images" "%directory%\roms\mame"
+move /Y "%~dp0roms\mame\videos" "%directory%\roms\mame"
+
 REM === Create Roms\megadrive dir in destination ===
 mkdir "%directory%\roms\megadrive"
 move /Y "%~dp0roms\megadrive\Menacer 6-Game Cartridge (USA, Europe).zip" "%directory%\roms\megadrive"
+
+REM === Move megadrive videos/images out of source ====
+move /Y "%~dp0roms\megadrive\images" "%directory%\roms\megadrive"
+move /Y "%~dp0roms\megadrive\videos" "%directory%\roms\megadrive"
 
 REM === Create Roms\model3 dir in destination ===
 mkdir "%directory%\roms\model3"
@@ -133,6 +148,11 @@ move /Y "%~dp0roms\model3\lostwsga.zip" "%directory%\roms\model3"
 move /Y "%~dp0roms\model3\oceanhun.zip" "%directory%\roms\model3"
 move /Y "%~dp0roms\model3\swtrilgy.zip" "%directory%\roms\model3"
 
+REM === Move model3 videos/images out of source ====
+move /Y "%~dp0roms\model3\images" "%directory%\roms\model3"
+move /Y "%~dp0roms\model3\manuals" "%directory%\roms\model3"
+move /Y "%~dp0roms\model3\videos" "%directory%\roms\model3"
+
 REM === Create Roms\naomi dirs in destination ===
 mkdir "%directory%\roms\naomi"
 
@@ -141,6 +161,10 @@ move /Y "%~dp0roms\naomi\confmiss" "%directory%\roms\naomi"
 move /Y "%~dp0roms\naomi\lupinsho" "%directory%\roms\naomi"
 move /Y "%~dp0roms\naomi\mok" "%directory%\roms\naomi"
 REM === NOTE:: There are more videos in here than roms, correct? TBC.
+
+REM === Move naomi videos/images out of source ====
+move /Y "%~dp0roms\naomi\images" "%directory%\roms\naomi"
+move /Y "%~dp0roms\naomi\videos" "%directory%\roms\naomi"
 
 REM === Create Roms\nes dir in destination ===
 mkdir "%directory%\roms\nes"
@@ -155,6 +179,11 @@ move /Y "%~dp0roms\nes\Mechanized Attack (USA).zip" "%directory%\roms\nes"
 move /Y "%~dp0roms\nes\To the Earth (USA).zip" "%directory%\roms\nes"
 move /Y "%~dp0roms\nes\Wild Gunman (World).zip" "%directory%\roms\nes"
 
+REM === Move nes videos/images out of source ====
+move /Y "%~dp0roms\nes\images" "%directory%\roms\nes"
+move /Y "%~dp0roms\nes\manuals" "%directory%\roms\nes"
+move /Y "%~dp0roms\nes\videos" "%directory%\roms\nes"
+
 REM === Create Roms\ps2 dir in destination ===
 mkdir "%directory%\roms\ps2"
 
@@ -162,6 +191,10 @@ REM === Move PS2 Roms out of source ====
 move /Y "%~dp0roms\ps2\Vampire Night (USA).gz" "%directory%\roms\ps2"
 REM TODO What is the 8MB Vampire Night (USA).gz.pindex.tmp file in this folder? do we need it? - TBC
 REM TODO - There are other PS2 games missing from this roms folder where are they and why?
+
+REM === Move ps2 videos/images out of source ====
+move /Y "%~dp0roms\ps2\images" "%directory%\roms\ps2"
+move /Y "%~dp0roms\ps2\videos" "%directory%\roms\ps2"
 
 REM === Create Roms\psx dir in destination ===
 mkdir "%directory%\roms\psx"
@@ -194,6 +227,11 @@ move /Y "%~dp0roms\psx\Judge Dredd (USA).chd" "%directory%\roms\psx"
 move /Y "%~dp0roms\psx\Point Blank 3 [SLUS-01354].bin" "%directory%\roms\psx"
 move /Y "%~dp0roms\psx\Point Blank 3 [SLUS-01354].cue" "%directory%\roms\psx"
 
+REM === Move psx videos/images out of source ====
+move /Y "%~dp0roms\psx\images" "%directory%\roms\psx"
+move /Y "%~dp0roms\psx\manuals" "%directory%\roms\psx"
+move /Y "%~dp0roms\psx\videos" "%directory%\roms\psx"
+
 REM === Create Roms\snes dir in destination ===
 mkdir "%directory%\roms\snes"
 
@@ -202,6 +240,10 @@ move /Y "%~dp0roms\snes\Battle Clash (USA).zip" "%directory%\roms\snes"
 move /Y "%~dp0roms\snes\Bazooka Blitzkrieg (USA).zip" "%directory%\roms\snes"
 move /Y "%~dp0roms\snes\Super Scope 6 (USA).zip" "%directory%\roms\snes"
 move /Y "%~dp0roms\snes\X Zone (Japan, USA).zip" "%directory%\roms\snes"
+
+REM === Move snes videos/images out of source ====
+move /Y "%~dp0roms\snes\images" "%directory%\roms\snes"
+move /Y "%~dp0roms\snes\videos" "%directory%\roms\snes"
 
 REM === Create Roms\teknoparrot dir in destination ===
 mkdir "%directory%\roms\teknoparrot"
@@ -216,6 +258,11 @@ move /Y "%~dp0roms\teknoparrot\Operation G.H.O.S.T..teknoparrot" "%directory%\ro
 move /Y "%~dp0roms\teknoparrot\Sega Golden Gun.teknoparrot" "%directory%\roms\teknoparrot"
 move /Y "%~dp0roms\teknoparrot\Star Trek Voyager.teknoparrot" "%directory%\roms\teknoparrot"
 move /Y "%~dp0roms\teknoparrot\Transformers Human Alliance.teknoparrot" "%directory%\roms\teknoparrot"
+
+REM === Move teknoparrot videos/images out of source ====
+move /Y "%~dp0roms\teknoparrot\box" "%directory%\roms\teknoparrot"
+move /Y "%~dp0roms\teknoparrot\images" "%directory%\roms\teknoparrot"
+move /Y "%~dp0roms\teknoparrot\videos" "%directory%\roms\teknoparrot"
 
 REM === Create Roms\wii dir in destination ===
 mkdir "%directory%\roms\wii"
@@ -257,6 +304,10 @@ move /Y "%~dp0roms\wii\Target Terror.wbfs" "%directory%\roms\wii"
 move /Y "%~dp0roms\wii\Top Shot Arcade.wbfs" "%directory%\roms\wii"
 move /Y "%~dp0roms\wii\Top Shot Dinosaur Hunter (USA).wbfs" "%directory%\roms\wii"
 
+REM === Move wii videos/images out of source ====
+move /Y "%~dp0roms\wii\images" "%directory%\roms\wii"
+move /Y "%~dp0roms\wii\videos" "%directory%\roms\wii"
+
 REM === Create Roms\windows dir in destination ===
 mkdir "%directory%\roms\windows"
 mkdir "%directory%\roms\windows\RPCS3.pc"
@@ -296,6 +347,12 @@ move /Y "%~dp0roms\windows\THE HOUSE OF THE DEAD Remake.pc" "%directory%\roms\wi
 move /Y "%~dp0roms\windows\Time Crisis 5.pc" "%directory%\roms\windows"
 move /Y "%~dp0roms\windows\Tomb RaiderLC.pc" "%directory%\roms\windows"
 move /Y "%~dp0roms\windows\Wild West Shoot Out.pc" "%directory%\roms\windows"
+
+REM === Move Windows videos/images/manuals out of source ====
+move /Y "%~dp0roms\windows\box" "%directory%\roms\windows"
+move /Y "%~dp0roms\windows\images" "%directory%\roms\windows"
+move /Y "%~dp0roms\windows\manuals" "%directory%\roms\windows"
+move /Y "%~dp0roms\windows\videos" "%directory%\roms\windows"
 
 REM === Create PCSX2 directories in destination ===
 mkdir "%directory%\roms\windows\PCSX2 1.6.0.pc"
