@@ -245,14 +245,6 @@ REM === Move snes videos/images out of source ====
 move /Y "%~dp0roms\snes\images" "%directory%\roms\snes"
 move /Y "%~dp0roms\snes\videos" "%directory%\roms\snes"
 
-REM === Create emulators\supermodel dir in destination ===
-mkdir "%directory%\emulators\supermodel"
-
-REM === Move supermodel Roms/saves/etc out of source ====
-REM - NOTE: These roms are duplicated in roms\model3 why? - TBC
-move /Y "%~dp0emulators\supermodel\ROMS" "%directory%\emulators\supermodel"
-move /Y "%~dp0emulators\supermodel\Saves" "%directory%\emulators\supermodel"
-
 REM === Create Roms\teknoparrot dir in destination ===
 mkdir "%directory%\roms\teknoparrot"
 
@@ -408,13 +400,33 @@ REM - there is also a dir "dev_hdd1\caches", this contains cache files for Tekke
 REM - there is also a cache folder at the root of the RPCS3.pc dir - not sure what is required from here - TBC
 REM - there is also a savestates folder at the root of the RPCS3.pc dir - not sure what is required from here - TBC
 
-
 REM === Create Roms\xbox dir in destination ===
 mkdir "%directory%\roms\xbox"
 
 REM === Move xbox Roms out of source ====
 move /Y "%~dp0roms\xbox\Area 51 (USA).xiso.iso" "%directory%\roms\xbox"
 
+REM === Create emulators\retroarch dir in destination ===
+mkdir "%directory%\emulators\retroarch"
+
+REM === Move emulators\retroarch\system out of source ====
+move /Y "%~dp0emulators\retroarch\system" "%directory%\emulators\retroarch"
+
+REM === Create emulators\pcsx2 dir in destination ===
+mkdir "%directory%\emulators\pcsx2"
+
+REM === Move emulators\pcsx2\sstates & memcards out of source ====
+move /Y "%~dp0emulators\pcsx2\sstates" "%directory%\emulators\pcsx2"
+move /Y "%~dp0emulators\pcsx2\memcards" "%directory%\emulators\pcsx2"
+
+REM === Create emulators\duckstation dir in destination ===
+mkdir "%directory%\emulators\duckstation"
+
+REM === Move emulators\duckstation\savestates out of source ====
+move /Y "%~dp0emulators\duckstation\savestates" "%directory%\emulators\duckstation"
+
+REM === Remove .git folder from emulators\rpcs3 ===
+rmdir /S /Q "%~dp0emulators\rpcs3\git"
 
 pause
 
