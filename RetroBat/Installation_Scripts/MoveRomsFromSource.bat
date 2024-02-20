@@ -245,6 +245,14 @@ REM === Move snes videos/images out of source ====
 move /Y "%~dp0roms\snes\images" "%directory%\roms\snes"
 move /Y "%~dp0roms\snes\videos" "%directory%\roms\snes"
 
+REM === Create emulators\supermodel dir in destination ===
+mkdir "%directory%\emulators\supermodel"
+
+REM === Move supermodel Roms/saves/etc out of source ====
+REM - NOTE: These roms are duplicated in roms\model3 why? - TBC
+move /Y "%~dp0emulators\supermodel\ROMS" "%directory%\emulators\supermodel"
+move /Y "%~dp0emulators\supermodel\Saves" "%directory%\emulators\supermodel"
+
 REM === Create Roms\teknoparrot dir in destination ===
 mkdir "%directory%\roms\teknoparrot"
 
