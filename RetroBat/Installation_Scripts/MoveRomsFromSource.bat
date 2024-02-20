@@ -1,9 +1,14 @@
 @echo off
 REM ====================================
 REM Author:  Wayne Robinson
+REM
 REM Date: 	 17th Feb 24
+REM
 REM Purpose: To move all roms, bios / any copyrighted works out of the source to a seperate folder before uploading to github.
-REM Usage:   Place in the root of the source at the same level as retrobat.exe.
+REM
+REM Usage:   Place in the root of the source at the same level as retrobat.exe, 
+REM			 execute and provide the path of a directory (without spaces) for content to be moved to when prompted
+REM
 REM Version: 0.1
 REM ====================================
 
