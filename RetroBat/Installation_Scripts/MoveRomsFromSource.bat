@@ -194,8 +194,8 @@ mkdir "%directory%\roms\ps2"
 
 REM === Move PS2 Roms out of source ====
 move /Y "%~dp0roms\ps2\Vampire Night (USA).gz" "%directory%\roms\ps2"
+move /Y "%~dp0roms\ps2\Vampire Night (USA).gz.pindex.tmp" "%directory%\roms\ps2"
 REM TODO What is the 8MB Vampire Night (USA).gz.pindex.tmp file in this folder? do we need it? - TBC
-REM TODO - There are other PS2 games missing from this roms folder where are they and why?
 
 REM === Move ps2 videos/images out of source ====
 move /Y "%~dp0roms\ps2\images" "%directory%\roms\ps2"
@@ -321,8 +321,7 @@ REM === Move wii videos/images out of source ====
 move /Y "%~dp0roms\wii\images" "%directory%\roms\wii"
 move /Y "%~dp0roms\wii\videos" "%directory%\roms\wii"
 
-REM === Create Roms\windows dir in destination ===
-mkdir "%directory%\roms\windows"
+REM === Create roms\windows dirs in destination ===
 mkdir "%directory%\roms\windows\RPCS3.pc"
 mkdir "%directory%\roms\windows\PCSX2 1.6.0.pc"
 
@@ -367,8 +366,7 @@ move /Y "%~dp0roms\windows\images" "%directory%\roms\windows"
 move /Y "%~dp0roms\windows\manuals" "%directory%\roms\windows"
 move /Y "%~dp0roms\windows\videos" "%directory%\roms\windows"
 
-REM === Create PCSX2 directories in destination ===
-mkdir "%directory%\roms\windows\PCSX2 1.6.0.pc"
+REM === Create PCSX2 dirs in destination ===
 mkdir "%directory%\roms\windows\PCSX2 1.6.0.pc\roms"
 
 REM === Move PS2 Roms out of source ====
@@ -384,13 +382,17 @@ move /Y "%~dp0roms\windows\PCSX2 1.6.0.pc\bios" "%directory%\roms\windows\PCSX2 
 
 REM === Move other files/folders out of PS2 emu source ====
 move /Y "%~dp0roms\windows\PCSX2 1.6.0.pc\sstates" "%directory%\roms\windows\PCSX2 1.6.0.pc"
+move /Y "%~dp0roms\windows\PCSX2 1.6.0.pc\memcards" "%directory%\roms\windows\PCSX2 1.6.0.pc"
+move /Y "%~dp0roms\windows\PCSX2 1.6.0.pc\cheats_ws.zip" "%directory%\roms\windows\PCSX2 1.6.0.pc"
+move /Y "%~dp0roms\windows\PCSX2 1.6.0.pc\roms\Time Crisis 3.gz.pindex.tmp" "%directory%\roms\windows\PCSX2 1.6.0.pc\roms"
+move /Y "%~dp0roms\windows\PCSX2 1.6.0.pc\roms\Time Crisis 2.gz.pindex.tmp" "%directory%\roms\windows\PCSX2 1.6.0.pc\roms"
 
-REM === Create RPCS3 dir in destination ===
+REM === Create RPCS3 dirs in destination ===
 mkdir "%directory%\roms\windows\RPCS3.pc"
-mkdir "%directory%\roms\windows\RPCS3.pc\dev_hdd0"
 mkdir "%directory%\roms\windows\RPCS3.pc\dev_hdd1"
 mkdir "%directory%\roms\windows\RPCS3.pc\dev_hdd0\disc"
 mkdir "%directory%\roms\windows\RPCS3.pc\dev_hdd0\game"
+mkdir "%directory%\roms\windows\RPCS3.pc\dev_hdd0\home\00000001"
 
 REM === Move PS3 Roms out of source ====
 move /Y "%~dp0roms\windows\RPCS3.pc\dev_hdd0\disc\Time Crisis Razing Storm BLUS30528" "%directory%\roms\windows\RPCS3.pc\dev_hdd0\disc"
@@ -405,13 +407,13 @@ move /Y "%~dp0roms\windows\RPCS3.pc\savestates" "%directory%\roms\windows\RPCS3.
 move /Y "%~dp0roms\windows\RPCS3.pc\cache" "%directory%\roms\windows\RPCS3.pc"
 move /Y "%~dp0roms\windows\RPCS3.pc\dev_hdd1\caches" "%directory%\roms\windows\RPCS3.pc\dev_hdd1"
 move /Y "%~dp0roms\windows\RPCS3.pc\dev_flash" "%directory%\roms\windows\RPCS3.pc"
+move /Y "%~dp0roms\windows\RPCS3.pc\rpcs3_old" "%directory%\roms\windows\RPCS3.pc"
+move /Y "%~dp0roms\windows\RPCS3.pc\RPCS3.log.gz" "%directory%\roms\windows\RPCS3.pc"
+move /Y "%~dp0roms\windows\RPCS3.pc\dev_hdd0\home\00000001\savedata" "%directory%\roms\windows\RPCS3.pc\dev_hdd0\home\00000001"
+move /Y "%~dp0roms\windows\RPCS3.pc\dev_hdd0\home\00000001\trophy" "%directory%\roms\windows\RPCS3.pc\dev_hdd0\home\00000001"
 
 REM === Remove .git folder from RPCS3.pc ===
 rmdir /S /Q "%~dp0roms\windows\RPCS3.pc\git"
-REM - there is also a dir "rpcs3_old", presume this is not required - TBC
-REM - there is also a dir "dev_hdd1\caches", this contains cache files for Tekken by the look of it, probably not required - TBC
-REM - there is also a cache folder at the root of the RPCS3.pc dir - not sure what is required from here - TBC
-REM - there is also a savestates folder at the root of the RPCS3.pc dir - not sure what is required from here - TBC
 
 REM === Create Roms\xbox dir in destination ===
 mkdir "%directory%\roms\xbox"
@@ -419,11 +421,14 @@ mkdir "%directory%\roms\xbox"
 REM === Move xbox Roms out of source ====
 move /Y "%~dp0roms\xbox\Area 51 (USA).xiso.iso" "%directory%\roms\xbox"
 
-REM === Create emulators\retroarch dir in destination ===
-mkdir "%directory%\emulators\retroarch"
+REM === Create retroarch dirs in destination ===
+mkdir "%directory%\emulators\retroarch\cores"
 
 REM === Move emulators\retroarch\system out of source ====
 move /Y "%~dp0emulators\retroarch\system" "%directory%\emulators\retroarch"
+
+REM === Move libretro_cores.7z from retroarch\cores out of source (presume not required and can be deleted) ====
+move /Y "%~dp0emulators\retroarch\cores\libretro_cores.7z" "%directory%\emulators\retroarch\cores"
 
 REM === Create emulators\pcsx2 dir in destination ===
 mkdir "%directory%\emulators\pcsx2"
@@ -440,6 +445,37 @@ move /Y "%~dp0emulators\duckstation\savestates" "%directory%\emulators\duckstati
 
 REM === Remove .git folder from emulators\rpcs3 ===
 rmdir /S /Q "%~dp0emulators\rpcs3\git"
+
+REM === Create teknoparrot dir in destination ===
+mkdir "%directory%\emulators\teknoparrot"
+
+REM === Move various files from teknoparrot out of source (presume these are not required and can be deleted) ====
+move /Y "%~dp0emulators\teknoparrot\FFB.Arcade.Plugin.v2.0.0.4.zip" "%directory%\emulators\teknoparrot"
+move /Y "%~dp0emulators\teknoparrot\FFB.Arcade.Plugin.v2.0.0.4.7z" "%directory%\emulators\teknoparrot"
+move /Y "%~dp0emulators\teknoparrot\SegaTools - Copie" "%directory%\emulators\teknoparrot"
+
+REM === Create misc dirs in destination ===
+mkdir "%directory%\emulationstation\.emulationstation\themes"
+mkdir "%directory%\roms\zxspectrum"
+
+REM === Move Misc files out of source ====
+move /Y "%~dp0emulationstation\.emulationstation\music" "%directory%\emulationstation\.emulationstation"
+move /Y "%~dp0emulationstation\.emulationstation\video" "%directory%\emulationstation\.emulationstation"
+@echo on
+pause
+REM - TODO Takeown on this dir see if it resolves it, if it does then do on entire structure before moving anything
+move /Y "%~dp0emulationstation\.emulationstation\themes\LightgunMaxDLWangv8" "%directory%\emulationstation\.emulationstation\themes"
+pause
+move /Y "%~dp0saves" "%directory%"
+pause
+
+move /Y "%~dp0roms\zxspectrum\images" "%directory%\roms\zxspectrum"
+
+REM "V:\RetrobatOriginalLightgun2\RetroBat\roms\windows\RPCS3.pc\dev_hdd0\home\00000001\exdata\EP0700-NPEB00409_00-DEADSTORMPIRATES.rap"
+
+REM 2 versions of teknoparrot in here, one in root one in \teknoparrot....
+REM "V:\RetrobatOriginalLightgun2\RetroBat\emulators\teknoparrot"
+REM "V:\RetrobatOriginalLightgun2\RetroBat\emulators\teknoparrot\TeknoParrotUi - Copie.exe"
 
 pause
 
