@@ -16,7 +16,6 @@ REM === Ask user for destination dir ===
 @echo on
 set /p directory="Enter dir path to copy files to: "
 echo %directory%
-@echo off
 
 REM === Create destination dir if not exist ===
 mkdir "%directory%"
@@ -392,7 +391,7 @@ mkdir "%directory%\roms\windows\RPCS3.pc"
 mkdir "%directory%\roms\windows\RPCS3.pc\dev_hdd1"
 mkdir "%directory%\roms\windows\RPCS3.pc\dev_hdd0\disc"
 mkdir "%directory%\roms\windows\RPCS3.pc\dev_hdd0\game"
-mkdir "%directory%\roms\windows\RPCS3.pc\dev_hdd0\home\00000001"
+mkdir "%directory%\roms\windows\RPCS3.pc\dev_hdd0\home\00000001\exdata"
 
 REM === Move PS3 Roms out of source ====
 move /Y "%~dp0roms\windows\RPCS3.pc\dev_hdd0\disc\Time Crisis Razing Storm BLUS30528" "%directory%\roms\windows\RPCS3.pc\dev_hdd0\disc"
@@ -411,6 +410,7 @@ move /Y "%~dp0roms\windows\RPCS3.pc\rpcs3_old" "%directory%\roms\windows\RPCS3.p
 move /Y "%~dp0roms\windows\RPCS3.pc\RPCS3.log.gz" "%directory%\roms\windows\RPCS3.pc"
 move /Y "%~dp0roms\windows\RPCS3.pc\dev_hdd0\home\00000001\savedata" "%directory%\roms\windows\RPCS3.pc\dev_hdd0\home\00000001"
 move /Y "%~dp0roms\windows\RPCS3.pc\dev_hdd0\home\00000001\trophy" "%directory%\roms\windows\RPCS3.pc\dev_hdd0\home\00000001"
+move /Y "%~dp0roms\windows\RPCS3.pc\dev_hdd0\home\00000001\exdata" "%directory%\roms\windows\RPCS3.pc\dev_hdd0\home\00000001\exdata"
 
 REM === Remove .git folder from RPCS3.pc ===
 rmdir /S /Q "%~dp0roms\windows\RPCS3.pc\git"
@@ -455,28 +455,34 @@ move /Y "%~dp0emulators\teknoparrot\FFB.Arcade.Plugin.v2.0.0.4.7z" "%directory%\
 move /Y "%~dp0emulators\teknoparrot\SegaTools - Copie" "%directory%\emulators\teknoparrot"
 
 REM === Create misc dirs in destination ===
-mkdir "%directory%\emulationstation\.emulationstation\themes"
+mkdir "%directory%\emulationstation\.emulationstation\themes\LightgunMaxDLWangv8"
+mkdir "%directory%\emulationstation\.emulationstation\music"
+mkdir "%directory%\emulationstation\.emulationstation\video"
 mkdir "%directory%\roms\zxspectrum"
 
 REM === Move Misc files out of source ====
-move /Y "%~dp0emulationstation\.emulationstation\music" "%directory%\emulationstation\.emulationstation"
-move /Y "%~dp0emulationstation\.emulationstation\video" "%directory%\emulationstation\.emulationstation"
-@echo on
-pause
-REM - TODO Takeown on this dir see if it resolves it, if it does then do on entire structure before moving anything
-move /Y "%~dp0emulationstation\.emulationstation\themes\LightgunMaxDLWangv8" "%directory%\emulationstation\.emulationstation\themes"
-pause
-move /Y "%~dp0saves" "%directory%"
-pause
+robocopy "%~dp0emulationstation\.emulationstation\music" "%directory%\emulationstation\.emulationstation\music" /MOVE /E
+robocopy "%~dp0emulationstation\.emulationstation\video" "%directory%\emulationstation\.emulationstation\video" /MOVE /E
+robocopy "%~dp0emulationstation\.emulationstation\themes" "%directory%\emulationstation\.emulationstation\themes" /MOVE /E
+
+REM === Create saves in destination ===
+mkdir "%directory%\saves"
+
+REM === Move saves dirs out of source ====
+move /Y "%~dp0saves\mame" "%directory%\saves"
+move /Y "%~dp0saves\megadrive" "%directory%\saves"
+move /Y "%~dp0saves\naomi" "%directory%\saves"
+move /Y "%~dp0saves\ps2" "%directory%\saves"
+move /Y "%~dp0saves\psx" "%directory%\saves"
+move /Y "%~dp0saves\saturn" "%directory%\saves"
+move /Y "%~dp0saves\wii" "%directory%\saves"
+move /Y "%~dp0saves\xbox" "%directory%\saves"
 
 move /Y "%~dp0roms\zxspectrum\images" "%directory%\roms\zxspectrum"
 
-REM "V:\RetrobatOriginalLightgun2\RetroBat\roms\windows\RPCS3.pc\dev_hdd0\home\00000001\exdata\EP0700-NPEB00409_00-DEADSTORMPIRATES.rap"
-
-REM 2 versions of teknoparrot in here, one in root one in \teknoparrot....
-REM "V:\RetrobatOriginalLightgun2\RetroBat\emulators\teknoparrot"
-REM "V:\RetrobatOriginalLightgun2\RetroBat\emulators\teknoparrot\TeknoParrotUi - Copie.exe"
-
+REM ==========================
+REM =======MOVE COMPLETE======
+REM ==========================
 pause
 
 
