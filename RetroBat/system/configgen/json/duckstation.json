@@ -1,0 +1,18 @@
+{
+   "settings.ini_configmode_1":[
+      {
+         "ConfirmPowerOff":"false",
+         "ApplyGameSettings":"true",
+		 "EnableDiscordPresence":"false",
+         "RenderToMainWindow":"true",
+         "StartFullscreen":"true",
+		 "Renderer":"Vulkan",
+		 "ResolutionScale":"5",
+		 "TrueColor":"false",
+		 "ScaledDithering":"true",
+		 "DisableInterlacing":"true",
+		 "VSync":"true",
+		 "SearchDirectory":"./../../bios"
+      }
+   ]
+}

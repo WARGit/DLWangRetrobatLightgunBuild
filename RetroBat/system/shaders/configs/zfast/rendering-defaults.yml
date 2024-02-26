@@ -1,0 +1,32 @@
+## ZFAST
+default:
+  shader: crt/zfast-crt
+# Reshader  
+model2:
+  shader: EasymodeCRT@CRTEasymode.fx
+model3:
+  shader: EasymodeCRT@CRTEasymode.fx
+# Retroarch
+gba:
+  shader: handheld/zfast-lcd
+gb:
+  shader: handheld/zfast-lcd
+gbc:
+  shader: handheld/zfast-lcd
+3ds:
+  shader: handheld/zfast-lcd
+nds:
+  shader: handheld/zfast-lcd
+gamegear:
+  shader: handheld/zfast-lcd
+ngp:
+  shader: handheld/zfast-lcd
+ngpc:
+  shader: handheld/zfast-lcd
+lynx:
+  shader: handheld/zfast-lcd
+wswan:
+  shader: handheld/zfast-lcd
+wswanc:
+  shader: handheld/zfast-lcd
+  
