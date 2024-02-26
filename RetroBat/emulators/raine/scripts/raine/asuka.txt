@@ -1,0 +1,44 @@
+script "Infinite Credits"  
+run:
+    poke $103613 $09
+script "Kill Boss with One Hit Now!"  
+on:
+    poke $102694 $01
+script " "  
+script "P1 Infinite Lives"  
+run:
+    poke $1033D9 $03
+script "P1 Infinite Bombs"  
+run:
+    poke $103417 $05
+script "P1 Always Maximum Fire Power"  
+run:
+    poke $1033EB $05
+script "P1 Invincibility"  
+run:
+    poke $1034C7 $02
+script "P1 Select Weapon" \
+ "0x01/Missiles"\
+ "0x02/Laser"\
+ "0x03/Beam" 
+run:
+    poke $103561 param
+script " "  
+script "P2 Infinite Lives"  
+run:
+    poke $1033DB $03
+script "P2 Infinite Bombs"  
+run:
+    poke $103419 $05
+script "P2 Always Maximum Fire Power"  
+run:
+    poke $1033ED $05
+script "P2 Invincibility"  
+run:
+    poke $1034C9 $02
+script "P2 Select Weapon" \
+ "0x01/Missiles"\
+ "0x02/Laser"\
+ "0x03/Beam" 
+run:
+    poke $103563 param

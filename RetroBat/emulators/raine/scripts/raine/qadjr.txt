@@ -1,0 +1,28 @@
+script " "  
+script "Watch out for these values 10=1, 20=2, 40=3, 80=4"  
+script " "  
+script "Watch me for good answer"  
+run:
+    print_ingame 1 "%02X" \
+ peek($FFB698)
+script "Good answer ends quiz Now!"  
+on:
+    poke $FF8C0D $01
+script "Select Perm. Steps" \
+ "0x01/1 step"\
+ "0x02/2 steps"\
+ "0x03/3 steps"\
+ "0x04/4 steps"\
+ "0x05/5 steps"\
+ "0x06/6 steps"\
+ "0x32/50 steps" 
+run:
+    poke $FF8CCE param
+script " "  
+script "P1 Infinite Lives"  
+run:
+    poke $FF81A7 $05
+script "P2 Infinite Lives"  
+run:
+    poke $FF82A7 $05
+script " "  

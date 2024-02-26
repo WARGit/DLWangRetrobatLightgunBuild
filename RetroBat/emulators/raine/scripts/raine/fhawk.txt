@@ -1,0 +1,25 @@
+script "Infinite Bombs"  
+run:
+    poke $9012 $09
+script "Maximum Fire Power"  
+run:
+    poke $9010 $07
+script "Invincibility"  
+run:
+    poke $9013 $00
+script "Select Starting Level" \
+ inter=1,5,1 
+run:
+    if (peek($9001)==$01)
+      poke $9001 (param)
+    endif
+script "Rapid Fire"  
+run:
+    poke $900C $00
+script " "  
+script "P1 Infinite Lives"  
+run:
+    poke $A249 $0A
+script "P2 Infinite Lives"  
+run:
+    poke $A24D $0A

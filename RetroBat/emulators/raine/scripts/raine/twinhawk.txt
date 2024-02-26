@@ -1,0 +1,31 @@
+script "Infinite Credits"  
+run:
+    poke $F000F3 $09
+script "Invincibility" \
+ "comm:Works for all Planes even the Helpers"  
+on:
+    temp0=peek($00B0E0)
+run:
+    poke $00B0E0 $60
+off:
+    poke $00B0E0 temp0
+script " "  
+script "P1 Infinite Lives"  
+run:
+    poke $F01661 $B
+script "P1 Infinite Bombs"  
+run:
+    poke $F01663 $0A
+script "P1 Maximum Fire Power"  
+run:
+    poke $F016C7 $03
+script " "  
+script "P2 Infinite Lives"  
+run:
+    poke $F01691 $B
+script "P2 Infinite Bombs"  
+run:
+    poke $F01693 $0A
+script "P2 Maximum Fire Power"  
+run:
+    poke $F01887 $03

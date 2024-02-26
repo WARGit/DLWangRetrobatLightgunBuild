@@ -1,0 +1,54 @@
+script "Infinite Credits"  
+run:
+    poke $FF49A3 $09
+script "Infinite Select Time"  
+run:
+    dpoke $FF48F4 $006A
+script "Always Maximum Charge" \
+ "comm:Display decrements slightly but cosmetic only"  
+on:
+    temp0=dpeek($11EBA0)
+    temp1=lpeek($11EBA2)
+    temp2=peek($11EBA6)
+run:
+    dpoke $11EBA0 $4E71
+    lpoke $11EBA2 $4E714E71
+    poke $11EBA6 $60
+off:
+    dpoke $11EBA0 temp0
+    lpoke $11EBA2 temp1
+    poke $11EBA6 temp2
+script " "  
+script "P1 Infinite Lives (Turn ON in Game ONLY!)" \
+ "comm:Do not have this enabled before you start playing!"  
+run:
+    poke $FF49A9 $09
+script "P1 Infinite Energy"  
+run:
+    poke ((lpeek($FF49BC))+$7E) $40
+script "P1 Invincibility"  
+run:
+    dpoke ((lpeek($FF49BC))+$72) $0002
+script "P1 Maximum Fire Power"  
+run:
+    poke $FF49B5 $07
+script " "  
+script "P2 Infinite Lives (Turn ON in Game ONLY!)" \
+ "comm:Do not have this enabled before you start playing!"  
+run:
+    poke $FF49CF $09
+script "P2 Infinite Energy"  
+run:
+    poke ((lpeek($FF49E2))+$7E) $40
+script "P2 Invincibility"  
+run:
+    dpoke ((lpeek($FF49E2))+$72) $0002
+script "P2 Maximum Fire Power"  
+run:
+    poke $FF49DB $07
+script " "  
+script "No Background Music"  
+run:
+    cpu audio
+    dpoke $F020 $0000
+    cpu main

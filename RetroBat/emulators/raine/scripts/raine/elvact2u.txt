@@ -1,0 +1,75 @@
+script "Infinite Credits"  
+run:
+    dpoke $400090 $0009
+script "Infinite Time (Final Level)"  
+run:
+    poke $409C5B $AA
+script "Invincibility" \
+ "comm:You can still die from falling or by being crashed by elevators, so use with the Infinite Lives cheat."  
+on:
+    temp0=dpeek($0BED74)
+    temp1=dpeek($0BED88)
+run:
+    dpoke $0BED74 $6002
+    dpoke $0BED88 $0000
+off:
+    dpoke $0BED74 temp0
+    dpoke $0BED88 temp1
+script " "  
+script "P1 Infinite Lives"  
+run:
+    dpoke $40780E $0009
+script "P1 Infinite Energy" \
+ "comm:Select Infinite Male Energy for Male Characters or Infinite Female Energy for Female Characters" \
+ "0x00030000/Infinite Male Energy"\
+ "0x00028000/Infinite Female Energy" 
+run:
+    lpoke $407810 param
+script "P1 Infinite Bombs"  
+run:
+    dpoke $4078C4 $0063
+script "P1 Infinite Ammo" \
+ "comm:Used when you have the 'M' or 'L' weapons"  
+run:
+    dpoke $407872 $03E7
+script "P1 Select Weapon" \
+ "0x00/Normal"\
+ "0x01/'M'"\
+ "0x02/'L'" 
+run:
+    poke $407871 param
+script " "  
+script "P2 Infinite Lives"  
+run:
+    dpoke $4080EA $0009
+script "P2 Infinite Energy" \
+ "comm:Select Infinite Male Energy for Male Characters or Infinite Female Energy for Female Characters" \
+ "0x00030000/Infinite Male Energy"\
+ "0x00028000/Infinite Female Energy" 
+run:
+    lpoke $4080EC param
+script "P2 Infinite Bombs"  
+run:
+    dpoke $4081A0 $0063
+script "P2 Infinite Ammo" \
+ "comm:Used when you have the 'M' or 'L' weapons"  
+run:
+    dpoke $40814E $03E7
+script "P2 Select Weapon" \
+ "0x00/Normal"\
+ "0x01/'M'"\
+ "0x02/'L'" 
+run:
+    poke $40814D param
+script " "  
+script "Select Region" \
+ "comm:After you enable this cheat to see any effect you will have to reset the game (F3). Then you may have to turn the Test Mode ON (F2), wait for Test Mode to appear and reset again(F3)." \
+ "0x01/Japan"\
+ "0x02/US"\
+ "0x03/World" 
+on:
+    temp0=peek($1FFFFF)
+run:
+    poke $1FFFFF param
+off:
+    poke $1FFFFF temp0

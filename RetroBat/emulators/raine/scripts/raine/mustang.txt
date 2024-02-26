@@ -1,0 +1,44 @@
+script "Infinite Credits"  
+run:
+    poke $F9019 $63
+script "Select Starting/Next Stage" \
+ "comm:Set on the map screen" \
+ inter=1,8,1 
+change:
+    poke $F9021 (param-$1)
+script " "  
+script "P1 Infinite Lives"  
+run:
+    poke $F5029 $0C
+script "P1 Infinite Bombs"  
+run:
+    poke $F502B $08
+script "P1 Invincibility"  
+run:
+    if (peek($F502D)<$02)or(peek($F502D)>$80)
+      poke $F502D $02
+    endif
+script "P1 Always Have Maximum Shot Power"  
+run:
+    poke $F502F $02
+script "P1 Rapid Fire"  
+run:
+    lpoke $F501D $00000000
+script " "  
+script "P2 Infinite Lives"  
+run:
+    poke $F5129 $0C
+script "P2 Infinite Bombs"  
+run:
+    poke $F512B $08
+script "P2 Invincibility"  
+run:
+    if (peek($F512D)<$02)or(peek($F512D)>$80)
+      poke $F512D $02
+    endif
+script "P2 Always Have Maximum Shot Power"  
+run:
+    poke $F512F $02
+script "P2 Rapid Fire"  
+run:
+    lpoke $F511D $00000000

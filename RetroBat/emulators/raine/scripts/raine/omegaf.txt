@@ -1,0 +1,19 @@
+script "Infinite Credits"  
+run:
+    poke $F6E7 $09
+script "P1 Infinite Lives"  
+run:
+    poke $F7A8 $05
+script "P1 Invincibility"  
+run:
+    if (frame%60==$0)
+      poke $F34A $4F
+    endif
+script "P2 Infinite Lives"  
+run:
+    poke $F7B8 $05
+script "P2 Invincibility"  
+run:
+    if (frame%60==$0)
+      poke $F34D $4F
+    endif

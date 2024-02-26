@@ -1,0 +1,6 @@
+script "Infinite Credits"  
+run:
+    poke $C0011 $09
+script "Infinite Time"  
+run:
+    dpoke $C8FF0 $EA5F

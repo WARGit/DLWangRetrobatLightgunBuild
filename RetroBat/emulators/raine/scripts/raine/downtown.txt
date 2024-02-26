@@ -1,0 +1,23 @@
+script "Infinite Time"  
+run:
+    poke $FFEF06 $99
+script " "  
+script "P1 Infinite Lives"  
+run:
+    poke $FFEFA7 $09
+script "P1 Infinite Energy"  
+run:
+    poke $FFEFB2 $08
+script "P1 Invincibility (flickers)"  
+run:
+    poke $FFEFAF $1E
+script " "  
+script "P2 Infinite Lives"  
+run:
+    poke $FFEFE7 $09
+script "P2 Infinite Energy"  
+run:
+    poke $FFEFF2 $08
+script "P2 Invincibility (flickers)"  
+run:
+    poke $FFEFEF $1E

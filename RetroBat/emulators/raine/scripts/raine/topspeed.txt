@@ -1,0 +1,24 @@
+script "Infinite Credits"  
+run:
+    poke $400823 $09
+script "Infinite Time"  
+run:
+    poke $401C48 $99
+script "Infinite Nitros"  
+run:
+    poke $4040A3 $03
+script " "  
+script "The Crazy Speed cheat is faster than Nitros but take care"  
+script "with it - with the Always cheat you will keep going"  
+script "forward even when you crash. The Get Boost Now! cheat with"  
+script "an activation key assigned is better but don't activate it"  
+script "during the crash sequence or you may lose the car sprite!"  
+script " "  
+script "Get a Crazy Speed Boost Now!"  
+on:
+    poke $40411C $05
+    poke $40411D $FF
+script "Always drive at Crazy Speed"  
+run:
+    poke $40411C $05
+    poke $40411D $FF

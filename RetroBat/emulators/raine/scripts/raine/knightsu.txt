@@ -1,0 +1,76 @@
+script "Infinite Time"  
+run:
+    poke $FFE7DA $59
+script "Infinite Continues"  
+run:
+    poke $FFE84D $00
+    poke $FFAC88 $00
+    poke $FFADA8 $00
+    poke $FFAEC8 $00
+script "Hit Anywhere"  
+on:
+    temp0=dpeek($00824E)
+run:
+    dpoke $00824E $6002
+off:
+    dpoke $00824E temp0
+script "One Hit Kills"  
+on:
+    temp0=dpeek($008814)
+run:
+    dpoke $008814 $4E71
+off:
+    dpoke $008814 temp0
+script "Go to last level Now!"  
+on:
+    poke $FFA4C4 $06
+script "Convert All Enemies to Energy Now!" \
+ "comm:Doesn't work on bosses"  
+on:
+    poke $FFE7D5 $FF
+script " "  
+script "P1 Infinite Lives"  
+run:
+    poke $FFAC76 $03
+script "P1 Infinite Energy"  
+run:
+    poke $FFABA5 $50
+script "P1 Invincibility"  
+run:
+    poke $FFAC7A $78
+script "P1 Character level 16" \
+ "comm:Also gain 99999999 EP"  
+on:
+    poke $FFAC4E $0F
+    lpoke $FFAC8C $99999999
+script " "  
+script "P2 Infinite Lives"  
+run:
+    poke $FFAD96 $03
+script "P2 Infinite Energy"  
+run:
+    poke $FFACC5 $50
+script "P2 Invincibility"  
+run:
+    poke $FFAD9A $78
+script "P2 Character level 16" \
+ "comm:Also gain 99999999 EP"  
+on:
+    poke $FFAD6E $0F
+    lpoke $FFADAC $99999999
+script " "  
+script "P3 Infinite Lives"  
+run:
+    poke $FFAEB6 $03
+script "P3 Infinite Energy"  
+run:
+    poke $FFADE5 $50
+script "P3 Invincibility"  
+run:
+    poke $FFAEBA $78
+script "P3 Character level 16" \
+ "comm:Also gain 99999999 EP"  
+on:
+    poke $FFAD8E $0F
+    lpoke $FFAECC $99999999
+script " "  

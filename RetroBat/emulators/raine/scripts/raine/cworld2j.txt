@@ -1,0 +1,21 @@
+script "Infinite Credits"  
+run:
+    poke $FF0EE3 $09
+script "Display the Correct Answer"  
+run:
+    print_ingame 1 "Correct Answer : %c" \
+ (peek($FFEA03))+0x31
+script "Answer 1 always correct"  
+run:
+    poke $FFEA03 $00
+script "Good answer ends quiz Now!"  
+on:
+    poke $FF10D7 $00
+script " "  
+script "P1 Infinite Lives"  
+run:
+    poke $FF11DB $05
+script "P2 Infinite Lives"  
+run:
+    poke $FF14AB $05
+script " "  

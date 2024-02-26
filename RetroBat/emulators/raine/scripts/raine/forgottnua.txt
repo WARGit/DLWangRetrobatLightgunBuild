@@ -1,0 +1,81 @@
+script "Infinite Shop Time"  
+run:
+    poke $FFE1D2 $21
+script "Select Starting Stage" \
+ "comm:Turn this cheat off otherwise the stages will loop back to this stage after finishing the last stage instead of back to the first stage." \
+ inter=1,9,1 
+run:
+    if (peek($FFB2B2)==$00)
+      poke $FFB2B2 (param-$1)
+    endif
+script " "  
+script "P1 Infinite Energy"  
+run:
+    poke $FF9035 $38
+script "P1 Invincibility"  
+run:
+    poke $FFB342 $02
+    poke $FFB38C $01
+    poke $FF9035 $38|(peek($FF9035)&~$38)
+    poke $FF9035 $00|(peek($FF9035)&~$C7)
+script "P1 Infinite Zenny"  
+run:
+    poke $FFE192 $99
+    poke $FFE193 $99
+    poke $FFE194 $99
+script "P1 Reduce Zenny Now!"  
+on:
+    poke $FFE192 $01
+    poke $FFE193 $01
+    poke $FFE194 $01
+script "P1 Select Weapon" \
+ "0x00/Laser"\
+ "0x02/Beam"\
+ "0x04/Missile"\
+ "0x06/Balcan Cannon"\
+ "0x08/Napalm Bomb"\
+ "0x0A/V-Cannon"\
+ "0x0C/Burner"\
+ "0x0E/Multi-Way"\
+ "0x10/Bound Shot"\
+ "0x12/Power Laser"\
+ "0x14/Homing Laser" 
+run:
+    poke $FFCEE2 $01
+    poke $FFCF18 param
+script " "  
+script "P2 Infinite Energy"  
+run:
+    poke $FF9055 $38
+script "P2 Invincibility"  
+run:
+    poke $FFB392 $02
+    poke $FFB3DC $01
+    poke $FF9055 $38|(peek($FF9055)&~$38)
+    poke $FF9055 $00|(peek($FF9055)&~$C7)
+script "P2 Infinite Zenny"  
+run:
+    poke $FFE196 $99
+    poke $FFE197 $99
+    poke $FFE198 $99
+script "P2 Reduce Zenny Now!"  
+on:
+    poke $FFE196 $01
+    poke $FFE197 $01
+    poke $FFE198 $01
+script "P2 Select Weapon" \
+ "0x00/Laser"\
+ "0x02/Beam"\
+ "0x04/Missile"\
+ "0x06/Balcan Cannon"\
+ "0x08/Napalm Bomb"\
+ "0x0A/V-Cannon"\
+ "0x0C/Burner"\
+ "0x0E/Multi-Way"\
+ "0x10/Bound Shot"\
+ "0x12/Power Laser"\
+ "0x14/Homing Laser" 
+run:
+    poke $FFCF32 $01
+    poke $FFCF68 param
+script " "  

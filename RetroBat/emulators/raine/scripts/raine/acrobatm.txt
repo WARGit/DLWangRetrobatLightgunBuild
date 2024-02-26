@@ -1,0 +1,73 @@
+script "Infinite Credits"  
+run:
+    poke $80075 $09
+script "Invincibility"  
+on:
+    temp0=peek($07FC6)
+    temp1=dpeek($08022)
+run:
+    poke $07FC6 $60
+    dpoke $08022 $6088
+off:
+    poke $07FC6 temp0
+    dpoke $08022 temp1
+script " "  
+script "P1 Infinite Lives"  
+run:
+    poke $80255 $0A
+script "P1 Maximum Fire Power"  
+run:
+    poke $80267 $04
+script "P1 Always Wave Weapon"  
+run:
+    poke $8026B $00
+script "P1 Always Hurricane Weapon"  
+run:
+    poke $8026B $01
+script "P1 Get Wave Weapon Now!"  
+on:
+    poke $8026B $00
+script "P1 Get Hurricane Weapon Now!"  
+on:
+    poke $8026B $01
+script "P1 Rapid Fire" \
+ "comm:This cheat has a problem with energy charging"  
+run:
+    poke $80227 $00|(peek($80227)&~$10)
+script "P1 Lock Energy Charge"  
+run:
+    dpoke $80262 $0000
+script "P1 Always Shoot Charge Shot" \
+ "comm:Shoot charge shot automatically without pressing a fire button"  
+run:
+    poke $80269 $01
+script " "  
+script "P2 Infinite Lives"  
+run:
+    poke $80277 $0A
+script "P2 Maximum Fire Power"  
+run:
+    poke $80289 $04
+script "P2 Always Wave Weapon"  
+run:
+    poke $8028D $00
+script "P2 Always Hurricane Weapon"  
+run:
+    poke $8028D $01
+script "P2 Get Wave Weapon Now!"  
+on:
+    poke $8028D $00
+script "P2 Get Hurricane Weapon Now!"  
+on:
+    poke $8028D $01
+script "P2 Rapid Fire" \
+ "comm:This cheat has a problem with energy charging"  
+run:
+    poke $80226 $00|(peek($80226)&~$10)
+script "P2 Lock Energy Charge"  
+run:
+    dpoke $80284 $0000
+script "P2 Always Shoot Charge Shot" \
+ "comm:Shoot charge shot automatically without pressing a fire button"  
+run:
+    poke $8028B $01

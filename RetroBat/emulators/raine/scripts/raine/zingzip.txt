@@ -1,0 +1,74 @@
+script "Infinite Credits"  
+run:
+    poke $202893 $09
+script "Select Starting Stage" \
+ "0x01/Stage 1"\
+ "0x02/Stage 2"\
+ "0x03/Stage 3"\
+ "0x04/Stage 4"\
+ "0x05/Stage 5"\
+ "0x06/Stage 6"\
+ "0x07/Stage 7"\
+ "0x08/Boss 1"\
+ "0x09/Boss 2"\
+ "0x0A/Boss 3" 
+run:
+    if (peek($2028C7)==$01)
+      poke $2028C7 param
+    endif
+script " "  
+script "P1 Infinite Lives"  
+run:
+    poke $2004F9 $0A
+script "P1 Infinite Bombs"  
+run:
+    poke $2004FB $09
+script "P1 Invincibility"  
+run:
+    poke $2004C2 $01
+script "P1 Maximum Shot Power"  
+run:
+    poke $2004D5 $04
+script "P1 Select Shot" \
+ "0x00/Normal"\
+ "0x01/Fire"\
+ "0x02/Laser" 
+run:
+    poke $2004DF param
+script "P1 Maximum Missile Power"  
+run:
+    poke $2004D7 $02
+script "P1 Select Missile" \
+ "0x02/Normal"\
+ "0x01/Homing"\
+ "0x03/X way" 
+run:
+    poke $2004E1 param
+script " "  
+script "P2 Infinite Lives"  
+run:
+    poke $20055D $0A
+script "P2 Infinite Bombs"  
+run:
+    poke $20055F $09
+script "P2 Invincibility"  
+run:
+    poke $200526 $01
+script "P2 Maximum Shot Power"  
+run:
+    poke $200539 $04
+script "P2 Select Shot" \
+ "0x00/Normal"\
+ "0x01/Fire"\
+ "0x02/Laser" 
+run:
+    poke $200543 param
+script "P2 Maximum Missile Power"  
+run:
+    poke $20053B $02
+script "P2 Select Missile" \
+ "0x02/Normal"\
+ "0x01/Homing"\
+ "0x03/X way" 
+run:
+    poke $200545 param

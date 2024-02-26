@@ -1,0 +1,58 @@
+script "Infinite Credits"  
+run:
+    poke $FE58A7 $09
+script "Select Starting Level Now!" \
+ "comm:Enable on the select plane screen" \
+ inter=1,16,1 
+on:
+    poke $FE2221 $FF
+change:
+    poke $FE2221 (param-$1)
+script "Select First Stage" \
+ inter=1,4,1 
+run:
+    poke $FE223D (param-$1)
+script "Select Second Stage" \
+ inter=1,4,1 
+run:
+    poke $FE223F (param-$1)
+script "Select Third Stage" \
+ inter=1,4,1 
+run:
+    poke $FE2241 (param-$1)
+script "Select Fourth Stage" \
+ inter=1,4,1 
+run:
+    poke $FE2243 (param-$1)
+script " "  
+script "P1 Infinite Lives"  
+run:
+    poke $FE1155 $05
+script "P1 Infinite Bombs"  
+run:
+    poke $FE1159 $06
+script "P1 Invincibility"  
+run:
+    poke $FE1183 $78
+script "P1 Maximum Fire Power"  
+run:
+    poke $FE115B $03
+script "P1 Maximum missile power"  
+run:
+    poke $FE1185 $04
+script " "  
+script "P2 Infinite Lives"  
+run:
+    poke $FE11E1 $05
+script "P2 Infinite Bombs"  
+run:
+    poke $FE11E5 $06
+script "P2 Invincibility"  
+run:
+    poke $FE120F $78
+script "P2 Maximum Fire Power"  
+run:
+    poke $FE11E7 $03
+script "P2 Maximum missile power"  
+run:
+    poke $FE1211 $04

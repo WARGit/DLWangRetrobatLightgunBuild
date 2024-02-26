@@ -1,0 +1,29 @@
+script "Infinite Time" \
+ "comm:Press F6 to give up in bonus stages"  
+run:
+    poke $1055D4 $00
+    poke $1055D5 $02
+script "One pill to finish this level Now!"  
+on:
+    poke $1055CE $00
+    poke $1055CF $01
+script " "  
+script "P1 Infinite Lives"  
+run:
+    poke $104959 $09
+script "P1 Infinite Red Pill Time"  
+run:
+    poke $10494D $C8
+script "P1 Invincibility"  
+run:
+    poke $10494F $03
+script " "  
+script "P2 Infinite Lives"  
+run:
+    poke $104993 $09
+script "P2 Infinite Red Pill Time"  
+run:
+    poke $104987 $C8
+script "P2 Invincibility"  
+run:
+    poke $104989 $03

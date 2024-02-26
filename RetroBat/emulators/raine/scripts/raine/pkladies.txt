@@ -1,0 +1,53 @@
+script "Infinite Points"  
+run:
+    poke $E703 $09
+    lpoke $E704 $09090909
+script "Infinite Hands"  
+run:
+    poke $E70F $09
+script "Back card must be visible when you activate these codes"  
+script "Get RF - 5000 pts Now!"  
+on:
+    poke $E220 $09
+    lpoke $E200 $3B3C3D31
+    poke $E204 $3A
+script "Get SF - 2000 pts Now!"  
+on:
+    poke $E220 $08
+    lpoke $E200 $19181716
+    poke $E204 $1A
+script "Get FK - 1000 pts Now!"  
+on:
+    poke $E220 $07
+    lpoke $E200 $44342414
+    poke $E204 $27
+script "Get FH -  700 pts Now!"  
+on:
+    poke $E220 $06
+    lpoke $E200 $28184929
+    poke $E204 $38
+script "Get FL -  500 pts Now!"  
+on:
+    poke $E220 $05
+    lpoke $E200 $25272B2C
+    poke $E204 $22
+script "Get ST -  300 pts Now!"  
+on:
+    poke $E220 $04
+    lpoke $E200 $44452637
+    poke $E204 $23
+script "Get TK -  200 pts Now!"  
+on:
+    poke $E220 $03
+    lpoke $E200 $4B423212
+    poke $E204 $1A
+script "Get TP -  100 pts Now!"  
+on:
+    poke $E220 $02
+    lpoke $E200 $43133525
+    poke $E204 $29
+script "Get JB -   50 pts Now!"  
+on:
+    poke $E220 $01
+    lpoke $E200 $281C4D1D
+    poke $E204 $36

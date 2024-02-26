@@ -1,0 +1,27 @@
+script "P1 Infinite Lives"  
+run:
+    poke $107BE6 $05
+script "P1 Weapon Power"  
+run:
+    poke $107BFD $04
+    poke $107BFB $04
+script "P1 Always have Bomber Max"  
+run:
+    poke $107C07 $07
+script "P1 Invincibility"  
+run:
+    poke $107BE9 $03
+script " "  
+script "P2 Infinite Lives"  
+run:
+    poke $107C24 $05
+script "P2 Weapon Power"  
+run:
+    poke $107C3B $04
+    poke $107C39 $04
+script "P2 Always have Bomber Max"  
+run:
+    poke $107C45 $07
+script "P2 Invincibility"  
+run:
+    poke $107C27 $03

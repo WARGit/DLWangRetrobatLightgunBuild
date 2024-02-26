@@ -1,0 +1,9 @@
+script "Infinite Credits"  
+run:
+    poke $10793F $09
+script "No Damage (Windscreen still Cracks)"  
+run:
+    poke $10DD8B $00
+script "Infinite Torpedos"  
+run:
+    poke $10DE34 $27

@@ -1,0 +1,79 @@
+script "Infinite Time" \
+ "comm:For Beginner + Normal modes"  
+run:
+    poke $FF8BAE $FA
+script "Never have any Bubbles"  
+run:
+    poke $FF8BED $12
+script "Restart the Bubbles Now!"  
+on:
+    poke $FF8BED $00
+script " "  
+script "Select current Beginner Mode level" \
+ inter=1,10,1 
+change:
+    poke $FF8BC6 (param-$1)
+script "Select next Beginner Mode level" \
+ inter=1,10,1 
+change:
+    poke $FF8BC6 (param-$1)
+script " "  
+script "Select current Normal Mode level" \
+ inter=1,50,1 
+change:
+    poke $FF8BC6 (param-$1)
+script "Select next Normal Mode level" \
+ inter=1,50,1 
+change:
+    poke $FF8BC6 (param-$1)
+script " "  
+script "Select current Panic Mode level" \
+ inter=1,98,1 
+change:
+    poke $FF8BDF (param-$1)
+script "Select next Panic Mode level" \
+ inter=1,98,1 
+change:
+    poke $FF8BDF (param-$1)
+script " "  
+script "P1 Infinite Lives"  
+run:
+    poke $FF8BB4 $09
+script "P1 Invincibility"  
+run:
+    poke $FFABB7 $02
+script "P1 Select Protection" \
+ "0x01/Enabled"\
+ "0x00/Disabled" 
+run:
+    poke $FFABF4 param
+script "P1 Select Weapon" \
+ "comm:This cheats doesn't show the correct weapon icon." \
+ "0x00/Normal"\
+ "0x01/Blocker"\
+ "0x02/Water"\
+ "0x03/Double"\
+ "0x04/Super?" 
+run:
+    poke $FFABC8 param
+script " "  
+script "P2 Infinite Lives"  
+run:
+    poke $FF8BB5 $09
+script "P2 Invincibility"  
+run:
+    poke $FFAC77 $02
+script "P2 Select Protection" \
+ "0x01/Enabled"\
+ "0x00/Disabled" 
+run:
+    poke $FFACB4 param
+script "P2 Select Weapon" \
+ "0x00/Normal"\
+ "0x01/Blocker"\
+ "0x02/Water"\
+ "0x03/Double"\
+ "0x04/Super?" 
+run:
+    poke $FFAC88 param
+script " "  

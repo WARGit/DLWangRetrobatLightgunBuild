@@ -1,0 +1,58 @@
+script "Infinite Round Time"  
+run:
+    poke $8A8A $09
+script "Round Time Up Now!"  
+on:
+    poke $8A88 $00
+    poke $8A89 $00
+    poke $8A8A $00
+script " "  
+script "The Referee never counts cheat gives you Infinite Time out of"  
+script "the ring, when you are on the corner and makes it impossible"  
+script "to Get a fall. Either disable it or use the CORRECT 'Time ='"  
+script "cheats. These can also be useful to enable when it's  to"  
+script "your advantage!! ;-)"  
+script " "  
+script "Referee never counts"  
+run:
+    poke $A83C $01
+script "Out of Ring Time = 20 Now!"  
+on:
+    poke $A83C $14
+script "Fall Count Time = 3 Now!"  
+on:
+    poke $A83C $03
+    poke $A83D $03
+script "Corner Count Time = 4 Now!"  
+on:
+    poke $A83C $04
+script " "  
+script "P1 Infinite Energy"  
+run:
+    poke $A039 $A0
+    poke $A66E $A0
+script "P1 Infinite Power"  
+run:
+    poke $A66D $A0
+script "P1 Drain all Energy Now!"  
+on:
+    poke $A039 $00
+    poke $A66E $00
+script "P1 Drain all Power Now!"  
+on:
+    poke $A66D $00
+script " "  
+script "P2 Infinite Energy"  
+run:
+    poke $A139 $A0
+    poke $A670 $A0
+script "P2 Infinite Power"  
+run:
+    poke $A66F $A0
+script "P2 Drain all Energy Now!"  
+on:
+    poke $A139 $00
+    poke $A670 $00
+script "P2 Drain all Power Now!"  
+on:
+    poke $A66F $00

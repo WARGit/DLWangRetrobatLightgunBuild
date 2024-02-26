@@ -1,0 +1,54 @@
+script "Infinite Credits"  
+run:
+    poke $F9003 $09
+script "Select starting round" \
+ "comm:You should enable this cheat on the 'PUSH START' screen, ie. after credits have been inserted! The Round display wont be correct" \
+ inter=1,7,1 
+on:
+    poke $F9021 $FF
+change:
+    poke $F9021 (param-$1)
+script "Select next Round" \
+ inter=1,7,1 
+change:
+    poke $F9021 (param-$1)
+script " "  
+script "P1 Infinite Lives"  
+run:
+    poke $F6429 $0A
+script "P1 Infinite Bombs"  
+run:
+    poke $F642F $07
+script "P1 Invincibility"  
+run:
+    poke $F642D $02
+script "P1 Maximum Fire Power"  
+run:
+    poke $F647F $07
+script "P1 Select Weapon" \
+ "0x00/Fighter Shot"\
+ "0x01/Gerwalk Shot"\
+ "0x02/Battroid Shot"\
+ "0x03/Amord-V Shot" 
+run:
+    poke $F6457 param
+script " "  
+script "P2 Infinite Lives"  
+run:
+    poke $F6529 $0A
+script "P2 Infinite Bombs"  
+run:
+    poke $F652F $07
+script "P2 Invincibility"  
+run:
+    poke $F653D $02
+script "P2 Maximum Fire Power"  
+run:
+    poke $F657F $07
+script "P2 Select Weapon" \
+ "0x00/Fighter Shot"\
+ "0x01/Gerwalk Shot"\
+ "0x02/Battroid Shot"\
+ "0x03/Armord-V Shot" 
+run:
+    poke $F6557 param

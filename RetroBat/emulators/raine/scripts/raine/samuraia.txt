@@ -1,0 +1,35 @@
+script "P1 Infinite Lives"  
+run:
+    poke $FE1B05 $06
+script "P1 Infinite Bombs"  
+run:
+    poke $FE1BDF $06
+script "P1 Maximum Power"  
+run:
+    poke $FE1B07 $03
+script "P1 Invincibility" \
+ "0x10/Enabled"\
+ "0x00/Disabled" 
+run:
+    poke $FE1B57 param|(peek($FE1B57)&~$10)
+script "P1 Auto Penetration Shot"  
+run:
+    poke $FE1B51 $5B
+script " "  
+script "P2 Infinite Lives"  
+run:
+    poke $FE1C35 $06
+script "P2 Infinite Bombs"  
+run:
+    poke $FE1D0F $06
+script "P2 Maximum Power"  
+run:
+    poke $FE1C37 $03
+script "P2 Invincibility" \
+ "0x10/Enabled"\
+ "0x00/Disabled" 
+run:
+    poke $FE1C87 param|(peek($FE1C87)&~$10)
+script "P2 Auto Penetration Shot"  
+run:
+    poke $FE1C81 $FF

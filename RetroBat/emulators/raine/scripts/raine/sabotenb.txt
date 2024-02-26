@@ -1,0 +1,18 @@
+script "Infinite Credits"  
+run:
+    poke $F9003 $09
+script "Infinite Time"  
+run:
+    poke $F906B $63
+script "P1 Infinite Lives"  
+run:
+    poke $F0037 $09
+script "P1 Invincibility"  
+run:
+    poke $F006F $02
+script "P2 Infinite Lives"  
+run:
+    poke $F0137 $09
+script "P2 Invincibility"  
+run:
+    poke $F016F $02

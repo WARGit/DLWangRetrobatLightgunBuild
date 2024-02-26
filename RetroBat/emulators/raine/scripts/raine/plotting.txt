@@ -1,0 +1,12 @@
+script "P1 Infinite Time"  
+run:
+    poke $860C $3B
+script "P1 Infinite Wild Blocks"  
+run:
+    poke $860F $04
+script "P2 Infinite Time"  
+run:
+    poke $8B0C $3B
+script "P2 Infinite Wild Blocks"  
+run:
+    poke $8B0F $04

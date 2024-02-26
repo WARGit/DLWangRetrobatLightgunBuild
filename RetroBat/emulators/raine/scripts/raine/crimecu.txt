@@ -1,0 +1,78 @@
+script "Infinite Time"  
+run:
+    poke $A023B2 $03
+    poke $A023B3 $E8
+script " "  
+script "P1 Infinite Lives"  
+run:
+    poke $A023C3 $08
+script "P1 Infinite Energy"  
+run:
+    poke $A023BB $08
+script "P1 Infinite Ammo"  
+run:
+    poke $A02455 $00
+script "P1 Invincibility"  
+run:
+    poke $A023FF $3E
+script "P1 Always have Normal gun"  
+run:
+    poke $A02407 $00
+script "P1 Always have Machine gun"  
+run:
+    poke $A02407 $01
+script "P1 Always have Armour-Piercing gun"  
+run:
+    poke $A02407 $02
+script "P1 Always have 3-way gun"  
+run:
+    poke $A02407 $03
+script "P1 Get Normal gun Now!"  
+on:
+    poke $A02407 $00
+script "P1 Get Machine gun Now!"  
+on:
+    poke $A02407 $01
+script "P1 Get Armour-Piercing gun Now!"  
+on:
+    poke $A02407 $02
+script "P1 Get 3-way gun Now!"  
+on:
+    poke $A02407 $03
+script " "  
+script "P2 Infinite Lives"  
+run:
+    poke $A023C5 $08
+script "P2 Infinite Energy"  
+run:
+    poke $A023BF $08
+script "P2 Infinite Ammo"  
+run:
+    poke $A02755 $00
+script "P2 Invincibility"  
+run:
+    poke $A026FF $3E
+script "P2 Always have Normal gun"  
+run:
+    poke $A02707 $00
+script "P2 Always have Machine gun"  
+run:
+    poke $A02707 $01
+script "P2 Always have Armour-Piercing gun"  
+run:
+    poke $A02707 $02
+script "P2 Always have 3-way gun"  
+run:
+    poke $A02707 $03
+script "P2 Get Normal gun Now!"  
+on:
+    poke $A02707 $00
+script "P2 Get Machine gun Now!"  
+on:
+    poke $A02707 $01
+script "P2 Get Armour-Piercing gun Now!"  
+on:
+    poke $A02707 $02
+script "P2 Get 3-way gun Now!"  
+on:
+    poke $A02707 $03

@@ -1,0 +1,69 @@
+script "Infinite Credits"  
+run:
+    poke $600859 $09
+script " "  
+script "P1 Infinite Lives"  
+run:
+    poke $6019E3 $09
+script "P1 Invincibility"  
+run:
+    poke $6008B3 $00
+    poke $6008BB $EE
+script "P1 Infinite Bombs"  
+run:
+    poke $6019E7 $0A
+script "P1 Select Bomb" \
+ "0x00/Ashura Bomb"\
+ "0x01/Fire Wave"\
+ "0x02/Ashura Flash"\
+ "0x03/S. Beam" 
+run:
+    poke $600923 param
+script "P1 Always Maximum Shot Power"  
+run:
+    poke $600927 $07
+script "P1 Select Weapon" \
+ "0x00/Red"\
+ "0x01/Green"\
+ "0x02/Blue"\
+ "0x03/Yellow"\
+ "0x04/Special" 
+run:
+    poke $60091F param
+script "P1 Rapid Fire" \
+ "comm:Turn it OFF at the bomb selection or name entry"  
+run:
+    poke $60081D $FF
+script " "  
+script "P2 Infinite Lives"  
+run:
+    poke $6019E5 $09
+script "P2 Invincibility"  
+run:
+    poke $6008F3 $00
+    poke $6008FB $EE
+script "P2 Infinite Bombs"  
+run:
+    poke $6019E9 $0A
+script "P2 Select Bomb" \
+ "0x00/Ashura Bomb"\
+ "0x01/Fire Wave"\
+ "0x02/Ashura Flash"\
+ "0x03/S. Beam" 
+run:
+    poke $600925 param
+script "P2 Always Maximum Shot Power"  
+run:
+    poke $600929 $07
+script "P2 Select Weapon" \
+ "0x00/Red"\
+ "0x01/Green"\
+ "0x02/Blue"\
+ "0x03/Yellow"\
+ "0x04/Special" 
+run:
+    poke $600921 param
+script "P2 Rapid Fire" \
+ "comm:Turn it OFF at the bomb selection or name entry"  
+run:
+    poke $60081F $FF

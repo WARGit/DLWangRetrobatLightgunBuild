@@ -1,0 +1,38 @@
+script "Infinite Credits"  
+run:
+    poke $20A631 $09
+script "Never have 'Hurry Up'"  
+run:
+    poke $20A445 $FF
+script " "  
+script "P1 Infinite Lives"  
+run:
+    poke $20B671 $09
+script "P1 Infinite Special"  
+run:
+    poke $20B76D $06
+script "P1 Invincibility"  
+run:
+    poke $212E73 $02
+script "P1 Always have Maximum Charge"  
+run:
+    poke $20B6F8 $0F
+script "P1 Always have Maximum Weapon"  
+run:
+    poke $20B6D9 $04
+script " "  
+script "P2 Infinite Lives"  
+run:
+    poke $20B78B $09
+script "P2 Infinite Special"  
+run:
+    poke $20B887 $06
+script "P2 Invincibility"  
+run:
+    poke $212E77 $02
+script "P2 Always have Maximum Charge"  
+run:
+    poke $20B812 $0F
+script "P2 Always have Maximum Weapon"  
+run:
+    poke $20B7F3 $04

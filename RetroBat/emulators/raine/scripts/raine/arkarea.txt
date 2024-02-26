@@ -1,0 +1,93 @@
+script "Infinite Credits"  
+run:
+    poke $C004 $12
+script " "  
+script "P1 Infinite Lives"  
+run:
+    poke $D209 $05
+script "P1 Invincibility" \
+ "comm:Only enable Invincibility during gameplay!!" \
+ "0x01/Enabled"\
+ "0x00/Disabled" 
+run:
+    poke $C00A param
+script "P1 Infinite Weapon Time"  
+run:
+    poke $D208 $01
+script "P1 Select Weapon" \
+ "0x01/Normal"\
+ "0x02/Tracer"\
+ "0x03/Flamer"\
+ "0x04/3-Way"\
+ "0x05/8-Way" 
+run:
+    if (param==$01)
+      poke $D200 $1C
+      poke $D202 $03
+      poke $D203 $01
+    endif
+    if (param==$02)
+      poke $D200 $1F
+      poke $D202 $03
+      poke $D203 $01
+    endif
+    if (param==$03)
+      poke $D200 $22
+      poke $D202 $03
+      poke $D203 $01
+    endif
+    if (param==$04)
+      poke $D200 $25
+      poke $D202 $03
+      poke $D203 $03
+    endif
+    if (param==$05)
+      poke $D200 $2C
+      poke $D202 $01
+      poke $D203 $08
+    endif
+script " "  
+script "P2 Infinite Lives"  
+run:
+    poke $D259 $05
+script "P2 Invincibility" \
+ "comm:Only enable Invincibility during gameplay!!" \
+ "0x01/Enabled"\
+ "0x00/Disabled" 
+run:
+    poke $C00B param
+script "P2 Infinite Weapon Time"  
+run:
+    poke $D258 $01
+script "P2 Select Weapon" \
+ "0x01/Normal"\
+ "0x02/Tracer"\
+ "0x03/Flamer"\
+ "0x04/3-Way"\
+ "0x05/8-Way" 
+run:
+    if (param==$01)
+      poke $D250 $1C
+      poke $D252 $03
+      poke $D253 $01
+    endif
+    if (param==$02)
+      poke $D250 $1F
+      poke $D252 $03
+      poke $D253 $01
+    endif
+    if (param==$03)
+      poke $D250 $22
+      poke $D252 $03
+      poke $D253 $01
+    endif
+    if (param==$04)
+      poke $D250 $25
+      poke $D252 $03
+      poke $D253 $03
+    endif
+    if (param==$05)
+      poke $D250 $2C
+      poke $D252 $01
+      poke $D253 $08
+    endif

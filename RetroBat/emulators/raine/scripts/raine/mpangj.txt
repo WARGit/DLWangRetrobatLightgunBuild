@@ -1,0 +1,74 @@
+script "Infinite Time"  
+run:
+    dpoke $FF8108 $633C
+script " "  
+script "P1 Infinite Lives"  
+run:
+    poke $FF8126 $09
+script "P1 Invincibility"  
+run:
+    poke $FFA502 $01
+script "P1 Get Shield Now!"  
+on:
+    poke $FFA503 $01
+script "P1 Always Have Weapon" \
+ "0x04/Normal"\
+ "0x00/Double Shot"\
+ "0x01/Sticky Shot"\
+ "0x02/Laser Gun" 
+run:
+    poke $FFA50C param
+script "P1 Select Weapon Now!" \
+ "0x04/Normal"\
+ "0x00/Double Shot"\
+ "0x01/Sticky Shot"\
+ "0x02/Laser Gun" 
+change:
+    poke $FFA50C param
+script " "  
+script "P2 Infinite Lives"  
+run:
+    poke $FF8127 $09
+script "P2 Invincibility"  
+run:
+    poke $FFA5C2 $01
+script "P2 Get Shield Now!"  
+on:
+    poke $FFA5C3 $01
+script "P2 Always Have Weapon" \
+ "0x04/Normal"\
+ "0x00/Double Shot"\
+ "0x01/Sticky Shot"\
+ "0x02/Laser Gun" 
+run:
+    poke $FFA5CC param
+script "P2 Select Weapon Now!" \
+ "0x04/Normal"\
+ "0x00/Double Shot"\
+ "0x01/Sticky Shot"\
+ "0x02/Laser Gun" 
+change:
+    poke $FFA5CC param
+script "Freeze Balls"  
+run:
+    poke $FF810B $02
+script "Freeze Balls For 2 Sec Now!"  
+on:
+    poke $FF810A $02
+script " "  
+script "No Background Music"  
+run:
+    cpu audio
+    dpoke $F026 $0000
+    cpu main
+script "Select Region" \
+ "comm:This cheat sets the machine region - the effectiveness may vary! You have to enable this ASAP - ON or before the ROM check screen! Or enable + RESET" \
+ "0x00/Japan"\
+ "0x02/USA"\
+ "0x04/Hispanic"\
+ "0x06/Oceania"\
+ "0x08/Asia"\
+ "0x0A/Euro"\
+ "0x0C/Brasil" 
+run:
+    poke $FF80A1 param

@@ -1,0 +1,32 @@
+script "Infinite Time"  
+run:
+    poke $FF8525 $59
+script "Kill the Round 3+5 Boss"  
+run:
+    poke $FFCCAF $00
+script "Kill the Round 4 Boss"  
+run:
+    poke $FFB12F $00
+script " "  
+script "P1 Infinite Lives"  
+run:
+    poke $FF8398 $0A
+script "P1 Invincibility"  
+run:
+    poke $FF838F $30
+script "P1 Infinite S. Attacks"  
+run:
+    poke $FF838D $08
+    poke $FF838C $01
+script " "  
+script "P2 Infinite Lives"  
+run:
+    poke $FF8498 $0A
+script "P2 Invincibility"  
+run:
+    poke $FF848F $30
+script "P2 Infinite S. Attacks"  
+run:
+    poke $FF848D $08
+    poke $FF848C $01
+script " "  

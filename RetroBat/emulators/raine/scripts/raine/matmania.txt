@@ -1,0 +1,51 @@
+script "Infinite Time"  
+run:
+    poke $02CF $59
+script " "  
+script "The Referee never counts cheat gives you Infinite Time out of"  
+script "the ring, when you are on the corner and makes it impossible"  
+script "to Get a fall. Either disable it or use the CORRECT 'Time ='"  
+script "cheats. These can also be useful to enable when it's  to"  
+script "your advantage!! ;-)"  
+script " "  
+script "Referee never counts"  
+run:
+    poke $00E6 $01
+script "Out of Ring Time = 19 Now!"  
+on:
+    poke $00E6 $19
+script "Fall Count Time = 2 Now!"  
+on:
+    poke $00E6 $02
+script "Corner Count Time = 4 Now!"  
+on:
+    poke $00E6 $04
+script " "  
+script "P1 Infinite Energy"  
+run:
+    poke $004A $FF
+script "P1 Drain all Energy Now!"  
+on:
+    poke $004A $00
+script "P1 Infinite Jumps on Corner"  
+run:
+    poke $0059 $00
+script "P1 Infinite Attacks" \
+ "comm:This cheat prevents the other player attacking you after you've attacked them three times in a row."  
+run:
+    poke $0039 $00
+script " "  
+script "P2 Infinite Energy"  
+run:
+    poke $004B $FF
+script "P2 Drain all Energy Now!"  
+on:
+    poke $004B $00
+script "P2 Infinite Jumps on Corner"  
+run:
+    poke $0059 $00
+script "P2 Infinite Attacks" \
+ "comm:This cheat prevents the other player attacking you after you've attacked them three times in a row."  
+run:
+    poke $003A $00
+script " "  

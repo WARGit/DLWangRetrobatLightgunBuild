@@ -1,0 +1,15 @@
+script "Infinite Credits"  
+run:
+    poke $101648 $09
+script "Infinite Time"  
+run:
+    poke $101930 $99
+script "Infinite Boosts"  
+run:
+    poke $101936 $07
+script "Always drive at Maximum Speed"  
+run:
+    dpoke $10A058 $0490
+script "Finish this Stage Now!"  
+on:
+    poke $10194F $16

@@ -1,0 +1,103 @@
+[INFO]  SDL     redream v1.5.0-957-ge3e5bd95c appdir=V:\RetroBat\emulators\redream
+[INFO]          read V:\RetroBat\emulators\redream\redream.cfg
+[INFO]  SDL     mode set to borderless fullscreen width=0 height=0
+[INFO]  SDL     audio initialized latency=32.65 ms period=480 frames
+[INFO]  SDL     registered device 0 desc=auto name=auto
+[INFO]  SDL     registered device 4 desc=03000000790000000600000000000000 name=Generic USB Joystick #1
+[INFO]  SDL     registered device 5 desc=03000000790000000600000000000000 name=Generic USB Joystick #2
+[INFO]  SDL     registered device 2 desc=keyboard name=keyboard
+[INFO]  SDL     registered device 1 desc=disabled name=disabled
+[INFO]  SDL     registered device 0 desc=auto name=auto
+[INFO]  SDL     registered device 4 desc=03000000790000000600000000000000 name=Generic USB Joystick #1
+[INFO]  SDL     registered device 5 desc=03000000790000000600000000000000 name=Generic USB Joystick #2
+[INFO]  SDL     registered device 2 desc=keyboard name=keyboard
+[INFO]  SDL     registered device 1 desc=disabled name=disabled
+[INFO]  SDL     registered device 0 desc=auto name=auto
+[INFO]  SDL     registered device 4 desc=03000000790000000600000000000000 name=Generic USB Joystick #1
+[INFO]  SDL     registered device 5 desc=03000000790000000600000000000000 name=Generic USB Joystick #2
+[INFO]  SDL     registered device 2 desc=keyboard name=keyboard
+[INFO]  SDL     registered device 1 desc=disabled name=disabled
+[INFO]  SDL     video context created GL_RENDERER=NVIDIA GeForce RTX 2060 SUPER/PCIe/SSE2 GL_VERSION=4.5.0 NVIDIA 512.77 GLSL_VERSION=4.50 NVIDIA
+[INFO]  SDL     video initialized GL_VERSION=4.5.0 NVIDIA 512.77 GLSL_VERSION=4.50 NVIDIA 1920x1080 px
+[INFO]  GL      supports indexes=1
+[INFO]  GL      supports texture_fetch=1
+[INFO]  GL      supports fragment_feedback=1
+[INFO]  DISC    opening V:\RetroBat\roms\dreamcast\Virtua Cop 2 v1.011 (2000)(Sega)(NTSC)(JP)(en)[!].chd
+[INFO]  CHD     parsed track=1 fad=150 secsz=2352 type=MODE1_RAW bswap=0
+[INFO]  CHD     parsed track=2 fad=600 secsz=2352 type=AUDIO bswap=1
+[INFO]  CHD     parsed track=3 fad=45150 secsz=2352 type=MODE1_RAW bswap=0
+[INFO]  CHD     parsed track=4 fad=375336 secsz=2352 type=AUDIO bswap=1
+[INFO]  CHD     parsed track=5 fad=376174 secsz=2352 type=AUDIO bswap=1
+[INFO]  CHD     parsed track=6 fad=380878 secsz=2352 type=AUDIO bswap=1
+[INFO]  CHD     parsed track=7 fad=381478 secsz=2352 type=AUDIO bswap=1
+[INFO]  CHD     parsed track=8 fad=386573 secsz=2352 type=AUDIO bswap=1
+[INFO]  CHD     parsed track=9 fad=387173 secsz=2352 type=AUDIO bswap=1
+[INFO]  CHD     parsed track=10 fad=387773 secsz=2352 type=AUDIO bswap=1
+[INFO]  CHD     parsed track=11 fad=388373 secsz=2352 type=AUDIO bswap=1
+[INFO]  CHD     parsed track=12 fad=388973 secsz=2352 type=AUDIO bswap=1
+[INFO]  CHD     parsed track=13 fad=398289 secsz=2352 type=AUDIO bswap=1
+[INFO]  CHD     parsed track=14 fad=407295 secsz=2352 type=AUDIO bswap=1
+[INFO]  CHD     parsed track=15 fad=417189 secsz=2352 type=AUDIO bswap=1
+[INFO]  CHD     parsed track=16 fad=425541 secsz=2352 type=AUDIO bswap=1
+[INFO]  CHD     parsed track=17 fad=434024 secsz=2352 type=AUDIO bswap=1
+[INFO]  CHD     parsed track=18 fad=442893 secsz=2352 type=AUDIO bswap=1
+[INFO]  CHD     parsed track=19 fad=451270 secsz=2352 type=AUDIO bswap=1
+[INFO]  CHD     parsed track=20 fad=466217 secsz=2352 type=AUDIO bswap=1
+[INFO]  CHD     parsed track=21 fad=474402 secsz=2352 type=AUDIO bswap=1
+[INFO]  CHD     parsed track=22 fad=482327 secsz=2352 type=AUDIO bswap=1
+[INFO]  CHD     parsed track=23 fad=487602 secsz=2352 type=AUDIO bswap=1
+[INFO]  CHD     parsed track=24 fad=495093 secsz=2352 type=AUDIO bswap=1
+[INFO]  CHD     parsed track=25 fad=495804 secsz=2352 type=AUDIO bswap=1
+[INFO]  CHD     parsed track=26 fad=500943 secsz=2352 type=AUDIO bswap=1
+[INFO]  CHD     parsed track=27 fad=506963 secsz=2352 type=AUDIO bswap=1
+[INFO]  CHD     parsed track=28 fad=507563 secsz=2352 type=AUDIO bswap=1
+[INFO]  CHD     parsed track=29 fad=508163 secsz=2352 type=AUDIO bswap=1
+[INFO]  CHD     parsed track=30 fad=508763 secsz=2352 type=AUDIO bswap=1
+[INFO]  CHD     parsed track=31 fad=509363 secsz=2352 type=AUDIO bswap=1
+[INFO]  CHD     parsed track=32 fad=509963 secsz=2352 type=AUDIO bswap=1
+[INFO]  CHD     parsed track=33 fad=510563 secsz=2352 type=AUDIO bswap=1
+[INFO]  CHD     parsed track=34 fad=511163 secsz=2352 type=AUDIO bswap=1
+[INFO]  CHD     parsed track=35 fad=511763 secsz=2352 type=AUDIO bswap=1
+[INFO]  CHD     parsed track=36 fad=512363 secsz=2352 type=AUDIO bswap=1
+[INFO]  CHD     parsed track=37 fad=512963 secsz=2352 type=AUDIO bswap=1
+[INFO]  CHD     parsed track=38 fad=513600 secsz=2352 type=AUDIO bswap=1
+[INFO]  CHD     parsed track=39 fad=514275 secsz=2352 type=MODE1_RAW bswap=0
+[INFO]  DISC    supports KEYBOARD GUN L JOYX JOYY Y Z DPAD2 R START/A/B/DPAD C X NULL PURUPURU STORAGE VGA WINCE 
+[INFO]  MEM     initialized base=000000001a740000 sram=000000003a740000 vram=000000003b740000 aram=0000000016cc0000 boot=0000000016ec0000
+[INFO]  ROM     load boot rom V:\RetroBat\emulators\redream\boot.bin
+[WARN]  ROM     failed to open V:\RetroBat\emulators\redream\boot.bin
+[INFO]  ROM     load flash rom V:\RetroBat\emulators\redream\flash.bin
+[WARN]  BIOS    overriding unsupported region usa
+[INFO]  BIOS    set region=japan language=english broadcast=ntsc time=0x88b8a7a3
+[INFO]  MAPLE   connected vmu        on port 0:0
+[INFO]  MAPLE   connected lightgun   on port 0:5
+[INFO]  MAPLE   connected vmu        on port 1:0
+[INFO]  MAPLE   connected purupuru   on port 1:1
+[INFO]  MAPLE   connected controller on port 1:5
+[INFO]  MAPLE   connected vmu        on port 2:0
+[INFO]  MAPLE   connected purupuru   on port 2:1
+[INFO]  MAPLE   connected controller on port 2:5
+[INFO]  MAPLE   connected vmu        on port 3:0
+[INFO]  MAPLE   connected purupuru   on port 3:1
+[INFO]  MAPLE   connected controller on port 3:5
+[INFO]  BIOS    boot with hle bootstrap
+[INFO]          write V:\RetroBat\emulators\redream\redream.cfg
+[INFO]          read V:\RetroBat\emulators\redream\redream.cfg
+[INFO]  LIB     verified cache mtime=1659647778
+[INFO]  ARM7    suspend
+[INFO]  ARM7    reset
+[WARN]  SH4     compiling block that uses the FPU while disabled
+[WARN]  SH4     compiling block that uses the FPU while disabled
+[WARN]  SH4     compiling block that uses the FPU while disabled
+[WARN]  SH4     compiling block that uses the FPU while disabled
+[WARN]  SH4     compiling block that uses the FPU while disabled
+[WARN]  SH4     compiling block that uses the FPU while disabled
+[WARN]  SH4     compiling block that uses the FPU while disabled
+[WARN]  SH4     compiling block that uses the FPU while disabled
+[WARN]  SH4     compiling block that uses the FPU while disabled
+[WARN]  SH4     compiling block that uses the FPU while disabled
+[WARN]  SH4     compiling block that uses the FPU while disabled
+[WARN]  SH4     compiling block that uses the FPU while disabled
+[INFO]          port 0 set device 03000000790000000600000000000000
+[INFO]          write V:\RetroBat\emulators\redream\redream.cfg
+[INFO]  SDL     redream v1.5.0-957-ge3e5bd95c shutdown complete

@@ -1,0 +1,154 @@
+script "Infinite Time"  
+run:
+    poke $FFFF4B $99
+script "Select Starting Floor (Choose Beginning Ingame)" \
+ inter=1,61,1 
+run:
+    if (peek($FFA8A6)==$00)
+      poke $FFA8A6 (param-$1)
+    endif
+script " "  
+script "P1 Infinite Magic"  
+run:
+    poke $FFA9BC $99
+script "P1 Infinite Energy (Player)"  
+run:
+    lpoke $FFA98C $1F401F40
+script "P1 Infinite Energy (Partner)"  
+run:
+    poke $FFB7BB $04
+script "P1 Invincibility (Player)"  
+run:
+    poke $FFA9E0 $02
+script "P1 Invincibility (Partner)"  
+run:
+    poke $FFB7C5 $02
+script "P1 Infinite Keys"  
+run:
+    lpoke $FFA9E8 $00090909|(lpeek($FFA9E8)&~$00FFFFFF)
+script "P1 Select Partner" \
+ "0x00/Ninja"\
+ "0x02/Bigfoot"\
+ "0x04/Priest"\
+ "0x06/Magician"\
+ "0x08/Amazone"\
+ "0x0A/Knight"\
+ "0x0C/Thief"\
+ "0x0E/Lizardman" 
+run:
+    poke $FFA9E7 $01
+    poke $FFB7A1 param
+off:
+    poke $FFA9E7 $00
+    poke $FFB7A1 $00
+script "P1 Select Magic Item" \
+ "0x00/None"\
+ "0x01/Pod"\
+ "0x02/Fairy Stone (No Effect)"\
+ "0x03/Extended Charge Label"\
+ "0x04/Magic Stick (No Effect)"\
+ "0x05/Pendant"\
+ "0x06/Gauntlet"\
+ "0x07/Scroll"\
+ "0x08/Gold Crown"\
+ "0x09/Ring"\
+ "0x0A/Blue Stone"\
+ "0x0B/Potion"\
+ "0x0C/10,000 Pts Stone (No Effect)" 
+run:
+    poke $FFA9F6 param
+script "P1 Always have Max Power"  
+run:
+    dpoke $FFA9CA $6060
+script "P1 No Magic Item Floor Limit"  
+run:
+    poke $FFA9F8 $03
+script "P1 No Magic Stick Power Limit"  
+run:
+    poke $FFAA15 $FF
+    poke $FFAA17 $01
+script "P1 Always have Max Weapon"  
+run:
+    dpoke $FFB5A4 $000C
+script "P1 Always have Max Shield"  
+run:
+    dpoke $FFB6A4 $0008
+script "P1 Always have Max Partner"  
+run:
+    dpoke $FFB7A4 $000E
+script "P1 Poison No Effect"  
+run:
+    poke $FFA9E3 $00
+script " "  
+script "P2 Infinite Magic"  
+run:
+    poke $FFAA7C $99
+script "P2 Infinite Energy (Player)"  
+run:
+    lpoke $FFAA4C $1F401F40
+script "P2 Infinite Energy (Partner)"  
+run:
+    poke $FFB8BB $04
+script "P2 Invincibility (Player)"  
+run:
+    poke $FFAAA0 $02
+script "P2 Invincibility (Partner)"  
+run:
+    poke $FFB8C5 $02
+script "P2 Infinite Keys"  
+run:
+    lpoke $FFAAA8 $00090909|(lpeek($FFAAA8)&~$00FFFFFF)
+script "P2 Select Partner" \
+ "0x00/Ninja"\
+ "0x02/Bigfoot"\
+ "0x04/Priest"\
+ "0x06/Magician"\
+ "0x08/Amazone"\
+ "0x0A/Knight"\
+ "0x0C/Thief"\
+ "0x0E/Lizardman" 
+run:
+    poke $FFAAA7 $01
+    poke $FFB8A1 param
+off:
+    poke $FFAAA7 $00
+    poke $FFB8A1 $00
+script "P2 Select Magic Item" \
+ "0x00/None"\
+ "0x01/Pod"\
+ "0x02/Fairy Stone (No Effect)"\
+ "0x03/Extended Charge Label"\
+ "0x04/Magic Stick (No Effect)"\
+ "0x05/Pendant"\
+ "0x06/Gauntlet"\
+ "0x07/Scroll"\
+ "0x08/Gold Crown"\
+ "0x09/Ring"\
+ "0x0A/Blue Stone"\
+ "0x0B/Potion"\
+ "0x0C/10,000 Pts Stone (No Effect)" 
+run:
+    poke $FFAAB6 param
+script "P2 Always have Max Power"  
+run:
+    dpoke $FFAA8A $6060
+script "P2 No Magic Item Floor Limit"  
+run:
+    poke $FFAAB8 $03
+script "P2 No Magic Stick Power Limit"  
+run:
+    poke $FFAAD5 $FF
+    poke $FFAAD7 $01
+script "P2 Always have Max Weapon"  
+run:
+    dpoke $FFB624 $000C
+script "P2 Always have Max Shield"  
+run:
+    dpoke $FFB724 $0008
+script "P2 Always have Max Partner"  
+run:
+    dpoke $FFB8A4 $000E
+script "P2 Poison No Effect"  
+run:
+    poke $FFAAA3 $00
+script " "  

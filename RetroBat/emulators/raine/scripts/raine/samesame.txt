@@ -1,0 +1,22 @@
+script "Infinite Lives"  
+run:
+    poke $C1B17 $0A
+script "Infinite Bombs"  
+run:
+    poke $C12E9 $0A
+script "Invincibility"  
+run:
+    poke $02320 $60
+    dpoke $022CC $4E71
+script "Get Shot Level Up Now!"  
+on:
+    poke $C1B2F $03
+script "Always Maximum Shot Power"  
+run:
+    poke $C12E7 $03
+script "Select Weapon" \
+ "0x00/Normal Weapon"\
+ "0x08/Laser Weapon"\
+ "0x10/Fire Weapon" 
+run:
+    poke $C12E3 param

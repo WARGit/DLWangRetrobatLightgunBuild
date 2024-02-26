@@ -1,0 +1,98 @@
+script "Infinite Credits"  
+run:
+    poke $FF0FFE $09
+script "Pause/Unpause Shop Timer"  
+run:
+    poke $FFE00B $02
+script "Infinite Shield"  
+run:
+    poke $FF2F00 $05
+    poke $FF2F03 $05
+    poke $FF15D7 $02
+    poke $FF2EA0 $05
+    poke $FF2EA3 $05
+    poke $FF1657 $02
+script "Always face to the Right"  
+run:
+    poke $FF10D6 $00
+script "Always face to the Left"  
+run:
+    poke $FF10D6 $04
+script "Flip to face to the Right Now!" \
+ "comm:Best used with an activation key - Can cause scrolling problems"  
+on:
+    poke $FF10D6 $00
+script "Flip to face to the Left Now!" \
+ "comm:Best used with an activation key - Can cause scrolling problems"  
+on:
+    poke $FF10D6 $04
+script " "  
+script "P1 Invincibility"  
+run:
+    poke $FF15C3 $02
+script "P1 Infinite Money"  
+run:
+    poke $FF160B $09
+script "P1 Always have Max 2nd Weapon (level 7)"  
+run:
+    poke $FF15D3 $06
+script "P1 Infinite Second Weapon"  
+run:
+    poke $FF15E3 $63
+script "P1 Always have Phoenix as 2nd Weapon"  
+run:
+    poke $FF15E1 $00
+script "P1 Rapid Fire - Main Shot"  
+run:
+    dpoke $FF15D9 $0011
+script "P1 Rapid Fire - Extra Weapon"  
+run:
+    dpoke $FF15DF $0100
+script "P1 Select 2nd Weapon" \
+ "comm:The TEXT display may NOT be updated between stages though" \
+ "0x00/Phoenix"\
+ "0x04/Falcon"\
+ "0x08/Bomb"\
+ "0x0C/Bomb II"\
+ "0x10/Napalm"\
+ "0x14/Napalm II"\
+ "0x1C/Bullpup"\
+ "0x20/Bullpup II"\
+ "0x34/Super Shell"\
+ "0x38/Super Shell II" 
+run:
+    poke $FF15E1 param
+script " "  
+script "P2 Invincibility"  
+run:
+    poke $FF1643 $02
+script "P2 Infinite Money"  
+run:
+    poke $FF168B $09
+script "P2 Always have Max 2nd Weapon (level 7)"  
+run:
+    poke $FF1653 $06
+script "P2 Infinite Second Weapon"  
+run:
+    poke $FF1663 $63
+script "P2 Rapid Fire - Main Shot"  
+run:
+    dpoke $FF1659 $0011
+script "P2 Rapid Fire - Extra Weapon"  
+run:
+    dpoke $FF165F $0100
+script "P2 Select 2nd Weapon" \
+ "comm:The TEXT display may NOT be updated between stages though" \
+ "0x00/Phoenix"\
+ "0x04/Falcon"\
+ "0x08/Bomb"\
+ "0x0C/Bomb II"\
+ "0x10/Napalm"\
+ "0x14/Napalm II"\
+ "0x1C/Bullpup"\
+ "0x20/Bullpup II"\
+ "0x34/Super Shell"\
+ "0x38/Super Shell II" 
+run:
+    poke $FF1661 param
+script " "  

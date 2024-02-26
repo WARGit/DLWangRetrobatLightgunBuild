@@ -1,0 +1,46 @@
+script "Infinite Time"  
+run:
+    poke $FF0ECD $09
+script "Select Starting Mission" \
+ "0x00/Mission 1"\
+ "0x01/Mission 2"\
+ "0x02/Mission 3"\
+ "0x03/Mission 4"\
+ "0x04/Mission 5"\
+ "0x05/Mission 6"\
+ "0x06/Final Mission" 
+run:
+    if (peek($FF0B83)==$FF)and(peek($FF0E8B)==$00)
+      poke $FF0E8B param
+    endif
+script " "  
+script "P1 Infinite Energy"  
+run:
+    poke $FF1175 $30
+script "P1 Invincibility"  
+run:
+    poke $FF1190 $59
+script "P1 Infinite Missiles"  
+run:
+    poke $FF117C $99
+script " "  
+script "P2 Infinite Energy"  
+run:
+    poke $FF1225 $30
+script "P2 Invincibility"  
+run:
+    poke $FF1240 $59
+script "P2 Infinite Missiles"  
+run:
+    poke $FF122C $99
+script " "  
+script "P3 Infinite Energy"  
+run:
+    poke $FF12D5 $30
+script "P3 Invincibility"  
+run:
+    poke $FF12F0 $59
+script "P3 Infinite Missiles"  
+run:
+    poke $FF12DC $99
+script " "  

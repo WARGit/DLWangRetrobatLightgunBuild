@@ -1,0 +1,56 @@
+script "Infinite Time"  
+on:
+    temp0=peek($F0177)
+run:
+    if (frame%300==$0)and(peek($F0177)!=temp0)
+      poke $F0177 $99
+    endif
+script "Infinite Life"  
+on:
+    temp0=peek($F007F)
+run:
+    if (frame%120==$0)and(peek($F007F)!=temp0)
+      poke $F007F $03
+    endif
+script "Invincibility"  
+on:
+    temp0=peek($148F1)
+    temp1=dpeek($148F6)
+run:
+    poke $148F1 $87
+    dpoke $148F6 $0002
+off:
+    poke $148F1 temp0
+    dpoke $148F6 temp1
+script "Select Energy Charge Speed" \
+ "0x52/Normal"\
+ "0x54/x2"\
+ "0x58/x4" 
+on:
+    temp0=peek($1491A)
+run:
+    poke $1491A param
+off:
+    poke $1491A temp0
+script "Select Shot" \
+ "0x01/Grapple Hook"\
+ "0x02/Shuriken"\
+ "0x03/Knife"\
+ "0x04/3 Knife" 
+run:
+    poke $F00BD param
+script "Select Power Level" \
+ "0x01/Level 1"\
+ "0x02/Level 2"\
+ "0x03/Level 3"\
+ "0x04/Level 4"\
+ "0x05/Level 5 (Maximum)" 
+run:
+    poke $F00CF param
+script " "  
+script "P1 Infinite Lives"  
+run:
+    poke $F0029 $09
+script "P2 Infinite Lives"  
+run:
+    poke $F002B $09

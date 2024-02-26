@@ -1,0 +1,23 @@
+script "Infinite Credits"  
+run:
+    poke $1C0003 $99
+script "Infinite Time"  
+run:
+    dpoke $1C0078 $0999
+script "One Hit Kills"  
+on:
+    temp0=lpeek($019B54)
+run:
+    lpoke $019B54 $42214221
+off:
+    lpoke $019B54 temp0
+script " "  
+script "P1 Infinite Energy"  
+run:
+    dpoke $1C013C $0999
+script "P2 Infinite Energy"  
+run:
+    dpoke $1C01F0 $0999
+script "P3 Infinite Energy"  
+run:
+    dpoke $1C02A4 $0999
