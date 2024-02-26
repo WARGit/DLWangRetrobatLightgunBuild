@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="19226">
+		<path>./Tin Star (USA).zip</path>
+		<name>Tin Star</name>
+		<desc>Tin Star is a robot Sheriff in the Ol' West. He has vowed to rid the town of the Bad Oil gang and their leader, Black Bart, within a week. Along with his sidekick Mo Crash and even more importantly his six-gun he will try to accomplish this task.
+
+The game takes place over a week with each day being a different stage. Stages are broken down into 4 parts. The first part is a training section where players can practice shooting. The next two parts are action scenes. In the action scenes, gameplay consists of moving a cross-hair over various enemies and shooting them. The final part ends the day with a showdown. The showdown involves a one on one duel in which a draw icon will randomly pop up anywhere on the screen which must be shot then immediately afterwards the enemy the player is facing then must also be shot. This continues on until either the player's or the enemy's life bar is drained.
+
+If a player doesn't shoot an energy canteen during a level a bonus screen will appear. The bonus screen shows a woman spinning around on a round board with stars next to her body. Shooting the stars without missing and without accidentally shooting the woman will help players pick up large amounts of money.
+
+At the end of a level the amount of money made is tallied up. For every bullet wasted and damage taken the player loses money. The player gains money equal to the their accuracy and the amount of energy they had left at the end of the stage.</desc>
+		<image>./images/Tin Star (USA)-image.png</image>
+		<video>./videos/Tin Star (USA)-video.mp4</video>
+		<marquee>./images/Tin Star (USA)-marquee.png</marquee>
+		<thumbnail>./images/Tin Star (USA)-thumb.png</thumbnail>
+		<releasedate>19941101T000000</releasedate>
+		<developer>Software Creations</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>54981549724b1da80e7f52407f9c83cf</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="19002">
+		<path>./Battle Clash (USA).zip</path>
+		<name>Battle Clash</name>
+		<desc>Battle Clash is a game that uses the Super Scope light gun peripheral. In this game, you fight in a futuristic version of the world as a warrior named Michael Anderson, who takes part in a competition simply known as the "Battle Game". Contestants in the Battle Game fight using mobile Standing Tanks (or STs for short), that come with a variety of weapon systems and forms.
+
+To defeat the enemies in each stage, you must shot at weak spots on their armor to cause damage to them. The game scrolls automatically along with the opponent, so you cannot manually dodge bullets. You will have to play defensively by shooting them down.</desc>
+		<image>./images/Battle Clash (USA)-image.png</image>
+		<video>./videos/Battle Clash (USA)-video.mp4</video>
+		<marquee>./images/Battle Clash (USA)-marquee.png</marquee>
+		<thumbnail>./images/Battle Clash (USA)-thumb.png</thumbnail>
+		<fanart>./images/Battle Clash (USA)-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>19921001T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>2</players>
+		<playcount>13</playcount>
+		<lastplayed>20220908T183005</lastplayed>
+		<md5>d9b2a11d20a10fe4f82be4a92481d3d3</md5>
+		<gametime>998</gametime>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="18928">
+		<path>./Bazooka Blitzkrieg (USA).zip</path>
+		<name>Bazooka Blitzkrieg</name>
+		<desc>Sylon Corporation's robots, the XT7 Cyborg-Commando Fighting Machines, have gotten out of control and threaten the city. The citizens are in danger and the only way to stop them is to destroy them.
+
+Bazooka Blitzkrieg is a first person shooter game that uses the Super Scope light gun. Players begin the game in either Blitzkreig mode or Boot Camp (Training for each of the levels). Upon starting the game, the screen slowly moved from left to right. The player fires his weapon at the different robots to destroy them. The scope's fire has a regular "machine gun" firing, as well as a more powerful charged-up shot. There are three levels in all and bosses at the end of each level which must be destroyed in sections.</desc>
+		<image>./images/Bazooka Blitzkrieg (USA)-image.png</image>
+		<video>./videos/Bazooka Blitzkrieg (USA)-video.mp4</video>
+		<marquee>./images/Bazooka Blitzkrieg (USA)-marquee.png</marquee>
+		<thumbnail>./images/Bazooka Blitzkrieg (USA)-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>19921101T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>1</players>
+		<playcount>4</playcount>
+		<lastplayed>20221225T192943</lastplayed>
+		<md5>079eade13305bcc130e09597faeff4f0</md5>
+		<gametime>219</gametime>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="19217">
+		<path>./Super Scope 6 (USA).zip</path>
+		<name>Super Scope 6</name>
+		<desc>Super Scope 6 is the pack-in game for the Super Scope peripheral, which is required to play this game. The emphasis of Super Scope 6's gameplay is on first person shooting, using the required Super Scope accessory to aim. It features a total of six game modes, categorized as either Blastris or LaserBlazer.
+
+Blastris Mode features a variety of unrelated games.
+
+1. Blastris A is a falling block game based on Tetris and plays very similar. Blocks appear on the left side of the screen and move towards the right side of the screen, where they will fit into play. The goal is to have the blocks on any column line up and destroy themselves. Each level requires five of these to happen. Unlike Tetris, the player cannot move or even rotate blocks. Instead each section of the block can be destroyed by shooting it. Higher difficulty levels increase the speed of gameplay
+2. Blastris B is a falling block game based on Columns and Puyo Puyo. On each screen are a number of "jelly blocks" which must be destroyed to complete the stage. New blocks appear at the top of the screen and move towards the bottom where they fit into play. Blocks can be destroyed by lining up a row of 4 blocks of the same colour. The player is unable to move the falling blocks but may cycle their colour by shooting at them.
+3. Mole Patrol is combination of Whack-a-Mole and a shooting gallery. A number of moles appear on the screen with a flag indicating the amount that need to be destroyed that level, before jumping into a pipe. From there the moles will climb out of any one of 12 holes on the screen and the player must shoot them as fast as possible. Along with regular moles are pink moles that will temporarily speed up gameplay, making shots more difficult.
+
+LazerBlazer Mode feature a group of games set in a military atmosphere.
+
+1. Type A: Intercept is a first person shooting game where the player shoots down incoming missiles and airplanes. These missiles/planes appear on the right side of the screen and move towards the left side. A radar is also given to the player to keep track of overall positions of these objects on the screen. Ammunition is limited and the player must shoot down a certain amount each level.
+4. Type B: Engage is a first person shooting game where the player shoots down incoming missiles and airplanes, which will cautiously open fire on the player. These missiles/planes appear in front of the player, in the distance and move towards the player. The player has limited energy which is decreased when hit by an enemy. A radar is also given to the player to keep track of overall positions of these objects on the screen. Ammunition is limited and the player must shoot down a certain amount each level. 
+5. Type C: Confront is a first person shooting game where the player shoots down incoming spacecraft, which will actively open fire on the player. These UFOs can appear anywhere on the screen and the player must shoot them down before they open fire on the player. Each hit by an enemy decreases the player's shield energy. A radar is also given to the player to keep track of overall positions of these objects on the screen. Ammunition is limited and the player must shoot down a certain amount each level.</desc>
+		<image>./images/Super Scope 6 (USA)-image.png</image>
+		<video>./videos/Super Scope 6 (USA)-video.mp4</video>
+		<marquee>./images/Super Scope 6 (USA)-marquee.png</marquee>
+		<thumbnail>./images/Super Scope 6 (USA)-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>19920201T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20220830T103529</lastplayed>
+		<md5>a17d52680cc29e46ce41da360e8febe3</md5>
+		<gametime>544</gametime>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="18988">
+		<path>./X Zone (Japan, USA).zip</path>
+		<name>X Zone</name>
+		<desc>Compond X's powerful bio-computer has begun to malfunction and "X-Tra", aka the external threat recognition assault system, is firing on anything that moves. In fact, the computer has accessed the nation's nuclear weapon countdown systems for a retaliatory strike. Since nuclear war might X-tinguish life on the planet, the player must enter the X-Termination zone of the compound and fight on through defenses to the central computer.
+
+X-Zone is a first person light gun game. The player must shoot the robotic enemies on the screen and the projectiles that they launch at the player. Most levels are ended with a battle against a boss, which follows specific patterns and whose systems/weapons must be shot at and destroyed individually.</desc>
+		<image>./images/X Zone (Japan, USA)-image.png</image>
+		<video>./videos/X Zone (Japan, USA)-video.mp4</video>
+		<marquee>./images/X Zone (Japan, USA)-marquee.png</marquee>
+		<thumbnail>./images/X Zone (Japan, USA)-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>19921101T000000</releasedate>
+		<developer>Kemco</developer>
+		<publisher>Kemco</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>1</players>
+		<playcount>2</playcount>
+		<lastplayed>20220903T133311</lastplayed>
+		<md5>a316475dfca41b864b7be021afbcad00</md5>
+		<gametime>104</gametime>
+		<lang>jp,en</lang>
+		<region>us</region>
+	</game>
+</gameList>

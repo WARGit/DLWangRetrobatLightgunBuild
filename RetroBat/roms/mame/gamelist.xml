@@ -1,0 +1,1864 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./desertgu.zip</path>
+		<name>Desert Gun</name>
+		<desc>Arcade Video game published 45 years ago:
+
+Desert Gun (c) 1977 Midway.
+
+A first-person shoot'em up. It takes place in a desert where the player tries to shoot roadrunners, buzzards and other animals.
+
+- TECHNICAL -
+
+Game No. 618
+
+Main CPU: Intel 8080 (@ 1.9968 Mhz)
+Sound Chips: Discrete circuitry
+
+Screen orientation: Horizontal
+Video resolution: 256 x 224 pixels
+Screen refresh: 60.00 Hz
+Palette colors: 2
+
+Players: 1
+Control: lightgun
+Buttons: 1
+
+- TRIVIA -
+
+Released in July 1977.
+
+Desert Gun was originally named "Road Runner (Midway Mfg. Co. [USA])". The name was changed when Midway merged with Bally who had a game by the same title. According to Jay Fenton, the real reason for the name change was to avoid legal problems with Warner Bros.
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=626&amp;o=2</desc>
+		<image>./images/desertgu-image.png</image>
+		<video>./videos/desertgu-video.mp4</video>
+		<marquee>./images/desertgu-marquee.png</marquee>
+		<thumbnail>./images/desertgu-thumb.png</thumbnail>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Dave Nutting Associates / Midway</developer>
+		<publisher>Dave Nutting Associates / Midway</publisher>
+		<genre>Shooter / Gun</genre>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20220922T041913</lastplayed>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ArcadeDB" date="20220922T054443" />
+	</game>
+	<game>
+		<path>./hitnmiss.zip</path>
+		<name>Hit 'n Miss (version 3.0)</name>
+		<desc>Arcade Video game published 35 years ago:
+
+Hit 'n Miss (c) 1987 Exidy.
+
+A child-friendly shooting game where you simply avoid the good targets and shoot the bad ones.
+
+- TECHNICAL -
+
+Exidy 440 hardware
+
+Main CPU: Motorola M6809 (@ 1.6224 Mhz)
+Sound CPU: Motorola M6809 (@ 811.2 Khz)
+Sound Chips: Custom (@ 50.7 Khz)
+
+Screen orientation: Horizontal
+Video resolution: 320 x 240 pixels
+Screen refresh: 60.00 Hz
+Palette colors: 256
+
+Players: 1
+Control: lightgun
+Buttons: 1
+
+- STAFF -
+
+Designed &amp; programmed by: Larry Hutcherson, Vic Tolomei, Ken Nicholson
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=1131&amp;o=2</desc>
+		<image>./images/hitnmiss-image.png</image>
+		<video>./videos/hitnmiss-video.mp4</video>
+		<marquee>./images/hitnmiss-marquee.png</marquee>
+		<thumbnail>./images/hitnmiss-thumb.png</thumbnail>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Exidy</developer>
+		<publisher>Exidy</publisher>
+		<genre>Shooter / Gun</genre>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20220922T042423</lastplayed>
+		<gametime>10</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ArcadeDB" date="20220922T054445" />
+	</game>
+	<game>
+		<path>./cracksht.zip</path>
+		<name>Crackshot (version 2.0)</name>
+		<desc>Arcade Video game published 37 years ago:
+
+Crackshot (c) 1985 Exidy.
+
+A First-person shoot'em up gallery style game. A player must use his skill to shoot a number of 'good' targets, while not shooting the 'bad' ones, before time runs out. The game has several levels including a bar, Varmit Alley, Bank Robbers, Robots, Birds, outer space, Bank robbers again and a Bonus 'Slot machine' level.
+
+- TECHNICAL -
+
+Exidy 440 hardware
+
+Main CPU: Motorola M6809 (@ 1.6224 Mhz)
+Sound CPU: Motorola M6809 (@ 811.2 Khz)
+Sound Chips: Custom (@ 50.7 Khz)
+
+Screen orientation: Horizontal
+Video resolution: 320 x 240 pixels
+Screen refresh: 60.00 Hz
+Palette colors: 256
+
+Players: 1
+Control: lightgun
+Buttons: 1
+
+- TRIVIA -
+
+The music in the city stage (where you shoot at criminals) is the actual opening guitar riff from the song 'Secret Agent Man'.
+
+Pat Harman holds the official record for this game with 4,885,140 points on June 28, 1986.
+
+- TIPS AND TRICKS -
+
+* If the Start button is held down at power-up, you will be allowed access to the configuration menu where you can put your name on the mirror in the bar scene.
+
+- STAFF -
+
+Software: Larry Hutcherson, Vic Tolomei, Ken Nicholson
+Hardware: Howell Ivy
+Graphics: Lynn Pointer
+Audio: Ken Nicholson
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=522&amp;o=2</desc>
+		<image>./images/cracksht-image.png</image>
+		<video>./videos/cracksht-video.mp4</video>
+		<marquee>./images/cracksht-marquee.png</marquee>
+		<thumbnail>./images/cracksht-thumb.png</thumbnail>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Exidy</developer>
+		<publisher>Exidy</publisher>
+		<genre>Shooter / Gun</genre>
+		<players>1</players>
+		<playcount>2</playcount>
+		<lastplayed>20220922T041756</lastplayed>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ArcadeDB" date="20220922T054446" />
+	</game>
+	<game>
+		<path>./cheyenne.zip</path>
+		<name>Cheyenne (version 1.0)</name>
+		<desc>Arcade Video game published 38 years ago:
+
+Cheyenne (c) 1984 Exidy.
+
+A first-person shoot'em up game, with a western motif. The player uses a gun (mounted to the cabinet) to escort the sheriff through a variety of dangers, gathering bounty for capturing criminals. There are 7 levels or scenes plus the bonus level:
+
+1) SALOON SCENE - Protect yourself from outlaws, armed with guns and knives, flying chairs and bottles, rolling barrels and raging bulls. Buster this is no time for a drink!
+
+2) GRAVEYARD SCENE - Beware of ghosts, ghouls, killer cats, demons and armed outlaws.
+
+3) GHOST TOWN - Defend buster against skeletons, undertaker throwing pitch forks, the headless horseman, ghosts, skeletal bird, etc...
+
+4) CANYON SCENE - Poor buster is trapped by cannon fire, bombs, flying arrow and hatchets, can you possibly saves him and defeat the outlaws?
+
+5) STAGECOACH SCENE - Ride through the desert looking out for outlaws, flaming arrows, egg dropping bird vultures, wild indians, etc...
+
+6) FOREST SCENE - Poor buster is really in a fix. Torrential waterfalls, wild animals, tumbling boulders. Is the gold really worth it ?
+
+7) MINESHAFT - Hunt down outlaws while looking out for runaway ore cars, fluttering vampire bats, falling rocks, hungry rats, don't let the lanterns dim busters chances for survival.
+
+8) BONUS ROUND: you've protected buster through a grueling sequence of danger filled episodes, before you dare go on to even more perilous encounters (with even greater bounties) practice shooting is a must. Good luck to you buster!
+
+- TECHNICAL -
+
+Exidy 440 hardware
+
+Main CPU: Motorola M6809 (@ 1.6224 Mhz)
+Sound CPU: Motorola M6809 (@ 811.2 Khz)
+Sound Chips: Custom (@ 50.7 Khz)
+
+Screen orientation: Horizontal
+Video resolution: 320 x 240 pixels
+Screen refresh: 60.00 Hz
+Palette colors: 256
+
+Players: 1
+Control: lightgun
+Buttons: 1
+
+- TRIVIA -
+
+Released in January 1984.
+
+Donn Nauert holds the official record for this game with 319,209,350(!) points on January 27, 1985.
+
+- TIPS AND TRICKS -
+
+* Configuration screen: Holding down the Start button at power-up will bring up configuration screen.
+
+- STAFF -
+
+Designed and programmed by: Larry Hutcherson, Vic Tolomei, Ken Nicholson
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=448&amp;o=2</desc>
+		<image>./images/cheyenne-image.png</image>
+		<video>./videos/cheyenne-video.mp4</video>
+		<marquee>./images/cheyenne-marquee.png</marquee>
+		<thumbnail>./images/cheyenne-thumb.png</thumbnail>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Exidy</developer>
+		<publisher>Exidy</publisher>
+		<genre>Shooter / Gun</genre>
+		<players>1</players>
+		<playcount>2</playcount>
+		<lastplayed>20220922T041630</lastplayed>
+		<gametime>17</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ArcadeDB" date="20220922T054452" />
+	</game>
+	<game>
+		<path>./greatgun.zip</path>
+		<name>Great Guns</name>
+		<desc>Arcade Video game published 39 years ago:
+
+Great Guns (c) 1983 Stern Electronics.
+
+Great Guns is a 1- or 2-player game presenting an attractively scenic and sharply defined series of target racks which generates competitive challenge for the players. Features a variety of target scenes (a total of 9 tantalizing scenes are possible depending on the players skill in shooting).
+
+- TECHNICAL -
+
+Main CPU: (2x) Zilog Z80 (@ 4 Mhz), Zilog Z80 (@ 3.5795 Mhz)
+Sound Chips: (2x) General Instrument AY8910 (@ 1.78975 Mhz)
+
+Screen orientation: Horizontal
+Video resolution: 256 x 256 pixels
+Screen refresh: 60.00 Hz
+Palette colors: 256
+
+Players: 2
+Control: lightgun
+Buttons: 4
+
+- TRIVIA -
+
+Great guns has a 'Skill Return' feature which will return player's coin or token in obtaining a pre-set score (adjustable).
+
+- TIPS AND TRICKS -
+
+Hint, Play With A friend!: When two players play, a bonus of additional bullets is awarded each player.
+
+- STAFF -
+
+Designed by Brian Pocklacki, Joseph Joos, Gordon Morison
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=1008&amp;o=2</desc>
+		<image>./images/greatgun-image.png</image>
+		<video>./videos/greatgun-video.mp4</video>
+		<marquee>./images/greatgun-marquee.png</marquee>
+		<thumbnail>./images/greatgun-thumb.png</thumbnail>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Stern Electronics</developer>
+		<publisher>Stern Electronics</publisher>
+		<genre>Shooter / Gun</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220922T042404</lastplayed>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ArcadeDB" date="20220922T054453" />
+	</game>
+	<game>
+		<path>./bang.zip</path>
+		<name>Bang!</name>
+		<desc>Arcade Video game published 24 years ago:
+
+Bang (c) 1998 Gaelco.
+
+Export release. Game developed in Japan. See the original for more information; "Gun Gabacho".
+
+- TRIVIA -
+
+Released in September 1998.
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=179&amp;o=2</desc>
+		<image>./images/bang-image.png</image>
+		<video>./videos/bang-video.mp4</video>
+		<marquee>./images/bang-marquee.png</marquee>
+		<thumbnail>./images/bang-thumb.png</thumbnail>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Gaelco</developer>
+		<publisher>Gaelco</publisher>
+		<genre>Shooter / Gun</genre>
+		<players>2</players>
+		<playcount>3</playcount>
+		<lastplayed>20220922T041229</lastplayed>
+		<gametime>14</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ArcadeDB" date="20220922T054457" />
+	</game>
+	<game>
+		<path>./eggventr.zip</path>
+		<name>Egg Venture (Release 10)</name>
+		<desc>Arcade Video game published 25 years ago:
+
+Egg Venture (c) 1997 The Game Room.
+
+A 'kid-friendly' animated shoot'em up game. Players use an optical gun to shoot at the 'bad eggs' while avoiding shooting the 'good guy eggs'. Players advance stage by stage to 38 different levels by shooting a certain number of targets.
+
+- TECHNICAL -
+
+Main CPU: TMS34010 (@ 5 Mhz)
+Sound Chips: (3x) OKI6295 (@ 15.151 Khz)
+
+Players: 2
+Control: lightgun
+Buttons: 1
+
+- TRIVIA -
+
+Egg Venture was a joint project between arcade parts company 'The Game Room' and 'ICE' (Innovative Creations in Entertainment), each of whom released their own version. The game was programmed by Kyle Hodgetts and does have several minor glitches, mainly down to the nature of the hardware. Problems with the availability of components meant that Kyle was forced to duplicate the sound system three times on the board to achieve polyphony, rather than using a simpler, but more expensive YM/OKI combination. 
+
+Egg Venture does not have an ending and it's only scoring system is the printing of the Dynamic Play Adjustment skill ranking after every 'day'.
+
+The game appears to use (in places) the bass line from 'The Great Egg Race' by Martin Cooke and Richard Denton of BBC Records, although this is apparently a legitimate use, as the music came from a royalty-free library disc.
+
+Following the success of Egg Venture, or more likely to fix the bugs present, a 'Deluxe version' was made.
+
+The Egg Venture characters were later used in a kids redemption game.
+
+- STAFF -
+
+Programmed by: Kyle Hodgetts
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=738&amp;o=2</desc>
+		<image>./images/eggventr-image.png</image>
+		<video>./videos/eggventr-video.mp4</video>
+		<marquee>./images/eggventr-marquee.png</marquee>
+		<thumbnail>./images/eggventr-thumb.png</thumbnail>
+		<releasedate>19970101T000000</releasedate>
+		<developer>ICE / The Game Room</developer>
+		<publisher>ICE / The Game Room</publisher>
+		<genre>Shooter / Gun</genre>
+		<players>2</players>
+		<playcount>4</playcount>
+		<lastplayed>20220922T042215</lastplayed>
+		<gametime>84</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ArcadeDB" date="20220922T054459" />
+	</game>
+	<game>
+		<path>./showdown.zip</path>
+		<name>Showdown (version 5.0)</name>
+		<desc>Arcade Video game published 34 years ago:
+
+Showdown (c) 1988 Exidy.
+
+- TECHNICAL -
+
+Exidy 440 hardware
+
+Main CPU: Motorola M6809 (@ 1.6224 Mhz)
+Sound CPU: Motorola M6809 (@ 811.2 Khz)
+Sound Chips: Custom (@ 50.7 Khz)
+
+Screen orientation: Horizontal
+Video resolution: 320 x 240 pixels
+Screen refresh: 60.00 Hz
+Palette Colors: 256
+
+Players: 1
+Control: lightgun
+Buttons: 8
+
+- TRIVIA -
+
+Released in October 1988.
+
+- STAFF -
+
+Designed and programmed by: Larry Hutcherson, Vic Tolomei, Ken Nicholson
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=2432&amp;o=2</desc>
+		<image>./images/showdown-image.png</image>
+		<video>./videos/showdown-video.mp4</video>
+		<marquee>./images/showdown-marquee.png</marquee>
+		<thumbnail>./images/showdown-thumb.png</thumbnail>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Exidy</developer>
+		<publisher>Exidy</publisher>
+		<genre>Casino / Cards</genre>
+		<players>1</players>
+		<playcount>3</playcount>
+		<lastplayed>20220922T045145</lastplayed>
+		<gametime>13</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ArcadeDB" date="20220922T054500" />
+	</game>
+	<game>
+		<path>./combat.zip</path>
+		<name>Combat (version 3.0)</name>
+		<desc>Arcade Video game published 37 years ago:
+
+Combat (c) 1985 Exidy.
+
+A shooting game with a military motif. The player uses a gun, mounted to the cabinet, to protect allies from a variety of dangers while attempting to break through and conquer enemy lines and get promoted to a higher rank (from Private to General Of The Army) and be awarded a campaign medal.
+
+- TECHNICAL -
+
+It was available as a dedicated game OR as a kit to convert Crossbow and Cheyenne.
+
+Exidy 440 hardware
+
+Main CPU: Motorola M6809 (@ 1.6224 Mhz)
+Sound CPU: Motorola M6809 (@ 811.2 Khz)
+Sound Chips: Custom (@ 50.7 Khz)
+
+Screen orientation: Horizontal
+Video resolution: 320 x 240 pixels
+Screen refresh: 60.00 Hz
+Palette Colors: 256
+
+Players: 1
+Control: lightgun
+Buttons: 1
+
+- TRIVIA -
+
+Later released as "Catch-22".
+
+- STAFF -
+
+Software: Larry Hutcherson, Vic Tolomei, Ken Micholson
+Hardware: Howell Ivy, Mark Von Striver
+Graphics: Lynn Pointer, Ken Nicholson
+Audio: Ken Nicholson
+Art: Rey Maninang
+Support: Pam Banegas
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=486&amp;o=2</desc>
+		<image>./images/combat-image.png</image>
+		<video>./videos/combat-video.mp4</video>
+		<marquee>./images/combat-marquee.png</marquee>
+		<thumbnail>./images/combat-thumb.png</thumbnail>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Exidy</developer>
+		<publisher>Exidy</publisher>
+		<genre>Shooter / Gun</genre>
+		<players>1</players>
+		<playcount>2</playcount>
+		<lastplayed>20220922T041730</lastplayed>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ArcadeDB" date="20220922T054502" />
+	</game>
+	<game>
+		<path>./whodunit.zip</path>
+		<name>Who Dunit (version 9.0)</name>
+		<desc>Arcade Video game published 34 years ago:
+
+Who Dunit (c) 06/1988 Exidy.
+
+A murder mystery shooter where the player uses the gun to protect Max from a variety of attacks as well as give him directions.
+
+- TECHNICAL -
+
+Exidy 440 hardware
+
+Main CPU: Motorola M6809 (@ 1.6224 Mhz)
+Sound CPU: Motorola M6809 (@ 811.2 Khz)
+Sound Chips: Custom (@ 50.7 Khz)
+
+Screen orientation: Horizontal
+Video resolution: 320 x 240 pixels
+Screen refresh: 60.00 Hz
+Palette Colors: 256
+
+Players: 1
+Control: lightgun
+Buttons: 1
+
+- STAFF -
+
+Designed and programmed by: Larry Hutcherson, Vic Tolomei, Ken Nicholson
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=3160&amp;o=2</desc>
+		<image>./images/whodunit-image.png</image>
+		<video>./videos/whodunit-video.mp4</video>
+		<marquee>./images/whodunit-marquee.png</marquee>
+		<thumbnail>./images/whodunit-thumb.png</thumbnail>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Exidy</developer>
+		<publisher>Exidy</publisher>
+		<genre>Shooter / Gun</genre>
+		<players>1</players>
+		<playcount>2</playcount>
+		<lastplayed>20220922T051440</lastplayed>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ArcadeDB" date="20220922T054503" />
+	</game>
+	<game id="40390">
+		<path>./bubbletr.zip</path>
+		<name>Bubble Trouble</name>
+		<desc>Use your gun to shoot fish, crabs and other sea creatures at the bottom of the ocean. This is a sequel to "Golly! Ghost!" that is themed around sunken treasure. It cleverly projects several scenes of video animation onto a real 3-D diorama backdrop.</desc>
+		<image>./images/bubbletr-image.png</image>
+		<video>./videos/bubbletr-video.mp4</video>
+		<marquee>./images/bubbletr-marquee.png</marquee>
+		<thumbnail>./images/bubbletr-thumb.jpg</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Shooter</genre>
+		<family>Golly! Ghost!</family>
+		<arcadesystemname>namco</arcadesystemname>
+		<players>1-2</players>
+		<playcount>3</playcount>
+		<lastplayed>20220922T041552</lastplayed>
+		<md5>48acc135eb5ccac7bfef02fe3fd7aa48</md5>
+		<gametime>91</gametime>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20220922T055928" />
+		<scrap name="TheGamesDB" date="20220922T054734" />
+		<scrap name="ArcadeDB" date="20220922T054442" />
+	</game>
+	<game id="40178">
+		<path>./bbust2.zip</path>
+		<name>Beast Busters 2nd Nightmare</name>
+		<desc>A great sequel to the original game an once again city has been invaded by the undead, the players must shoot using machine guns or bombs to fight against an entire host of monsters including zombies, mutants and other creepy creatures in this frantic first person shooter! Featuring nice graphics in 3D and excellent sounds.
+
+The plot is set in 2009 at the A.D. Tokyo Bay's floating city, "New Tokyo Port Town." Within the international specialized pathologies hospital (ISPH) rising from a corner of the city, an outbreak of an unknown virus severs contact with the outer world... authorities, carefully monitoring the situation, dispatch two marine commandos to investigate and "expedite" the matter. Yet what horror they will witness is...?</desc>
+		<image>./images/bbust2-image.png</image>
+		<marquee>./images/bbust2-marquee.png</marquee>
+		<thumbnail>./images/bbust2-thumb.png</thumbnail>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Shooter</genre>
+		<arcadesystemname>snk</arcadesystemname>
+		<playcount>4</playcount>
+		<lastplayed>20220922T035001</lastplayed>
+		<md5>3b8ef1713d72d2ce77b8b722fd8a83d2</md5>
+		<gametime>71</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220922T055929" />
+		<scrap name="TheGamesDB" date="20220922T054735" />
+		<scrap name="ArcadeDB" date="20220922T054447" />
+	</game>
+	<game id="41315">
+		<path>./g13knd.zip</path>
+		<name>Golgo 13 Kiseki no Dandou</name>
+		<desc>Golgo 13 2 - Kiseki no Dandou (c) 2000 Namco, Ltd.  - TECHNICAL -  Namco System 10 Hardware Game ID : GLS  Main CPU : PSX (@ 16.9344 Mhz), H8/3002 (@ 14.7456 Mhz) Sound Chips : C352 (@ 14.7456 Mhz)  Players : 1 Control : lightgun Buttons : 3  - TRIVIA -</desc>
+		<image>./images/g13knd-image.png</image>
+		<video>./videos/g13knd-video.mp4</video>
+		<marquee>./images/g13knd-marquee.png</marquee>
+		<thumbnail>./images/g13knd-thumb.png</thumbnail>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Eighting</developer>
+		<publisher>Eighting</publisher>
+		<genre>Shooter</genre>
+		<family>Golgo 13</family>
+		<arcadesystemname>eighting</arcadesystemname>
+		<players>1</players>
+		<playcount>2</playcount>
+		<lastplayed>20220922T042331</lastplayed>
+		<md5>09986c8159225f9df4973cfd354c08f3</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220922T055931" />
+		<scrap name="TheGamesDB" date="20220922T054735" />
+		<scrap name="ArcadeDB" date="20220922T054450" />
+	</game>
+	<game id="40791">
+		<path>./cyclshtg.zip</path>
+		<name>Cycle Shooting</name>
+		<desc>Cycle Shooting (c) 1986 Taito.  - TECHNICAL -  Prom Stickers : A97  Main CPU : (2x) Z80 (@ 4 Mhz) Sound CPU : Z80 (@ 4 Mhz) Sound Chips : (2x) AY8910 (@ 2 Mhz), MSM5232 (@ 2 Mhz)  Players : 1 Buttons : 1  - TRIVIA -  Cycle Shooting was released in July 19</desc>
+		<image>./images/cyclshtg-image.png</image>
+		<video>./videos/cyclshtg-video.mp4</video>
+		<marquee>./images/cyclshtg-marquee.png</marquee>
+		<thumbnail>./images/cyclshtg-thumb.png</thumbnail>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Shooter</genre>
+		<arcadesystemname>taito</arcadesystemname>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20220922T041903</lastplayed>
+		<md5>b1057dddd11b630d09d693180f466d42</md5>
+		<gametime>15</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220922T055933" />
+		<scrap name="TheGamesDB" date="20220922T054735" />
+		<scrap name="ArcadeDB" date="20220922T054452" />
+	</game>
+	<game id="41436">
+		<path>./ghlpanic.zip</path>
+		<name>Ghoul Panic</name>
+		<desc>A first-person shooter similar to the "Point Blank" series.</desc>
+		<image>./images/ghlpanic-image.png</image>
+		<video>./videos/ghlpanic-video.mp4</video>
+		<marquee>./images/ghlpanic-marquee.png</marquee>
+		<thumbnail>./images/ghlpanic-thumb.jpg</thumbnail>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Eighting</developer>
+		<publisher>Namco</publisher>
+		<genre>Shooter</genre>
+		<arcadesystemname>eighting</arcadesystemname>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220922T042253</lastplayed>
+		<md5>78783a0202202b47026aaeaef8e8744e</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20220922T055934" />
+		<scrap name="TheGamesDB" date="20220922T054737" />
+		<scrap name="ArcadeDB" date="20220922T054456" />
+	</game>
+	<game id="40340">
+		<path>./borntofi.zip</path>
+		<name>Born To Fight</name>
+		<desc>A first-person shooter game.</desc>
+		<image>./images/borntofi-image.png</image>
+		<video>./videos/borntofi-video.mp4</video>
+		<marquee>./images/borntofi-marquee.png</marquee>
+		<thumbnail>./images/borntofi-thumb.jpg</thumbnail>
+		<releasedate>19890101T000000</releasedate>
+		<publisher>International Games</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220922T041327</lastplayed>
+		<md5>368f56b689f0085fe5491c29c7c8244b</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220922T055936" />
+		<scrap name="TheGamesDB" date="20220922T054738" />
+		<scrap name="ArcadeDB" date="20220922T054501" />
+	</game>
+	<game id="149455">
+		<path>./loffire.zip</path>
+		<name>Line Of Fire / Bakudan Yarou</name>
+		<desc>Line of Fire is a lightgun controlled shoot-em-up for one or two players, in which two commandos find a special weapon - a vehicle mounted, automatic machine pistol - hidden deep within an enemy base. Before they can escape to report their findings, however, they find themselves surrounded by enemy forces and must blast their way through enemy lines and escape, using the enemies' own super weapon against them.</desc>
+		<image>./images/loffire-image.png</image>
+		<video>./videos/loffire-video.mp4</video>
+		<marquee>./images/loffire-marquee.png</marquee>
+		<thumbnail>./images/loffire-thumb.png</thumbnail>
+		<releasedate>19890101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Lightgun Shooter</genre>
+		<arcadesystemname>sega</arcadesystemname>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220922T042846</lastplayed>
+		<md5>1f657127fefad31a69d55074996eebb5</md5>
+		<gametime>10</gametime>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20220922T060346" />
+		<scrap name="ArcadeDB" date="20220922T054354" />
+	</game>
+	<game id="42755">
+		<path>./revx.zip</path>
+		<name>Revolution X</name>
+		<desc>A first-person shooter featuring the multi-platinum selling rock band Aerosmith.
+
+It's 1996 and the US have been taken over by the New Order Nation. The group, led by their commander Mistress Helga, have declared war on youth culture, banning music, TV and video games in the process. Meanwhile at a gig in Los Angeles, members of Aerosmith are captured by the NON. With a machine gun in your hand and the strongest weapon of them all, music, it is your task to end the regime of the New Order Nation and free the Aerosmith members.
+
+Remember... MUSIC IS THE WEAPON!</desc>
+		<image>./images/revx-image.png</image>
+		<video>./videos/revx-video.mp4</video>
+		<marquee>./images/revx-marquee.png</marquee>
+		<thumbnail>./images/revx-thumb.png</thumbnail>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Shooter</genre>
+		<arcadesystemname>midway</arcadesystemname>
+		<players>1-3</players>
+		<playcount>2</playcount>
+		<lastplayed>20220922T044452</lastplayed>
+		<md5>21f6d1f67a7422dd9f992e23de8871de</md5>
+		<gametime>128</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220922T060352" />
+		<scrap name="ArcadeDB" date="20220922T054355" />
+	</game>
+	<game id="40535">
+		<path>./chiller.zip</path>
+		<name>Chiller</name>
+		<desc>This is a gun game, and there are four different screens (plus two different bonus screens). The object is simply to shoot everything in sight (and to try and locate any hidden targets on the screen). The game is based on time, and the timer moves faster when you are shooting poorly.
+The first screen is a torture chamber. There are four (still living) human targets on this screen. From left to right they are; a man chained to the wall, a person in a guillotine (shoot the top of the guillotine to decapitate them), a woman strapped in a strange machine, and a man in a head vise (shoot the vise to crush his head). The rest of the room is strewn with blood and loose body parts. You don't simply shoot each target once, instead you shoot each part of the target, which reduces that part to a mess of blood and bones. This is thankfully the most disturbing level in the game.
+The second room is another torture chamber with a river of blood flowing through the middle. This one has five human targets; a man strapped to a board, a man chained to the floor, two people on stretching racks (shoot the wheels to pull them apart), and a woman hung from rope over the river (shoot a pulley to slowly lower her into the river to be eaten by crocodiles). Body parts will flow down the river randomly, and a man will pop out of a door from time to time to toss a blade into one of the helpless victims.
+The third level is a haunted house hallway. There is only one human victim on this level. It is a woman who runs from one doorway to another, shoot out the trapdoor to cause her to fall inside (and then shoot the beast that was chasing her). Your other targets are mostly assorted ghosts, and a few random body parts that will fall from the ceiling.
+The final level is a graveyard. Your only human victim on this level is a woman who is half buried in the ground, shooting her torso multiple times strips off her clothing until she is topless, and the last shot kills her. You other targets are bats, hands that pop up from the ground, and a man who pulls a cart full of body parts (you can't kill him, shooting him just makes him run away, only to return later).
+
+The game repeats the levels over and over again until you manage to find every secret target on each screen (it gives you hints between the levels). Finding all the targets on a single screen earns you a bonus game (a slot machine), while finding all the hidden targets in the game gives you the second bonus game (a shooting gallery), and a free game.</desc>
+		<image>./images/chiller-image.png</image>
+		<video>./videos/chiller-video.mp4</video>
+		<marquee>./images/chiller-marquee.png</marquee>
+		<thumbnail>./images/chiller-thumb.png</thumbnail>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Exidy, Inc.</developer>
+		<publisher>Exidy, Inc.</publisher>
+		<genre>Shooter</genre>
+		<arcadesystemname>exidy</arcadesystemname>
+		<players>1</players>
+		<playcount>2</playcount>
+		<lastplayed>20220922T041704</lastplayed>
+		<md5>de20ffe9b2a329c79ea61584387338c5</md5>
+		<gametime>11</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220922T060357" />
+		<scrap name="ArcadeDB" date="20220922T054357" />
+	</game>
+	<game id="41000">
+		<path>./dragngun.zip</path>
+		<name>Dragon Gun</name>
+		<desc>A first-person view shoot'em up game.</desc>
+		<image>./images/dragngun-image.png</image>
+		<video>./videos/dragngun-video.mp4</video>
+		<marquee>./images/dragngun-marquee.png</marquee>
+		<thumbnail>./images/dragngun-thumb.png</thumbnail>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Shooter</genre>
+		<arcadesystemname>dataeast</arcadesystemname>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220922T042013</lastplayed>
+		<md5>cbcc8426bd562f735696cc4084b6ba75</md5>
+		<gametime>56</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220922T060408" />
+		<scrap name="ArcadeDB" date="20220922T054359" />
+	</game>
+	<game id="40723">
+		<path>./crossbow.zip</path>
+		<name>Crossbow</name>
+		<desc>Early first-person shoot'em up game with a dungeons and dragons feel about it. Features good speech and screams.
+
+Gameplay requires the player to protect a band of adventurers (referred to as "friends" by the game) from afar by shooting objects that threaten them. The adventurers enter from the left-hand side of the screen and attempt to cross the screen unharmed. If the player helps them reach the opposite side of the screen safely, the adventurers survive to the next scenario, and new adventurers are occasionally granted between scenarios. In addition to the obstacles, the adventurers are vulnerable to the player's shots. The first time the player shoots an adventurer, an on-screen message is shown: "DON'T SHOOT YOUR FRIENDS!" Thereafter, shooting an adventurer will cause him/her to emit a cry of pain, and to walk at a slower pace the rest of the way. A second shot will kill the adventurer.Scenarios are chosen by shooting a destination on a map screen, which include: town, desert, volcano, cave, bridge, jungle, and castle.
+
+The short path to reach the castle is by using the following Color paths -&gt;  Green -&gt; Blue -&gt; Blue -&gt; Red.
+
+The goal is to reach the final scenario, past the castle, in which the player confronts the Masterâ€”who presumably created the dangers in the game. Defeating the Master of Darkness requires shooting him in the eyes when they turn red (and deadly). The player is treated to a brief congratulation and a challenge to defeat the Master again, but if you dare. Following this screen the player starts over with however many adventurers survived the confrontation.</desc>
+		<image>./images/crossbow-image.png</image>
+		<video>./videos/crossbow-video.mp4</video>
+		<marquee>./images/crossbow-marquee.png</marquee>
+		<thumbnail>./images/crossbow-thumb.png</thumbnail>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Exidy, Inc.</developer>
+		<publisher>Exidy, Inc.</publisher>
+		<genre>Shooter</genre>
+		<arcadesystemname>exidy</arcadesystemname>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20220922T041803</lastplayed>
+		<md5>bd36036b4911b04bd73120f4e82c5cfe</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220922T060418" />
+		<scrap name="ArcadeDB" date="20220922T054402" />
+	</game>
+	<game id="42137">
+		<path>./lghost.zip</path>
+		<name>Laser Ghost</name>
+		<desc>A series of heinous events is in progress. Poltergeists are running rampant in the city. As if that wasn't bad enough, a little girl is kidnapped by one of the ghosts in broad daylight. Now it's up to Bill, Max, and Carol to put an end to the paranormal madness.</desc>
+		<image>./images/lghost-image.png</image>
+		<video>./videos/lghost-video.mp4</video>
+		<marquee>./images/lghost-marquee.png</marquee>
+		<thumbnail>./images/lghost-thumb.png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter</genre>
+		<arcadesystemname>sega</arcadesystemname>
+		<players>1-3</players>
+		<playcount>1</playcount>
+		<lastplayed>20220922T042721</lastplayed>
+		<md5>5e0cd9634b5bf07bf661576964887665</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20220922T060438" />
+		<scrap name="ArcadeDB" date="20220922T054406" />
+	</game>
+	<game id="42712">
+		<path>./rchase.zip</path>
+		<name>Rail Chase</name>
+		<desc>Rail Chase is a lightgun controlled one or two player shooting game, in which the players travel in a minecart through a huge rail network; pursued by a multitude of weapon-carrying enemies. The fast-paced action also features sections in which the player comes across junctions in the track and can chose whether to go left or right - the chosen route usually dictating how many tack obstacles and enemies the player must face - this is achieved by shooting the signposts that are situated in the middle of the points. Some sections also have the player's minecart leave the track entirely and travel over open ground.</desc>
+		<image>./images/rchase-image.png</image>
+		<video>./videos/rchase-video.mp4</video>
+		<marquee>./images/rchase-marquee.png</marquee>
+		<thumbnail>./images/rchase-thumb.png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter</genre>
+		<family>Rail Chase</family>
+		<arcadesystemname>sega</arcadesystemname>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220922T044224</lastplayed>
+		<md5>247ed826cd97e848674186d0a5fdb3e8</md5>
+		<gametime>39</gametime>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20220922T060454" />
+		<scrap name="ArcadeDB" date="20220922T054412" />
+	</game>
+	<game id="79168">
+		<path>./nycaptor.zip</path>
+		<name>N.y. Captor</name>
+		<desc>You play a marksman who has to rescue hostages from terrorists. Fire upon enemies from your position, but avoid shooting the bystanders. After the last life has been lost, a sequence shows your character falling from his perch to his death.</desc>
+		<image>./images/nycaptor-image.png</image>
+		<video>./videos/nycaptor-video.mp4</video>
+		<marquee>./images/nycaptor-marquee.png</marquee>
+		<thumbnail>./images/nycaptor-thumb.png</thumbnail>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Shooter</genre>
+		<arcadesystemname>taito</arcadesystemname>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20220922T043303</lastplayed>
+		<md5>4267f69daf897c93529e23a8715eaefd</md5>
+		<gametime>21</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220922T060522" />
+		<scrap name="ArcadeDB" date="20220922T054420" />
+	</game>
+	<game id="41054">
+		<path>./duckhunt.zip</path>
+		<name>Vs. Duck Hunt</name>
+		<desc>The arcade version of Duck Hunt has many differences compared to the NES version.
+It has more animations, a slightly different palette and zero game modes. Instead the game starts with the duck hunting game (with multiple ducks, just like Game B on the NES version), the second stage is the clay pigeon shooting game (the dog makes an appearance if you miss), a bonus stage follows where you can shoot lots of ducks for bonus points (as an even bigger bonus you can shoot the dog to make him appear with a cast and crutches and yell at you), then both levels and bonus repeat again followed by an intermission (called "Break Time") where the dog is chasing a duck.</desc>
+		<image>./images/duckhunt-image.png</image>
+		<video>./videos/duckhunt-video.mp4</video>
+		<marquee>./images/duckhunt-marquee.png</marquee>
+		<thumbnail>./images/duckhunt-thumb.png</thumbnail>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shooter</genre>
+		<arcadesystemname>nintendo</arcadesystemname>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220922T051215</lastplayed>
+		<md5>979397b8074c83fa30f85ca5674a95dc</md5>
+		<gametime>24</gametime>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220922T060536" />
+		<scrap name="ArcadeDB" date="20220922T054423" />
+	</game>
+	<game id="150352">
+		<path>./jpark.zip</path>
+		<name>Jurassic Park</name>
+		<desc>Jurassic Park is an on-the-rails lightgun game for 1 or 2 players, based on the groundbreaking Steven Spielberg movie of the same name.
+
+Jurassic Park features Sega's often-used and highly effective sprite scaled graphics and is very similar in style to another Sega Lightgun shoot-em-up, 1991's "Rail Chase". For subsequent games in the series, graphics technology had moved on somewhat and scaled sprites were dropped in favour of far superior textured polygons.</desc>
+		<image>./images/jpark-image.png</image>
+		<video>./videos/jpark-video.mp4</video>
+		<marquee>./images/jpark-marquee.png</marquee>
+		<thumbnail>./images/jpark-thumb.png</thumbnail>
+		<releasedate>19930101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter</genre>
+		<family>Jurassic Park</family>
+		<arcadesystemname>sega</arcadesystemname>
+		<players>1-2</players>
+		<playcount>3</playcount>
+		<lastplayed>20220922T042702</lastplayed>
+		<md5>482eb25745e0d2cd8ddd2c796b9ff4a7</md5>
+		<gametime>132</gametime>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20220922T060544" />
+		<scrap name="ArcadeDB" date="20220922T054425" />
+	</game>
+	<game id="41437">
+		<path>./ghoshunt.zip</path>
+		<name>Ghost Hunter</name>
+		<desc>Shooter similar to "Tickee Tickats".</desc>
+		<image>./images/ghoshunt-image.png</image>
+		<video>./videos/ghoshunt-video.mp4</video>
+		<marquee>./images/ghoshunt-marquee.png</marquee>
+		<thumbnail>./images/ghoshunt-thumb.png</thumbnail>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Hanaho Games</developer>
+		<publisher>Hanaho Games</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+		<playcount>2</playcount>
+		<lastplayed>20220922T042239</lastplayed>
+		<md5>8631deeb227ddf5c7b7a56e622903d3f</md5>
+		<gametime>11</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220922T060555" />
+		<scrap name="TheGamesDB" date="20220922T054730" />
+		<scrap name="ArcadeDB" date="20220922T054428" />
+	</game>
+	<game id="78888">
+		<path>./mechatt.zip</path>
+		<name>Mechanized Attack</name>
+		<desc>Mechanized Attack is a game where the player uses a machine gun to stage an assault on a tropical island that's home to a cyborg army. Battle through numerous stages beginning with an approach to the island. This first stage is held over the water and features at attack on a number of small gunboats, a helicopter, and an entire battleship. As the player progresses through the stages of the island, the human (and even canine) enemies are revealed to be robots when the flesh is destroyed. At various junctures of the game, the player is allowed to choose which game path to pursue.</desc>
+		<image>./images/mechatt-image.png</image>
+		<video>./videos/mechatt-video.mp4</video>
+		<marquee>./images/mechatt-marquee.png</marquee>
+		<thumbnail>./images/mechatt-thumb.png</thumbnail>
+		<releasedate>19890101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Shooter</genre>
+		<arcadesystemname>snk</arcadesystemname>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220922T043212</lastplayed>
+		<md5>8b99d0de8c79904cbddc3d8ae6a0b106</md5>
+		<gametime>91</gametime>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20220922T060601" />
+		<scrap name="ArcadeDB" date="20220922T054429" />
+	</game>
+	<game id="41488">
+		<path>./golgo13.zip</path>
+		<name>Golgo 13</name>
+		<desc>A lightgun game in which the player, armed with a semi-automatic sniper rifle takes on the role of the world's most lethal and highly paid assassin, Duke Togo: Codename Golgo 13. Unlike other lightgun games Golgo 13 is very story driven and combines both 3-D and 2-D graphic elements.
+
+The player starts their career with a 100 percent accuracy rating and takes on various assignments. Each assignment begins with a 2D comic book storyline and although in Japanese they should still give the player some idea of the background story. The objective of the chosen assignment is then displayed together with the time limit, target zone, and available ammunition.
+
+At the end of each assignment the player is treated to on screen display of their performance. For each assignment successfully completed a large sum of cash is added to the playerâ€™s total, plus an extra sum is awarded for hitting the target zone. If however the player fails to complete the objective or the timer reaches zero, the playerâ€™s accuracy rating is reduced and the player is then moved on to choose the next assignment. The game is over when the playerâ€™s accuracy rating reaches zero.
+
+At the start of the playerâ€™s career, 5 different assignments are available to choose from and can be completed in any order. Once all 5 assignments have been undertaken a new round of assignments becomes available. In total there are 4 rounds each consisting of 5 assignments, with each round becoming progressively harder. The last round includes a special stage which can only be selected after all the assignments have been completed. Upon completion of the special stage the credits roll and the game ends. The player is then once again returned to the start of the game.</desc>
+		<image>./images/golgo13-image.png</image>
+		<video>./videos/golgo13-video.mp4</video>
+		<marquee>./images/golgo13-marquee.png</marquee>
+		<thumbnail>./images/golgo13-thumb.png</thumbnail>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Eighting</developer>
+		<publisher>Eighting</publisher>
+		<genre>Shooter</genre>
+		<family>Golgo 13</family>
+		<arcadesystemname>eighting</arcadesystemname>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20220922T042309</lastplayed>
+		<md5>6dcaa0165b0cb89e61c56caf5257472a</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220922T060606" />
+		<scrap name="TheGamesDB" date="20220922T054731" />
+		<scrap name="ArcadeDB" date="20220922T054430" />
+	</game>
+	<game id="43832">
+		<path>./undrfire.zip</path>
+		<name>Under Fire</name>
+		<desc>Hoping to compete with Konami's "Lethal Enforcers". this Taito light gun shoot 'em-up has players assuming the role of a special operatives police officer against a vicious gang who's taken over various neighbourhoods, a convenience store, and even an amusement park.</desc>
+		<image>./images/undrfire-image.png</image>
+		<video>./videos/undrfire-video.mp4</video>
+		<marquee>./images/undrfire-marquee.png</marquee>
+		<thumbnail>./images/undrfire-thumb.png</thumbnail>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Shooter</genre>
+		<arcadesystemname>taito</arcadesystemname>
+		<players>1-2</players>
+		<playcount>3</playcount>
+		<lastplayed>20220922T051144</lastplayed>
+		<md5>1fea4ccd81013cd6cc7e5ac226b3eb7a</md5>
+		<gametime>12</gametime>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20220922T060617" />
+		<scrap name="ArcadeDB" date="20220922T054433" />
+	</game>
+	<game id="43199">
+		<path>./spacegun.zip</path>
+		<name>Space Gun</name>
+		<desc>As a member of a special Search And Rescue unit. you (and an optional friend) are told to investigate an S.O.S. distress signal that was sent from a space station. what you don't know is that a group of vicious aliens have taken the colonists hostage. luckily for you, you're armed with a plasma pulse gun and four sets of grenades that are quite special (aside from the common grenade that explodes, some will freeze, incinerate, and even slice and dice the aliens).</desc>
+		<image>./images/spacegun-image.png</image>
+		<video>./videos/spacegun-video.mp4</video>
+		<marquee>./images/spacegun-marquee.png</marquee>
+		<thumbnail>./images/spacegun-thumb.png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Shooter</genre>
+		<arcadesystemname>taito</arcadesystemname>
+		<players>1-2</players>
+		<playcount>2</playcount>
+		<lastplayed>20220922T045247</lastplayed>
+		<md5>18483978d1b465c3db25d15c1b537aaf</md5>
+		<gametime>44</gametime>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20220922T060622" />
+		<scrap name="ArcadeDB" date="20220922T054435" />
+	</game>
+	<game id="40791">
+		<path>./bronx.zip</path>
+		<name>Cycle Shooting</name>
+		<desc>Cycle Shooting (c) 1986 Taito.  - TECHNICAL -  Prom Stickers : A97  Main CPU : (2x) Z80 (@ 4 Mhz) Sound CPU : Z80 (@ 4 Mhz) Sound Chips : (2x) AY8910 (@ 2 Mhz), MSM5232 (@ 2 Mhz)  Players : 1 Buttons : 1  - TRIVIA -  Cycle Shooting was released in July 19</desc>
+		<image>./images/bronx-image.png</image>
+		<video>./videos/bronx-video.mp4</video>
+		<marquee>./images/bronx-marquee.png</marquee>
+		<thumbnail>./images/bronx-thumb.png</thumbnail>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Shooter</genre>
+		<arcadesystemname>taito</arcadesystemname>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20220922T041350</lastplayed>
+		<md5>7aa56723fac68ec35a6cf3429952431e</md5>
+		<gametime>13</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220922T060633" />
+		<scrap name="ArcadeDB" date="20220922T054438" />
+	</game>
+	<game id="44074">
+		<path>./wildplt.zip</path>
+		<name>Wild Pilot</name>
+		<desc>The player pilots an old-fashioned biplane which he or she sees from behind and slightly above. The plane moves through constantly-scrolling clouds, over cities, etc. and shoots at a wide variety of on-coming aerial enemies.
+Each game comprises of six novice bosses and four expert bosses that can only be challenged after you beat the six bosses.</desc>
+		<image>./images/wildplt-image.png</image>
+		<video>./videos/wildplt-video.mp4</video>
+		<marquee>./images/wildplt-marquee.png</marquee>
+		<thumbnail>./images/wildplt-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Jaleco</developer>
+		<publisher>Jaleco</publisher>
+		<genre>Shooter</genre>
+		<arcadesystemname>jaleco</arcadesystemname>
+		<players>1-2</players>
+		<playcount>2</playcount>
+		<lastplayed>20220922T051658</lastplayed>
+		<md5>535ae62be77320a459cc5143f1fe86a9</md5>
+		<gametime>121</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220922T060640" />
+		<scrap name="ArcadeDB" date="20220922T054439" />
+	</game>
+	<game id="42159">
+		<path>./lockload.zip</path>
+		<name>Locked 'n Loaded</name>
+		<desc>Locked &amp;#039;n Loaded &amp;copy; 1994 Data East.</desc>
+		<image>./images/lockload-image.png</image>
+		<marquee>./images/lockload-marquee.png</marquee>
+		<thumbnail>./images/lockload-thumb.png</thumbnail>
+		<releasedate>19940101T000000</releasedate>
+		<publisher>Data East</publisher>
+		<genre>Shooter</genre>
+		<arcadesystemname>dataeast</arcadesystemname>
+		<players>1-2</players>
+		<playcount>5</playcount>
+		<lastplayed>20220922T043027</lastplayed>
+		<md5>c6862fe6c8f4157237b9ed18c6d4de95</md5>
+		<gametime>37</gametime>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20220922T060650" />
+		<scrap name="TheGamesDB" date="20220922T054733" />
+		<scrap name="ArcadeDB" date="20220922T054440" />
+	</game>
+	<game id="43999">
+		<path>./vsgshoe.zip</path>
+		<name>Vs. Gumshoe</name>
+		<desc>A platform game where you use a gun to shoot various baddies including birds and cars and to make Stevenson jump.</desc>
+		<image>./images/vsgshoe-image.png</image>
+		<video>./videos/vsgshoe-video.mp4</video>
+		<marquee>./images/vsgshoe-marquee.png</marquee>
+		<thumbnail>./images/vsgshoe-thumb.png</thumbnail>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform / Run Jump</genre>
+		<arcadesystemname>nintendo</arcadesystemname>
+		<players>1</players>
+		<playcount>4</playcount>
+		<lastplayed>20220922T064230</lastplayed>
+		<md5>e669f109d54819d94c791f4d90bb061c</md5>
+		<gametime>16</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220922T060413" />
+		<scrap name="ArcadeDB" date="20220922T054400" />
+	</game>
+	<game id="43996">
+		<path>./vsfdf.zip</path>
+		<name>Vs. Freedom Force</name>
+		<desc>Vs. Freedom Force (c) 1988 Konami.  - TECHNICAL -  Main CPU : N2A03 (@ 1.789772 Mhz) Sound Chips : N2A03 (@ 1.789772 Mhz), DAC (@ 1.789772 Mhz)  Screen orientation : Horizontal Video resolution : 256 x 240 pixels Screen refresh : 60.00 Hz Palette colors :</desc>
+		<image>./images/vsfdf-image.png</image>
+		<video>./videos/vsfdf-video.mp4</video>
+		<marquee>./images/vsfdf-marquee.png</marquee>
+		<thumbnail>./images/vsfdf-thumb.png</thumbnail>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Sunsoft</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<playcount>4</playcount>
+		<lastplayed>20220922T064250</lastplayed>
+		<md5>963db2e355adeed22be5be7ca3e56f29</md5>
+		<gametime>15</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220922T060422" />
+		<scrap name="TheGamesDB" date="20220922T054727" />
+		<scrap name="ArcadeDB" date="20220922T054402" />
+	</game>
+	<game>
+		<path>./hogalley.zip</path>
+		<name>Vs. Hogan's Alley (set HA4-1 E-1)</name>
+		<desc>Arcade Video game published 37 years ago:
+
+Vs. Hogan's Alley (c) 1985 Nintendo.
+
+- TECHNICAL -
+
+Main CPU: Zetex N2A03 (@ 1.789772 Mhz)
+Sound Chips: Zetex N2A03 (@ 1.789772 Mhz), DAC (@ 1.789772 Mhz)
+
+Screen orientation: Horizontal
+Video resolution: 256 x 240 pixels
+Screen refresh: 60.00 Hz
+Palette colors: 64
+
+Players: 1
+Control: lightgun
+Buttons: 1
+
+- TRIVIA -
+
+Jack Gale holds the official record for this game with 2,738,100 points.
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=3103&amp;o=2</desc>
+		<image>./images/hogalley-image.png</image>
+		<video>./videos/hogalley-video.mp4</video>
+		<marquee>./images/hogalley-marquee.png</marquee>
+		<thumbnail>./images/hogalley-thumb.png</thumbnail>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shooter / Gun</genre>
+		<players>1</players>
+		<playcount>2</playcount>
+		<lastplayed>20220922T064206</lastplayed>
+		<gametime>13</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ArcadeDB" date="20220922T054458" />
+	</game>
+	<game id="60333">
+		<path>./bbh_150.zip</path>
+		<name>ZZZ(notgame):Big Buck Hunter Pro V1.60</name>
+		<image>./images/bbh_150-image.png</image>
+		<genre>Various / Electro- Mechanical</genre>
+		<hidden>true</hidden>
+		<playcount>2</playcount>
+		<lastplayed>20220922T052753</lastplayed>
+		<md5>526c64219dc9d4d9c7bdc3044f11fd20</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220922T012810" />
+	</game>
+	<game id="60333">
+		<path>./bbh_140.zip</path>
+		<name>ZZZ(notgame):Big Buck Hunter Pro V1.60</name>
+		<image>./images/bbh_140-image.png</image>
+		<genre>Various / Electro- Mechanical</genre>
+		<hidden>true</hidden>
+		<playcount>2</playcount>
+		<lastplayed>20220922T052731</lastplayed>
+		<md5>bca69deee12dad4c9d0b595d376a9640</md5>
+		<gametime>15</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220922T012811" />
+	</game>
+	<game id="60333">
+		<path>./bbh_160.zip</path>
+		<name>ZZZ(notgame):Big Buck Hunter Pro V1.60</name>
+		<image>./images/bbh_160-image.png</image>
+		<genre>Various / Electro- Mechanical</genre>
+		<hidden>true</hidden>
+		<playcount>1</playcount>
+		<lastplayed>20220922T011945</lastplayed>
+		<md5>bf788223365e49f94c1a732df0346d87</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220922T012812" />
+	</game>
+	<game id="149863">
+		<path>./bbhsc.zip</path>
+		<name>Big Buck Hunter - Shooter's Challenge</name>
+		<image>./images/bbhsc-image.png</image>
+		<video>./videos/bbhsc-video.mp4</video>
+		<marquee>./images/bbhsc-marquee.png</marquee>
+		<thumbnail>./images/bbhsc-thumb.png</thumbnail>
+		<releasedate>20020101T000000</releasedate>
+		<genre>Shooter / 1st person</genre>
+		<family>Big Buck Hunter</family>
+		<arcadesystemname>incredibletech</arcadesystemname>
+		<playcount>4</playcount>
+		<lastplayed>20220922T012742</lastplayed>
+		<md5>833eadb01ce0c2d1f55995d3bad5ab74</md5>
+		<gametime>78</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220922T012817" />
+	</game>
+	<game id="39972">
+		<path>./alien3.zip</path>
+		<name>Alien3: The Gun</name>
+		<desc>Alien 3 - The Gun is a shooter game.</desc>
+		<image>./images/alien3-image.png</image>
+		<video>./videos/alien3-video.mp4</video>
+		<marquee>./images/alien3-marquee.png</marquee>
+		<thumbnail>./images/alien3-thumb.png</thumbnail>
+		<releasedate>19930101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter</genre>
+		<family>Alien</family>
+		<arcadesystemname>sega</arcadesystemname>
+		<players>2</players>
+		<playcount>6</playcount>
+		<lastplayed>20220924T124940</lastplayed>
+		<md5>7d2ac00d7aa9b826f3e38b6e7b5f8e05</md5>
+		<gametime>298</gametime>
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./bbh.zip</path>
+		<name>Big Buck Hunter (v1.00.14)</name>
+		<desc>Arcade Video game published 22 years ago:
+
+Big Buck Hunter (c) 2000 Incredible Technologies.
+
+- TECHNICAL -
+
+Cabinet dimensions: 28'' wide x 75'' high x 32'' deep.
+
+- TRIVIA -
+
+Released in December 2000.
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=4454&amp;o=2</desc>
+		<image>./images/bbh-image.png</image>
+		<video>./videos/bbh-video.mp4</video>
+		<marquee>./images/bbh-marquee.png</marquee>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Incredible Technologies</developer>
+		<publisher>Incredible Technologies</publisher>
+		<genre>Shooter / Gun</genre>
+		<players>1</players>
+		<playcount>12</playcount>
+		<lastplayed>20220924T124947</lastplayed>
+		<md5>a820d8e45b5ad485c71c58095015d891</md5>
+		<gametime>181</gametime>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="43521">
+		<path>./targeth.zip</path>
+		<name>Target Hits</name>
+		<desc>Target Hits is a shooting practice game for one or two players using a light gun. It contains three fixed-screen games with several scenes for each one:
+
+- Shooting Range
+
+- Desert Chariots
+
+- Track Wagons
+
+Next to points the player's overall performance is shown through silver and golden stars displayed in a row near the top of the screen. They represent a completed stage and scene respectively. The game keeps track of high scores.</desc>
+		<image>./images/targeth-image.png</image>
+		<video>./videos/targeth-video.mp4</video>
+		<marquee>./images/targeth-marquee.png</marquee>
+		<thumbnail>./images/targeth-thumb.png</thumbnail>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Gaelco</developer>
+		<publisher>Gaelco</publisher>
+		<genre>Shooter</genre>
+		<arcadesystemname>gaelco</arcadesystemname>
+		<players>2</players>
+		<playcount>3</playcount>
+		<lastplayed>20220924T125436</lastplayed>
+		<md5>ea3f802945c01b465a3b38d76d1c6161</md5>
+		<gametime>222</gametime>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="43565">
+		<path>./term2.zip</path>
+		<name>Terminator 2 - Judgment Day</name>
+		<desc>Help to John connor future leader of the human resistance against the machines and his valiant mother Sarah Connor to be avoid being killed by a prototype robot from Skynet the T-1000 sent from the future composed of a "mimetic poly-alloy" but soon a unexpected savior an reprogrammed T-800 Terminator, will come from the future to help and stop together the judgment day.
+
+Hasta La Vista, Baby!</desc>
+		<emulator>mame64</emulator>
+		<image>./images/term2-image.png</image>
+		<video>./videos/term2-video.mp4</video>
+		<marquee>./images/term2-marquee.png</marquee>
+		<thumbnail>./images/term2-thumb.png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Shooter</genre>
+		<family>Terminator</family>
+		<arcadesystemname>midway</arcadesystemname>
+		<players>2</players>
+		<playcount>15</playcount>
+		<lastplayed>20220924T125255</lastplayed>
+		<md5>5dcda014375f1471f675311826d40283</md5>
+		<gametime>857</gametime>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="79092">
+		<path>./opwolf.zip</path>
+		<name>Operation Wolf</name>
+		<desc>Operation Wolf is a light-gun controlled shoot-em-up in which the player takes on the role of Special Forces operative 'Roy Adams' and must infiltrate and capture six heavily fortified bases, with the ultimate aim of rescuing five trapped hostages and guiding them to safety.
+
+In order to complete each stage, the player must shoot as many enemy soldiers and vehicles as that stage requires. Enemy soldiers can throw hand grenades and knives, while enemy vehicles can shoot missiles and launch rockets. The player's ammunition and grenades are limited, but can be stocked up by shooting barrels and crates. Occasionally a high-powered machine gun power-up appears, allowing the player's gun to have unlimited ammo and an increased rate of fire for 10 seconds. Completing the 'Powder Magazine' stage fills the player's ammunition and grenade supplies to maximum.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_midway</core>
+		<image>./images/opwolf-image.png</image>
+		<video>./videos/opwolf-video.mp4</video>
+		<marquee>./images/opwolf-marquee.png</marquee>
+		<thumbnail>./images/opwolf-thumb.png</thumbnail>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Shooter</genre>
+		<family>Operation Wolf</family>
+		<arcadesystemname>taito</arcadesystemname>
+		<players>1</players>
+		<playcount>8</playcount>
+		<lastplayed>20220924T145748</lastplayed>
+		<md5>2e0a1e6a1984d2d50e0c7d783bb991e7</md5>
+		<gametime>148</gametime>
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./bbusters.zip</path>
+		<name>Beast Busters (World)</name>
+		<desc>Arcade Video game published 33 years ago:
+
+Beast Busters (c) 1989 SNK.
+
+A city has been invaded by the undead, you as any of three soldiers must shoot &amp; blast your way out or you'll become tonight's main course in this frantic first person shooter! Features excellent graphics and lots of challenge! No one knows how it happened but one thing is for sure, we'll risk our lives... and have lots of fun!
+
+- TECHNICAL -
+
+Cabinet dimensions: 74'' (187,5cm) high x 35'' (90cm) wide x 47'' (115,5cm) deep.
+
+Top Board Number: A9003-1
+Middle Board Number: A9003-2
+Bottom Board Number: A9003-3
+Prom stickers: BB
+
+Main CPU: Motorola 68000 (@ 12 Mhz)
+Sound CPU: Zilog Z80 (@ 4 Mhz)
+Sound Chips: Yamaha YM2610 (@ 8 Mhz)
+
+Screen orientation: Horizontal
+Video resolution: 256 x 224 pixels
+Screen refresh: 60.00 Hz
+Palette Colors: 2048
+
+Players: 3
+Control: lightgun
+Buttons: 2
+
+- TRIVIA -
+
+Beast Busters was released in November 1989 in Japan.
+
+One famous owner of a Beast Busters cabinet was American pop singer, Michael Jackson (1958-2009), who would often take the cabinet on tour with him via cargo plane.
+
+A Beast Busters unit appears in the 1998 movie 'The Replacement Killers'.
+
+Soundtrack releases:
+Beast Busters / SNK [Pony Canyon / Scitron - PCCB-00036 - Jul 21, 1990]
+
+- SERIES -
+
+1. Beast Busters (1989)
+2. Beast Busters - Second Nightmare (1999)
+3. Dark Arms - Beast Busters (1999, SNK Neo-Geo Pocket Color)
+4. BEAST BUSTERS - feat.KOF (2014, Google Play)
+
+- STAFF -
+
+President: Eikichi Kawasaki
+Producer &amp; Director: Hamachi. Papa
+Designers: Mitsuzo.I, Ken, Muromoto, Sakai, Mioshi, Maeda, Fujiwara
+Main programmer: Mr. SNK 25
+Assistant programmer: Murano
+Sound creators: Tarkun, Masahiko Hataya (Papaya)
+Hard creator: Ebara
+
+- PORTS -
+
+* COMPUTERS:
+Atari ST (1990)
+Commodore Amiga (1990)
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=218&amp;o=2</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./images/bbusters-image.png</image>
+		<video>./videos/bbusters-video.mp4</video>
+		<marquee>./images/bbusters-marquee.png</marquee>
+		<thumbnail>./images/bbusters-thumb.png</thumbnail>
+		<releasedate>19890101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Shooter / Gun</genre>
+		<players>3</players>
+		<playcount>2</playcount>
+		<lastplayed>20230219T074721</lastplayed>
+		<gametime>33</gametime>
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game id="40735">
+		<path>./cryptklr.zip</path>
+		<name>Crypt Killer</name>
+		<desc>Crypt Killer is a a light gun shooter featuring up to three player action, and plenty of Crypts to Kill.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./images/cryptklr-image.png</image>
+		<video>./videos/cryptklr-video.mp4</video>
+		<marquee>./images/cryptklr-marquee.png</marquee>
+		<thumbnail>./images/cryptklr-thumb.png</thumbnail>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter</genre>
+		<arcadesystemname>konami</arcadesystemname>
+		<players>3</players>
+		<playcount>6</playcount>
+		<lastplayed>20230219T074251</lastplayed>
+		<md5>1b5529a53f25cba5963307ee26f66283</md5>
+		<gametime>137</gametime>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="41489">
+		<path>./gollygho.zip</path>
+		<name>Golly! Ghost!</name>
+		<desc>Golly! Ghost! is a video ticket/redemption game. Shoot a specific amount of ghosts before time runs out.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./images/gollygho-image.png</image>
+		<video>./videos/gollygho-video.mp4</video>
+		<marquee>./images/gollygho-marquee.png</marquee>
+		<thumbnail>./images/gollygho-thumb.png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<publisher>Namco</publisher>
+		<genre>Shooter</genre>
+		<family>Golly! Ghost!</family>
+		<arcadesystemname>namco</arcadesystemname>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20230219T075012</lastplayed>
+		<md5>6f30ad34c760dd118f80398bf79c4aca</md5>
+		<gametime>51</gametime>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="42122">
+		<path>./le2.zip</path>
+		<name>Lethal Enforcers II: Gun Fighters</name>
+		<desc>Western style shooting game featuring digitized characters. The game consists of 5 stages: Bank Robbery, Stage Hold-Up, Saloon Showdown, Train Robbery, and Hide-Out. 
+
+The player begins the game holding the rank of Sheriff, but if too many innocents or fellow lawmen are killed, the player can be demoted to Deputy or even Posse member. Complete a stage without killing any innocents, and the player is promoted to Deputy Marshal, further success can eventually lead to the player being promoted to the level of U.S. Marshal.
+
+The player's gun can hold up to 6 bullets at a time. On each stage, there are special items that can be shot to reveal better weaponry, such as double rigs, rifles, 50 caliber sharps, shotguns, gatling guns and cannon. The gatling guns and cannon can only be used once but the double rigs, rifles, 50 caliber sharps and shotguns can be reloaded the same way as your regular 6-gun. Once a life is lost, any additional weapons are lost and the player is once again armed with only a 6-gun.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./images/le2-image.png</image>
+		<video>./videos/le2-video.mp4</video>
+		<marquee>./images/le2-marquee.png</marquee>
+		<thumbnail>./images/le2-thumb.png</thumbnail>
+		<releasedate>19940101T000000</releasedate>
+		<publisher>Konami</publisher>
+		<genre>Shooter</genre>
+		<family>Lethal Enforcers</family>
+		<arcadesystemname>konami</arcadesystemname>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20230219T075345</lastplayed>
+		<md5>d918ddc8fc9a227741256c2123e62693</md5>
+		<gametime>42</gametime>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="42133">
+		<path>./lethalen.zip</path>
+		<name>Lethal Enforcers</name>
+		<desc>Lethal Enforcers &amp;copy; 1992 Konami Company, Ltd
+
+As an undercover police officer the player&amp;#039;s mission is to put a stop to an array of criminals ranging from bank robbers, hijackers and numerous other law breakers. As well as upholding the law, players must also try to protect innocent members of the public from the criminal gangs, being careful not to accidentally shoot them. Shooting innocent victims will result in the player&amp;#039;s energy level being severely reduced.
+
+Lethal Enforcers is an on-the-rails light-gun game. The player is initially armed only with a standard issue revolver, but weapon upgrades such as a .357 Magnum, a shotgun and an automatic pistol can be collected by shooting at their on-screen counterparts as the game progresses. While some weapons can be reloaded, others can&amp;#039;t and are only useful for a limited time. Any weapon upgrades are lost in the event of a player losing a life.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./images/lethalen-image.png</image>
+		<video>./videos/lethalen-video.mp4</video>
+		<marquee>./images/lethalen-marquee.png</marquee>
+		<thumbnail>./images/lethalen-thumb.png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter</genre>
+		<family>Lethal Enforcers</family>
+		<arcadesystemname>konami</arcadesystemname>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20230219T075304</lastplayed>
+		<md5>5cc2b110da063f5eb90e4e9333bc15e3</md5>
+		<gametime>159</gametime>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="79087">
+		<path>./oneshot.zip</path>
+		<name>One Shot One Kill</name>
+		<desc>During the town stage, you can see the famous Korean singer Ser-Tae-Ji.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./images/oneshot-image.png</image>
+		<video>./videos/oneshot-video.mp4</video>
+		<marquee>./images/oneshot-marquee.png</marquee>
+		<thumbnail>./images/oneshot-thumb.png</thumbnail>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Promat</developer>
+		<publisher>Promat</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20230219T075538</lastplayed>
+		<md5>45a2afc6e941ced6fd92056da846f6dc</md5>
+		<gametime>44</gametime>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="42449">
+		<path>./policetr13a.zip</path>
+		<name>Police Trainer</name>
+		<desc>Train to become a police officer in this target shooter.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./images/policetr13a-image.png</image>
+		<video>./videos/policetr13a-video.mp4</video>
+		<marquee>./images/policetr13a-marquee.png</marquee>
+		<thumbnail>./images/policetr13a-thumb.png</thumbnail>
+		<releasedate>19960101T000000</releasedate>
+		<developer>P &amp; P Marketing</developer>
+		<publisher>P&amp;amp;P Marketing</publisher>
+		<genre>Shooter</genre>
+		<family>Police Trainer</family>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20230219T075945</lastplayed>
+		<md5>7da8be9d829dcf12ca4b561747597fd0</md5>
+		<gametime>111</gametime>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="42538">
+		<path>./ptblank.zip</path>
+		<name>Point Blank</name>
+		<desc>Point Blank is a challenging light gun game where players can select from a variety of target practice mini games.
+
+Many games require skill and accuracy, such as shooting cardboard cutouts of criminals, a one-shot chance at hitting a leaf, aiming for a specific toy from a shelf, and shooting at objects that move across the screen or rush towards the player.
+
+Your 'judgement' is based on your shooting accuracy in some games, and others require you to hit a certain number of targets within the given time.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./images/ptblank-image.png</image>
+		<video>./videos/ptblank-video.mp4</video>
+		<marquee>./images/ptblank-marquee.png</marquee>
+		<thumbnail>./images/ptblank-thumb.png</thumbnail>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Shooter</genre>
+		<family>Point Blank</family>
+		<arcadesystemname>namco</arcadesystemname>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20230219T075832</lastplayed>
+		<md5>0a76446733a60b5484c43be37c5013d0</md5>
+		<gametime>30</gametime>
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game id="42539">
+		<path>./ptblank2.zip</path>
+		<name>Point Blank 2</name>
+		<desc>This game is known in Japan as "Gunbarl".</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./images/ptblank2-image.png</image>
+		<video>./videos/ptblank2-video.mp4</video>
+		<marquee>./images/ptblank2-marquee.png</marquee>
+		<thumbnail>./images/ptblank2-thumb.png</thumbnail>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Shooter</genre>
+		<family>Point Blank</family>
+		<arcadesystemname>namco</arcadesystemname>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20230219T075914</lastplayed>
+		<md5>46a4f84c11e008a59c48a2bce278e007</md5>
+		<gametime>40</gametime>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="43018">
+		<path>./sgunner.zip</path>
+		<name>Steel Gunner</name>
+		<desc>Some major trouble is brewing in the city of Neo Arc. A radical terrorist group known as S.T.U.R.M. is causing problems to the citizens of Neo Arc by kidnapping a well respected quantum physicist and his assistant in order to create an abominable war machine. However there's a ray of hope which come in the form of the police department's counter-terrorist force called Steel Gunner. Now the battle is set for it's up to both Steel Gunner Officers Cliff and Garcia to stop the seemingly merciless wrath of S.T.U.R.M. and it's leader: Gatse Bernard</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./images/sgunner-image.png</image>
+		<video>./videos/sgunner-video.mp4</video>
+		<marquee>./images/sgunner-marquee.png</marquee>
+		<thumbnail>./images/sgunner-thumb.png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Shooter</genre>
+		<family>Steel Gunner</family>
+		<arcadesystemname>namco</arcadesystemname>
+		<players>2</players>
+		<playcount>3</playcount>
+		<lastplayed>20230219T080206</lastplayed>
+		<md5>91299d31a1530023e1e455d065dff75e</md5>
+		<gametime>150</gametime>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="43019">
+		<path>./sgunner2.zip</path>
+		<name>Steel Gunner 2</name>
+		<desc>Steel Gunner 2 (c) 1991 Namco.  - TECHNICAL -  The majority of cabinets for this game were released as conversion kits for Taito's "Operation Thunderbolt".  Namco System 2 hardware Game ID : SNS  Main CPU : (2x) 68000 (@ 12.288 Mhz), M6809 (@ 3.072 Mhz),</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./images/sgunner2-image.png</image>
+		<video>./videos/sgunner2-video.mp4</video>
+		<marquee>./images/sgunner2-marquee.png</marquee>
+		<thumbnail>./images/sgunner2-thumb.png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Shooter</genre>
+		<family>Steel Gunner</family>
+		<arcadesystemname>namco</arcadesystemname>
+		<players>2</players>
+		<playcount>5</playcount>
+		<lastplayed>20230219T080237</lastplayed>
+		<md5>1b5f874de0aa0b935a5a2d87f5051d23</md5>
+		<gametime>114</gametime>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="43615">
+		<path>./timecris.zip</path>
+		<name>Time Crisis</name>
+		<desc>A superb, on-the-rails lightgun game in which the player takes on the role of a lone mercenary who must rescue the President's daughter, Rachel, from the clutches of the evil 'Sherudo' and his terrorist gang. The game takes the player into and around Sherudo's clifftop, castle hideout.
+
+As the game's title suggests, time is one of the player's biggest enemies, as each area must be cleared within a strict time limit. Extra time is occasionally awarded, however, when some of the more powerful enemy soldiers are killed.
+
+The game offers the player two different game modes: 
+STORY MODE: the player must defeat all of the enemies on the level to proceed to the next level.
+TIME ATTACK: the player selects one of four stages and must defeat all enemies in the time allowed. The player is given unlimited lives in this mode, but is constantly fighting against a very tight time limit.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./images/timecris-image.png</image>
+		<video>./videos/timecris-video.mp4</video>
+		<marquee>./images/timecris-marquee.png</marquee>
+		<thumbnail>./images/timecris-thumb.png</thumbnail>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Shooter</genre>
+		<family>Time Crisis</family>
+		<arcadesystemname>namco</arcadesystemname>
+		<players>1</players>
+		<playcount>4</playcount>
+		<lastplayed>20230219T080442</lastplayed>
+		<md5>96bb7a575995c425c35c4434edc546c7</md5>
+		<gametime>119</gametime>
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./zombraid.zip</path>
+		<name>Zombie Raid (9/28/95, US)</name>
+		<desc>Arcade Video game published 27 years ago:
+
+Zombie Raid (c) 1995 American Sammy.
+
+Welcome to the extraordinary world of Zombie Raid. Players use specially designed sawed-off shotguns with pump action reload to fight their way through the graveyard, through castles and dungeons and even through the mad scientist's laboratory. Battle all kinds of ghastly creatures, like zombies and other frightful beings. You may feel like you're lost in a horror movie!
+
+A myriad of secrets have been programmed into the game for added dimension. Can you discover how to get extra life? Can you find a way to escape the forces? Can you defeat the evil? The challenges are endless!
+
+- TECHNICAL -
+
+Cabinet dimensions: 76'' High x 41'' Deep x 31'' Wide.
+Cabinet weight: 400 lbs.
+Monitor: 25''.
+
+Game ID: P0-122A (SZR-001)
+
+Main CPU: Motorola 68000 (@ 16 Mhz)
+Sound Chips: X1-010 (@ 16 Mhz)
+
+Players: 2
+Control: lightgun
+Buttons: 2 (SHOOT, RELOAD)
+
+- TRIVIA -
+
+Zombie Raid was released in September 1995 in USA and Japan.
+
+- TIPS AND TRICKS -
+
+* Crystal Codes:
+Level 2: The Crystal Code is posted at the end of the level, on the 2 pillars framing the wrought iron gate (below the head with the horns).
+Level 3: At end of level is elevator with zombies, after kill ALL elevator's zombies Red Crystal appear on screen.
+Level 4: The Blue Crystal is hidden in a statuette on a pillar (the statuette resembles the level 2 famous head with the horns).
+Level 5: The Green Crystal is obtained at the end of the level by killing the 2-heads monster.
+
+To fight the final boss, the Crystal Codes seen on level 2 should be inserted: Red, Green, Blue - if not it is assured death.
+
+In game are secret entrances where you will find special items:
+1. At end of first graveyard is grave with your initials, behind this grave is tree and 'man with gun'. Shoot to this tree over 'man with gun' when screen move up. If you shot in right place on tree secret entrance will appear. In this secret entrance are items:
+- LIGHTNING: lightning weapon.
+- CRUCIFIX: restore full energy when you lost all energy. Item can be used once (automatic).
+
+2. In mission 3 when you enter to area after door opened by hidden lever, screen will move first to left, next to right. On left side one pillar is fault. Shot to this place where pillar should be - secret entrance will open. In this secret entrance are:
+- SCOPE: crosshair.
+- BOMB: bomb icon will appear in left-upper corner. Shot it and whole screen explode. Item can be used once.
+
+3. Again in mission 3, immediately after elevator shot to the wall right to the pillar. Secret entrance will open. In this secret entrance are items:
+- AMMOx2: auto-reload. Now you can use fire button only, gun will reload automatically.
+- BLUE POTION: extra life
+
+In game are more secret entrances but where ?
+
+Some extra shots:
+1. Shot to the second well on mission 3 using shotgun weapon - ghostbusters ghost will appear in the well.
+2. When you shot to the ground using right weapon (not lightning) flowers will appear. When you shot 3 flowers then a butterfly will appear on screen, shoot the butterfly, it gives extra items.
+3. On first graveyard are black cats, when you kill cat he give extra energy.
+4. In mission 3 when sewers end and screen move up and stop then shot to the center in middle wall - secret lever will appear. When you trigger this lever on screen will appear clown on cycle - no idea for what.
+
+Use FIRE weapon and you will easy finish game.
+
+- STAFF -
+
+Producer: Onijust (ONJ)
+Programmers: Tomohiro Takahashi (TOM), Hiroaki Murase (MRS)
+Graphic design: Isao Suwa (SUW), Ujita in U.S.A. (UJI), Noriyo Antako
+Sound designer: Brian Schmidt
+Game designer: George Matono
+Executive producer: Yoshi Suzuki
+Supervisors: Jim Miskell, Rick Rochetti
+Technical supervisor: Kiyo Nishimura
+Technical assistance: Gen Ozeki
+Production coordinaor: Brad Faris
+Cabinet coordinator: Pat O'Brien
+Cabient designer: Tom Lenick
+Artwork designer: Paul Faris
+Electrical supervisor: John Jaron
+Supervising engineer: Dave Pallotto
+Mechanic coordinator: James Perales
+Mechanic engineer: Bob Paneck
+Game adviser: Dave Cane
+Creature sound effects: Fred Young
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=3257&amp;o=2</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./images/zombraid-image.png</image>
+		<video>./videos/zombraid-video.mp4</video>
+		<marquee>./images/zombraid-marquee.png</marquee>
+		<thumbnail>./images/zombraid-thumb.png</thumbnail>
+		<releasedate>19950101T000000</releasedate>
+		<developer>American Sammy</developer>
+		<publisher>American Sammy</publisher>
+		<genre>Shooter / Gun</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20230219T074637</lastplayed>
+		<gametime>49</gametime>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+</gameList>

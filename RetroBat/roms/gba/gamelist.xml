@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Lindsi_Luna_Blast_V101.zip</path>
+		<name>Lindsi Luna Blast</name>
+		<image>./images/Lindsi_Luna_Blast_V101-image.png</image>
+		<marquee>./images/Lindsi_Luna_Blast_V101-marquee.png</marquee>
+		<thumbnail>./images/Lindsi_Luna_Blast_V101-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>20061021T000000</releasedate>
+		<developer>PortableDev</developer>
+		<publisher>PortableDev</publisher>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20210612T155535</lastplayed>
+		<crc32>E6FADD1A</crc32>
+		<md5>92ae5e0ee6ee2056f65f5c52672c2ff6</md5>
+		<gametime>28</gametime>
+		<lang>en</lang>
+	</game>
+</gameList>

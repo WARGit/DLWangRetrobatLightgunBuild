@@ -1,0 +1,1122 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./FightingClimax.parrot</path>
+		<name>Fighting Climax</name>
+		<desc>Get ready for a dream duel of epic proportions in Dengeki Bunko: Fighting Climax, a 2D fighting game featuring an all-star cast of popular characters from Dengeki Bunko novels set against Sega-themed worlds. Developed by Ecole and French Bread, this mash up features a fighting system that is both easily understood yet complex in depth catering to veterans and newcomers alike.</desc>
+		<image>./mixart/Fighting Climax.png</image>
+		<video>./snap/Fighting Climax.mp4</video>
+		<marquee>./wheel/Fighting Climax.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20171201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./GG.parrot</path>
+		<name>Sega Golden Gun</name>
+		<desc>Sega Golden Gun is a light gun game released by Sega in 2010 for Sega RingWide hardware. It was developed by Sega of China, by the same team responsible for the The House of the Dead series. Many of the game's assets, including the engine itself, were ported directly from The House of the Dead 4.</desc>
+		<image>./mixart/Sega Golden Gun.png</image>
+		<video>./snap/Sega Golden Gun.mp4</video>
+		<marquee>./wheel/Sega Golden Gun.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20091201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./SR3.parrot</path>
+		<name>Sega Rally 3</name>
+		<desc>Sega Rally 3 is a 2008 arcade racing game developed by Sega Racing Studio for Sega Europa-R arcade hardware. It is a direct sequel to Sega Rally 2 and was developed simultaneously with Sega Rally Revo. During development, it went under the codename of Super Challenge.</desc>
+		<image>./mixart/Sega Rally 3.png</image>
+		<video>./snap/Sega Rally 3.mp4</video>
+		<marquee>./wheel/Sega Rally 3.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20171201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Transformers.parrot</path>
+		<name>Transformers - Human Alliance</name>
+		<desc>Sega's action adventure game, TRANSFORMERS Human Alliance, partners players with one of three of the movie's stars, Optimus Prime, Bumblebee or Sideswipe. Players must battle their way across America, Africa and Europe destroying the Decepticons before they find the All Spark, a material capable of bringing any mechanical or electronic object to life.</desc>
+		<image>./mixart/Transformers - Human Alliance.png</image>
+		<video>./snap/Transformers - Human Alliance.mp4</video>
+		<marquee>./wheel/Transformers - Human Alliance.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20151201T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Nameco</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./CaladriusAC.parrot</path>
+		<name>Caladrius AC</name>
+		<desc>Caladrius (カラドリウス, Karadoriusu) is a scrolling shooter developed and published by MOSS, first released in April 25, 2013 for the Xbox 360 in Japan. It was later released digitally in North America and Europe on September 4, 2015. After its console debut, Caladrius was ported to arcades under the name Caladrius AC, adding extra game modes and supporting Sega's ALL.Net system.</desc>
+		<image>./mixart/Caladrius AC.png</image>
+		<video>./snap/Caladrius AC.mp4</video>
+		<marquee>./wheel/Caladrius AC.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20131201T000000</releasedate>
+		<developer>Moss</developer>
+		<publisher>H2 Interactive</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./DariusBurst.parrot</path>
+		<name>Dariusburst: Another Chronicle</name>
+		<desc>1904 D.C. (Darius Calendar)— When a Belser virus rent the hyperspace network to tatters, every craft in the human space fleet with a network link was stripped of all communications capabilities. The ensuing chaos saw the entire fleet devastated in the blink of an eye. The Silver Hawk fighters were the only craft from Planet Darius to escape the massacre. Equipped with Burst technology, these two cutting-edge craft were entrusted to humanoid AI terminal Ti2 and test pilot Riga Pratica. Flying the Silver Hawk Burst fighters alone into enemy territory without network support, the two heroes braved overwhelming odds to secure victory and liberation for Darius. It is now 1910 D.C., and repairs on the hyperspace network have begun to reconnect the pockets of humanity scattered across the vast reaches of space. Combat data transmitted from Darius soon sees Burstequipped Silver Hawk fighters constructed in every inhabited galaxy. The stage is set for mankind’s grand counteroffensive. A team of heroes takes wing, flying into battle and the pages of history.</desc>
+		<image>./mixart/Dariusburst Another Chronicle.png</image>
+		<video>./snap/Dariusburst Another Chronicle.mp4</video>
+		<marquee>./wheel/Dariusburst Another Chronicle.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20131201T000000</releasedate>
+		<developer>Pyramide</developer>
+		<publisher>Taito</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./FNFSB.parrot</path>
+		<name>The Fast and the Furious Super Bikes</name>
+		<desc>The Fast and the Furious: Super Bikes is the second game inspired by the hit movie franchise. This time, the action is not confined to the United States. Super Bikes takes players from Sturgis to Monaco, from Chicago to Shanghai, and from Detroit to Switzerland. Players can choose from 12 licensed motorcycles and riders. Like The Fast and the Furious, players can upgrade their bikes with NOS, bigger engines, tires and more!</desc>
+		<image>./mixart/The Fast and the Furious Super Bikes.png</image>
+		<video>./snap/The Fast and the Furious Super Bikes.mp4</video>
+		<marquee>./wheel/The Fast and the Furious Super Bikes.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20061201T000000</releasedate>
+		<developer>Raw Thrills</developer>
+		<publisher>Raw Thrills</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./FNFSB2.parrot</path>
+		<name>Super Bikes 2</name>
+		<desc>Race through Moab as fighter jets attack UFOs, descend into the haunted catacombs of Paris, and dodge giant worms in hyperspace. Escape elephants in the jungles of Thailand, jump through the flaming hoops of Vegas, run with the bulls in Spain and cruise through the unbelievable snow-covered mountaintops of the Himalayas. Choose from 9 riders and 12 bikes with multiple tricked-out upgrades for engines, decals, tires and more!</desc>
+		<image>./mixart/Super Bikes 2.png</image>
+		<video>./snap/Super Bikes 2.mp4</video>
+		<marquee>./wheel/Super Bikes 2.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20101201T000000</releasedate>
+		<developer>Raw Thrills</developer>
+		<publisher>Raw Thrills</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./FNFSC.parrot</path>
+		<name>The Fast and the Furious SuperCars</name>
+		<desc>The Fast and the Furious: Super Cars is the third game inspired by the hit movie franchise. Super Cars takes players from all over USA. Players can choose from 12 licensed cars and riders. Like The Fast and the Furious, players can upgrade their bikes with NOS, bigger engines, tires and more!</desc>
+		<image>./mixart/The Fast and the Furious SuperCars.png</image>
+		<video>./snap/The Fast and the Furious SuperCars.mp4</video>
+		<marquee>./wheel/The Fast and the Furious SuperCars.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20061201T000000</releasedate>
+		<developer>Raw Thrills</developer>
+		<publisher>Raw Thrills</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./LGI.parrot</path>
+		<name>Let's Go Island: Lost on the Island of Tropics</name>
+		<desc>Let's Go Island: Lost On the Island of Tropics is a Sega arcade game that was released in the mid-2011. It's a sequel to Let's Go Jungle!: Lost on the Island of Spice. Taking place on a Pacific island, the protagonists are a goofball New Zealander guide called Zack and a nerdy Canadian girl called Beth. While on a tour, their tour boat collides with another boat with a small group of pirates landing on the boat and are being chased by sharks after landing in the sea, there the captain is killed by a giant squid. But they manage to escape from it, they must go to the airport in order to get off the island, when they get airport the pilot demands to "to show them what they have" mistaken them for the pirates. But the plane gets attacked by a giant queen bee.</desc>
+		<image>./mixart/Let_s Go Island_ Lost on the Island of Tropics.png</image>
+		<video>./snap/Let_s Go Island_ Lost on the Island of Tropics.mp4</video>
+		<marquee>./wheel/Let_s Go Island_ Lost on the Island of Tropics.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20111201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./LGJ.parrot</path>
+		<name>Let's Go Jungle: Lost on the Island of Spice</name>
+		<desc>Let's Go Jungle: Lost on the Island of Spice. The game follows the story of Beth and her bumbling tour guide, Zack. While out on a boat tour around the island, pirates being chased by sharks crash into their boat and try to commandeer it. The two are thrown overboard and wash ashore on a tropical island, where the local wildlife has gone crazy. Beth and Zack must work together if they hope to escape the island. The game follows many of the same conventions as the original games, mixing arcade shooting with Press X to Not Die segments with a few control tweaks.</desc>
+		<image>./mixart/Let_s Go Jungle! Lost on the Island of Spice.png</image>
+		<video>./snap/Let_s Go Jungle! Lost on the Island of Spice.mp4</video>
+		<marquee>./wheel/Let_s Go Jungle! Lost on the Island of Spice.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20131201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./LuigisMansion.parrot</path>
+		<name>Luigi's Mansion Arcade</name>
+		<desc>Luigi's Mansion Arcade (named Luigi Mansion Arcade in Japanese) is an arcade game based off of Luigi's Mansion: Dark Moon for the Nintendo 3DS. Developed by Capcom and published by Sega under the license from Nintendo, it is the fifth game to feature Luigi as the main character, and it is also one of the few Nintendo-based arcade games released in the current generation. It is an on-rails light gun game with a vacuum controller and support for two players.</desc>
+		<image>./mixart/Luigi_s Mansion Arcade.png</image>
+		<video>./snap/Luigi_s Mansion Arcade.mp4</video>
+		<marquee>./wheel/Luigi_s Mansion Arcade.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20151201T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./MS.parrot</path>
+		<name>Sonic Storm aka MachStorm</name>
+		<desc>Mach Storm is an arcade game developed by Bandai Namco. It utilizes assets from other Ace Combat games released near the same time, and is one of the first international arcade games to use a modified Namco System N2 "P.O.D." display. Parts of its gameplay are taken from Mobile Suit Gundam: Bonds of the Battlefield, which also used the N2 P.O.D. system. Mach Storm was released in December 2013 in Japan, and available internationally by February 2014.</desc>
+		<image>./mixart/MachStorm.png</image>
+		<video>./snap/MachStorm.mp4</video>
+		<marquee>./wheel/MachStorm.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20141201T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Flying</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./SnoCross.parrot</path>
+		<name>Winter X Games SnoCross</name>
+		<desc>SnoCross is the latest racer from Raw Thrills. SnoCross has 6 snowmobile racers, 6 killer sleds, and insane custom upgrades. Plus travel the world by riding on 7 intense tracks in France, Antarctica, China, Alaska, Washington D.C., Moscow and Colorado. This game is officially licensed from ESPN and racers are able to perform the same sick tricks as seen in the X Games. Huge airtime gives you even more time to try crazy tricks. Throw snowballs at your opponents to battle for the lead.</desc>
+		<image>./mixart/Winter X Games SnoCross.png</image>
+		<video>./snap/Winter X Games SnoCross.mp4</video>
+		<marquee>./wheel/Winter X Games SnoCross.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20121201T000000</releasedate>
+		<developer>Raw Thrills</developer>
+		<publisher>Rawl Thrills</publisher>
+		<genre>Racing</genre>
+		<players>1-8</players>
+	</game>
+	<game>
+		<path>./UDX.parrot</path>
+		<name>Under Defeat HD+</name>
+		<desc>Under Defeat is a shoot 'em up arcade game by G.rev. The game takes place in an alternate reality based on World War II, and, in a controversial twist, players control German-speaking characters (under the banner of "the Empire"), fighting against enemies ("the Union") that speak English and possess weapons patterned after those of both real-life Allied and Axis powers.</desc>
+		<image>./mixart/Under Defeat HD+.png</image>
+		<video>./snap/Under Defeat HD+.mp4</video>
+		<marquee>./wheel/Under Defeat HD+.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20131201T000000</releasedate>
+		<developer>G.Rev</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./MKDX.parrot</path>
+		<name>Mario Kart: Arcade GP DX</name>
+		<desc>Mario Kart Arcade GP DX is a Mario Kart game for arcade systems, developed by Namco Bandai Games in partnership with Nintendo. It is the tenth installment in the Mario Kart franchise and the third title in the Arcade series following Mario Kart Arcade GP 2, which was a follow-up to Mario Kart Arcade GP. The game was released in Japan on July 25, 2013 and in the United States during 2014, later followed by Australia in 2017. Just like the previous two Arcade GP games, it is possible to do multiplayer play by linking up to four cabinets.</desc>
+		<image>./mixart/Mario Kart Arcade GP DX.png</image>
+		<video>./snap/Mario Kart Arcade GP DX.mp4</video>
+		<marquee>./wheel/Mario Kart Arcade GP DX.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20131201T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<lang>en</lang>
+		<region>us</region>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./AliensExtermination.parrot</path>
+		<name>Aliens: Extermination</name>
+		<desc>It’s been years since the Colonial Marines left planet LV-426 and the Alien population behind. It’s time to go back to finish off the Alien monsters… and more! The world seems familiar, but the scenario is not. Since the Marine’s last visit, the “Wheland Yutan Corporation”, reprogrammed an army of synthetic humans to stop anything from getting in the way from the Company’s development of their deadly Bio Weapons. It’s not as simple as just killing Mother Alien any more.</desc>
+		<image>./mixart/AliensExtermination.png</image>
+		<video>./snap/AliensExtermination.mp4</video>
+		<marquee>./wheel/AliensExtermination.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Global VR</developer>
+		<genre>1st Person Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./ElevatorAction.parrot</path>
+		<name>Elevator Action</name>
+		<desc>The player assumes the role of a spy who infiltrates a building filled with elevators. He must collect secret documents from the building and traverse the 30 levels of the building using an increasingly complex series of elevators. The player is pursued by enemy agents who appear from behind closed doors. The player must outwit them via force or evasion. Successful completion of a level involves collecting all the secret documents and traversing the building from top to bottom. In the lower floors of the building, the elevator systems are so complex that some puzzle-solving skills are needed.</desc>
+		<image>./mixart/Elevator Action.png</image>
+		<video>./snap/Elevator Action.mp4</video>
+		<marquee>./wheel/Elevator Action.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20160101T000000</releasedate>
+		<publisher>NESiCAxLive</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./JusticeLeague.parrot</path>
+		<name>Justice League : Heroes United</name>
+		<desc>Justice League Heroes United is an arcade game based on the Justice League comic book.</desc>
+		<image>./mixart/JusticeLeague.png</image>
+		<video>./snap/JusticeLeague.mp4</video>
+		<marquee>./wheel/JusticeLeague.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20091201T000000</releasedate>
+		<publisher>Global VR</publisher>
+		<genre>Beat-'Em-Up</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./RastanSaga.parrot</path>
+		<name>Rastan Saga</name>
+		<desc>A barbarian's adventure across varying terrain while encountering an assortment of mythological creatures and weapons. Pick up bonus items to increase your characters health or protection against attack, but beware of the cursed items.</desc>
+		<image>./mixart/Rastan Saga.png</image>
+		<video>./snap/Rastan Saga.mp4</video>
+		<marquee>./wheel/Rastan Saga.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20160101T000000</releasedate>
+		<publisher>NESiCAxLive</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./SpaceInvaders.parrot</path>
+		<name>Space Invaders</name>
+		<desc>Space Invaders is a game in which the player controls a laser cannon by moving it horizontally across the bottom of the screen and firing at descending aliens. The aim is to defeat five rows of eleven aliens—some versions feature different numbers—that move horizontally back and forth across the screen as they advance towards the bottom of the screen. The player defeats an alien, and earns points, by shooting it with the laser cannon.</desc>
+		<image>./mixart/Space Invaders.png</image>
+		<video>./snap/Space Invaders.mp4</video>
+		<marquee>./wheel/Space Invaders.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20161201T000000</releasedate>
+		<publisher>NESiCAxLive</publisher>
+		<genre>Action / Attack</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./abc.parrot</path>
+		<name>After Burner Climax</name>
+		<desc>After Burner Climax is a sequel to the long-running After Burner series. Just like the previous games players command an aircraft from a third-person view, engaging enemies, dodging enemy fire and rockets and navigating through canyons and narrow passages. Gameplay requires quick reflexes and is arcade-like in design. The iconic F-14 Super Tomcat of the previous games has been replaced by a F-14D Super Tomcat with the addition of two new aircraft, F/A-18E Super Hornet and F-15E Strike Eagle. In the standard EX arcade mode there is a branching mission path with various objectives. Sometimes enemies need to be engaged, while other times friendly fighters help along, stealth must be used, or a specific target needs to be pursued and taken out. There are two main weapons: regular cannon fire for close distances and rockets that can only be used when they are locked on. There is also a Climax gauge that can be activated when it is full.</desc>
+		<image>./mixart/After Burner Climax.png</image>
+		<video>./snap/After Burner Climax.mp4</video>
+		<marquee>./wheel/After Burner Climax.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20171201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Flying, Shooter</genre>
+	</game>
+	<game>
+		<path>./FNF.parrot</path>
+		<name>The Fast and the Furious</name>
+		<desc>In Outrun 2 - Special Tours: Sega adds a number of new features that will challenge and entertain players of all skill levels including: -15 new exhilarating courses for a total of 30! The new courses are based on highways and byways of the US. You'll recognize skylines and vistas of major cities and highways from across the country! -2 new Ferrari's - The 512BB and 250GTO. This gives players a choice of 10 of the world's greatest sports cars to race with! -Players of any skill level will feel the thrill of competing like never before thanks to Sega's Re-tuned Artifical Intelligence. The enhanced AI will help novice drivers stay in the race until the very end resulting in increased enjoyment for all! -New Background Music. 7 tunes from the original OutRun and Turbo OutRun have been added that'll bring back fond memories.</desc>
+		<image>./mixart/The Fast and the Furious.png</image>
+		<video>./snap/The Fast and the Furious.mp4</video>
+		<marquee>./wheel/The Fast and the Furious.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20041201T000000</releasedate>
+		<developer>Raw Thrills</developer>
+		<publisher>Raw Thrills</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./GtiClub3.parrot</path>
+		<name>GTI Club Supermini Festa!</name>
+		<desc>GTI Club Supermini Festa! shifts its way onto Arcade! Staying true to the original racing frenzy of the award-winning arcade game, players will race through the cityscapes of France, the UK, Italy, USA and Japan. Speed through tight bends and back roads of the urban sprawl, up steep mountainous roads and caves. Tackle a wide variety of driving conditions in the ultimate race to the finish! Features • Journey through 5 stages and 15+ courses: Race through open cities, tackle oncoming traffic and pedestrians, and journey through high mountainous roads (locations include France, UK, Italy, USA, Japan) to uncover new routes and secret courses.</desc>
+		<image>./mixart/GTI Club Supermini Festa.png</image>
+		<video>./snap/GTI Club Supermini Festa.mp4</video>
+		<marquee>./wheel/GTI Club Supermini Festa.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20081201T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Mballblitz.parrot</path>
+		<name>Super Monkey Ball Ticket Blitz</name>
+		<desc>Super Monkey Ball: Ticket Blitz is an arcade game released as part of the Super Monkey Ball series. It is a redemption game, in which progressing through levels will give the users tickets (hence "Ticket Blitz") which would then be traded in for prizes.</desc>
+		<image>./mixart/Super Monkey Ball Ticket Blitz.png</image>
+		<video>./snap/Super Monkey Ball Ticket Blitz.mp4</video>
+		<marquee>./wheel/Super Monkey Ball Ticket Blitz.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20191201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action, Puzzle</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./SDR.parrot</path>
+		<name>Dream Raiders</name>
+		<desc>Dive into a dream world of adventures! Climb on board this beautifully modelled dream machine and be transported to a new level of excitement. Choose your dream ride and raid as many treasures as you can whilst fending off attacks by strange and incredible enemies with your Dream Blasters. Successfully complete your raid and be carried off into new realms in thrilling bonus stages. Nine unique dream experiences await you in this fantastic new deluxe game from Sega. Ride a dragon, pilot a UFO, get on horseback or put on your super suits and head for the skies! Dream Raiders features an exciting mix of exhilarating experiences that everyone will enjoy. The combination of intense motion, wind, sound and visuals combine to give players an arcade experience like none other!</desc>
+		<image>./mixart/Dream Raiders.png</image>
+		<video>./snap/Dream Raiders.mp4</video>
+		<marquee>./wheel/Dream Raiders.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20121201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./KingofFightersMaximumImpactRegulationA.parrot</path>
+		<name>The King of Fighters: Maximum Impact Regulation A</name>
+		<desc>KOF: Maximum Impact Regulation A was released for the Taito Type X2 arcade system in July 2007. It is the only arcade release made for the KOF: MI series and has the inclusion of Ash Crimson, Blue Mary, Makoto Mizoguchi from Fighter's History, and newcomer Xiao Lon, who is a Hizoku Assassin like her brother, Duo Lon, into its character roster. Regulation "A" is a remake of Maximum Impact 2, but with the classic 3 on 3 gameplay added from the 2D KOF series added in hopes of winning over the series fanbase as well as new players. Regulation "A" does not feature a story mode. Despite the addition of four new characters, Armor Ralf has been removed, as have several stages, as well as the story and challenge modes from Maximum Impact 2. In addition, all of the characters have lost half of their outfits in both normal and alternate types. Some new music, including songs from the original Maximum Impact and Sengoku 3, have been added, in addition to new alternate versions of stages and a new level for Makoto Mizoguchi.</desc>
+		<image>./mixart/KOF - Maximum Impact Regulation A.png</image>
+		<video>./snap/KOF - Maximum Impact Regulation A.mp4</video>
+		<marquee>./wheel/KOF - Maximum Impact Regulation A.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20071201T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./KingofFightersSkyStage.parrot</path>
+		<name>The King of Fighters: Sky Stage</name>
+		<desc>KOF Sky Stage is an arcade vertical shooting game with King of Fighters characters. In order to rescue fighters trapped in Orochi's dimensional prison, these heroes have been given the ability to fly through the skies and use their abilities to shoot down various demons and wraiths.</desc>
+		<image>./mixart/KOF Sky Stage.png</image>
+		<video>./snap/KOF Sky Stage.mp4</video>
+		<marquee>./wheel/KOF Sky Stage.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>20101201T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>Atlus</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./KingofFightersXIIIClimax.parrot</path>
+		<name>The King of Fighters XIII Climax</name>
+		<desc>The King of Fighters XIII was released for PlayStation 3 late last year. Since then, SNK Playmore has collected, with much affection, suggestions and complaints from the fans about the game. From the PS3 release through April 2012, the company has been launching frequent updates based on their research to improve the game and make the title experience more accurate to the public's expectations. New characters have been added, the company has better balanced the game, removed some infinite combos that should not exist, among other improvements. Anyway, SNK Playmore, with a lot of sweat, had managed to finish the job, The King of Fighters XIII had stayed exactly as the gamers wanted. However, there was an issue that troubled the company. Originally the game was released for Arcade, and only after a time ported to the PS3. With the updates made, it was noted that the home version had gotten much better than the original version, making KOFXIII outdated in Arcade. Thinking about it, the company decided to do the reverse. If Arcade had given life to the game's home port, The King of Fighters XIII had to go back to Arcade and showcase all of its improvements, bringing back the glory of the franchise. With this premise is born The King of Fighters XIII Climax, made available a few days ago in Japan, bringing everything the version for PlayStation 3 has. Unfortunately, SNK distributor Atlus in the west has not revealed whether there are plans for the launch of KOFXIII Climax in the Arcades here.</desc>
+		<image>./mixart/KingofFightersXIIIClimax.png</image>
+		<video>./snap/KingofFightersXIIIClimax.mp4</video>
+		<marquee>./wheel/KingofFightersXIIIClimax.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20120426T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./DirtyDrivin.parrot</path>
+		<name>Dirty Drivin</name>
+		<desc>Dirty Drivin'™ is a high energy combat racing game that combines classic arcade ingredients. We've got insane custom vehicles, devastating and devious weapons, epic environments sprinkled liberally with power-ups and a reckless disregard for the rules of the road. All of which boils down to a deliciously sweet ride.</desc>
+		<image>./mixart/Dirty Drivin.png</image>
+		<video>./snap/Dirty Drivin.mp4</video>
+		<marquee>./wheel/Dirty Drivin.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20111201T000000</releasedate>
+		<developer>Specular Interactive</developer>
+		<publisher>Raw Thrills</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./H2Overdrive.parrot</path>
+		<name>H2Overdrive</name>
+		<desc>Players race using powerboats with various levels of difficulty against other boats, as well as seven other players on nearby cabinets. During the races, players can run into crates that give them power-ups that can range from speed boosts to MegaHull and HullCrusher abilities, which can be used to destroy opposing boats. On the cabinet, a throttle is used to move the boat, instead of pedals. On the throttle, a red button is used to boost the boat. Unlike in Hydro Thunder, boats can now perform stunts, as well as various acrobatic maneuvers.</desc>
+		<image>./mixart/H2Overdrive.png</image>
+		<video>./snap/H2Overdrive.mp4</video>
+		<marquee>./wheel/H2Overdrive.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20091201T000000</releasedate>
+		<developer>Specular Interactive</developer>
+		<publisher>Raw Thrills</publisher>
+		<genre>Driving</genre>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./or2spdlx.parrot</path>
+		<name>Outrun 2 Special Tours Deluxe</name>
+		<desc>In Outrun 2 - Special Tours: Sega adds a number of new features that will challenge and entertain players of all skill levels including: -15 new exhilarating courses for a total of 30! The new courses are based on highways and byways of the US. You'll recognize skylines and vistas of major cities and highways from across the country! -2 new Ferrari's - The 512BB and 250GTO. This gives players a choice of 10 of the world's greatest sports cars to race with! -Players of any skill level will feel the thrill of competing like never before thanks to Sega's Re-tuned Artifical Intelligence. The enhanced AI will help novice drivers stay in the race until the very end resulting in increased enjoyment for all! -New Background Music. 7 tunes from the original OutRun and Turbo OutRun have been added that'll bring back fond memories.</desc>
+		<image>./mixart/Outrun 2 SP SDX.png</image>
+		<video>./snap/Outrun 2 SP SDX.mp4</video>
+		<marquee>./wheel/Outrun 2 SP SDX.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20191201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Daytona3.parrot</path>
+		<name>Daytona 3 / Daytona Championship</name>
+		<desc>Daytona Championship USA is the holy grail of arcade racing - First launched in 1993, this brand new entry brings Sega’s #1 racer screeching into the 21st century! Daytona Championship USA features three brand new tracks including a recreation of the newly renovated DAYTONA International Speedway! In addition, the original three classic courses have been remastered for the modern era. New game features include a live camera feed so you can enjoy maximum bragging rights as you overtake your friends! Brand new to Daytona Championship USA is the ‘Live TV’ inspired video billboard. This brand new feature allows spectators to see what’s happening in the race, whether it’s a crash, a pass for position or to find out who’s winning or losing! Have you got what it takes to take the flag again.... because DAYTONA is back!</desc>
+		<image>./mixart/Daytona 3.png</image>
+		<video>./snap/Daytona 3.mp4</video>
+		<marquee>./wheel/Daytona 3.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20171201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Driving</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./DOA5.parrot</path>
+		<name>Dead or Alive 5 Ultimate Arcade</name>
+		<desc>Dead or Alive 5 Ultimate (abbreviated to DOA5 Ultimate or just DOA5U) is a fighting game in the Dead or Alive series, developed by Team Ninja, and released by Tecmo Koei for the PlayStation 3 and Xbox 360 in September 2013. It was followed by an arcade edition later in 2013. It is the first arcade game to be released by Koei Tecmo since Dead or Alive 2 Millenium in 2000. DOA5 Ultimate is an expanded edition of 2012's Dead or Alive 5, incorporating some features from the PlayStation Vita's Dead or Alive 5 Plus as well as additional content, including five characters that are new or returning to the series (including two Ninja Gaiden characters), a comprehensive story mode, as well as gameplay system tweaks and expansions, many of them in the online multiplayer tag team mode (including an introduction of two-on-two tag team battles). The game received generally favorable reviews. A free-to-play cut version of DOA5 Ultimate, titled Dead or Alive 5 Ultimate: Core Fighters, was released on the PlayStation Store alongside the retail game. The arcade edition Dead or Alive 5 Ultimate: Arcade was released on 24 December 2013, distributed by Sega. Ultimate was followed by Dead or Alive 5 Last Round in 2015.</desc>
+		<image>./mixart/Dead or Alive 5 Ultimate Arcade.png</image>
+		<video>./snap/Dead or Alive 5 Ultimate Arcade.mp4</video>
+		<marquee>./wheel/Dead or Alive 5 Ultimate Arcade.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20131201T000000</releasedate>
+		<developer>Team Ninja</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./SSASR.parrot</path>
+		<name>Sonic SEGA All-Stars Racing</name>
+		<desc>Sonic and Sega All-Stars Racing is a racing game developed by Sumo Digital. It stars characters from a wide range of Sega games, similar to the previously released Sega Superstars Tennis, also by Sumo Digital. Unlike Sega Superstars Tennis, Sonic &amp; Sega All-Stars Racing is more skewed towards the Sonic the Hedgehog franchise, with roughly half the tracks based on the series and appoximately one third of the characters.</desc>
+		<image>./mixart/Sonic Sega All-Stars Racing Arcade.png</image>
+		<video>./snap/Sonic Sega All-Stars Racing Arcade.mp4</video>
+		<marquee>./wheel/Sonic Sega All-Stars Racing Arcade.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20111201T000000</releasedate>
+		<developer>Sumo Digital</developer>
+		<publisher>Sega</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Tekken7FR.parrot</path>
+		<name>Tekken 7 Fated Retribution</name>
+		<desc>Tekken 7 is a fighting game developed and published by Bandai Namco Entertainment. It is the seventh canonical installment in the Tekken series (ninth overall main title) following Tekken Tag Tournament 2, also it is the final chapter of The Mishima Saga Story and was the first to make use of the Unreal Engine. Tekken 7 had a limited arcade release in March 2015.</desc>
+		<image>./mixart/Tekken 7 Fated Retribution.png</image>
+		<video>./snap/Tekken 7 Fated Retribution.mp4</video>
+		<marquee>./wheel/Tekken 7 Fated Retribution.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20151201T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./TetrisTheGrandMaster3TerrorInstinct.parrot</path>
+		<name>Tetris The Grand Master 3 - Terror Instinct</name>
+		<desc>Tetris: The Grand Master 3 Terror Instinct introduced several play mechanics to Tetris game play which can be seen today in its sequels and many other Tetris implementations. The basic game play of TGM is similar to that of other Tetris games. The player must move and rotate Tetromino-shaped pieces falling into a well to form horizontal lines, which will then be cleared. During game play, the game automatically gives ranks to the player according to his/her score, starting from 9 all the way up to GM (Grand Master).</desc>
+		<image>./mixart/Tetris The Grand Master 3 - Terror Instinct.png</image>
+		<video>./snap/Tetris The Grand Master 3 - Terror Instinct.mp4</video>
+		<marquee>./wheel/Tetris The Grand Master 3 - Terror Instinct.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Arika</developer>
+		<genre>Puzzle</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./VF5C.parrot</path>
+		<name>Virtua Fighter 5</name>
+		<desc>Virtua Fighter 5 is the fifth and final installment in Sega's Virtua Fighter series of arcade fighting games. The original version was released on the Sega Lindbergh arcade system board. The first location tests took place on November 26, 2005 [11] leading to the official release on July 12, 2006 in Japanese arcades. An export version, based on Version B, was released to arcades outside of Japan in February 2007.</desc>
+		<image>./mixart/Virtua Fighter 5.png</image>
+		<video>./snap/Virtua Fighter 5.mp4</video>
+		<marquee>./wheel/Virtua Fighter 5.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20061201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game id="150288">
+		<path>./2Spicy.parrot</path>
+		<name>2 Spicy</name>
+		<desc>Sega brings back the classic gun fight in this light gun shooting game. Normally sold as 2 cabinets for head to head play but can be played solo in story mode. The innovation on this game is freedom of movement. In most gun games, players are locked into a set path, meaning the game moves the player from location to location, without the player have much choice in the matter.
+2 Spicy introduces a double foot pedal system. Which gives the player options and freedom. One pedal moves the player left the other one right. Also being a shoot-out game there is plenty of places to hide for cover. Thus making the game a mano-a-mano fight to the death where the player must outthink, outshoot and outmaneuver his opponent.</desc>
+		<image>./mixart/Too Spicy.png</image>
+		<video>./snap/Too Spicy.mp4</video>
+		<marquee>./wheel/Too Spicy.png</marquee>
+		<thumbnail>./images/2Spicy-thumb.png</thumbnail>
+		<fanart>./images/2Spicy-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>20070101T000000</releasedate>
+		<developer>Sega AM1</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter / Run and Gun</genre>
+		<arcadesystemname>sega</arcadesystemname>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="40160">
+		<path>./Batman.parrot</path>
+		<name>Batman</name>
+		<desc>Batman must save Gotham City from The Joker in this action game. Featuring stages with the Batmobile and the Batwing.</desc>
+		<image>./mixart/Batman.png</image>
+		<video>./snap/Batman.mp4</video>
+		<marquee>./wheel/Batman.png</marquee>
+		<thumbnail>./images/Batman-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Platform / Fighter Scrolling</genre>
+		<family>Batman</family>
+		<arcadesystemname>atari</arcadesystemname>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="61589">
+		<path>./HOTD4.parrot</path>
+		<name>House Of The Dead 4</name>
+		<desc>House of the Dead 4 elevates the House of the Dead legacy. Players can now navigate through six stages with player-selected routes, shoot a newly modified version of a sub-machine gun with a reload technique, throw a hand grenade by pressing a button on the gun, or fight with hand-to-hand combat and wiggle yourself free by shaking your weapon.</desc>
+		<image>./mixart/The House of the Dead 4.png</image>
+		<video>./snap/The House of the Dead 4.mp4</video>
+		<marquee>./wheel/The House of the Dead 4.png</marquee>
+		<thumbnail>./images/HOTD4-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Lightgun Shooter</genre>
+		<family>House of the Dead</family>
+		<arcadesystemname>sega</arcadesystemname>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="46407">
+		<path>./StarWars.parrot</path>
+		<name>Star Wars</name>
+		<desc>Star Wars is a single-player 3-D shoot-em-up based on the legendary movie franchise of the same name. This game is specifically based on the very first Star Wars movie, 'Episode IV: A New Hope'. The player takes on the role of Luke Skywalker (Red Five) whose goal is to blow up the infamous "Death Star" by firing a Proton Torpedo into an exposed exhaust port situated on the Death Star's surface. 
+
+Before reaching the exhaust port, players must survive three attack phases. 
+
+PHASE 1: The game begins in outer space above the Death Star. Players must engage in a dog fight with Darth Vader and numerous enemy TIE Fighters. All but Vader's fighter can be shot and destroyed. Incoming enemy fire must be avoided or shot to prevent damage to the player's Deflector shields. 
+
+PHASE 2: The X-Wing flies down to the surface of the Death Star and is confronted with a barrage of laser turrets and towers as the X-Wing flies across the Death Star's surface. Any collisions with either the towers or incoming enemy shots will cause damage to the player's Deflector Shields. 
+
+The laser tower tops have a progressive scoring incentive that is displayed at the top center of the screen, along with the number of remaining laser tower tops that need to be destroyed before the X-Wing enters the exhaust port trench. If the player manages to destroy all of the towers, a sizeable point bonus is awarded. 
+
+PHASE 3: The X-Wing begins its approach down the trench of the Death Star, heading for the exhaust port situated at the end of the trench. The trench walls are lined with red laser-gun turrets that fire at the player as he makes his approach. Incoming fire must either be avoided or shot. Trench catwalks of varying shapes and heights also appear in later trench runs. These must be avoided as any collision results in damage to Red 5's deflector shields. 
+
+If the player survives the trench run, the voice of 'Han Solo' will advise that 'You're all clear, Kid' and the player must quickly shoot the exhaust port to destroy the Death Star. If a trench run is completed without the player having fired any shots other than the shot into the exhaust port, a sizeable point bonus is awarded for 'using the force'. If the exhaust port is missed, Red 5 will plough through the wall at the end of the trench and lose one deflector shield, after which the trench run will start over. 
+
+If the player succeeds in blowing up the Death Star, Red 5 makes its escape before turning to view the colourful explosion. Bonus points for Remaining Shield Energy is now scored. 
+
+The player is then returned to the fray and whole process begins again. Each successive Death Star run greatly increases in difficulty; TIE Fighters shoot more often, there are more Laser towers and batteries in successive rounds and there are many more obstacles and laser fire during the trench run.</desc>
+		<image>./mixart/Star Wars - Battle Pod.png</image>
+		<video>./snap/Star Wars - Battle Pod.mp4</video>
+		<marquee>./wheel/Star Wars - Battle Pod.png</marquee>
+		<thumbnail>./images/StarWars-thumb.png</thumbnail>
+		<fanart>./images/StarWars-fanart.jpg</fanart>
+		<rating>0.95</rating>
+		<developer>Midway</developer>
+		<publisher>Atari</publisher>
+		<genre>Fight</genre>
+		<family>Star Wars</family>
+		<arcadesystemname>atari</arcadesystemname>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="43662">
+		<path>./TokyoCop.parrot</path>
+		<name>Tokyo Cop</name>
+		<desc>The action takes place in Neo Koban Police station, where we take the role of one of the four Police Agents : Isamu, Kazu, Reika y Junko and we have to patrol the most conflictive Tokyo's district</desc>
+		<image>./mixart/Tokyo Cop.png</image>
+		<video>./snap/Tokyo Cop.mp4</video>
+		<marquee>./wheel/Tokyo Cop.png</marquee>
+		<thumbnail>./images/TokyoCop-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20030101T000000</releasedate>
+		<publisher>Gaelco</publisher>
+		<genre>Race, Driving</genre>
+		<arcadesystemname>gaelco</arcadesystemname>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./aliens.parrot</path>
+		<name>Aliens (World set 1)</name>
+		<playcount>2</playcount>
+		<lastplayed>20220716T173210</lastplayed>
+	</game>
+	<game>
+		<path>./OG.parrot</path>
+		<name>Operation G.H.O.S.T.</name>
+		<desc>Sega's realistic tactical arcade light gun shooter is back. Operation G.H.O.S.T. puts players in the shoes of highly trained special force agents. They must use precision shooting and quick reactions to complete the mission whilst using some of the brand new tools at their disposal! As well as new weapons, gadgets and equipment, Operation Ghost features a full coloured LED monitor surround which is synced with the in game action. This, combined with a gun mounted speaker, as well as the return of the popular challenge sections, provides a game play experience that will really immerse players in to the intense world of the G.H.O.S.T.'s.</desc>
+		<image>./images/Operation G.H.O.S.T.png</image>
+		<video>./videos/Operation G.H.O.S.T.mp4</video>
+		<marquee>./images/Operation G.H.O.S.T.png</marquee>
+		<thumbnail>./box/Operation G.H.O.S.T.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20121201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter, Lightgun Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Sega Dream Raiders.parrot</path>
+		<name>Sega Dream Raiders</name>
+		<image>./images/SDR.png</image>
+		<video>./videos/SDR.mp4</video>
+		<marquee>./images/SDR.png</marquee>
+		<thumbnail>./box/SDR.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+	</game>
+	<game>
+		<path>./Sega Lets Go Island.parrot</path>
+		<name>Sega Lets Go Island</name>
+		<image>./images/Let_s Go Island_ Lost on the Island of Tropics.png</image>
+		<video>./videos/Let_s Go Island_ Lost on the Island of Tropics.mp4</video>
+		<marquee>./images/Let_s Go Island_ Lost on the Island of Tropics.png</marquee>
+		<thumbnail>./box/Let_s Go Island_ Lost on the Island of Tropics.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+	</game>
+	<game id="43980">
+		<path>./Star Trek Voyager.parrot</path>
+		<name>Star Trek: Voyager</name>
+		<image>./images/Star Trek Voyager-image.png</image>
+		<marquee>./images/Star Trek Voyager-image.png</marquee>
+		<thumbnail>./images/Star Trek Voyager-image.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>20020101T000000</releasedate>
+		<publisher>Team Play/Game Refuge/Monaco Entertainment</publisher>
+		<genre>Lightgun Shooter</genre>
+		<family>Star Trek</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./transformers_final.parrot</path>
+		<name>transformers human alliance</name>
+		<image>./images/Transformers - Human Alliance.png</image>
+		<video>./videos/Transformers - Human Alliance.mp4</video>
+		<marquee>./images/Transformers - Human Alliance.png</marquee>
+		<thumbnail>./box/Transformers - Human Alliance.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+	</game>
+	<game>
+		<path>./Blazing angels.parrot</path>
+		<name>Blazing angels</name>
+		<image>./images/Blade Strangers-02.png</image>
+		<video>./videos/Blade Strangers-01.mp4</video>
+		<marquee>./images/Blade Strangers-02.png</marquee>
+		<thumbnail>./box/Blade Strangers-01.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+	</game>
+	<game>
+		<path>./Farcry Instincts Paradise.parrot</path>
+		<name>Farcry Instincts Paradise</name>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+	</game>
+	<game>
+		<path>./Ghost squad Evo.parrot</path>
+		<name>Ghost squad Evo</name>
+		<image>./images/Ghost Squad-01.png</image>
+		<marquee>./images/Ghost Squad-01.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+	</game>
+	<game>
+		<path>./House Of The Dead Scarlet Dawn.parrot</path>
+		<name>House Of The Dead Scarlet Dawn</name>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+	</game>
+	<game id="61589">
+		<path>./House of the dead 4.parrot</path>
+		<name>House Of The Dead 4</name>
+		<desc>House of the Dead 4 elevates the House of the Dead legacy. Players can now navigate through six stages with player-selected routes, shoot a newly modified version of a sub-machine gun with a reload technique, throw a hand grenade by pressing a button on the gun, or fight with hand-to-hand combat and wiggle yourself free by shaking your weapon.</desc>
+		<image>./images/House of the dead 4-image.png</image>
+		<marquee>./images/House of the dead 4-image.png</marquee>
+		<thumbnail>./images/House of the dead 4-image.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Lightgun Shooter</genre>
+		<family>House of the Dead</family>
+		<arcadesystemname>sega</arcadesystemname>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20220717T075934</lastplayed>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./The House of the Dead 4.parrot</path>
+		<name>The House of the Dead 4</name>
+		<image>./images/The House of the Dead 4.png</image>
+		<playcount>6</playcount>
+		<lastplayed>20220717T082030</lastplayed>
+		<gametime>397</gametime>
+	</game>
+	<game>
+		<path>./Lets Go Safari.parrot</path>
+		<name>Lets Go Safari</name>
+		<image>./images/Let_s Go Jungle! Lost on the Island of Spice.png</image>
+		<video>./videos/Let_s Go Jungle! Lost on the Island of Spice.mp4</video>
+		<marquee>./images/Let_s Go Jungle! Lost on the Island of Spice.png</marquee>
+		<thumbnail>./box/Let_s Go Jungle! Lost on the Island of Spice.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220717T082814</lastplayed>
+	</game>
+	<game>
+		<path>./Let's Go Jungle Special.parrot</path>
+		<name>Let's Go Jungle Special</name>
+		<playcount>1</playcount>
+		<lastplayed>20220717T083151</lastplayed>
+	</game>
+	<game>
+		<path>./Luigi Mansion Arcade.parrot</path>
+		<name>Luigi Mansion </name>
+		<image>./images/Luigi_s Mansion Arcade.png</image>
+		<video>./videos/Luigi_s Mansion Arcade.mp4</video>
+		<marquee>./images/Luigi_s Mansion Arcade.png</marquee>
+		<thumbnail>./box/Luigi_s Mansion Arcade.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220717T101227</lastplayed>
+	</game>
+	<game>
+		<path>./Luigi's Mansion Arcade.parrot</path>
+		<name>Luigi's Mansion Arcade</name>
+		<playcount>1</playcount>
+		<lastplayed>20220717T101514</lastplayed>
+		<gametime>59</gametime>
+	</game>
+	<game id="63561">
+		<path>./Rambo.parrot</path>
+		<name>Rambo</name>
+		<image>./images/Rambo-image.png</image>
+		<video>./videos/Rambo.mp4</video>
+		<marquee>./images/Rambo-01.png</marquee>
+		<thumbnail>./box/Rambo.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20080101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Lightgun Shooter</genre>
+		<arcadesystemname>sega</arcadesystemname>
+		<playcount>1</playcount>
+		<lastplayed>20220717T101957</lastplayed>
+		<gametime>39</gametime>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Sega Golden Gun.parrot</path>
+		<name>Sega Golden Gun</name>
+		<image>./images/Sega Golden Gun.png</image>
+		<video>./videos/Sega Golden Gun.mp4</video>
+		<marquee>./images/Sega Golden Gun.png</marquee>
+		<thumbnail>./box/Sega Golden Gun.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220717T103247</lastplayed>
+		<gametime>99</gametime>
+	</game>
+	<game>
+		<path>./Transformers Human Alliance.parrot</path>
+		<name>Transformers Human Alliance</name>
+		<playcount>3</playcount>
+		<lastplayed>20220717T105122</lastplayed>
+		<gametime>163</gametime>
+	</game>
+	<game>
+		<path>./Aliens Extermination.parrot</path>
+		<name>Aliens Extermination</name>
+		<image>./images/AliensExtermination.png</image>
+		<video>./videos/AliensExtermination.mp4</video>
+		<marquee>./images/AliensExtermination.png</marquee>
+		<thumbnail>./box/AliensExtermination.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>11</playcount>
+		<lastplayed>20220717T112547</lastplayed>
+		<gametime>432</gametime>
+	</game>
+	<game>
+		<path>./OG.teknoparrot</path>
+		<name>OG</name>
+		<marquee>./images/Operation G.H.O.S.T.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>2</playcount>
+		<lastplayed>20220724T172400</lastplayed>
+		<gametime>318</gametime>
+	</game>
+	<game>
+		<path>./Blazing angels.teknoparrot</path>
+		<name>Blazing angels</name>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+	</game>
+	<game>
+		<path>./Operation G.H.O.S.T..teknoparrot</path>
+		<name>Operation G.H.O.S.T.</name>
+		<video>./videos/Operation GHOST.mp4</video>
+		<marquee>./images/Operation G.H.O.S.T.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>2</playcount>
+		<lastplayed>20220801T124532</lastplayed>
+		<gametime>203</gametime>
+	</game>
+	<game>
+		<path>./Far Cry Paradise Lost.teknoparrot</path>
+		<name>Far Cry Paradise Lost</name>
+		<video>./videos/FarCry Paradise Lost.mp4</video>
+		<marquee>./images/Far Cry_ Paradise Lost-01.png</marquee>
+		<thumbnail>./images/Far Cry_ Paradise Lost-01.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>7</playcount>
+		<lastplayed>20220801T122120</lastplayed>
+		<gametime>303</gametime>
+	</game>
+	<game>
+		<path>./Sega Dream Raiders.teknoparrot</path>
+		<name>Sega Dream Raiders</name>
+		<video>./videos/Dream Raiders.mp4</video>
+		<marquee>./images/Dream Raiders.png</marquee>
+		<thumbnail>./box/Dream Raiders.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>4</playcount>
+		<lastplayed>20220801T183051</lastplayed>
+		<gametime>717</gametime>
+	</game>
+	<game>
+		<path>./Sega Golden Gun.teknoparrot</path>
+		<name>Sega Golden Gun</name>
+		<desc>Gameplay
+Like the House of the Dead games, Sega Golden Gun is a rail shooter in which players blast enemies while the camera travels a predefined path. Pistols are the primary weapons; they hold 12 bullets, and pointing the gun outside the screen will reload them. However, if the player continues shooting with no bullets remaining, the gun will automatically reload. Consequently, this reloading takes longer. Blue and red reticles appear wherever players 1 and 2 aim, respectively. Most levels end with a boss fight.
+
+In each stage, an item merchant will appear twice in the background; shooting him activates the Item Shop. Here, players can spent the points they've accumulated on special items, including different weapons, enemy weakeners, and bonus lives. Item prices increase during multiplayer and for each stage the player advances. If the player runs out of lives and continues, they will get items as a bonus.
+
+Similar to House of the Dead: Scarlet Dawn, the game is comprised of a prologue chapter, three middle chapters -- BaiJiaFang (百家坊), JiuQuYuan (九曲园), and ShiLiTan (十里滩) -- that can be selected in any order, and a final chapter once all have been completed. Unlike Scarlet Dawn, the route is set once players decide on the second chapter, and there are no branching paths.
+
+Plot
+Two college students (both unnamed) are touring China for a trip. While inside a museum, the two are suddenly attacked by mythical creatures and zombies. However, a security guard from the museum gives the two Golden Guns and explains how to use them. With the guns in hand, the two students use them to fight back against the monsters as well as trying to figure out the source of where they're coming from.
+
+Throughout the game, the students travel to different parts of China each overrun with creatures and a boss at each end. Each boss is a reincarnated form of a mythical figure from Chinese history. They fight Zhang Jiao, a sorcerer from the Han Dynasty who takes on the form of a giant turtle in the town of BaiJaiFang, Gao Qin, an advisor from the Qin Dynasty who battles with a dragon in the JiuQuYuan palace, and Da Ji, a concubine from the Shang Dynasty in possession of a tiger spirit in the ShiLiTan city. Occasionally, the students battle a hooded figure who requests to test their strength in every location; he is later revealed to be the Monkey King who wants to see if the students can defeat the final boss.
+
+Once the final boss has been defeated, the Monkey King begins the task of repairing the city while students decide to go to the arcade and play House of the Dead.
+
+In the post-credits scene, the museum security guard is revealed to a spirit as well and becomes surprised when he hears the students have defeated the four mythical beasts. He then teleports away to an unknown location to report to his boss about them.</desc>
+		<image>./images/Sega Golden Gun-image.jpg</image>
+		<video>./videos/Sega Golden Gun.mp4</video>
+		<marquee>./images/Sega Golden Gun.png</marquee>
+		<thumbnail>./images/Sega Golden Gun-thumb.jpg</thumbnail>
+		<rating>0</rating>
+		<releasedate>20100101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter, Lightgun Shooter</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220801T181649</lastplayed>
+		<gametime>105</gametime>
+	</game>
+	<game>
+		<path>./LuigisMansion.teknoparrot</path>
+		<name>LuigisMansion</name>
+		<image>./images/LuigisMansion-image.jpg</image>
+		<video>./videos/LuigisMansion-video.mp4</video>
+		<marquee>./images/LuigisMansion-marquee.png</marquee>
+		<thumbnail>./images/LuigisMansion-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>3</playcount>
+		<lastplayed>20220819T153942</lastplayed>
+		<gametime>524</gametime>
+	</game>
+	<game id="63561">
+		<path>./Rambo.teknoparrot</path>
+		<name>ZZZ(notgame):Rambo</name>
+		<image>./images/Rambo-image.png</image>
+		<video>./videos/Rambo.mp4</video>
+		<marquee>./images/Rambo-01.png</marquee>
+		<thumbnail>./images/Rambo-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>20080101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Lightgun Shooter</genre>
+		<hidden>true</hidden>
+		<playcount>3</playcount>
+		<lastplayed>20221113T125912</lastplayed>
+		<gametime>473</gametime>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="43980">
+		<path>./Star Trek Voyager.teknoparrot</path>
+		<name>ZZZ(notgame):Star Trek: Voyager</name>
+		<image>./images/Star Trek Voyager-image.png</image>
+		<marquee>./images/Star Trek_ Voyager_ The Arcade Game-01.png</marquee>
+		<thumbnail>./images/Star Trek Voyager-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>20020101T000000</releasedate>
+		<publisher>Team Play/Game Refuge/Monaco Entertainment</publisher>
+		<genre>Lightgun Shooter</genre>
+		<family>Star Trek</family>
+		<players>1</players>
+		<hidden>true</hidden>
+		<playcount>2</playcount>
+		<lastplayed>20220801T125221</lastplayed>
+		<gametime>154</gametime>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Transformers Human Alliance.teknoparrot</path>
+		<name>Transformers Human Alliance</name>
+		<desc>Transformers: Human Alliance is an arcade rail shooter developed by Sega and released in 2013, based on the live action films. The game can be played with one or two players, and was available in a standard cabinet with a 42" screen,[1] or a "Theater" version with a 55" screen.</desc>
+		<image>./images/Transformers Human Alliance-image.jpg</image>
+		<video>./videos/Transformers Human Alliance.mp4</video>
+		<marquee>./images/Transformers.png</marquee>
+		<thumbnail>./images/Transformers Human Alliance-thumb.jpg</thumbnail>
+		<rating>0</rating>
+		<releasedate>20130101T000000</releasedate>
+		<genre>Shooter, Lightgun Shooter</genre>
+		<players>2</players>
+		<playcount>13</playcount>
+		<lastplayed>20221223T193000</lastplayed>
+		<gametime>580</gametime>
+	</game>
+	<game>
+		<path>./The House of the Dead 4.teknoparrot</path>
+		<name>The House of the Dead 4</name>
+		<image>./images/The House of the Dead 4.png</image>
+		<video>./videos/The House of the Dead 4.mp4</video>
+		<marquee>./images/House of the Dead 4-01.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>1</playcount>
+		<lastplayed>20221225T184413</lastplayed>
+		<gametime>34</gametime>
+	</game>
+	<game>
+		<path>./Wartran Troopers.teknoparrot</path>
+		<name>Wartran Troopers</name>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>7</playcount>
+		<lastplayed>20221225T190015</lastplayed>
+		<gametime>624</gametime>
+	</game>
+	<game>
+		<path>./Farcry Instincts Paradise.teknoparrot</path>
+		<name>Farcry Instincts Paradise</name>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<hidden>true</hidden>
+		<playcount>2</playcount>
+		<lastplayed>20230222T160033</lastplayed>
+	</game>
+	<game>
+		<path>./Lets Go Safari.teknoparrot</path>
+		<name>Lets Go Safari</name>
+		<playcount>2</playcount>
+		<lastplayed>20230222T160528</lastplayed>
+	</game>
+	<game>
+		<path>./Let's Go Safari.teknoparrot</path>
+		<name>Let's Go Safari</name>
+		<playcount>1</playcount>
+		<lastplayed>20230222T161045</lastplayed>
+		<gametime>167</gametime>
+	</game>
+	<game>
+		<path>./Let's Go Jungle Special.teknoparrot</path>
+		<name>Let's Go Jungle Special</name>
+		<video>./videos/Let's Go Jungle Special.mp4</video>
+		<marquee>./images/Let's Go Jungle Special.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<playcount>2</playcount>
+		<lastplayed>20230301T165052</lastplayed>
+		<gametime>101</gametime>
+	</game>
+	<game id="150288">
+		<path>./2spicy.teknoparrot</path>
+		<name>2 Spicy</name>
+		<desc>Sega brings back the classic gun fight in this light gun shooting game. Normally sold as 2 cabinets for head to head play but can be played solo in story mode. The innovation on this game is freedom of movement. In most gun games, players are locked into a set path, meaning the game moves the player from location to location, without the player have much choice in the matter.
+2 Spicy introduces a double foot pedal system. Which gives the player options and freedom. One pedal moves the player left the other one right. Also being a shoot-out game there is plenty of places to hide for cover. Thus making the game a mano-a-mano fight to the death where the player must outthink, outshoot and outmaneuver his opponent.</desc>
+		<image>./images/2spicy-image.png</image>
+		<video>./videos/2spicy-video.mp4</video>
+		<marquee>./images/2spicy-marquee.png</marquee>
+		<thumbnail>./images/2spicy-thumb.png</thumbnail>
+		<fanart>./images/2spicy-fanart.jpg</fanart>
+		<manual>./manuals/2spicy-manual.pdf</manual>
+		<rating>0</rating>
+		<releasedate>20070101T000000</releasedate>
+		<developer>Sega AM1</developer>
+		<publisher>SEGA</publisher>
+		<genre>Lightgun Shooter</genre>
+		<arcadesystemname>sega</arcadesystemname>
+		<players>2</players>
+		<playcount>4</playcount>
+		<lastplayed>20230304T213333</lastplayed>
+		<gametime>208</gametime>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Aliens Extermination.teknoparrot</path>
+		<name>Aliens Extermination</name>
+		<video>./videos/AliensExtermination.mp4</video>
+		<marquee>./images/AliensExtermination.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>5</playcount>
+		<lastplayed>20230304T213409</lastplayed>
+		<gametime>354</gametime>
+	</game>
+</gameList>

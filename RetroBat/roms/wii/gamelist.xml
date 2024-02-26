@@ -1,0 +1,920 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="9728">
+		<path>./Dino Strike.wbfs</path>
+		<name>Dino Strike</name>
+		<desc>Someone is scheduled for extinction - better hope it is not you! Hunt while being hunted in this prehistoric shooter. Take aim at some of the most ferocious beasts to ever stalk the earth. Try to bring down Pterodactyls, Raptors, Akylosauruses, Dilophosauruses, and the mighty T-Rex. Head into battle with your choice of weapon: a shotgun, machine gun, or crossbow. Confident marksmen can hunt with one weapon, while those looking to load up on firepower can hunt with two. And, since everything you're hunting is also hunting you, two just might be the better option!</desc>
+		<image>./images/Dino Strike-image.png</image>
+		<video>./videos/Dino Strike-video.mp4</video>
+		<marquee>./images/Dino Strike-marquee.png</marquee>
+		<thumbnail>./images/Dino Strike-thumb.png</thumbnail>
+		<releasedate>20110201T000000</releasedate>
+		<developer>Tradewest</developer>
+		<publisher>Zoo Games</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>4+</players>
+		<lang>en</lang>
+	</game>
+	<game id="9779">
+		<path>./Mad Dog McCree - Gunslinger Pack.wbfs</path>
+		<name>Mad Dog McCree : Gunslinger Pack</name>
+		<desc>Mad Dog has taken over the town, locked up the sheriff in jail, and kidnapped the Mayor and his daughter. You must make your way across town to get clues, while taking out anyone that gets in your way. Get to Mad Dog's hide-out to save the Mayor and his daughter!</desc>
+		<image>./images/Mad Dog McCree - Gunslinger Pack-image.png</image>
+		<video>./videos/Mad Dog McCree - Gunslinger Pack-video.mp4</video>
+		<marquee>./images/Mad Dog McCree - Gunslinger Pack-marquee.png</marquee>
+		<thumbnail>./images/Mad Dog McCree - Gunslinger Pack-thumb.png</thumbnail>
+		<releasedate>20090616T000000</releasedate>
+		<developer>Digital Leisure</developer>
+		<publisher>Majesco</publisher>
+		<genre>Lightgun Shooter</genre>
+		<lang>en</lang>
+	</game>
+	<game id="10904">
+		<path>./Top Shot Arcade.wbfs</path>
+		<name>Top Shot Arcade</name>
+		<desc>Shootin' fun for everyone!
+Have a blast in 4 player head to head arcade action!
+
+Enjoy non-stop laughs and the wildest shootin' action ever as you compete in 75 arcade style shootin' galleries and 15 over the top bonus games. Featuring 4 person head-to-head arcade style gameplay, this is the ultimate game for a party or family night. You'll also need to get your trigger finger ready as the game comes bundled with the TOP SHOT ELITE peripheral - just load your WiiTM Remote and Nunchuk and you're ready for countless hours of shootin' action!</desc>
+		<image>./images/Top Shot Arcade-image.png</image>
+		<video>./videos/Top Shot Arcade-video.mp4</video>
+		<marquee>./images/Top Shot Arcade-marquee.png</marquee>
+		<thumbnail>./images/Top Shot Arcade-thumb.png</thumbnail>
+		<releasedate>20110302T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>2-4</players>
+		<playcount>5</playcount>
+		<lastplayed>20220707T172208</lastplayed>
+		<gametime>363</gametime>
+		<lang>en</lang>
+	</game>
+	<game id="9479">
+		<path>./Wild West Shootout (USA) (En,Fr,Es).wbfs</path>
+		<name>Wild West Shootout</name>
+		<desc>Draw your gun and survive a hail of gunfire in wild west shootout. Fight your way through treacherous terrain on your way out west but beware - outlaws are rounding every corner looking to take your down with a single bullet. So watch your step and keep your finger on the trigger.</desc>
+		<image>./images/Wild West Shootout (USA) (En,Fr,Es)-image.png</image>
+		<video>./videos/Wild West Shootout (USA) (En,Fr,Es)-video.mp4</video>
+		<marquee>./images/Wild West Shootout (USA) (En,Fr,Es)-marquee.png</marquee>
+		<thumbnail>./images/Wild West Shootout (USA) (En,Fr,Es)-thumb.png</thumbnail>
+		<developer>Tradewest</developer>
+		<publisher>Tradewest</publisher>
+		<genre>Lightgun Shooter</genre>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+	</game>
+	<game id="9794">
+		<path>./Cabela's Big Game Hunter 2012 (USA).wbfs</path>
+		<name>Cabela's Big Game Hunter 2012</name>
+		<desc>With the world as their playground, players will explore a vast expanse of mountains and valleys with unprecedented choices in direction never before seen in a Cabela's hunting game. Players can climb an area to get a better angle for the shot but risk being spotted, or they can take a low elevation route with poor visibility but plenty of concealment. Nature doesn't always wait for you to make the first move as the dynamic weather and natural hazards make the hunt even more challenging. The challenge doesn't end there. Cabela's Big Game Hunter 2012 ups the ante with the most realistic animals ever seen in the Cabela's series. Every animal's unique movement gives clues on what the animal will do next. In order to bag the trophies, players will have to avoid detection through cunning, skill, and deception. They must also utilize master hunting skills such as advanced stalking techniques so they can quickly move through cover and close in on their targets.</desc>
+		<image>./images/Cabela's Big Game Hunter 2012 (USA)-image.png</image>
+		<video>./videos/Cabela's Big Game Hunter 2012 (USA)-video.mp4</video>
+		<marquee>./images/Cabela's Big Game Hunter 2012 (USA)-marquee.png</marquee>
+		<thumbnail>./images/Cabela's Big Game Hunter 2012 (USA)-thumb.png</thumbnail>
+		<releasedate>20110927T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Lightgun Shooter</genre>
+		<family>Cabela's</family>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="9818">
+		<path>./Cabela's Dangerous Hunts 2009 (USA).wbfs</path>
+		<name>Cabela's Dangerous Hunts 2009</name>
+		<desc>Cabela s Dangerous Hunts 2009 is a hunting video game published by Activision for the PlayStation 2, PlayStation 3, Wii, and Xbox 360 video game consoles. It was released in the United States on September 23, 2008.</desc>
+		<image>./images/Cabela's Dangerous Hunts 2009 (USA)-image.png</image>
+		<video>./videos/Cabela's Dangerous Hunts 2009 (USA)-video.mp4</video>
+		<marquee>./images/Cabela's Dangerous Hunts 2009 (USA)-marquee.png</marquee>
+		<thumbnail>./images/Cabela's Dangerous Hunts 2009 (USA)-thumb.png</thumbnail>
+		<releasedate>20090923T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Lightgun Shooter</genre>
+		<family>Cabela's</family>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="9447">
+		<path>./Cabela's Dangerous Hunts 2011 (USA).wbfs</path>
+		<name>Cabela's Dangerous Hunts 2011</name>
+		<desc>The 2011 edition of Dangerous Hunts challenges players to conquer the world's most ferocious predators, using only their wits, their knowledge of the wilderness, and a selection of Cabela's top-quality outdoor gear. As in earlier versions of the game, the situations are more extreme than in other Cabela's hunting titles, as players find themselves in desperate kill-or-be-killed situations designed to test the skills, mettle, and luck of any would-be outdoorsman. In the game's Story Mode, players take the role of Cole Rainsford, who travels to Africa to hunt animals that have been attacking people in remote villages. Players face off against unnaturally aggressive wolves, bears, lions, crocodiles, and other dangerous beasts, in tense, first-person shooter battles. Dangerous Hunts also features a "Shooting Gallery" mode, with a number of multiplayer options. The console game is specially designed for play with the Top Shot Elite, a pump-action gun controller with an adjustable stock, designed to convey the feel of an authentic hunting rifle. The Top Shot Elite for Wii, included in the bundle package, incorporates the Wii Remote and Nunchuk controllers.</desc>
+		<image>./images/Cabela's Dangerous Hunts 2011 (USA)-image.png</image>
+		<video>./videos/Cabela's Dangerous Hunts 2011 (USA)-video.mp4</video>
+		<marquee>./images/Cabela's Dangerous Hunts 2011 (USA)-marquee.png</marquee>
+		<thumbnail>./images/Cabela's Dangerous Hunts 2011 (USA)-thumb.png</thumbnail>
+		<releasedate>20101026T000000</releasedate>
+		<developer>Cauldron</developer>
+		<publisher>Activision</publisher>
+		<genre>Lightgun Shooter</genre>
+		<family>Cabela's</family>
+		<players>2-4</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="9390">
+		<path>./Cabela's Dangerous Hunts 2013 (USA) (En,Fr).wbfs</path>
+		<name>Cabela's Dangerous Hunts 2013</name>
+		<desc>Can you hold your own against the most vicious beasts the animal kingdom has to offer? Find out in Cabela's Dangerous Hunts 2013! The game introduces a new horde-based "Maneater" mode allowing for two-player co-operative gameplay where teamwork is essential as both players must work together to strategize and complete missions in order to survive for as long as possible. And it won't be easy to draw down on your deadly prey as predators come powered by the all-new Prowler AI system making them smarter and deadlier than ever before.</desc>
+		<image>./images/Cabela's Dangerous Hunts 2013 (USA) (En,Fr)-image.png</image>
+		<video>./videos/Cabela's Dangerous Hunts 2013 (USA) (En,Fr)-video.mp4</video>
+		<marquee>./images/Cabela's Dangerous Hunts 2013 (USA) (En,Fr)-marquee.png</marquee>
+		<thumbnail>./images/Cabela's Dangerous Hunts 2013 (USA) (En,Fr)-thumb.png</thumbnail>
+		<releasedate>20121023T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Lightgun Shooter</genre>
+		<family>Cabela's</family>
+		<lang>en,fr</lang>
+		<region>eu</region>
+	</game>
+	<game id="9250">
+		<path>./Ghost Squad.wbfs</path>
+		<name>Ghost Squad</name>
+		<desc>Sega?s top-grossing light-gun game, Ghost Squad, comes to the Wii system and replicates the excitement of the arcade experience in your home!.The Ghost Squad is a Special Forces unit established in strict secrecy by the U.N. to combat terrorism and carry out special highly-classified missions without leaving a trace. As an elite member of the Ghost Squad, players will complete dangerous missions such as eliminating terrorist groups, releasing hostages, deactivating bombs, and even rescuing the US President when terrorists hijack Air Force One!Using the Wii Remote or Nintendo?s new Wii Zapper peripheral, players will utilize revolutionary selectable weapons including a high powered rifle, sub machine and shot gun, or even engage in hand-to-hand combat.</desc>
+		<image>./images/Ghost Squad-image.png</image>
+		<video>./videos/Ghost Squad-video.mp4</video>
+		<marquee>./images/Ghost Squad-marquee.png</marquee>
+		<thumbnail>./images/Ghost Squad-thumb.png</thumbnail>
+		<fanart>./images/Ghost Squad-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>20071120T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>2-4</players>
+		<lang>en</lang>
+	</game>
+	<game id="9180">
+		<path>./Gunslingers.wbfs</path>
+		<name>Western Heroes</name>
+		<desc>The Gun Shall Smoke Three Times?With your shotgun or pistol in hand and your stagecoach speeding along, prepare to shoot fast and to shoot straight to beat the sinister Molina and survive the adventures of the Western Heroes.In an atmosphere and setting inspired by great Hollywood westerns, your concentration and your shooting skills will be put to the test.On top of a train, in a gold rush town, in the depth of a gold mine, in an Indian village, taking cover behind the saloon bar, alone or with friends, you only have one motto: I shoot, therefore I live!With an inspired production and using all of the genre?s codes, Western Heroes is an exciting, explosive and addicting rail-shooter, a genuine interactive western, accessible to living-room-cowboys of all ages!Main features:* Game sold in bundle together with a real Cowboy shortened rifle for a greater gameplay!* Up to 4 players at the same time and on the same screen* A genuine interactive movie that you can play alone or with your family and friends* Twelve levels with just as many settings and atmospheres; a western city, a train, a mine, an Indian village, a saloon?* 3 game modes to keep on playing the game without it ever getting old!</desc>
+		<image>./images/Gunslingers-image.png</image>
+		<video>./videos/Gunslingers-video.mp4</video>
+		<marquee>./images/Gunslingers-marquee.png</marquee>
+		<thumbnail>./images/Gunslingers-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>20101029T000000</releasedate>
+		<developer>Neko Entertainment</developer>
+		<publisher>Neko Entertainment</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Nerf Strike Elite.wbfs</path>
+		<name>Nerf Strike Elite</name>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+	</game>
+	<game id="8977">
+		<path>./Sniper Elite.wbfs</path>
+		<name>Sniper Elite</name>
+		<desc>Sniper Elite 25: You are an elite American sniper sent into the dangerous chaos of World War II! Sniper Elite features true-to-life weapons, 29 missions, and multi-player Sniper and Spotter challenges. Sniper Elite transports you into a different time where you are a highly trained American sniper on a mission at the dawn of the Cold War. One of the most realistic shooting games to date, Sniper Elite takes advantage of the Wii's precise control system to perfect each movement, gesture, and attack. In the wake of WWII you are an elite American sniper sent into the dangerous chaos erupting between the Russians and Germans. Your mission is to prevent Stalin from gaining critical nuclear research developed by Germany to produce the atom bomb. One of the most realistic shooting games to date, Sniper Elite takes advantage of the Wii's precise control system to perfect each movement, gesture, and attack. Features specialized sniper technique training, detailed weapon and ammo selections, single and 2-player co-op challenges, 29 action-packed missions, and 4 difficulty settings including: Rookie, Cadet, Marksmen, and Sniper Elite!</desc>
+		<image>./images/Sniper Elite-image.png</image>
+		<video>./videos/Sniper Elite-video.mp4</video>
+		<marquee>./images/Sniper Elite-marquee.png</marquee>
+		<thumbnail>./images/Sniper Elite-thumb.png</thumbnail>
+		<fanart>./images/Sniper Elite-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>20101118T000000</releasedate>
+		<developer>Rebellion</developer>
+		<publisher>Reef Entertainment</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game id="9528">
+		<path>./Chicken Riot (USA) (En,Fr,Es) (Rev 1).wbfs</path>
+		<name>Chicken Riot</name>
+		<desc>Face a horde of crazed chickens mounting a rebellion against you! Hunt the wretched hens on your farm and on the fields surrounding it, fight them in the orchard and on the graveyard. The choice is simple - it?s either them, or you!GAME FEATURES:* Non-stop chicken blastin? action under relentless egg bombardment.* Amusing weapons, upgrades, alternative modes of play and special bonus levels.* Hilarious comics style storyline which will leave you rolling on the floor laughing.* Double the craziness in two player mode and use a Nintendo gun for even more fun!</desc>
+		<image>./images/Chicken Riot (USA) (En,Fr,Es) (Rev 1)-image.png</image>
+		<video>./videos/Chicken Riot (USA) (En,Fr,Es) (Rev 1)-video.mp4</video>
+		<marquee>./images/Chicken Riot (USA) (En,Fr,Es) (Rev 1)-marquee.png</marquee>
+		<thumbnail>./images/Chicken Riot (USA) (En,Fr,Es) (Rev 1)-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>20100319T000000</releasedate>
+		<developer>City Interactive</developer>
+		<publisher>City Interactive</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>2</players>
+		<md5>5741742c4a6cad48f687b42ddcb6f243</md5>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+	</game>
+	<game id="9734">
+		<path>./Chicken Shoot (USA) (En,Fr,Es).wbfs</path>
+		<name>Chicken Shoot</name>
+		<desc>Chicken Shoot is a gallery shooting game based on free 2003 flash game of the same name. Played from the first-person perspective, the player points the Wii remote and shoots all chickens that fly across the screen. Different kinds of guns can be picked up and every now and then enemies thrown an egg towards the screen that needs to be blown up quickly. Extra points are awarded for shooting certain background items, bombs destroy everything on the screen, food can be picked up to refill energy (Arcade) and clocks add more time (Classic).
+
+The game uses hand-drawn graphics. There are different settings, such as the desert and Antarctica, and three game modes with different difficulty levels, but quite similar. In single-player, there is Arcade (shoot a specific number of chickens), Classic (time limit) and Catch an Egg (a mini-game where eggs need to be caught before they drop on the ground).  The first two can also be played in split-screen multiplayer.</desc>
+		<image>./images/Chicken Shoot (USA) (En,Fr,Es)-image.png</image>
+		<video>./videos/Chicken Shoot (USA) (En,Fr,Es)-video.mp4</video>
+		<marquee>./images/Chicken Shoot (USA) (En,Fr,Es)-marquee.png</marquee>
+		<thumbnail>./images/Chicken Shoot (USA) (En,Fr,Es)-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<developer>Frontline Studios</developer>
+		<publisher>Zoo Digital Publishing</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>2</players>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+	</game>
+	<game id="9376">
+		<path>./Deer Drive (USA).wbfs</path>
+		<name>Deer Drive</name>
+		<desc>Deer Drive brings arcade-style multiplayer hunting action to the Wii. With an intense one-player Challenge Mode, an exciting Party Mode for up to four players, and a new two-player simultaneous Competition Mode, Deer Drive is an intense hunting experience for parties full of people. Target scores of magnificent animals in over 30 stages. Animals can gallop, leap and swerve to dodge your shot, and animals such as wolves and mountain lions can rampage against you if you put them in your sights.</desc>
+		<image>./images/Deer Drive (USA)-image.png</image>
+		<video>./videos/Deer Drive (USA)-video.mp4</video>
+		<marquee>./images/Deer Drive (USA)-marquee.png</marquee>
+		<thumbnail>./images/Deer Drive (USA)-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>20090120T000000</releasedate>
+		<developer>SCS Software / Kouyousha</developer>
+		<publisher>Neko Entertainment</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>2-4</players>
+		<md5>7841953fb9e0eb592653946c9bcae6e0</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="10002">
+		<path>./Deer Drive Legends (USA) (En,Fr,Es).wbfs</path>
+		<name>Deer Drive Legends</name>
+		<desc>The world's wildest animals are in your crosshairs in this hunting trek where you'll track Earth's most elusive beasts! Legendary beasts are pursued, hunting legends are made, and legendary trophies are brought home in Deer Drive Legends. Choose the weapon to suit your target from an arsenal of shotguns, crossbows, snipers, and more. Your hunting skills will be pushed to the limit in remote environments where your prey clearly has the home field advantage. Hunt over 30 kinds of animals, including Irish elk, white-tailed deer, woolly rhinos, and wolves. Once you've bagged one of those beasts, the challenge really heats up with huge boss battles against legendary creatures like saber-toothed cats and the mighty T-Rex!</desc>
+		<image>./images/Deer Drive Legends (USA) (En,Fr,Es)-image.png</image>
+		<video>./videos/Deer Drive Legends (USA) (En,Fr,Es)-video.mp4</video>
+		<marquee>./images/Deer Drive Legends (USA) (En,Fr,Es)-marquee.png</marquee>
+		<thumbnail>./images/Deer Drive Legends (USA) (En,Fr,Es)-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<developer>Maximum Games</developer>
+		<publisher>Maximum Games</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>2</players>
+		<md5>bfce2e67f7206f6850dcbeaddc938918</md5>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+	</game>
+	<game id="9282">
+		<path>./Nerf N-Strike (USA).wbfs</path>
+		<name>NERF N-Strike</name>
+		<desc>The Search for the N-Strike Elite Begins...Through the din of a popular arcade, one player has emerged as the best N-Strike gamer his friends have ever seen. But even as Shane smashes through the game's record, something far more mysterious is happening: his success is being tracked and recorded. Shane is the perfect candidate for an ultra-exclusive invitation to become an N-Strike Elite. Later that night, he's awakened to find the Nomad C Series Recruitment bot hovering silently over his bed. "B.O.B." has a challenge for Shane. Join the quest to become an Elite Striker and he'll have access to Top Secret Blasters. It's all the incentive Shane needs, and as the one controlling Shane, it's your opportunity of a lifetime....</desc>
+		<image>./images/Nerf N-Strike (USA)-image.png</image>
+		<video>./videos/Nerf N-Strike (USA)-video.mp4</video>
+		<marquee>./images/Nerf N-Strike (USA)-marquee.png</marquee>
+		<thumbnail>./images/Nerf N-Strike (USA)-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>20090220T000000</releasedate>
+		<developer>EA Games</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="202560">
+		<path>./Nerf N-Strike - Double Blast Bundle (USA).wbfs</path>
+		<name>Nerf N-Strike : Double Blast Bundle</name>
+		<image>./images/Nerf N-Strike - Double Blast Bundle (USA)-image.png</image>
+		<marquee>./images/Nerf N-Strike - Double Blast Bundle (USA)-marquee.png</marquee>
+		<thumbnail>./images/Nerf N-Strike - Double Blast Bundle (USA)-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="8710">
+		<path>./Resident Evil 4 - Wii Edition (USA).wbfs</path>
+		<name>Resident Evil 4: Wii Edition</name>
+		<desc>A remake of the blockbuster survival horror game, fourth entry in the Resident Evil universe not only takes players out of the country on a recovery mission but also into the arms of a whole new enemy. As Leon Kennedy, players will explore a town overrun by cultists, mutants and mind-controlled villagers, using the Wii Remote to aim, fire, slash and avoid oncoming adversaries with intuitive motions and movements. Added Wii Remote and Nunchuck support allows players to immerse themselves in the game as never before. This package includes the original game (with tuned-up control for the Wiimote) plus the playable bonus Ada Wong side-story, The Another Order not available in the original GameCube version.</desc>
+		<image>./images/Resident Evil 4 - Wii Edition (USA)-image.png</image>
+		<video>./videos/Resident Evil 4 - Wii Edition (USA)-video.mp4</video>
+		<marquee>./images/Resident Evil 4 - Wii Edition (USA)-marquee.png</marquee>
+		<thumbnail>./images/Resident Evil 4 - Wii Edition (USA)-thumb.png</thumbnail>
+		<fanart>./images/Resident Evil 4 - Wii Edition (USA)-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Lightgun Shooter</genre>
+		<family>Resident Evil</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="8700">
+		<path>./Resident Evil Archives - Resident Evil (USA).wbfs</path>
+		<name>Resident Evil Archives: Resident Evil</name>
+		<desc>Resident Evil Archives: Resident Evil is a near bare-bones Wii port of the 2002 s Resident Evil (remake) for the Nintendo GameCube, which was itself essentially the 1996 PlayStation classic with a massive visual overhaul.</desc>
+		<image>./images/Resident Evil Archives - Resident Evil (USA)-image.png</image>
+		<video>./videos/Resident Evil Archives - Resident Evil (USA)-video.mp4</video>
+		<marquee>./images/Resident Evil Archives - Resident Evil (USA)-marquee.png</marquee>
+		<thumbnail>./images/Resident Evil Archives - Resident Evil (USA)-thumb.png</thumbnail>
+		<fanart>./images/Resident Evil Archives - Resident Evil (USA)-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>20081225T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Lightgun Shooter</genre>
+		<family>Resident Evil</family>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="8804">
+		<path>./Resident Evil Archives - Resident Evil Zero (USA).wbfs</path>
+		<name>Resident Evil Archives : Resident Evil Zero</name>
+		<desc>Resident Evil Archives gives Wii gamers the opportunity to play classic Resident Evil games they may have missed at a great value price. Experience the beginning of the Resident Evil saga with the remake of the game that started the survival horror genre, Resident Evil.The Raccoon City Police Department doesn't know what happened to the Special Tactics and Rescue Service (S.T.A.R.S.) team it sent out to investigate the Arklay Mountain area, where a number of people have recently gone missing. The unit's helicopter seems to have crashed in the woods, and it hasn't received any contact from the squad since. The department decides to dispatch another S.T.A.R.S. unit, the Alpha team, to check things out… but something goes terribly wrong.You take control of S.T.A.R.S.</desc>
+		<image>./images/Resident Evil Archives - Resident Evil Zero (USA)-image.png</image>
+		<video>./videos/Resident Evil Archives - Resident Evil Zero (USA)-video.mp4</video>
+		<marquee>./images/Resident Evil Archives - Resident Evil Zero (USA)-marquee.png</marquee>
+		<thumbnail>./images/Resident Evil Archives - Resident Evil Zero (USA)-thumb.png</thumbnail>
+		<fanart>./images/Resident Evil Archives - Resident Evil Zero (USA)-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>20100122T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Lightgun Shooter</genre>
+		<family>Resident Evil</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="195723">
+		<path>./Canada Hunt (USA).wbfs</path>
+		<name>Canada Hunt</name>
+		<desc>Canada Hunt is a fully three-dimensional hunting simulation game. More realistic than any other hunting game, it features lifelike animals in their natural environments. Takes you through specialized training and bonus features that players of all levels, from the beginner to the most hardcore hunter, will enjoy. Includes ultra-realistic: Whitetail Deer, Rocky Mountain Elk, Wild Turkeys, and Critter Cam.
+
+Features Arcade Mode for faster-paced shooting action</desc>
+		<image>./images/Canada Hunt (USA)-image.png</image>
+		<video>./videos/Canada Hunt (USA)-video.mp4</video>
+		<marquee>./images/Canada Hunt (USA)-marquee.png</marquee>
+		<thumbnail>./images/Canada Hunt (USA)-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="9150">
+		<path>./House of the Dead 2 &amp; 3 Return, The (USA) (En,Fr,Es).wbfs</path>
+		<name>The House of the Dead 2 &amp; 3 Return</name>
+		<desc>"Two grisly titles from the popular THE HOUSE OF THE DEAD? series are being compiled into one action-packed horror shooter for the Wii?. Both THE HOUSE OF THE DEAD 2 and III will feature the original arcade experience, complete with branching storylines, over six ghoul-filled game modes and bonus content. Re-live your "gory days" in the arcades and mow down packs of clawing, biting un-dead with the new rapid-fire Wii Zapper?!"? Experience the popular arcade shooting action at home. Blast the un-dead with the quick trigger action of the Wii Zapper(TM).? Co-op gameplay. Grab a friend and destroy the un-dead together including Arcade mode and Original mode.? Gory arcade graphics. THE HOUSE OF THE DEAD 2 &amp; 3 RETURN retains the rich arcade graphics you love.</desc>
+		<image>./images/House of the Dead 2 &amp; 3 Return, The (USA) (En,Fr,Es)-image.png</image>
+		<video>./videos/House of the Dead 2 &amp; 3 Return, The (USA) (En,Fr,Es)-video.mp4</video>
+		<marquee>./images/House of the Dead 2 &amp; 3 Return, The (USA) (En,Fr,Es)-marquee.png</marquee>
+		<thumbnail>./images/House of the Dead 2 &amp; 3 Return, The (USA) (En,Fr,Es)-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>20080328T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Lightgun Shooter</genre>
+		<family>House of the Dead</family>
+		<players>2</players>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+	</game>
+	<game id="195703">
+		<path>./Buck Fever.wbfs</path>
+		<name>Buck Fever</name>
+		<image>./images/Buck Fever-image.png</image>
+		<video>./videos/Buck Fever-video.mp4</video>
+		<marquee>./images/Buck Fever-marquee.png</marquee>
+		<thumbnail>./images/Buck Fever-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>1</playcount>
+		<lastplayed>20221225T194628</lastplayed>
+		<gametime>105</gametime>
+		<lang>en</lang>
+	</game>
+	<game id="10466">
+		<path>./Martian Panic.wbfs</path>
+		<name>Martian Panic</name>
+		<desc>Martian Panic takes the Wii shooting genre out of this world, with new levels of strategy and experimental weaponry. If one gun at a time isn t enough, players can grab a second Wii Remote and blast away in the game s dual-wielding mode. Up to four players can battle simultaneously against the Martian onslaught and the advanced camera system ensures that the gamer s vantage is always right. The rules are simple but the action is intense, so hold onto your helmet as the challenges escalate.</desc>
+		<image>./images/Martian Panic-image.png</image>
+		<video>./videos/Martian Panic-video.mp4</video>
+		<marquee>./images/Martian Panic-marquee.png</marquee>
+		<thumbnail>./images/Martian Panic-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<developer>Empire Interactive</developer>
+		<publisher>Empire Interactive</publisher>
+		<genre>Lightgun Shooter</genre>
+		<playcount>2</playcount>
+		<lastplayed>20221225T193901</lastplayed>
+		<gametime>755</gametime>
+		<lang>en</lang>
+	</game>
+	<game id="9448">
+		<path>./Alien Syndrome (USA).wbfs</path>
+		<name>Alien Syndrome</name>
+		<desc>The title is set in the far future, where interplanetary space travel is possible. Communication is lost with one of the stations on a distant planet, the Kronos, and Aileen Harding is sent to investigate. She quickly discovers that  Alien Syndrome  is behind the disappearance and decides to fight the enemy and find out what happened to her boyfriend, Tom.
+
+The story of Alien Syndrome (2007) picks up approximately 20 years after the original Alien Syndrome game. There are 5 chapters in the story.</desc>
+		<image>./images/Alien Syndrome (USA)-image.png</image>
+		<video>./videos/Alien Syndrome (USA)-video.mp4</video>
+		<marquee>./images/Alien Syndrome (USA)-marquee.png</marquee>
+		<thumbnail>./images/Alien Syndrome (USA)-thumb.png</thumbnail>
+		<fanart>./images/Alien Syndrome (USA)-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>20070724T000000</releasedate>
+		<developer>Totally Games</developer>
+		<publisher>SEGA</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>2-4</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="9505">
+		<path>./All Round Hunter.wbfs</path>
+		<name>All Round Hunter</name>
+		<desc>For the first time ever on the Wii console, experience all the excitement of all three different disiplines of hunting: fish from the lakes; game on the land; birds from the sky. Only those who have mastered all three skills can claim to be the All Round Hunter. 
+
+Hunt more than 30 big game, native and fowl species across multiple environments rich with wildlife activity in varying weather conditions and day/night hunting cycles. 
+
+- Use your skills to find over 20 different species in the air and on land in their natural habitats 
+- 5 different environments (Tarn, Lake, Valley, Mountain River and Woodland) 
+- Embark on your own single-player adventure or challenge a friend in multiplayer.</desc>
+		<image>./images/All Round Hunter-image.png</image>
+		<video>./videos/All Round Hunter-video.mp4</video>
+		<marquee>./images/All Round Hunter-marquee.png</marquee>
+		<thumbnail>./images/All Round Hunter-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>20100625T000000</releasedate>
+		<developer>Sims</developer>
+		<publisher>505 Games</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game id="195657">
+		<path>./Arcade Shooting Gallery.wbfs</path>
+		<name>Arcade Shooting Gallery</name>
+		<desc>Shoot down enemies with Laser Guns, Bubble Bomb Pistols, and More!Players assume the roles of Tony and Melissa in this third person shooter with a colorful cartoon feel. Shoot down enemies with laser guns, bubble bomb pistols and more in order to bring order back to the park. Explore different sections of the carnival and shoot down all that comes at you - but beware, these enemies will not go down quietly.Features• Several unique guns to choose from including a Fireball Gun and a Magnetic Gun• Explore five sections of the empty Amusement Park including Haunted Maze Mountain and Future World• Blast a variety of malicious enemies including Robot Clowns, Hologram Ghosts, and Evil Bats• Intense Boss battles at the end of each stage will keep players on their toes• Fill up your money bag by getting in-game bonuses - use your coins to upgrade weapons, health and stamina• Play solo or with a friend in 2-player cooperative mode</desc>
+		<image>./images/Arcade Shooting Gallery-image.png</image>
+		<video>./videos/Arcade Shooting Gallery-video.mp4</video>
+		<marquee>./images/Arcade Shooting Gallery-marquee.png</marquee>
+		<thumbnail>./images/Arcade Shooting Gallery-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>20091109T000000</releasedate>
+		<developer>Zoo Digital Publishing</developer>
+		<publisher>Zoo</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game id="195695">
+		<path>./Big Buck Hunter Pro.wbfs</path>
+		<name>Big Buck Hunter Pro</name>
+		<desc>Lock n' Load and hit the great outdoors with Big Buck Hunter Pro, the #1 arcade hunting game!
+
+Whether you're a beginner or a pro, it's always hunting season with Big Buck Hunter Pro.
+
+Bag dozens of big game critters!
+Take aim across 75 action-packed adventures.
+Sharpen your skills with 15 Mini Games favorites!</desc>
+		<image>./images/Big Buck Hunter Pro-image.png</image>
+		<video>./videos/Big Buck Hunter Pro-video.mp4</video>
+		<marquee>./images/Big Buck Hunter Pro-marquee.png</marquee>
+		<thumbnail>./images/Big Buck Hunter Pro-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>20100923T000000</releasedate>
+		<developer>Play Mechanix</developer>
+		<publisher>Crave Entertainment</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>4</players>
+		<playcount>4</playcount>
+		<lastplayed>20221225T194413</lastplayed>
+		<gametime>218</gametime>
+		<lang>en</lang>
+	</game>
+	<game id="9468">
+		<path>./Cabela's African Adventures (USA).wbfs</path>
+		<name>Cabela's African Adventures</name>
+		<desc>Outdoor outfitter Cabela's continues its long-running hunting series as gamers explore vast open-world environments and try to track down the biggest and most dangerous animals the continent has to offer in Cabela's African Adventures. Players can freely explore five different biomes on foot or in vehicles, using a variety of different firearms and hunting tools to track down and kill rhinos, lions, elephants, and other wild beasts. Solo gamers can take on the mission-based Safari mode, while up to four can participate in a variety of multiplayer shooting galleries.</desc>
+		<image>./images/Cabela's African Adventures (USA)-image.png</image>
+		<video>./videos/Cabela's African Adventures (USA)-video.mp4</video>
+		<marquee>./images/Cabela's African Adventures (USA)-marquee.png</marquee>
+		<thumbnail>./images/Cabela's African Adventures (USA)-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>20131015T000000</releasedate>
+		<developer>Cauldron</developer>
+		<publisher>Activision</publisher>
+		<genre>Lightgun Shooter</genre>
+		<family>Cabela's</family>
+		<playcount>1</playcount>
+		<lastplayed>20221225T194959</lastplayed>
+		<gametime>206</gametime>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="9197">
+		<path>./Cabela's Big Game Hunter 2010 (USA).wbfs</path>
+		<name>Cabela's Big Game Hunter 2010</name>
+		<desc>In Cabela s Big Game Hunter 2010, players seek "Super Hunter" status aiming to take their "game" to the next level and join the ranks of hunting s best of the best - a club where it takes much more than tall tales to gain respect. Players must prove their fearlessness and ability by successfully bagging the largest trophies in the world s most rugged regions. The most prized animals can only be reached by climbing cliffs, crossing raging rivers, and facing countless more perilous situations. Brand new elements, such as rewards for successfully using cover to progress through missions and a VITALS system which helps players visualize the perfect shot, promise to make this the most fun and action-packed Cabela s game yet.</desc>
+		<image>./images/Cabela's Big Game Hunter 2010 (USA)-image.png</image>
+		<video>./videos/Cabela's Big Game Hunter 2010 (USA)-video.mp4</video>
+		<marquee>./images/Cabela's Big Game Hunter 2010 (USA)-marquee.png</marquee>
+		<thumbnail>./images/Cabela's Big Game Hunter 2010 (USA)-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>20090929T000000</releasedate>
+		<developer>Cauldron</developer>
+		<publisher>Activision</publisher>
+		<genre>Lightgun Shooter</genre>
+		<family>Cabela's</family>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="9197">
+		<path>./Cabela's Big Game Hunter.wbfs</path>
+		<name>Cabela's Big Game Hunter 2010</name>
+		<desc>In Cabela s Big Game Hunter 2010, players seek "Super Hunter" status aiming to take their "game" to the next level and join the ranks of hunting s best of the best - a club where it takes much more than tall tales to gain respect. Players must prove their fearlessness and ability by successfully bagging the largest trophies in the world s most rugged regions. The most prized animals can only be reached by climbing cliffs, crossing raging rivers, and facing countless more perilous situations. Brand new elements, such as rewards for successfully using cover to progress through missions and a VITALS system which helps players visualize the perfect shot, promise to make this the most fun and action-packed Cabela s game yet.</desc>
+		<image>./images/Cabela's Big Game Hunter-image.png</image>
+		<video>./videos/Cabela's Big Game Hunter-video.mp4</video>
+		<marquee>./images/Cabela's Big Game Hunter-marquee.png</marquee>
+		<thumbnail>./images/Cabela's Big Game Hunter-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>20090929T000000</releasedate>
+		<developer>Cauldron</developer>
+		<publisher>Activision</publisher>
+		<genre>Lightgun Shooter</genre>
+		<family>Cabela's</family>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220829T130902</lastplayed>
+		<gametime>23</gametime>
+		<lang>en</lang>
+	</game>
+	<game id="9890">
+		<path>./Cabela's Outdoor Adventures 2010.wbfs</path>
+		<name>Cabela's Outdoor Adventures</name>
+		<desc>Cabela's Outdoor Adventures is a hunting video game released in 2005 by Activision. The game gives a player the ability to drive vehicles, fish and hunt. This is the very first video game to hunt and fish all in one game. There are 11 exotic locations, 32 animals to hunt and harvest, thousands of Cabela's gear options and much more. Some of the animals in the game include White-tailed deer, Mule deer, bear, moose, coyote, Bobcat, Lynx and many more.</desc>
+		<image>./images/Cabela's Outdoor Adventures 2010-image.png</image>
+		<video>./videos/Cabela's Outdoor Adventures 2010-video.mp4</video>
+		<marquee>./images/Cabela's Outdoor Adventures 2010-marquee.png</marquee>
+		<thumbnail>./images/Cabela's Outdoor Adventures 2010-thumb.png</thumbnail>
+		<fanart>./images/Cabela's Outdoor Adventures 2010-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>20090908T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Lightgun Shooter</genre>
+		<lang>en</lang>
+	</game>
+	<game id="10329">
+		<path>./Chicken Blaster (USA) (En,Fr,Es).wbfs</path>
+		<name>Chicken Blaster</name>
+		<desc>Things have gone completely haywire for our humble poultry-farming friend! Crazy chickens have infiltrated his once anonymous and boring life -- and now all of his chickens are going mad! Chickens on rockets! Chickens on water skis! Chickens jumping on trampolines! In Chicken Blaster, it's time to put those crazy chickens in their place. Blast them off the farm with an arsenal of weapons -- but keep an eye on those egg-wielding birds determined to defend their new insane way of life.</desc>
+		<image>./images/Chicken Blaster (USA) (En,Fr,Es)-image.png</image>
+		<video>./videos/Chicken Blaster (USA) (En,Fr,Es)-video.mp4</video>
+		<marquee>./images/Chicken Blaster (USA) (En,Fr,Es)-marquee.png</marquee>
+		<thumbnail>./images/Chicken Blaster (USA) (En,Fr,Es)-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>20100205T000000</releasedate>
+		<developer>Zoo Games</developer>
+		<publisher>Zoo Digital Publishing</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>2</players>
+		<playcount>8</playcount>
+		<lastplayed>20220908T184627</lastplayed>
+		<gametime>336</gametime>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+	</game>
+	<game id="9023">
+		<path>./Conduit, The (USA) (En,Fr,Es).wbfs</path>
+		<name>The Conduit</name>
+		<desc>In The Conduit, you ll find yourself at the center of a thrilling battle involving aliens, secret agents and centuries-old government conspiracies, all set against the backdrop of modern-day Washington, D.C. Built from the ground up for the Wii, the game pits you against ruthless, wily enemies who react to your moves and use the environment to their own advantage. Tailor the game to suit your personal style, and see the game s intense visuals burst to life complete with dynamic environment mapping, interactive water with real-time reflection and four-stage texture composition. Gather up to 11 additional players online for brutal multiplayer action, and incorporate the Wii Speak peripheral to enhance the immediacy of the battle.</desc>
+		<image>./images/Conduit, The (USA) (En,Fr,Es)-image.png</image>
+		<video>./videos/Conduit, The (USA) (En,Fr,Es)-video.mp4</video>
+		<marquee>./images/Conduit, The (USA) (En,Fr,Es)-marquee.png</marquee>
+		<thumbnail>./images/Conduit, The (USA) (En,Fr,Es)-thumb.png</thumbnail>
+		<fanart>./images/Conduit, The (USA) (En,Fr,Es)-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>20090710T000000</releasedate>
+		<developer>High Voltage</developer>
+		<publisher>SEGA</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>2-12</players>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+	</game>
+	<game id="8738">
+		<path>./GoldenEye 007 (USA) (En,Fr).wbfs</path>
+		<name>GoldenEye 007</name>
+		<desc>The GoldenEye story comes to life once again with an updated single player storyline featuring Daniel Craig as Bond and written by Bruce Feirstein, the screenwriter for the original movie. Surprise enemies covertly or engage in a full on firefight and use Bond s latest gadget to uncover intel in augmented reality as you relive all the classic GoldenEye movie moments. Infiltrate the dam and destroy the facility; chase Ourumov in the tank through the streets of St. Petersburgh; and investigate the secret jungle base.
+Key Game Features
+BRINGING MULTIPLAYER BACK TO ITS ROOTS. . Splitscreen returns to the first person shooter in GoldenEye . 4 players in the same room, on the same screen. The extensive variety of characters, game modes and weapons lets you customize the perfect experience from over 500 split screen game combinations
+40 unique characters: Play as your favorite Bond characters and villains, including 8 classic characters . Oddjob, Jaws, Scaramanga, Baron Samedi, Dr. No, Rosa Klebb, Red Grant, and Blofeld
+17 special game modifiers: Mix and match to create a unique gaming experience every time you play. Put a twist on standard game types with special modes like Paintball, Melee Only and You Only Live Twice
+A vast arsenal of weapons and gadgets: Eliminate adversaries with Bond s signature P99 and an assortment of automatic and sniper rifles, or ensure a surprise attack with proximity mines
+Online multiplayer: GoldenEye also features online multiplayer for up to 8 players designed for seasoned FPS online gamers with unique modes and a robust XP system for unlockables and achievements</desc>
+		<image>./images/GoldenEye 007 (USA) (En,Fr)-image.png</image>
+		<video>./videos/GoldenEye 007 (USA) (En,Fr)-video.mp4</video>
+		<marquee>./images/GoldenEye 007 (USA) (En,Fr)-marquee.png</marquee>
+		<thumbnail>./images/GoldenEye 007 (USA) (En,Fr)-thumb.png</thumbnail>
+		<fanart>./images/GoldenEye 007 (USA) (En,Fr)-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>20101105T000000</releasedate>
+		<developer>Eurocom</developer>
+		<publisher>Activision</publisher>
+		<genre>Lightgun Shooter</genre>
+		<family>James Bond 007</family>
+		<players>4</players>
+		<lang>en,fr</lang>
+		<region>eu</region>
+	</game>
+	<game id="9838">
+		<path>./Greg Hastings Paintball 2 (USA).wbfs</path>
+		<name>Greg Hastings Paintball 2</name>
+		<desc>Greg Hastings Paintball 2 introduces more than 10 single and multiplayer game modes each staged in all-new, paintball locations based on actual fields around the world. Seven single-player game modes challenge the most experienced "ballers" to hone their skills and then test them against up to 19 others in seven different multiplayer game types. Whether playing alone or against others, Greg Hastings Paintball 2 ups the ante with game-changing weather conditions and field hazards including rain, wind and fog. The game also features an improved map editor along with the hottest new gear and weapons. When things are at their bleakest, players can even use the all-new cheat meter that lets them avoid elimination by successfully wiping away paint splatter before they re caught.
+
+Serious "ballers" can even become general manager of their own 10-player team composed of more than 100 professional and amateur paintball players. Gamers can trade players, issue commands, and use their earnings from the field to build each player s individual stats, so the overall team is that much more competitive. The better the team assembled, the more tournaments a player stands to win, providing him with added cash to buy new gear, players and skill upgrades.</desc>
+		<image>./images/Greg Hastings Paintball 2 (USA)-image.png</image>
+		<video>./videos/Greg Hastings Paintball 2 (USA)-video.mp4</video>
+		<marquee>./images/Greg Hastings Paintball 2 (USA)-marquee.png</marquee>
+		<thumbnail>./images/Greg Hastings Paintball 2 (USA)-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<developer>Majesco</developer>
+		<publisher>Majesco</publisher>
+		<genre>Lightgun Shooter</genre>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="9863">
+		<path>./Gunblade NY &amp; L.A. Machineguns Arcade Hits Pack (USA) (En,Fr,Es).wbfs</path>
+		<name>Gunblade NY &amp; LA Machineguns: Arcade Hits Pack</name>
+		<desc>Two fast-paced and beloved arcade shooter games take you to the skies above some of America s most well-known locales. Up to two players control achineguns on two flying battle vehicles to destroy an android terrorist invasion. First, combat android invaders in New York City with your Gunblade helicopter gunship. Then, climb aboard a futuristic hovering gunship to battle a new force of android enemies in Los Angeles and West Coast locales such as Alcatraz, Yosemite and Las Vegas. Wii Zapper compatible and a host of added Wii features like online leaderboards for worldwide ranking and Wii Remote vibration complete the experience.</desc>
+		<image>./images/Gunblade NY &amp; L.A. Machineguns Arcade Hits Pack (USA) (En,Fr,Es)-image.png</image>
+		<video>./videos/Gunblade NY &amp; L.A. Machineguns Arcade Hits Pack (USA) (En,Fr,Es)-video.mp4</video>
+		<marquee>./images/Gunblade NY &amp; L.A. Machineguns Arcade Hits Pack (USA) (En,Fr,Es)-marquee.png</marquee>
+		<thumbnail>./images/Gunblade NY &amp; L.A. Machineguns Arcade Hits Pack (USA) (En,Fr,Es)-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>20100827T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>2</players>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+	</game>
+	<game id="9456">
+		<path>./Heavy Fire - Afghanistan (USA).wbfs</path>
+		<name>Heavy Fire: Afghanistan</name>
+		<desc>Head right into the intense heat of combat with this fast-moving military shooter that drops you smack in the middle of a global conflict. Deploy to Afghanistan and undertake 24 critical missions in a variety of environments. Secure urban areas, rescue hostages from the depths of caves, sweep occupied forests, and flush the enemy out of mountain hideouts. Complete your objectives on foot, in 'copters, or in other military vehicles. Whether you're playing the solo campaign or surging to victory in head-to-head or co-op multiplayer, you'll do it all while laying down Heavy Fire.</desc>
+		<image>./images/Heavy Fire - Afghanistan (USA)-image.png</image>
+		<video>./videos/Heavy Fire - Afghanistan (USA)-video.mp4</video>
+		<marquee>./images/Heavy Fire - Afghanistan (USA)-marquee.png</marquee>
+		<thumbnail>./images/Heavy Fire - Afghanistan (USA)-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>20111118T000000</releasedate>
+		<developer>Teyon</developer>
+		<publisher>Neko Entertainment</publisher>
+		<genre>Lightgun Shooter</genre>
+		<family>Heavy Fire</family>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="8862">
+		<path>./Links Crossbow Training.wbfs</path>
+		<name>Link's Crossbow Training</name>
+		<desc>Anyone can pick up the Wii Zapper and become a master marksman in the quick-play shooting galleries of Link's Crossbow Training. Dozens of fast-paced stages offer a wide variety of game play, from shooting stationary targets to defending a supply wagon from onrushing hordes of enemies. Multiplayer modes let players and their friends share a Wii Zapper to shoot for the high score.Link's Crossbow Training comes bundled with the Wii Zapper. After a few rounds of Link's Crossbow Training, players will be more than ready to pick up any of the future Wii Zapper titles, like Medal of Honor Heroes 2, Ghost Squad and Resident Evil: The Umbrella Chronicles.Link's Crossbow Training contains three basic game styles: target shooting, defender and ranger. There are 27 stages in total, and these categories represent only generally how each individual stage operates. Each stage's goal is to earn the highest score possible within the time limit. All rounds can be played with multiple players: Players pass the Wii Zapper around and then play one at a time and compete for the high score.</desc>
+		<image>./images/Links Crossbow Training-image.png</image>
+		<video>./videos/Links Crossbow Training-video.mp4</video>
+		<marquee>./images/Links Crossbow Training-marquee.png</marquee>
+		<thumbnail>./images/Links Crossbow Training-thumb.png</thumbnail>
+		<fanart>./images/Links Crossbow Training-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>20071119T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game id="9263">
+		<path>./North American Hunting Extravaganza.wbfs</path>
+		<name>North American Hunting Extravaganza</name>
+		<desc>Head out into the wild to track and hunt the most dangerous game in North America. Set your sights on over 20 different wildlife species, with a variety of weapons and hunting equipment at your disposal.</desc>
+		<image>./images/North American Hunting Extravaganza-image.png</image>
+		<video>./videos/North American Hunting Extravaganza-video.mp4</video>
+		<marquee>./images/North American Hunting Extravaganza-marquee.png</marquee>
+		<thumbnail>./images/North American Hunting Extravaganza-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>20101007T000000</releasedate>
+		<developer>Arcade Moon</developer>
+		<publisher>Funbox Media</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game id="9815">
+		<path>./NPPL Championship Paintball 2009.wbfs</path>
+		<name>Millennium Championship Paintball 2009</name>
+		<desc>The intensity of first-person-shooters and extreme sports collide in NPPL's Championship Paintball 2009. Feel the adrenaline of intense tournament and woodsball action as you take your game to the next level. Features over 35 tournaments including official NPPL and Millennium field locations and layouts; Huntington Beach, Commander's Cup, Toulouse, Malaga, and more; Plus intense woodsball levels; Includes Career, Quickplay, Multiplayer, Tutorial, and Training modes; Over 110+ pieces of officially licensed gear; JT Sports, Tippmann, Spyder, Smart Parts and many others! 3-D modeled using same technology used for Call of Duty weaponry. Upgradeable and unlockable markers, barrels, hoppers and protective gear.</desc>
+		<image>./images/NPPL Championship Paintball 2009-image.png</image>
+		<video>./videos/NPPL Championship Paintball 2009-video.mp4</video>
+		<marquee>./images/NPPL Championship Paintball 2009-marquee.png</marquee>
+		<thumbnail>./images/NPPL Championship Paintball 2009-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>20081118T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Fun Labs</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Pheasants Forever - Wingshooter (USA).wbfs</path>
+		<name>Pheasants Forever: Wingshooter</name>
+		<desc>Feel the chill in the air and the leaves under your feet as you prepare for the moment. Then suddenly ... a flurry fills the air!
+
+In Pheasants Forever, players have over 20 different types of wild game to hunt, including pheasants, duck, quail &amp; turkey. Pick your favorite breed of hunting dog to be your companion and set out on the hunt either alone or head-to-head with a friend!</desc>
+		<image>./images/Pheasants Forever - Wingshooter (USA)-image.png</image>
+		<video>./videos/Pheasants Forever - Wingshooter (USA)-video.mp4</video>
+		<thumbnail>./images/Pheasants Forever - Wingshooter (USA)-thumb.jpg</thumbnail>
+		<rating>0</rating>
+		<releasedate>20101006T000000</releasedate>
+		<publisher>Game Mill Publishing, Inc.</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="9356">
+		<path>./Remington Great American Bird Hunt.wbfs</path>
+		<name>Remington Great American Bird Hunt</name>
+		<desc>Remington Great American Bird Hunt is the ultimate North American bird hunting game. Fun and fast paced, you and your four legged hunting partner and buddy Rockford use a collection of Remington shotguns that look, feel and shoot like the real deals. Hunt through sixty levels of geese, ducks, turkeys, pheasant, grouse and other birds. Different birds mean you'll need to use different guns and different strategies but enjoy the same hunting thrill. Collect more than 50 trophies, awards and power-up items. Perfect to play by yourself, with the family or with your shooting buddies, Remington Great American Bird Hunt is for 1-4 players and includes a special party modes as well cooperative and competitive play and a leader board to show off your skill.</desc>
+		<image>./images/Remington Great American Bird Hunt-image.png</image>
+		<video>./videos/Remington Great American Bird Hunt-video.mp4</video>
+		<marquee>./images/Remington Great American Bird Hunt-marquee.png</marquee>
+		<thumbnail>./images/Remington Great American Bird Hunt-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>20091027T000000</releasedate>
+		<developer>Mastiff</developer>
+		<publisher>Mastiff</publisher>
+		<genre>Lightgun Shooter</genre>
+		<md5>4a6eb936596f02ce1b953d8502b0c637</md5>
+		<lang>en</lang>
+	</game>
+	<game id="8835">
+		<path>./Resident Evil - The Darkside Chronicles.wbfs</path>
+		<name>Resident Evil : The Darkside Chronicles</name>
+		<desc>The Darkside Chronicles is an on-rails shooting game. In the Resident Evil series it is the second title exclusive to the Wii platform. The game s plot revolves around the personal stories and tragedies in the series, with its main focus on retelling the events of Resident Evil 2 and Resident Evil: Code: Veronica.
+
+A new chapter called Operation Javier fleshes out the plot further and explains the motives of Resident Evil 4 villain Jack Krauser. It takes place in 2002 and is set in the waterside village of Mixcoatl, located in the South American Amparo. It tells the story of Leon S. Kennedy teaming up with Jack Krauser to investigate the connections of crime lord Javier Hidalgo to a former Umbrella researcher.
+
+Just like The Umbrella Chronicles players do not control the character s movement, but only the shooting aspect, shown from a first-person perspective. The player s partner is also shown on the screen and there is an cooperative option for two players.</desc>
+		<image>./images/Resident Evil - The Darkside Chronicles-image.png</image>
+		<video>./videos/Resident Evil - The Darkside Chronicles-video.mp4</video>
+		<marquee>./images/Resident Evil - The Darkside Chronicles-marquee.png</marquee>
+		<thumbnail>./images/Resident Evil - The Darkside Chronicles-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<developer>Cavia</developer>
+		<publisher>Capcom</publisher>
+		<genre>Lightgun Shooter</genre>
+		<family>Resident Evil</family>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game id="8818">
+		<path>./Resident Evil - The Umbrella Chronicles.wbfs</path>
+		<name>Resident Evil : The Umbrella Chronicles</name>
+		<desc>The Umbrella Chronicles encompasses several scenarios, which are based on various plot elements from the Resident Evil series. The game s first three scenarios, "Train Derailment", "The Mansion Incident", and "Raccoon s Destruction", are set within Raccoon City, or its surrounding area, in 1998. The final scenario, which is based on new material, is set in Russia, taking place in 2003.</desc>
+		<image>./images/Resident Evil - The Umbrella Chronicles-image.png</image>
+		<video>./videos/Resident Evil - The Umbrella Chronicles-video.mp4</video>
+		<marquee>./images/Resident Evil - The Umbrella Chronicles-marquee.png</marquee>
+		<thumbnail>./images/Resident Evil - The Umbrella Chronicles-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Lightgun Shooter</genre>
+		<family>Resident Evil</family>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game id="9306">
+		<path>./Sin And Punishment.wbfs</path>
+		<name>Sin and Punishment</name>
+		<desc>Sin &amp; Punishment: Star Successor is an arcade style rail shooter that allows for a range of movement around the immediate level as the player is funneled along their path. Players can assume the role of either the male or female character, Isa and Kachi. Each can fight on the ground or in the sky with the right equipment, and utilize a diverse mix of evasive maneuvers, melee attacks in close quarters and unique special attacks. The world of Sin &amp; Punishment: Star Successor is packed with enemies ranging from swarms of low to mid-level enemies to over-the-top bosses. In battling all these, players must use their particular mix of offensive and defensive skills to continually build point multiplier bonuses as they cash in on the enemies that they conquer. The game supports a variety of controller/controller configurations, two-player play and an online international leaderboard.</desc>
+		<image>./images/Sin And Punishment-image.png</image>
+		<video>./videos/Sin And Punishment-video.mp4</video>
+		<marquee>./images/Sin And Punishment-marquee.png</marquee>
+		<thumbnail>./images/Sin And Punishment-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>20071001T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game id="10566">
+		<path>./Target Terror.wbfs</path>
+		<name>Target : Terror</name>
+		<desc>Terror puts you in the place of an elite anti-terrorist agent who is charged with protecting the U.S. from all terrorist activities. With a full scale assault spanning the entire U.S., this is your chance to show terrorists who is in charge. Eliminate the seemingly endless waves of enemies with an assortment of high-tech weapons you have in your arsenal.</desc>
+		<image>./images/Target Terror-image.png</image>
+		<video>./videos/Target Terror-video.mp4</video>
+		<marquee>./images/Target Terror-marquee.png</marquee>
+		<thumbnail>./images/Target Terror-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<developer>Raw Thrills</developer>
+		<publisher>Konami</publisher>
+		<genre>Lightgun Shooter</genre>
+		<playcount>27</playcount>
+		<lastplayed>20220710T114140</lastplayed>
+		<gametime>2982</gametime>
+		<lang>en</lang>
+	</game>
+	<game id="10190">
+		<path>./Ultimate Shooting Collection (USA).wbfs</path>
+		<name>Ultimate Shooting Collection</name>
+		<desc>Ultimate Shooting Collection is a compilation of Karous, Radio Allergy, and Chaos Field. This is also first time English versions of Karous and Radio Allergy are released.</desc>
+		<image>./images/Ultimate Shooting Collection (USA)-image.png</image>
+		<video>./videos/Ultimate Shooting Collection (USA)-video.mp4</video>
+		<marquee>./images/Ultimate Shooting Collection (USA)-marquee.png</marquee>
+		<thumbnail>./images/Ultimate Shooting Collection (USA)-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>20090119T000000</releasedate>
+		<developer>UFO Interactive</developer>
+		<publisher>Milestone</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="8903">
+		<path>./House of the Dead, The - Overkill (USA) (En,Fr,Es).wbfs</path>
+		<name>The House of the Dead: Overkill</name>
+		<desc>The House of the Dead: Overkill charges you with mowing down waves of infected, blood-thirsty zombies in a last-ditch effort to survive and uncover the horrific truth behind the origins of the House of the Dead. Survival horror as its never been seen before, The House of the Dead: Overkill is a pulp-style take on the best selling, classic SEGA light-gun shooter series. Back when the famous Agent G was fresh out of the academy, he teamed up with hard-boiled bad-ass Agent Washington to investigate stories of mysterious disappearances in small-town Louisiana. Little did they know what blood-soaked mutant horror awaited them in the streets and swamps of Bayou City.</desc>
+		<image>./images/House of the Dead, The - Overkill (USA) (En,Fr,Es)-image.png</image>
+		<video>./videos/House of the Dead, The - Overkill (USA) (En,Fr,Es)-video.mp4</video>
+		<marquee>./images/House of the Dead, The - Overkill (USA) (En,Fr,Es)-marquee.png</marquee>
+		<thumbnail>./images/House of the Dead, The - Overkill (USA) (En,Fr,Es)-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>20090220T000000</releasedate>
+		<developer>Headstrong Games</developer>
+		<publisher>SEGA</publisher>
+		<genre>Lightgun Shooter</genre>
+		<family>House of the Dead</family>
+		<players>2-4</players>
+		<hidden>true</hidden>
+		<playcount>1</playcount>
+		<lastplayed>20220717T140248</lastplayed>
+		<gametime>86</gametime>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+	</game>
+	<game id="10457">
+		<path>./Operation Wolf (USA) (NES) (Virtual Console).wad</path>
+		<name>Operation Wolf</name>
+		<desc>You have been recruited for Operation Wolf, a desperate attempt to rescue prisoners from the enemy. Through a series of missions, you'll engage a variety of enemies, from soldiers to ninjas, patrol boats to helicopters, and more. 
+It is a "rail-shooter", where you basically hold the gun and shoot just about everything that moves, while conserving your ammo and grenades.  Your primary machine gun can kill everything if you hit it enough times, but you can also use the grenade launcher for really deadly targets like helicopters or armored cars. You can collect a machine gun which will allow you to shoot faster for a few seconds.
+You'll be pummelled by a LOT of enemies. Some will be shooting, others will be tossing grenades, knifes, ... Some are armored and requires more than a few hits, others dodges. You can shoot grenades and knifes out of the air if you aim well enough.
+Bosses appear at the end of some levels, and each has a specific weakness you need to exploit.</desc>
+		<emulator>dolphin</emulator>
+		<image>./images/Operation Wolf (USA) (NES) (Virtual Console)-image.jpg</image>
+		<video>./videos/Operation Wolf (USA) (NES) (Virtual Console)-video.mp4</video>
+		<marquee>./images/Operation Wolf (USA) (NES) (Virtual Console)-marquee.png</marquee>
+		<thumbnail>./images/Operation Wolf (USA) (NES) (Virtual Console)-thumb.png</thumbnail>
+		<fanart>./images/Operation Wolf (USA) (NES) (Virtual Console)-fanart.jpg</fanart>
+		<releasedate>20080204T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Lightgun Shooter</genre>
+		<family>Operation Wolf</family>
+		<players>1</players>
+		<playcount>2</playcount>
+		<lastplayed>20230219T065838</lastplayed>
+		<md5>86bc2a38dc4eebfd18badf67e9bed1db</md5>
+		<gametime>171</gametime>
+	</game>
+	<game>
+		<path>./Top Shot Dinosaur Hunter (USA).wbfs</path>
+		<name>Top Shot: Dinosaur Hunter</name>
+		<desc>Top Shot: Dinosaur Hunter is a light-gun-shooter game which was released in 2011.</desc>
+		<image>./images/Top Shot Dinosaur Hunter (USA)-image.png</image>
+		<video>./videos/Top Shot Dinosaur Hunter (USA)-video.mp4</video>
+		<thumbnail>./images/Top Shot Dinosaur Hunter (USA)-thumb.jpg</thumbnail>
+		<rating>0</rating>
+		<releasedate>20111201T000000</releasedate>
+		<developer>Cauldron Ltd.</developer>
+		<publisher>Activision</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+</gameList>

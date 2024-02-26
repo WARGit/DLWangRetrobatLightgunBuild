@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="46738">
+		<path>./deathcox.zip</path>
+		<name>Death Crimson OX</name>
+		<desc>Death Crimson Ox is a lightgun-shooter, very similar to the "The House of the Dead" series.</desc>
+		<image>./images/deathcox-image.png</image>
+		<video>./videos/deathcox-video.mp4</video>
+		<marquee>./images/deathcox-marquee.png</marquee>
+		<thumbnail>./images/deathcox-thumb.png</thumbnail>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Ecole Software</developer>
+		<publisher>Ecole</publisher>
+		<genre>Lightgun Shooter</genre>
+		<arcadesystemname>naomi</arcadesystemname>
+		<players>1-2</players>
+		<md5>49742a7a930fb872b8c78d3fb9b75163</md5>
+		<lang>en</lang>
+	</game>
+	<game id="63260">
+		<path>./ninjasltu.zip</path>
+		<name>Ninja Assault</name>
+		<desc>Whether you play as Guren, Gunjo or Aoi, you will put your ninja shooter skills at the service of the most beautiful of causes: saving Princess Koto from the clutches of the evil Shogun Kigai! Prepare to fight an army of infernal soldiers and a veritable deluge of bullets.</desc>
+		<emulator>libretro</emulator>
+		<core>flycast</core>
+		<image>./images/ninjasltu-image.png</image>
+		<video>./videos/ninjasltu-video.mp4</video>
+		<marquee>./images/ninjasltu-marquee.png</marquee>
+		<thumbnail>./images/ninjasltu-thumb.png</thumbnail>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Lightgun Shooter</genre>
+		<arcadesystemname>naomi</arcadesystemname>
+		<players>2</players>
+		<playcount>3</playcount>
+		<lastplayed>20220718T230655</lastplayed>
+		<md5>0950a029abbb12f7bab3488561a0a68b</md5>
+		<lang>en</lang>
+	</game>
+	<game id="46721">
+		<path>./cspike.zip</path>
+		<name>Cannon Spike</name>
+		<desc>Cannon Spike (Gunspike in Japan) is an overhead-camera shooting game in the vein of Smash TV and another Capcom creation, the Commando series. Released for the arcades, and later for the Sega Dreamcast. in 2000, Cannon Spike is a linear game, heavily focused towards boss encounters. A main feature of the game is the ability to play as a number of familiar Capcom characters from other franchises.</desc>
+		<image>./images/cspike-image.png</image>
+		<video>./videos/cspike-video.mp4</video>
+		<marquee>./images/cspike-marquee.png</marquee>
+		<thumbnail>./images/cspike-thumb.png</thumbnail>
+		<fanart>./images/cspike-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Psikyo</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em Up, Lightgun Shooter</genre>
+		<arcadesystemname>naomi</arcadesystemname>
+		<players>2</players>
+		<md5>f871cf616d61d1ddb983447cf2a6103c</md5>
+		<lang>en</lang>
+	</game>
+	<game id="46785">
+		<path>./lupinsho.zip</path>
+		<name>Lupin the 3rd: The Shooting</name>
+		<desc>Lupin The Third is a gun game based on the hit anime movie "Lupin III", featuring a mixture of real animation footage &amp; 3D graphics.</desc>
+		<image>./images/lupinsho-image.png</image>
+		<video>./videos/lupinsho-video.mp4</video>
+		<marquee>./images/lupinsho-marquee.png</marquee>
+		<thumbnail>./images/lupinsho-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Wow Entertainment</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter, Lightgun Shooter</genre>
+		<family>Lupin The Third</family>
+		<players>2</players>
+		<md5>a9b7fd911617ed163c073f64062dcc94</md5>
+		<lang>en</lang>
+	</game>
+	<game id="46789">
+		<path>./mok.zip</path>
+		<name>The Maze of the Kings</name>
+		<desc>The Maze of the Kings is a great fighting / shooting game, where players assume the roles of archaeological treasure hunters armed with magical canes! Travels across rivers and deserts and explore the insides of pyramids, while searching for lost treasure and killing mummies and other evil creatures along the way. Players can choose what type of firepower to use for their magical canes: Light, Spark, or Fire.</desc>
+		<emulator>libretro</emulator>
+		<core>flycast</core>
+		<image>./images/mok-image.png</image>
+		<video>./videos/mok-video.mp4</video>
+		<marquee>./images/mok-marquee.png</marquee>
+		<thumbnail>./images/mok-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>20020101T000000</releasedate>
+		<developer>Hitmaker</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter, Lightgun Shooter</genre>
+		<players>2</players>
+		<playcount>11</playcount>
+		<lastplayed>20220908T161707</lastplayed>
+		<md5>59900bba3bf81e6666afb61f0aba0726</md5>
+		<gametime>774</gametime>
+		<lang>en</lang>
+	</game>
+	<game id="46731">
+		<path>./confmiss.zip</path>
+		<name>Confidential Mission</name>
+		<desc>A group of terrorists have stolen the World's Collisions satellite. CMF sends two of its agents, Howard Gibson and Jean Clifford, to investigate. They first infiltrate a museum, where they find out that the "Agares" group is behind the plot. As soon as they grab the disc with the information, one of the Agares leaders prevent them from getting the disc. After they retrieve the disc, they are sent to a train traveling through the mountains. Irina Mikalova, the satellite programmer, has been kidnapped by Agares and forced to reprogram the satellite.
+
+Howard and Jean manage to rescue Irina but are stopped by the General, who is defeated by the two agents. With the help of Irina, CMF locates Agares Headquarters, where the satellite control is being transported to a submarine. Howard and Jean manage to make it through the base and find the Agares Leader, who plans to use the satellite to destroy the CMF Headquarters.
+
+After being defeated, the leader uses a self-destruct sequence to defeat the two agents and escapes with the satellite data, but the agents manage to use the satellite to destroy the submarine and the leader. The two agents escape, and CMF is saved.</desc>
+		<emulator>libretro</emulator>
+		<core>flycast</core>
+		<image>./images/confmiss-image.png</image>
+		<video>./videos/confmiss-video.mp4</video>
+		<marquee>./images/confmiss-marquee.png</marquee>
+		<thumbnail>./images/confmiss-thumb.png</thumbnail>
+		<fanart>./images/confmiss-fanart.jpg</fanart>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Hitmaker</developer>
+		<publisher>SEGA</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>2</players>
+		<playcount>7</playcount>
+		<lastplayed>20220908T163516</lastplayed>
+		<md5>4a40598e228949a16cbac3326079c47c</md5>
+		<gametime>418</gametime>
+		<lang>en</lang>
+	</game>
+</gameList>

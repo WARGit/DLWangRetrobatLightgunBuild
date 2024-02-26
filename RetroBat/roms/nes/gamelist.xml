@@ -1,0 +1,259 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="18695">
+		<path>./Gotcha! - The Sport! (USA).zip</path>
+		<name>Gotcha! : The Sport!</name>
+		<desc>Gotcha! is an NES Zapper title based on the "sport" of paintball, and loosely tied into the paintball-themed movie caper of the same name. You are required to traverse three different battle zones, grab the opposing teams' flag from the opposite end of the field, and make it back to your flag without getting shot.
+
+One hand controls the Zapper while the other must hold the controller, since the D-Pad controls your movement up and down the field. Limited ammo is also a concern, as is the ability for the computer team to snag your flag and return it to their base to win. You can chase down and tag the flag carrier yourself to prevent this.
+
+The game contains three difficulty levels and three different zones (woods, city, snowfield) which cycle until you lose all of your lives. Numbers of enemies and their reaction time increase with each cycle. Aside from additional ammo, there are no powerups, no teammates, just you against the computer for a beat-your-highest-score challenge.</desc>
+		<image>./images/Gotcha! - The Sport! (USA)-image.png</image>
+		<video>./videos/Gotcha! - The Sport! (USA)-video.mp4</video>
+		<marquee>./images/Gotcha! - The Sport! (USA)-marquee.png</marquee>
+		<thumbnail>./images/Gotcha! - The Sport! (USA)-thumb.png</thumbnail>
+		<fanart>./images/Gotcha! - The Sport! (USA)-fanart.jpg</fanart>
+		<releasedate>19871101T000000</releasedate>
+		<developer>LJN</developer>
+		<publisher>LJN</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>1</players>
+		<md5>9b6720531abde606af86fe39a66f9e28</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="18860">
+		<path>./Shooting Range (USA).zip</path>
+		<name>Shooting Range</name>
+		<desc>The aim is to shoot the discs on the screen so that you can acquire enough points to pass the clearing point score of that particular stage without your time or energy running out. You can choose between different difficulty levels. They affect the time you have to complete the stages. For difficulty level 1 you get 300 game time, difficulty level 2 gives you 250 and the 3rd difficulty level only 200.
+Items you can shoot during the game include an hourglass which        extends time by 50, an E which gives you 100 points + 1 Energy bar, an E in a white square which gives you 100 points + 2 Energy bars, a Reverse E which gives you 1 Energy bar and C or W symbol which both give only 100 points each. Each disc you shoot above an enemy is worth between 100-500 points.
+The game contains three stages that involve a western, ghost house, and a space theme. There is also a bonus stage where you try to shoot as many bottles as possible. In the party game mode, you compete to have the highest score.</desc>
+		<image>./images/Shooting Range (USA)-image.png</image>
+		<video>./videos/Shooting Range (USA)-video.mp4</video>
+		<marquee>./images/Shooting Range (USA)-marquee.png</marquee>
+		<thumbnail>./images/Shooting Range (USA)-thumb.png</thumbnail>
+		<fanart>./images/Shooting Range (USA)-fanart.jpg</fanart>
+		<releasedate>19890601T000000</releasedate>
+		<developer>TOSE</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>1-4</players>
+		<md5>38c316bacf54b39637bd3d12b6e64c92</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="199992">
+		<path>./nova.nes</path>
+		<name>Nova The Squirrel</name>
+		<desc>Explore 33 levels and fight 7 bosses across five different worlds in an attempt to save the world of Latte from the evil "Scheme Team".
+
+    Copy the abilities of your enemies. (10 in all!)
+    Over 35 different types of enemies, plus variants.
+    Interesting puzzle mechanics.
+    Fancy soundtrack full of effects, by Vuurniac Squarewave.
+        Composer's Bandcamp, YouTube
+        Squirrel Domino music by maple
+    Modern design: no lives or time limits, tons of checkpoints.
+    A collectible in every stage for those wanting a challenge.
+    Bonus challenge levels after the main game.
+    Bonus game: Double Action Blaster Guys.</desc>
+		<image>./images/nova-image.png</image>
+		<video>./videos/nova-video.mp4</video>
+		<marquee>./images/nova-marquee.png</marquee>
+		<thumbnail>./images/nova-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>20190830T000000</releasedate>
+		<developer>NovaSquirrel</developer>
+		<publisher>NovaSquirrel</publisher>
+		<genre>Platform / Run Jump</genre>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20201212T213343</lastplayed>
+		<md5>270e6b2cd8a98f8361c9260f5d4af094</md5>
+		<gametime>192</gametime>
+		<lang>en</lang>
+	</game>
+	<game id="18780">
+		<path>./Wild Gunman (World).zip</path>
+		<name>Wild Gunman</name>
+		<desc>As a lawman in the old west, you carry around a tin star and your NES Zapper. Your goal to to chase down outlaws and then win out over them in a fast-draw competition. Simply put, wait for your opponent to say "Fire" and then shoot first and shoot fast to win.
+
+Wild Gunman can be played against one bandit, two bandits or in Gang mode where you shoot them as they appear in the doors and windows of an old saloon.</desc>
+		<image>./images/Wild Gunman (World)-image.png</image>
+		<video>./videos/Wild Gunman (World)-video.mp4</video>
+		<marquee>./images/Wild Gunman (World)-marquee.png</marquee>
+		<thumbnail>./images/Wild Gunman (World)-thumb.png</thumbnail>
+		<fanart>./images/Wild Gunman (World)-fanart.jpg</fanart>
+		<releasedate>19851001T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20220718T101926</lastplayed>
+		<md5>5b265168d8afee1f43535fea4059aa10</md5>
+		<gametime>37</gametime>
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game id="18697">
+		<path>./Gumshoe (USA, Europe).zip</path>
+		<name>Gumshoe</name>
+		<desc>Your daughter, Jennifer, has been kidnapped! You have to help Mr. Stevenson who is on a mission to rescue her. Throughout the levels there are five diamonds you must collect which are needed to complete the final level and rescue Jennifer, with plenty of obstacles and enemies to get in the way. During the game Mr. Stevenson continuously walks to the right and you have to use the light gun to save him from any obstacles blocking his path. Some obstacles can be destroyed with the light gun, others Mr. Stevenson will need to jump over (shooting him with the light gun will cause him to jump.) You have a limited amount of ammo, but more can be obtained by popping the balloons which are scattered throughout the levels.</desc>
+		<image>./images/Gumshoe (USA, Europe)-image.png</image>
+		<video>./videos/Gumshoe (USA, Europe)-video.mp4</video>
+		<marquee>./images/Gumshoe (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Gumshoe (USA, Europe)-thumb.png</thumbnail>
+		<fanart>./images/Gumshoe (USA, Europe)-fanart.jpg</fanart>
+		<releasedate>19860601T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>1</players>
+		<playcount>2</playcount>
+		<lastplayed>20220908T180318</lastplayed>
+		<md5>bf8a62b0189fb15b856bdf32e3d30bd4</md5>
+		<gametime>49</gametime>
+		<lang>en</lang>
+		<region>eu</region>
+	</game>
+	<game id="1260">
+		<path>./Duck Hunt (World).zip</path>
+		<name>Duck Hunt</name>
+		<desc>Duck Hunt is a shooting simulation where the player goes out with his faithful dogs to hunt ducks. It requires the use of the Zapper light gun. In game modes A and B, players view a swampland from a first-person perspective. The dog scares ducks (one or two at a time) out of the swamp, and they go flying around in the air. The player has three shots and a limited amount of time to shoot the ducks before they fly away. Each round only allows a limited number of misses in order to move on successfully. As the rounds progress, the ducks begin flying faster and faster, and fewer misses are allowed.
+
+Mode C features target practice on clay pigeons rather than ducks. The perspective and rules here are the same, with only three shots to destroy two clay pigeons before they disappear off the horizon. Destroy enough clay pigeons to move on to the next, tougher round.</desc>
+		<emulator>mednafen</emulator>
+		<core>nes</core>
+		<image>./images/Duck Hunt (World)-image.png</image>
+		<video>./videos/Duck Hunt (World)-video.mp4</video>
+		<marquee>./images/Duck Hunt (World)-marquee.png</marquee>
+		<thumbnail>./images/Duck Hunt (World)-thumb.png</thumbnail>
+		<fanart>./images/Duck Hunt (World)-fanart.jpg</fanart>
+		<releasedate>19851002T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>1</players>
+		<playcount>16</playcount>
+		<lastplayed>20220908T182422</lastplayed>
+		<md5>d802e9d7b8bfd586f878e0922f62bf46</md5>
+		<gametime>317</gametime>
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game id="1812">
+		<path>./Barker Bill's Trick Shooting (USA).zip</path>
+		<name>Barker Bill's Trick Shooting</name>
+		<desc>Pull out the Zapper Light Gun, and blast a variety of objects in Barker Bill's Trick Shooting. The game starts out simple enough; shoot rising balloons while avoiding the happy-go-lucky dog. As you get through each stage, the challenges become more difficult.  Each level offers a new challenge, including Balloon Saloon, Flying Saucers, Window Pains (pun or translation error?) and Fun Follies.</desc>
+		<emulator>mednafen</emulator>
+		<core>nes</core>
+		<image>./images/Barker Bill's Trick Shooting (USA)-image.png</image>
+		<video>./videos/Barker Bill's Trick Shooting (USA)-video.mp4</video>
+		<marquee>./images/Barker Bill's Trick Shooting (USA)-marquee.png</marquee>
+		<thumbnail>./images/Barker Bill's Trick Shooting (USA)-thumb.png</thumbnail>
+		<fanart>./images/Barker Bill's Trick Shooting (USA)-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>19900801T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>1</players>
+		<playcount>4</playcount>
+		<lastplayed>20220718T100555</lastplayed>
+		<md5>9d68d6bf99fd9e3538e1007fcdf61e8e</md5>
+		<gametime>164</gametime>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="1564">
+		<path>./Hogan's Alley (World).zip</path>
+		<name>Hogan's Alley</name>
+		<desc>This game involves the use of the Nintendo Light Zapper, and has, truly, no plot. You are in the police station doing target practice, either with three targets at a time with at least one innocent person, or in an alley with both good and bad targets in windows and walking on the sidewalk. Then there's Trick Shot, where you shoot the cans, trying to make them land in a slot for points, or at least not let them fall to the ground.</desc>
+		<image>./images/Hogan's Alley (World)-image.png</image>
+		<video>./videos/Hogan's Alley (World)-video.mp4</video>
+		<marquee>./images/Hogan's Alley (World)-marquee.png</marquee>
+		<thumbnail>./images/Hogan's Alley (World)-thumb.png</thumbnail>
+		<fanart>./images/Hogan's Alley (World)-fanart.jpg</fanart>
+		<releasedate>19840612T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>1</players>
+		<playcount>5</playcount>
+		<lastplayed>20230218T213711</lastplayed>
+		<md5>aa78965764353f321b4bce9221128909</md5>
+		<gametime>187</gametime>
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game id="1814">
+		<path>./Freedom Force (USA).nes</path>
+		<name>Freedom Force</name>
+		<desc>In Freedom Force, Rad Rex and his partner Manic Jackson are part of an elite counter terrorism unit. Their mission is to save the hostages in a hijacked plane by killing all the Bagmen. After they successfully take back control of the plane they must work there way back though the airport and streets to take out the guerrillas hideout to get to their leader, Eugene Extreme.</desc>
+		<emulator>mednafen</emulator>
+		<core>nes</core>
+		<image>./images/Freedom Force (USA)-image.jpg</image>
+		<video>./videos/Freedom Force (USA)-video.mp4</video>
+		<marquee>./images/Freedom Force (USA)-marquee.png</marquee>
+		<thumbnail>./images/Freedom Force (USA)-thumb.png</thumbnail>
+		<fanart>./images/Freedom Force (USA)-fanart.jpg</fanart>
+		<manual>./manuals/Freedom Force (USA)-manual.pdf</manual>
+		<rating>0.85</rating>
+		<releasedate>19880401T000000</releasedate>
+		<developer>Sunsoft</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>1-2</players>
+		<playcount>2</playcount>
+		<lastplayed>20230218T214510</lastplayed>
+		<md5>021588483ce9007c5e4175aecae760e4</md5>
+		<gametime>67</gametime>
+	</game>
+	<game id="1914">
+		<path>./Mechanized Attack (USA).zip</path>
+		<name>Mechanized Attack</name>
+		<desc>Mechanized Attack is an adaptation of an arcade shooting game where the player uses a machine gun to stage an assault on a tropical island that's home to a cyborg army. In this NES port, the player can use either a gamepad or the NES Light Zapper to carry out the mission. Battle through numerous stages beginning with an approach to the island. This first stage is held over the water and features at attack on a number of small gunboats, a helicopter, and an entire battleship. As the player progresses through the stages of the island, the human (and even canine) enemies are revealed to be robots when the flesh is destroyed. At various junctures of the game, the player is allowed to choose which game path to pursue.
+
+While the arcade version of Mechanized Attack had a miniature machine gun replica for the player to use, this NES adaptation attempts to reproduce the feel by allowing the player to hold down a game pad button or the Light Zapper trigger for automatic fire. Extra ammo is plentiful so be sure to fire at those power-up boxes to grab as much as you can. There are also more powerful grenades which are in much shorter supply than the bullets.</desc>
+		<image>./images/Mechanized Attack (USA)-image.jpg</image>
+		<video>./videos/Mechanized Attack (USA)-video.mp4</video>
+		<marquee>./images/Mechanized Attack (USA)-marquee.png</marquee>
+		<thumbnail>./images/Mechanized Attack (USA)-thumb.png</thumbnail>
+		<fanart>./images/Mechanized Attack (USA)-fanart.jpg</fanart>
+		<manual>./manuals/Mechanized Attack (USA)-manual.pdf</manual>
+		<rating>0.5</rating>
+		<releasedate>19900602T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20230218T213803</lastplayed>
+		<md5>fa3b936f46d6081d04a47e2e414fe6a9</md5>
+		<gametime>48</gametime>
+	</game>
+	<game id="18898">
+		<path>./To the Earth (USA).zip</path>
+		<name>To the Earth</name>
+		<desc>In the year 2050 the Earth has been attacked by the villainous Raggosians and it is your job to save the planet! You will need to pilot your ship, The Tempest, to the planets Uranus, Saturn, Jupiter, and Earth in order to retrieve certain minerals which can be used to fight the Raggosians. The Raggosians will be trying to stop you from reaching these destinations, though, so you need to use the Nintendo zapper to fight back. Numerous (and very fast!) enemy ships will fly by on the screen and attempt to destroy your ship. You need to shoot the ships and incoming missiles before your ship takes too much damage. From time to time a comet will fly by, and if you shoot this a temporary barrier will be formed that protects your ship from enemy fire. Occasionally you can also earn a smart bomb which appears in the bottom of the screen and destroys all enemies if shot. Each level ends with a large boss which will take multiple hits to destroy.</desc>
+		<emulator>mednafen</emulator>
+		<core>nes</core>
+		<image>./images/To the Earth (USA)-image.jpg</image>
+		<video>./videos/To the Earth (USA)-video.mp4</video>
+		<marquee>./images/To the Earth (USA)-marquee.png</marquee>
+		<thumbnail>./images/To the Earth (USA)-thumb.png</thumbnail>
+		<fanart>./images/To the Earth (USA)-fanart.jpg</fanart>
+		<manual>./manuals/To the Earth (USA)-manual.pdf</manual>
+		<rating>0.65</rating>
+		<releasedate>19891101T000000</releasedate>
+		<developer>Cirque Verte</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>1</players>
+		<playcount>2</playcount>
+		<lastplayed>20230218T214336</lastplayed>
+		<md5>5fbbaf1c09d90c77cff9021f439832f5</md5>
+		<gametime>93</gametime>
+	</game>
+</gameList>
