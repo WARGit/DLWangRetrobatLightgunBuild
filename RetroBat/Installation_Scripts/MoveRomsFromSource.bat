@@ -256,6 +256,7 @@ REM === Move supermodel Roms/saves/etc out of source ====
 REM - NOTE: These roms are duplicated in roms\model3 why? - TBC
 move /Y "%~dp0emulators\supermodel\ROMS" "%directory%\emulators\supermodel"
 move /Y "%~dp0emulators\supermodel\Saves" "%directory%\emulators\supermodel"
+move /Y "%~dp0emulators\supermodel\Snaps" "%directory%\emulators\supermodel"
 
 REM === Create Roms\teknoparrot dir in destination ===
 mkdir "%directory%\roms\teknoparrot"
@@ -442,6 +443,25 @@ mkdir "%directory%\emulators\duckstation"
 
 REM === Move emulators\duckstation\savestates out of source ====
 move /Y "%~dp0emulators\duckstation\savestates" "%directory%\emulators\duckstation"
+move /Y "%~dp0emulators\duckstation\screenshots" "%directory%\emulators\duckstation"
+
+REM === Create emulators\redream dir in destination ===
+mkdir "%directory%\emulators\redream"
+
+REM === Move emulators\redream\cache out of source ====
+move /Y "%~dp0emulators\redream\cache" "%directory%\emulators\redream"
+
+REM === Create emulators\fpinball dir in destination ===
+mkdir "%directory%\emulators\fpinball"
+
+REM === Move emulators\fpinball\Feeds out of source ====
+move /Y "%~dp0emulators\fpinball\Feeds" "%directory%\emulators\fpinball"
+
+REM === Create emulators\redream dir in destination ===
+mkdir "%directory%\emulators\daphne"
+
+REM === Move emulators\daphne\images out of source ====
+move /Y "%~dp0emulators\daphne\images" "%directory%\emulators\daphne"
 
 REM === Remove .git folder from emulators\rpcs3 ===
 rmdir /S /Q "%~dp0emulators\rpcs3\git"
@@ -458,12 +478,14 @@ REM === Create misc dirs in destination ===
 mkdir "%directory%\emulationstation\.emulationstation\themes\LightgunMaxDLWangv8"
 mkdir "%directory%\emulationstation\.emulationstation\music"
 mkdir "%directory%\emulationstation\.emulationstation\video"
+mkdir "%directory%\emulationstation\.emulationstation\tmp"
 mkdir "%directory%\roms\zxspectrum"
 
 REM === Move Misc files out of source ====
 robocopy "%~dp0emulationstation\.emulationstation\music" "%directory%\emulationstation\.emulationstation\music" /MOVE /E
 robocopy "%~dp0emulationstation\.emulationstation\video" "%directory%\emulationstation\.emulationstation\video" /MOVE /E
 robocopy "%~dp0emulationstation\.emulationstation\themes" "%directory%\emulationstation\.emulationstation\themes" /MOVE /E
+robocopy "%~dp0emulationstation\.emulationstation\tmp "%directory%\emulationstation\.emulationstation\tmp" /MOVE /E
 
 REM === Create saves in destination ===
 mkdir "%directory%\saves"
