@@ -443,7 +443,7 @@ mkdir "%directory%\emulators\duckstation"
 
 REM === Move emulators\duckstation\savestates out of source ====
 move /Y "%~dp0emulators\duckstation\savestates" "%directory%\emulators\duckstation"
-move /Y "%~dp0emulators\duckstation\screenshots" "%directory%\emulators\duckstation"
+move /Y "%~dp0emulators\duckstation\screenshots" "%directory%\emulators\screenshots"
 
 REM === Create emulators\redream dir in destination ===
 mkdir "%directory%\emulators\redream"

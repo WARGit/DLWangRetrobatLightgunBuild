@@ -1,0 +1,7 @@
+This is the info for the last game you ran.
+
+File: FINALF~4.SFC Header: No
+FINAL FANTASY 3           TYPE:NORMAL   
+INTERLEAVED:No               CHKSUM:OK  
+VIDEO:NTSC    BANK:Hi     CRC32:C0FA0464
+                                        
