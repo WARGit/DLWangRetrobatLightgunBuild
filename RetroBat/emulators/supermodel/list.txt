@@ -1,0 +1,17 @@
+
+ControllerRemap Utility v0.0.11.0 - For Mame
+(c) 2011 drventure Enterprises
+
+
+Joystick Device List (Devices are in enumeration order) ...
+
+   1.  'Generic   USB  Joystick  ', ID=0
+   2.  'Controller (Gamepad F310)', ID=3
+   3.  'Generic   USB  Joystick  ', ID=2
+
+Mouse Device List (Devices are in enumeration order) ...
+
+   1.  'HID#VID_258A_PID_1007_MI_00#9_1503485c_0_0000#'
+   2.  'HID#VID_2341_PID_8038_MI_02_Col01#7_188b8df6_0_0000#'
+
+End of list

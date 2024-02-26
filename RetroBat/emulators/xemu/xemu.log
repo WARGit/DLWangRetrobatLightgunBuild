@@ -1,0 +1,21 @@
+Created QEMU launch parameters: F:\RetroBat\emulators\xemu\xemu.exe -cpu pentium3 -machine xbox,short-animation=on,kernel-irqchip=off -device smbus-storage,file=F:\RetroBat\saves\xbox\eeprom.bin -m 128 -drive index=0,media=disk,file=F:\RetroBat\saves\xbox\xbox_hdd.qcow2,locked=on -drive index=1,media=cdrom,file=F:\RetroBat\roms\xbox\Area 51 (USA).iso -display xemu -audiodev none,id=snd0 -full-screen 
+xemu_settings_get_path: config path: F:\RetroBat\emulators\xemu\xemu.ini
+config_parse_callback: [system] flash_path = ..\..\bios\Complex_4627.bin
+config_parse_callback: [system] bootrom_path = ..\..\bios\mcpx_1.0.bin
+config_parse_callback: [system] hdd_path = F:\RetroBat\saves\xbox\xbox_hdd.qcow2
+config_parse_callback: [system] eeprom_path = F:\RetroBat\saves\xbox\eeprom.bin
+config_parse_callback: [system] dvd_path = F:\RetroBat\roms\xbox\Area 51 (USA).iso
+config_parse_callback: [system] memory = 128
+config_parse_callback: [system] shortanim = true
+config_parse_callback: [system] hard_fpu = true
+config_parse_callback: [audio] use_dsp = false
+config_parse_callback: [display] scale = scale
+config_parse_callback: [display] ui_scale = 1
+config_parse_callback: [input] controller_1_guid = 030000005e040000ff02000000007801
+config_parse_callback: [network] enabled = false
+config_parse_callback: [network] backend = user
+config_parse_callback: [network] local_addr = 0.0.0.0:9368
+config_parse_callback: [network] remote_addr = 1.2.3.4:9368
+config_parse_callback: [misc] check_for_update = false
+Failed to load BIOS '(null)'
+audio: Device ac97: audiodev default parameter is deprecated, please specify audiodev=snd0

@@ -1,0 +1,1 @@
+ControllerRemap.exe /list > list.txt
