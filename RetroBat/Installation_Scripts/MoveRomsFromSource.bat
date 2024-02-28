@@ -427,7 +427,7 @@ mkdir "%directory%\emulators\retroarch\cores"
 
 REM === Move emulators\retroarch\system out of source ====
 move /Y "%~dp0emulators\retroarch\system" "%directory%\emulators\retroarch"
-pause
+
 REM === Move retroarch\cores out of source (files too large for git, >100mb) ====
 robocopy "%~dp0emulators\retroarch\cores" "%directory%\emulators\retroarch\cores" /MOVE /E
 
