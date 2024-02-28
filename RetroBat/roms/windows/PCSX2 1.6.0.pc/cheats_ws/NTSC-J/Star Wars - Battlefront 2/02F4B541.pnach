@@ -1,0 +1,16 @@
+gametitle=Star Wars: Battlefront 2 (J)(SLPM-66190)
+comment=Widescreen Hack by nemesis2000 and Arapapa
+
+//Widescreen hack 16:9
+
+//00000000 00000000 83051646 00000000
+//403f013c 00008144 83051646 03000046
+patch=1,EE,00582c0c,word,3c013f40 //00000000
+patch=1,EE,00582c10,word,44810000 //00000000
+patch=1,EE,00582c18,word,46000003 //00000000
+
+//Render fix
+//003f013c 00208144 c2180546
+patch=1,EE,00574364,word,3c013f2b //3c013f00
+//003f013c 00008144 f000b07f
+patch=1,EE,005b0b8c,word,3c013f2b //3c013f00

@@ -1,0 +1,8 @@
+gametitle=Need for Speed: Hot Pursuit 2 (SLUS-20362)
+
+
+patch=1,EE,0010e994,word,46011702
+
+patch=1,EE,0032f6ec,word,3f400000
+
+patch=1,EE,0032f850,word,3f2aaaaa

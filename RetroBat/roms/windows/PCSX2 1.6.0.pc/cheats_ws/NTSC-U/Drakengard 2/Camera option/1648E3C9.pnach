@@ -1,0 +1,15 @@
+gametitle=Drakengard 2 SLUS_213.73;1
+//16:9
+patch=1,EE,204CF458,extended,3FE38E39 // 3FAAAAAA - Horizontal Pixel-Ratio
+
+//21:9
+//patch=1,EE,204CF458,extended,4017B426 // 3FAAAAAA - Horizontal Pixel-Ratio
+
+//Faded Letter-Boxes
+patch=1,EE,203323DC,extended,00000000 // 3C014300 - Fades Letter-Boxes of some cutscenes.
+
+//Render Fix - Width
+patch=1,EE,20560F94,extended,44898000 // 44200000 - Width in Pixel - Patch default is 1100 - The wider the Horizontal Pixel-Ratio is, the higher this value needs to be. Reduces draw distance if set too high.
+
+//Extended Zoom
+patch=1,EE,204CF454,extended,3F400000// 3F800000 - Extends the camera.

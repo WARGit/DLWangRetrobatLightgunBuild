@@ -1,0 +1,59 @@
+
+; ==========
+ gametitle=Fatal Frame
+ comment= Fatal Frame * SCPS-56008 * NTSC-K * BCF04BF3
+ comment= 16:9 widescreen hack by nemesis2000, pgert and devina40 (NTSC-K by Arapapa)
+ // 16:10 & 15:10 support by pgert.
+; ==========
+ ; Due to missing renderingfixes, black stripes can show up on ghosts, spirits and photos.
+ ; If using GSdx in HW-mode, this can be fixed by having "Enable HW Hacks" set in the GSdx configuration dialog,
+ ;  and having "Align Sprite" set and "Sprite" set to Half in "Advanced Settings and Hacks".
+; ==========
+
+; ==========
+ // Widescreen-hack by nemesis2000
+// patch=1,EE,00189E54,word,3C013F40 // 3C013F80 - 16:9
+// patch=1,EE,00189E54,word,3C013F55 // - 16:10
+ patch=1,EE,00189E54,word,3C013F64 // - 15:10
+
+ // Cutscenes by pgert
+// patch=1,EE,001856D4,word,3C013F40 // 3C013F80 - 16:9
+// patch=1,EE,001856D4,word,3C013F55 // - 16:10
+ patch=1,EE,001856D4,word,3C013F64 // - 15:10
+; ==========
+ // FMV fix by nemesis2000
+// patch=1,EE,001822B8,word,24027100 // - 16:9
+// patch=1,EE,001822C8,word,24027100 //
+// patch=1,EE,001822D0,word,24091E00 //
+// patch=1,EE,001822B8,word,24027080 // - 16:10
+// patch=1,EE,001822C8,word,24027080 //
+// patch=1,EE,001822D0,word,24091F00 //
+ patch=1,EE,001822B8,word,240270AB // - 15:10
+ patch=1,EE,001822C8,word,240270AB //
+ patch=1,EE,001822D0,word,24091F11 //
+; ==========
+ // Lens Flare fix
+// patch=1,EE,00137154,word,3c013f2b // 3c013f00 - 16:9
+// patch=1,EE,00135b10,word,3c014270 // 3c0142a0
+// patch=1,EE,00135bf4,word,3c0140f0 // 3c014120
+// patch=1,EE,00135bbc,word,3c014110 // 3c014140
+// patch=1,EE,00135b78,word,3c014190 // 3c0141c0
+// patch=1,EE,00137154,word,3c013f1a // - 16:10
+// patch=1,EE,00135b10,word,3c014285 //
+// patch=1,EE,00135bf4,word,3c014105 //
+// patch=1,EE,00135bbc,word,3c014120 //
+// patch=1,EE,00135b78,word,3c0141A0 //
+ patch=1,EE,00137154,word,3c013f10 // - 15:10
+ patch=1,EE,00135b10,word,3c01428E //
+ patch=1,EE,00135bf4,word,3c01410E //
+ patch=1,EE,00135bbc,word,3c01412B //
+ patch=1,EE,00135b78,word,3c0141AB //
+; ==========
+ // Remove effects (Memory Hack)
+// 6666f643 0000803f 0000803f
+// patch=1,EE,2035210C,extended,00000000 // blurry bloom
+// 00002044 0000e043 0000803f 0000803f 00000000 00000000 (10)
+// patch=1,EE,2035258C,extended,00000000 // dark filter
+// 00002044 0000e043 0000803f 0000803f 00000000 00000000 (8)
+// patch=1,EE,2035241C,extended,00000000 // post process and noise
+; ==========
