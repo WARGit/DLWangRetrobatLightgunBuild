@@ -427,9 +427,9 @@ mkdir "%directory%\emulators\retroarch\cores"
 
 REM === Move emulators\retroarch\system out of source ====
 move /Y "%~dp0emulators\retroarch\system" "%directory%\emulators\retroarch"
-
-REM === Move libretro_cores.7z from retroarch\cores out of source (presume not required and can be deleted) ====
-move /Y "%~dp0emulators\retroarch\cores\libretro_cores.7z" "%directory%\emulators\retroarch\cores"
+pause
+REM === Move retroarch\cores out of source (files too large for git, >100mb) ====
+robocopy "%~dp0emulators\retroarch\cores" "%directory%\emulators\retroarch\cores" /MOVE /E
 
 REM === Create emulators\pcsx2 dir in destination ===
 mkdir "%directory%\emulators\pcsx2"
