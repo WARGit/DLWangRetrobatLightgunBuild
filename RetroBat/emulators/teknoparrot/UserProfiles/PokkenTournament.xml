@@ -1,0 +1,588 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GameName>Pokkén Tournament</GameName>
+  <GameGenre>Fighting</GameGenre>
+  <GamePath>F:\Ultimate.RetroBat\RetroBat\roms\teknoparrot\PokkenTournament.teknoparrot\ferrum_app.exe</GamePath>
+  <TestMenuParameter />
+  <TestMenuIsExecutable>false</TestMenuIsExecutable>
+  <ExtraParameters />
+  <TestMenuExtraParameters />
+  <IconName>Icons/PokkenTournament.png</IconName>
+  <ResetHint>true</ResetHint>
+  <ConfigValues>
+    <FieldInformation>
+      <CategoryName>General</CategoryName>
+      <FieldName>Input API</FieldName>
+      <FieldValue>XInput</FieldValue>
+      <FieldType>Dropdown</FieldType>
+      <FieldMin>0</FieldMin>
+      <FieldMax>0</FieldMax>
+      <FieldOptions>
+        <string>DirectInput</string>
+        <string>XInput</string>
+      </FieldOptions>
+    </FieldInformation>
+    <FieldInformation>
+      <CategoryName>General</CategoryName>
+      <FieldName>Windowed</FieldName>
+      <FieldValue>0</FieldValue>
+      <FieldType>Bool</FieldType>
+      <FieldMin>0</FieldMin>
+      <FieldMax>0</FieldMax>
+      <FieldOptions />
+    </FieldInformation>
+    <FieldInformation>
+      <CategoryName>General</CategoryName>
+      <FieldName>ResolutionWidth</FieldName>
+      <FieldValue>1920</FieldValue>
+      <FieldType>Text</FieldType>
+      <FieldMin>0</FieldMin>
+      <FieldMax>0</FieldMax>
+      <FieldOptions />
+    </FieldInformation>
+    <FieldInformation>
+      <CategoryName>General</CategoryName>
+      <FieldName>ResolutionHeight</FieldName>
+      <FieldValue>1080</FieldValue>
+      <FieldType>Text</FieldType>
+      <FieldMin>0</FieldMin>
+      <FieldMax>0</FieldMax>
+      <FieldOptions />
+    </FieldInformation>
+  </ConfigValues>
+  <JoystickButtons>
+    <JoystickButtons>
+      <ButtonName>Test</ButtonName>
+      <DirectInputButton>
+        <Button>8</Button>
+        <IsAxis>true</IsAxis>
+        <IsAxisMinus>false</IsAxisMinus>
+        <IsFullAxis>false</IsFullAxis>
+        <PovDirection>0</PovDirection>
+        <IsReverseAxis>false</IsReverseAxis>
+        <JoystickGuid>bfe40830-595b-11ea-8001-444553540000</JoystickGuid>
+      </DirectInputButton>
+      <XInputButton>
+        <IsLeftThumbX>false</IsLeftThumbX>
+        <IsRightThumbX>false</IsRightThumbX>
+        <IsLeftThumbY>false</IsLeftThumbY>
+        <IsRightThumbY>false</IsRightThumbY>
+        <IsAxisMinus>false</IsAxisMinus>
+        <IsLeftTrigger>true</IsLeftTrigger>
+        <IsRightTrigger>false</IsRightTrigger>
+        <ButtonCode>0</ButtonCode>
+        <IsButton>false</IsButton>
+        <ButtonIndex>0</ButtonIndex>
+        <XInputIndex>1</XInputIndex>
+      </XInputButton>
+      <InputMapping>Test</InputMapping>
+      <AnalogType>None</AnalogType>
+      <BindNameDi>Gamepad Z +</BindNameDi>
+      <BindNameXi>Input Device 1 LeftTrigger</BindNameXi>
+      <BindName>Input Device 1 LeftTrigger</BindName>
+      <HideWithDirectInput>false</HideWithDirectInput>
+      <HideWithXInput>false</HideWithXInput>
+      <HideWithRawInput>false</HideWithRawInput>
+      <HideWithKeyboardForAxis>false</HideWithKeyboardForAxis>
+      <HideWithoutKeyboardForAxis>false</HideWithoutKeyboardForAxis>
+      <HideWithRelativeAxis>false</HideWithRelativeAxis>
+      <HideWithoutRelativeAxis>false</HideWithoutRelativeAxis>
+    </JoystickButtons>
+    <JoystickButtons>
+      <ButtonName>Service 1</ButtonName>
+      <DirectInputButton>
+        <Button>8</Button>
+        <IsAxis>true</IsAxis>
+        <IsAxisMinus>true</IsAxisMinus>
+        <IsFullAxis>false</IsFullAxis>
+        <PovDirection>0</PovDirection>
+        <IsReverseAxis>false</IsReverseAxis>
+        <JoystickGuid>bfe40830-595b-11ea-8001-444553540000</JoystickGuid>
+      </DirectInputButton>
+      <XInputButton>
+        <IsLeftThumbX>false</IsLeftThumbX>
+        <IsRightThumbX>false</IsRightThumbX>
+        <IsLeftThumbY>false</IsLeftThumbY>
+        <IsRightThumbY>false</IsRightThumbY>
+        <IsAxisMinus>false</IsAxisMinus>
+        <IsLeftTrigger>false</IsLeftTrigger>
+        <IsRightTrigger>true</IsRightTrigger>
+        <ButtonCode>0</ButtonCode>
+        <IsButton>false</IsButton>
+        <ButtonIndex>0</ButtonIndex>
+        <XInputIndex>1</XInputIndex>
+      </XInputButton>
+      <InputMapping>Service1</InputMapping>
+      <AnalogType>None</AnalogType>
+      <BindNameDi>Gamepad Z -</BindNameDi>
+      <BindNameXi>Input Device 1 RightTrigger</BindNameXi>
+      <BindName>Input Device 1 RightTrigger</BindName>
+      <HideWithDirectInput>false</HideWithDirectInput>
+      <HideWithXInput>false</HideWithXInput>
+      <HideWithRawInput>false</HideWithRawInput>
+      <HideWithKeyboardForAxis>false</HideWithKeyboardForAxis>
+      <HideWithoutKeyboardForAxis>false</HideWithoutKeyboardForAxis>
+      <HideWithRelativeAxis>false</HideWithRelativeAxis>
+      <HideWithoutRelativeAxis>false</HideWithoutRelativeAxis>
+    </JoystickButtons>
+    <JoystickButtons>
+      <ButtonName>Coin 1</ButtonName>
+      <DirectInputButton>
+        <Button>56</Button>
+        <IsAxis>false</IsAxis>
+        <IsAxisMinus>false</IsAxisMinus>
+        <IsFullAxis>false</IsFullAxis>
+        <PovDirection>0</PovDirection>
+        <IsReverseAxis>false</IsReverseAxis>
+        <JoystickGuid>bfe40830-595b-11ea-8001-444553540000</JoystickGuid>
+      </DirectInputButton>
+      <XInputButton>
+        <IsLeftThumbX>false</IsLeftThumbX>
+        <IsRightThumbX>false</IsRightThumbX>
+        <IsLeftThumbY>false</IsLeftThumbY>
+        <IsRightThumbY>false</IsRightThumbY>
+        <IsAxisMinus>false</IsAxisMinus>
+        <IsLeftTrigger>false</IsLeftTrigger>
+        <IsRightTrigger>false</IsRightTrigger>
+        <ButtonCode>32</ButtonCode>
+        <IsButton>true</IsButton>
+        <ButtonIndex>0</ButtonIndex>
+        <XInputIndex>0</XInputIndex>
+      </XInputButton>
+      <InputMapping>Coin1</InputMapping>
+      <AnalogType>None</AnalogType>
+      <BindNameDi>Gamepad Buttons8</BindNameDi>
+      <BindNameXi>Input Device 0 BACK</BindNameXi>
+      <BindName>Input Device 0 BACK</BindName>
+      <HideWithDirectInput>false</HideWithDirectInput>
+      <HideWithXInput>false</HideWithXInput>
+      <HideWithRawInput>false</HideWithRawInput>
+      <HideWithKeyboardForAxis>false</HideWithKeyboardForAxis>
+      <HideWithoutKeyboardForAxis>false</HideWithoutKeyboardForAxis>
+      <HideWithRelativeAxis>false</HideWithRelativeAxis>
+      <HideWithoutRelativeAxis>false</HideWithoutRelativeAxis>
+    </JoystickButtons>
+    <JoystickButtons>
+      <ButtonName>Start</ButtonName>
+      <DirectInputButton>
+        <Button>55</Button>
+        <IsAxis>false</IsAxis>
+        <IsAxisMinus>false</IsAxisMinus>
+        <IsFullAxis>false</IsFullAxis>
+        <PovDirection>0</PovDirection>
+        <IsReverseAxis>false</IsReverseAxis>
+        <JoystickGuid>bfe40830-595b-11ea-8001-444553540000</JoystickGuid>
+      </DirectInputButton>
+      <XInputButton>
+        <IsLeftThumbX>false</IsLeftThumbX>
+        <IsRightThumbX>false</IsRightThumbX>
+        <IsLeftThumbY>false</IsLeftThumbY>
+        <IsRightThumbY>false</IsRightThumbY>
+        <IsAxisMinus>false</IsAxisMinus>
+        <IsLeftTrigger>false</IsLeftTrigger>
+        <IsRightTrigger>false</IsRightTrigger>
+        <ButtonCode>16</ButtonCode>
+        <IsButton>true</IsButton>
+        <ButtonIndex>0</ButtonIndex>
+        <XInputIndex>1</XInputIndex>
+      </XInputButton>
+      <InputMapping>PokkenButtonStart</InputMapping>
+      <AnalogType>None</AnalogType>
+      <BindNameDi>Gamepad Buttons7</BindNameDi>
+      <BindNameXi>Input Device 1 Start</BindNameXi>
+      <BindName>Input Device 1 Start</BindName>
+      <HideWithDirectInput>false</HideWithDirectInput>
+      <HideWithXInput>false</HideWithXInput>
+      <HideWithRawInput>false</HideWithRawInput>
+      <HideWithKeyboardForAxis>false</HideWithKeyboardForAxis>
+      <HideWithoutKeyboardForAxis>false</HideWithoutKeyboardForAxis>
+      <HideWithRelativeAxis>false</HideWithRelativeAxis>
+      <HideWithoutRelativeAxis>false</HideWithoutRelativeAxis>
+    </JoystickButtons>
+    <JoystickButtons>
+      <ButtonName>Up</ButtonName>
+      <DirectInputButton>
+        <Button>4</Button>
+        <IsAxis>true</IsAxis>
+        <IsAxisMinus>true</IsAxisMinus>
+        <IsFullAxis>false</IsFullAxis>
+        <PovDirection>0</PovDirection>
+        <IsReverseAxis>false</IsReverseAxis>
+        <JoystickGuid>bfe40830-595b-11ea-8001-444553540000</JoystickGuid>
+      </DirectInputButton>
+      <XInputButton>
+        <IsLeftThumbX>false</IsLeftThumbX>
+        <IsRightThumbX>false</IsRightThumbX>
+        <IsLeftThumbY>true</IsLeftThumbY>
+        <IsRightThumbY>false</IsRightThumbY>
+        <IsAxisMinus>false</IsAxisMinus>
+        <IsLeftTrigger>false</IsLeftTrigger>
+        <IsRightTrigger>false</IsRightTrigger>
+        <ButtonCode>0</ButtonCode>
+        <IsButton>false</IsButton>
+        <ButtonIndex>0</ButtonIndex>
+        <XInputIndex>1</XInputIndex>
+      </XInputButton>
+      <InputMapping>PokkenButtonUp</InputMapping>
+      <AnalogType>None</AnalogType>
+      <BindNameDi>Gamepad Y -</BindNameDi>
+      <BindNameXi>Input Device 1 LeftThumbInput Device 1 Y+</BindNameXi>
+      <BindName>Input Device 1 LeftThumbInput Device 1 Y+</BindName>
+      <HideWithDirectInput>false</HideWithDirectInput>
+      <HideWithXInput>false</HideWithXInput>
+      <HideWithRawInput>false</HideWithRawInput>
+      <HideWithKeyboardForAxis>false</HideWithKeyboardForAxis>
+      <HideWithoutKeyboardForAxis>false</HideWithoutKeyboardForAxis>
+      <HideWithRelativeAxis>false</HideWithRelativeAxis>
+      <HideWithoutRelativeAxis>false</HideWithoutRelativeAxis>
+    </JoystickButtons>
+    <JoystickButtons>
+      <ButtonName>Down</ButtonName>
+      <DirectInputButton>
+        <Button>4</Button>
+        <IsAxis>true</IsAxis>
+        <IsAxisMinus>false</IsAxisMinus>
+        <IsFullAxis>false</IsFullAxis>
+        <PovDirection>0</PovDirection>
+        <IsReverseAxis>false</IsReverseAxis>
+        <JoystickGuid>bfe40830-595b-11ea-8001-444553540000</JoystickGuid>
+      </DirectInputButton>
+      <XInputButton>
+        <IsLeftThumbX>false</IsLeftThumbX>
+        <IsRightThumbX>false</IsRightThumbX>
+        <IsLeftThumbY>true</IsLeftThumbY>
+        <IsRightThumbY>false</IsRightThumbY>
+        <IsAxisMinus>true</IsAxisMinus>
+        <IsLeftTrigger>false</IsLeftTrigger>
+        <IsRightTrigger>false</IsRightTrigger>
+        <ButtonCode>0</ButtonCode>
+        <IsButton>false</IsButton>
+        <ButtonIndex>0</ButtonIndex>
+        <XInputIndex>1</XInputIndex>
+      </XInputButton>
+      <InputMapping>PokkenButtonDown</InputMapping>
+      <AnalogType>None</AnalogType>
+      <BindNameDi>Gamepad Y +</BindNameDi>
+      <BindNameXi>Input Device 1 LeftThumbInput Device 1 Y-</BindNameXi>
+      <BindName>Input Device 1 LeftThumbInput Device 1 Y-</BindName>
+      <HideWithDirectInput>false</HideWithDirectInput>
+      <HideWithXInput>false</HideWithXInput>
+      <HideWithRawInput>false</HideWithRawInput>
+      <HideWithKeyboardForAxis>false</HideWithKeyboardForAxis>
+      <HideWithoutKeyboardForAxis>false</HideWithoutKeyboardForAxis>
+      <HideWithRelativeAxis>false</HideWithRelativeAxis>
+      <HideWithoutRelativeAxis>false</HideWithoutRelativeAxis>
+    </JoystickButtons>
+    <JoystickButtons>
+      <ButtonName>Left</ButtonName>
+      <DirectInputButton>
+        <Button>0</Button>
+        <IsAxis>true</IsAxis>
+        <IsAxisMinus>true</IsAxisMinus>
+        <IsFullAxis>false</IsFullAxis>
+        <PovDirection>0</PovDirection>
+        <IsReverseAxis>false</IsReverseAxis>
+        <JoystickGuid>bfe40830-595b-11ea-8001-444553540000</JoystickGuid>
+      </DirectInputButton>
+      <XInputButton>
+        <IsLeftThumbX>true</IsLeftThumbX>
+        <IsRightThumbX>false</IsRightThumbX>
+        <IsLeftThumbY>false</IsLeftThumbY>
+        <IsRightThumbY>false</IsRightThumbY>
+        <IsAxisMinus>true</IsAxisMinus>
+        <IsLeftTrigger>false</IsLeftTrigger>
+        <IsRightTrigger>false</IsRightTrigger>
+        <ButtonCode>0</ButtonCode>
+        <IsButton>false</IsButton>
+        <ButtonIndex>0</ButtonIndex>
+        <XInputIndex>1</XInputIndex>
+      </XInputButton>
+      <InputMapping>PokkenButtonLeft</InputMapping>
+      <AnalogType>None</AnalogType>
+      <BindNameDi>Gamepad X -</BindNameDi>
+      <BindNameXi>Input Device 1 LeftThumbInput Device 1 X-</BindNameXi>
+      <BindName>Input Device 1 LeftThumbInput Device 1 X-</BindName>
+      <HideWithDirectInput>false</HideWithDirectInput>
+      <HideWithXInput>false</HideWithXInput>
+      <HideWithRawInput>false</HideWithRawInput>
+      <HideWithKeyboardForAxis>false</HideWithKeyboardForAxis>
+      <HideWithoutKeyboardForAxis>false</HideWithoutKeyboardForAxis>
+      <HideWithRelativeAxis>false</HideWithRelativeAxis>
+      <HideWithoutRelativeAxis>false</HideWithoutRelativeAxis>
+    </JoystickButtons>
+    <JoystickButtons>
+      <ButtonName>Right</ButtonName>
+      <DirectInputButton>
+        <Button>0</Button>
+        <IsAxis>true</IsAxis>
+        <IsAxisMinus>false</IsAxisMinus>
+        <IsFullAxis>false</IsFullAxis>
+        <PovDirection>0</PovDirection>
+        <IsReverseAxis>false</IsReverseAxis>
+        <JoystickGuid>bfe40830-595b-11ea-8001-444553540000</JoystickGuid>
+      </DirectInputButton>
+      <XInputButton>
+        <IsLeftThumbX>true</IsLeftThumbX>
+        <IsRightThumbX>false</IsRightThumbX>
+        <IsLeftThumbY>false</IsLeftThumbY>
+        <IsRightThumbY>false</IsRightThumbY>
+        <IsAxisMinus>false</IsAxisMinus>
+        <IsLeftTrigger>false</IsLeftTrigger>
+        <IsRightTrigger>false</IsRightTrigger>
+        <ButtonCode>0</ButtonCode>
+        <IsButton>false</IsButton>
+        <ButtonIndex>0</ButtonIndex>
+        <XInputIndex>1</XInputIndex>
+      </XInputButton>
+      <InputMapping>PokkenButtonRight</InputMapping>
+      <AnalogType>None</AnalogType>
+      <BindNameDi>Gamepad X +</BindNameDi>
+      <BindNameXi>Input Device 1 LeftThumbInput Device 1 X+</BindNameXi>
+      <BindName>Input Device 1 LeftThumbInput Device 1 X+</BindName>
+      <HideWithDirectInput>false</HideWithDirectInput>
+      <HideWithXInput>false</HideWithXInput>
+      <HideWithRawInput>false</HideWithRawInput>
+      <HideWithKeyboardForAxis>false</HideWithKeyboardForAxis>
+      <HideWithoutKeyboardForAxis>false</HideWithoutKeyboardForAxis>
+      <HideWithRelativeAxis>false</HideWithRelativeAxis>
+      <HideWithoutRelativeAxis>false</HideWithoutRelativeAxis>
+    </JoystickButtons>
+    <JoystickButtons>
+      <ButtonName>Button B</ButtonName>
+      <DirectInputButton>
+        <Button>49</Button>
+        <IsAxis>false</IsAxis>
+        <IsAxisMinus>false</IsAxisMinus>
+        <IsFullAxis>false</IsFullAxis>
+        <PovDirection>0</PovDirection>
+        <IsReverseAxis>false</IsReverseAxis>
+        <JoystickGuid>bfe40830-595b-11ea-8001-444553540000</JoystickGuid>
+      </DirectInputButton>
+      <XInputButton>
+        <IsLeftThumbX>false</IsLeftThumbX>
+        <IsRightThumbX>false</IsRightThumbX>
+        <IsLeftThumbY>false</IsLeftThumbY>
+        <IsRightThumbY>false</IsRightThumbY>
+        <IsAxisMinus>false</IsAxisMinus>
+        <IsLeftTrigger>false</IsLeftTrigger>
+        <IsRightTrigger>false</IsRightTrigger>
+        <ButtonCode>8192</ButtonCode>
+        <IsButton>true</IsButton>
+        <ButtonIndex>0</ButtonIndex>
+        <XInputIndex>1</XInputIndex>
+      </XInputButton>
+      <InputMapping>PokkenButtonB</InputMapping>
+      <AnalogType>None</AnalogType>
+      <BindNameDi>Gamepad Buttons1</BindNameDi>
+      <BindNameXi>Input Device 1 B</BindNameXi>
+      <BindName>Input Device 1 B</BindName>
+      <HideWithDirectInput>false</HideWithDirectInput>
+      <HideWithXInput>false</HideWithXInput>
+      <HideWithRawInput>false</HideWithRawInput>
+      <HideWithKeyboardForAxis>false</HideWithKeyboardForAxis>
+      <HideWithoutKeyboardForAxis>false</HideWithoutKeyboardForAxis>
+      <HideWithRelativeAxis>false</HideWithRelativeAxis>
+      <HideWithoutRelativeAxis>false</HideWithoutRelativeAxis>
+    </JoystickButtons>
+    <JoystickButtons>
+      <ButtonName>Button A</ButtonName>
+      <DirectInputButton>
+        <Button>48</Button>
+        <IsAxis>false</IsAxis>
+        <IsAxisMinus>false</IsAxisMinus>
+        <IsFullAxis>false</IsFullAxis>
+        <PovDirection>0</PovDirection>
+        <IsReverseAxis>false</IsReverseAxis>
+        <JoystickGuid>bfe40830-595b-11ea-8001-444553540000</JoystickGuid>
+      </DirectInputButton>
+      <XInputButton>
+        <IsLeftThumbX>false</IsLeftThumbX>
+        <IsRightThumbX>false</IsRightThumbX>
+        <IsLeftThumbY>false</IsLeftThumbY>
+        <IsRightThumbY>false</IsRightThumbY>
+        <IsAxisMinus>false</IsAxisMinus>
+        <IsLeftTrigger>false</IsLeftTrigger>
+        <IsRightTrigger>false</IsRightTrigger>
+        <ButtonCode>4096</ButtonCode>
+        <IsButton>true</IsButton>
+        <ButtonIndex>0</ButtonIndex>
+        <XInputIndex>1</XInputIndex>
+      </XInputButton>
+      <InputMapping>PokkenButtonA</InputMapping>
+      <AnalogType>None</AnalogType>
+      <BindNameDi>Gamepad Buttons0</BindNameDi>
+      <BindNameXi>Input Device 1 A</BindNameXi>
+      <BindName>Input Device 1 A</BindName>
+      <HideWithDirectInput>false</HideWithDirectInput>
+      <HideWithXInput>false</HideWithXInput>
+      <HideWithRawInput>false</HideWithRawInput>
+      <HideWithKeyboardForAxis>false</HideWithKeyboardForAxis>
+      <HideWithoutKeyboardForAxis>false</HideWithoutKeyboardForAxis>
+      <HideWithRelativeAxis>false</HideWithRelativeAxis>
+      <HideWithoutRelativeAxis>false</HideWithoutRelativeAxis>
+    </JoystickButtons>
+    <JoystickButtons>
+      <ButtonName>Button Y</ButtonName>
+      <DirectInputButton>
+        <Button>51</Button>
+        <IsAxis>false</IsAxis>
+        <IsAxisMinus>false</IsAxisMinus>
+        <IsFullAxis>false</IsFullAxis>
+        <PovDirection>0</PovDirection>
+        <IsReverseAxis>false</IsReverseAxis>
+        <JoystickGuid>bfe40830-595b-11ea-8001-444553540000</JoystickGuid>
+      </DirectInputButton>
+      <XInputButton>
+        <IsLeftThumbX>false</IsLeftThumbX>
+        <IsRightThumbX>false</IsRightThumbX>
+        <IsLeftThumbY>false</IsLeftThumbY>
+        <IsRightThumbY>false</IsRightThumbY>
+        <IsAxisMinus>false</IsAxisMinus>
+        <IsLeftTrigger>false</IsLeftTrigger>
+        <IsRightTrigger>false</IsRightTrigger>
+        <ButtonCode>-32768</ButtonCode>
+        <IsButton>true</IsButton>
+        <ButtonIndex>0</ButtonIndex>
+        <XInputIndex>1</XInputIndex>
+      </XInputButton>
+      <InputMapping>PokkenButtonY</InputMapping>
+      <AnalogType>None</AnalogType>
+      <BindNameDi>Gamepad Buttons3</BindNameDi>
+      <BindNameXi>Input Device 1 Y</BindNameXi>
+      <BindName>Input Device 1 Y</BindName>
+      <HideWithDirectInput>false</HideWithDirectInput>
+      <HideWithXInput>false</HideWithXInput>
+      <HideWithRawInput>false</HideWithRawInput>
+      <HideWithKeyboardForAxis>false</HideWithKeyboardForAxis>
+      <HideWithoutKeyboardForAxis>false</HideWithoutKeyboardForAxis>
+      <HideWithRelativeAxis>false</HideWithRelativeAxis>
+      <HideWithoutRelativeAxis>false</HideWithoutRelativeAxis>
+    </JoystickButtons>
+    <JoystickButtons>
+      <ButtonName>Button X</ButtonName>
+      <DirectInputButton>
+        <Button>50</Button>
+        <IsAxis>false</IsAxis>
+        <IsAxisMinus>false</IsAxisMinus>
+        <IsFullAxis>false</IsFullAxis>
+        <PovDirection>0</PovDirection>
+        <IsReverseAxis>false</IsReverseAxis>
+        <JoystickGuid>bfe40830-595b-11ea-8001-444553540000</JoystickGuid>
+      </DirectInputButton>
+      <XInputButton>
+        <IsLeftThumbX>false</IsLeftThumbX>
+        <IsRightThumbX>false</IsRightThumbX>
+        <IsLeftThumbY>false</IsLeftThumbY>
+        <IsRightThumbY>false</IsRightThumbY>
+        <IsAxisMinus>false</IsAxisMinus>
+        <IsLeftTrigger>false</IsLeftTrigger>
+        <IsRightTrigger>false</IsRightTrigger>
+        <ButtonCode>16384</ButtonCode>
+        <IsButton>true</IsButton>
+        <ButtonIndex>0</ButtonIndex>
+        <XInputIndex>1</XInputIndex>
+      </XInputButton>
+      <InputMapping>PokkenButtonX</InputMapping>
+      <AnalogType>None</AnalogType>
+      <BindNameDi>Gamepad Buttons2</BindNameDi>
+      <BindNameXi>Input Device 1 X</BindNameXi>
+      <BindName>Input Device 1 X</BindName>
+      <HideWithDirectInput>false</HideWithDirectInput>
+      <HideWithXInput>false</HideWithXInput>
+      <HideWithRawInput>false</HideWithRawInput>
+      <HideWithKeyboardForAxis>false</HideWithKeyboardForAxis>
+      <HideWithoutKeyboardForAxis>false</HideWithoutKeyboardForAxis>
+      <HideWithRelativeAxis>false</HideWithRelativeAxis>
+      <HideWithoutRelativeAxis>false</HideWithoutRelativeAxis>
+    </JoystickButtons>
+    <JoystickButtons>
+      <ButtonName>Button L</ButtonName>
+      <DirectInputButton>
+        <Button>52</Button>
+        <IsAxis>false</IsAxis>
+        <IsAxisMinus>false</IsAxisMinus>
+        <IsFullAxis>false</IsFullAxis>
+        <PovDirection>0</PovDirection>
+        <IsReverseAxis>false</IsReverseAxis>
+        <JoystickGuid>bfe40830-595b-11ea-8001-444553540000</JoystickGuid>
+      </DirectInputButton>
+      <XInputButton>
+        <IsLeftThumbX>false</IsLeftThumbX>
+        <IsRightThumbX>false</IsRightThumbX>
+        <IsLeftThumbY>false</IsLeftThumbY>
+        <IsRightThumbY>false</IsRightThumbY>
+        <IsAxisMinus>false</IsAxisMinus>
+        <IsLeftTrigger>false</IsLeftTrigger>
+        <IsRightTrigger>false</IsRightTrigger>
+        <ButtonCode>256</ButtonCode>
+        <IsButton>true</IsButton>
+        <ButtonIndex>0</ButtonIndex>
+        <XInputIndex>1</XInputIndex>
+      </XInputButton>
+      <InputMapping>PokkenButtonL</InputMapping>
+      <AnalogType>None</AnalogType>
+      <BindNameDi>Gamepad Buttons4</BindNameDi>
+      <BindNameXi>Input Device 1 LeftShoulder</BindNameXi>
+      <BindName>Input Device 1 LeftShoulder</BindName>
+      <HideWithDirectInput>false</HideWithDirectInput>
+      <HideWithXInput>false</HideWithXInput>
+      <HideWithRawInput>false</HideWithRawInput>
+      <HideWithKeyboardForAxis>false</HideWithKeyboardForAxis>
+      <HideWithoutKeyboardForAxis>false</HideWithoutKeyboardForAxis>
+      <HideWithRelativeAxis>false</HideWithRelativeAxis>
+      <HideWithoutRelativeAxis>false</HideWithoutRelativeAxis>
+    </JoystickButtons>
+    <JoystickButtons>
+      <ButtonName>Button R</ButtonName>
+      <DirectInputButton>
+        <Button>53</Button>
+        <IsAxis>false</IsAxis>
+        <IsAxisMinus>false</IsAxisMinus>
+        <IsFullAxis>false</IsFullAxis>
+        <PovDirection>0</PovDirection>
+        <IsReverseAxis>false</IsReverseAxis>
+        <JoystickGuid>bfe40830-595b-11ea-8001-444553540000</JoystickGuid>
+      </DirectInputButton>
+      <XInputButton>
+        <IsLeftThumbX>false</IsLeftThumbX>
+        <IsRightThumbX>false</IsRightThumbX>
+        <IsLeftThumbY>false</IsLeftThumbY>
+        <IsRightThumbY>false</IsRightThumbY>
+        <IsAxisMinus>false</IsAxisMinus>
+        <IsLeftTrigger>false</IsLeftTrigger>
+        <IsRightTrigger>false</IsRightTrigger>
+        <ButtonCode>512</ButtonCode>
+        <IsButton>true</IsButton>
+        <ButtonIndex>0</ButtonIndex>
+        <XInputIndex>1</XInputIndex>
+      </XInputButton>
+      <InputMapping>PokkenButtonR</InputMapping>
+      <AnalogType>None</AnalogType>
+      <BindNameDi>Gamepad Buttons5</BindNameDi>
+      <BindNameXi>Input Device 1 RightShoulder</BindNameXi>
+      <BindName>Input Device 1 RightShoulder</BindName>
+      <HideWithDirectInput>false</HideWithDirectInput>
+      <HideWithXInput>false</HideWithXInput>
+      <HideWithRawInput>false</HideWithRawInput>
+      <HideWithKeyboardForAxis>false</HideWithKeyboardForAxis>
+      <HideWithoutKeyboardForAxis>false</HideWithoutKeyboardForAxis>
+      <HideWithRelativeAxis>false</HideWithRelativeAxis>
+      <HideWithoutRelativeAxis>false</HideWithoutRelativeAxis>
+    </JoystickButtons>
+  </JoystickButtons>
+  <EmulationProfile>NamcoPokken</EmulationProfile>
+  <GameProfileRevision>10</GameProfileRevision>
+  <HasSeparateTestMode>false</HasSeparateTestMode>
+  <Is64Bit>true</Is64Bit>
+  <EmulatorType>OpenParrot</EmulatorType>
+  <Patreon>false</Patreon>
+  <RequiresAdmin>false</RequiresAdmin>
+  <msysType>0</msysType>
+  <InvertedMouseAxis>false</InvertedMouseAxis>
+  <GunGame>false</GunGame>
+  <DevOnly>false</DevOnly>
+  <xAxisMin>0</xAxisMin>
+  <xAxisMax>255</xAxisMax>
+  <yAxisMin>0</yAxisMin>
+  <yAxisMax>255</yAxisMax>
+</GameProfile>
