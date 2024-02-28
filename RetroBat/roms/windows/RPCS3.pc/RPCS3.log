@@ -1,0 +1,52 @@
+﻿RPCS3 v0.0.23-13964-0ba0f9d2 Alpha | master
+Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz | 16 Threads | 15.78 GiB RAM | TSC: 2.904GHz | AVX+ | FMA3
+Operating system: Windows, Major: 10, Minor: 0, Build: 19044, Service Pack: none, Compatibility mode: 0
+Qt version: Compiled against Qt 5.15.2 | Run-time uses Qt 5.15.2
+Current Time: 2023-02-28T18:04:22
+Thread time: 0.000000s (0.000961Gc); Faults: 0 [rsx:0, spu:0]; [soft:0 hard:0]; Switches:[vol:0 unvol:0]; Wait:[0.000s, spur:0]
+·! 0:00:00.004809 SYS: Initialization times before main(): 0.067370Gc
+·! 0:00:00.004816 SYS: argc: 1, argv: 'V:\RetroBat\roms\windows\RPCS3.pc\rpcs3.exe'
+·! 0:00:01.612653 UUID: Installation ID: {47d2aaa9-66c8-415f-9446-6ae7c95da561}
+·A 0:00:01.685418 {Vulkan Device Enumeration Thread} RSX: Found vulkan-compatible GPU: 'NVIDIA GeForce RTX 2060 SUPER' running on driver 526.98.0.0
+·! 0:00:01.687160 {Vulkan Device Enumeration Thread} SIG: Thread time: 0.031250s (0.070629Gc); Faults: 0 [rsx:0, spu:0]; [soft:0 hard:0]; Switches:[vol:0 unvol:0]; Wait:[0.000s, spur:0]
+·! 0:00:01.687183 CFG: Setting the default renderer to Vulkan. Default GPU: 'NVIDIA GeForce RTX 2060 SUPER'
+·! 0:00:01.687202 SYS: Setting user ID '00000001'
+·! 0:00:01.690160 VFS: VFS config missing. Using default settings. Path: V:/RetroBat/roms/windows/RPCS3.pc/config/vfs.yml
+·! 0:00:01.690206 SYS: Using VFS config:
+$(EmulatorDir): ""
+/dev_hdd0/: $(EmulatorDir)dev_hdd0/
+/dev_hdd1/: $(EmulatorDir)dev_hdd1/
+/dev_flash/: $(EmulatorDir)dev_flash/
+/dev_flash2/: $(EmulatorDir)dev_flash2/
+/dev_flash3/: $(EmulatorDir)dev_flash3/
+/dev_bdvd/: $(EmulatorDir)dev_bdvd/
+/app_home/: ""
+/dev_usb***/:
+  /dev_usb000:
+    Path: $(EmulatorDir)dev_usb000/
+    Serial: ""
+    VID: ""
+    PID: ""
+·! 0:00:01.690221 VFS: Mounted path "/dev_hdd0" to "V:/RetroBat/roms/windows/RPCS3.pc/dev_hdd0//"
+·! 0:00:01.690225 VFS: Mounted path "/dev_flash" to "V:/RetroBat/roms/windows/RPCS3.pc//dev_flash//"
+·! 0:00:01.690226 VFS: Mounted path "/dev_flash2" to "V:/RetroBat/roms/windows/RPCS3.pc//dev_flash2//"
+·! 0:00:01.690227 VFS: Mounted path "/dev_flash3" to "V:/RetroBat/roms/windows/RPCS3.pc//dev_flash3//"
+·! 0:00:01.690228 VFS: Mounted path "/app_home" to "///"
+·! 0:00:01.690230 VFS: Mounted path "/dev_usb000" to "V:/RetroBat/roms/windows/RPCS3.pc/dev_usb000//"
+·! 0:00:01.690248 SYS: Applying global config: V:/RetroBat/roms/windows/RPCS3.pc//config.yml
+·! 0:00:01.692284 SYS: Logged in as user '00000001' with the username 'User'
+·! 0:00:01.692391 IPC: IPC config missing. Using default settings. Path: V:/RetroBat/roms/windows/RPCS3.pc/config/ipc.yml
+·! 0:00:01.692402 SYS: Using IPC config:
+IPC Server enabled: false
+IPC Port: 28012
+·A 0:00:01.692444 SYS: Firmware version: 4.88
+·! 0:00:01.714533 GUI: Current language changed to English (en)
+·! 0:00:02.046719 Compat: Finished reading database from file: V:/RetroBat/roms/windows/RPCS3.pc/GuiConfigs/compat_database.dat
+·! 0:00:02.542996 NET: Starting download from URL: https://update.rpcs3.net/?api=v2&c=0ba0f9d2
+·! 0:00:02.544591 SYS: New timer resolution: 495 us (old=975 us, min=15625 us, max=500 us)
+·! 0:00:03.833297 NET: Download finished
+·! 0:00:03.833764 UPDATER: Current: 2022-07-22 18:35:15, latest: 2023-02-27 23:30:23, difference: 19029308000 ms
+·! 0:00:03.833803 UPDATER: Update found: https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-f2155b49e2fe4cc0bd662e7aad88df0f2f156b9d/rpcs3-v0.0.26-14775-f2155b49_win64.7z
+·W 0:00:10.791077 RSX: Last used Vulkan adapter not found: setting to default!
+·! 0:00:10.792668 xaudio_dev_enum: Found device: id={0.0.0.00000000}.{d2f77422-98e5-4507-8786-999497302b9b}, name=PX329 (NVIDIA High Definition Audio), max_ch=2
+·! 0:00:10.792935 xaudio_dev_enum: Found device: id={0.0.0.00000000}.{d70b0009-c060-4f30-8a75-11608a7e199a}, name=Sceptre M27 (NVIDIA High Definition Audio), max_ch=2

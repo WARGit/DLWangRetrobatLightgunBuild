@@ -1,0 +1,55 @@
+script "Infinite Credits"  
+run:
+    poke $40AEE5 $09
+script " "  
+script "P1 Infinite Lives"  
+run:
+    poke $40D225 $07
+script "P1 Invincibility"  
+run:
+    poke $40D283 $02
+script "P1 Maximum Fire Power"  
+run:
+    poke $40D2A9 $06
+script "P1 Infinite Bombs"  
+run:
+    poke $40D29B $50
+script "P1 Select Bomb" \
+ "0x00/Fire Bomb"\
+ "0x01/Blue Bomb"\
+ "0x02/Green Bomb"\
+ "0x03/Gold Bomb" 
+run:
+    poke $40D2AB param
+script " "  
+script "P2 Infinite Lives"  
+run:
+    poke $40D227 $07
+script "P2 Invincibility"  
+run:
+    poke $40D2D3 $02
+script "P2 Maximum Fire Power"  
+run:
+    poke $40D2F9 $06
+script "P2 Infinite Bombs"  
+run:
+    poke $40D2EB $50
+script "P2 Select Bomb" \
+ "0x00/Fire Bomb"\
+ "0x00/Blue Bomb"\
+ "0x00/Green Bomb"\
+ "0x00/Gold Bomb" 
+run:
+    poke $40D2FB param
+script " "  
+script "Select Region" \
+ "comm:After you enable this cheat to see any effect you will have to reset the game (F3). Then you may have to turn the Test Mode ON (F2), wait,  then reset again (F3)." \
+ "0x01/Japan"\
+ "0x02/US"\
+ "0x03/World" 
+on:
+    temp0=peek($0FFFFF)
+run:
+    poke $0FFFFF param
+off:
+    poke $0FFFFF temp0

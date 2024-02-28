@@ -1,0 +1,23 @@
+script "Infinite Credits"  
+run:
+    poke $503DCF $09
+script "Display the Correct Answer"  
+run:
+    print_ingame 1 "Correct Answer : %c" \
+ (peek($50C749))+0x30
+script "Answer 1 always correct"  
+run:
+    poke $50C749 $01
+script " "  
+script "P1 Infinite Time"  
+run:
+    poke $50CDCD $0A
+script "P1 Infinite Energy"  
+run:
+    poke $50CD87 $0C
+script "P2 Infinite Time"  
+run:
+    poke $50CECD $0A
+script "P2 Infinite Energy"  
+run:
+    poke $50CE87 $0C

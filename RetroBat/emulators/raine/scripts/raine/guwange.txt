@@ -1,0 +1,35 @@
+script "Infinite Credits"  
+run:
+    poke $201011 $09
+script " "  
+script "P1 Infinite Energy"  
+run:
+    poke $2026DA $24
+script "P1 Infinite Bombs"  
+run:
+    poke $2028F9 $05
+script "P1 Invincibility"  
+run:
+    poke $202918 $02
+script "P1 Maximum Power"  
+run:
+    poke $2028FB $0E
+script "P1 Maximum Avirity Power"  
+run:
+    poke $2028FD $08
+script " "  
+script "P2 Infinite Energy"  
+run:
+    poke $2026E0 $24
+script "P2 Infinite Bombs"  
+run:
+    poke $202959 $05
+script "P2 Invincibility"  
+run:
+    poke $202978 $02
+script "P2 Maximum Power"  
+run:
+    poke $20295B $0E
+script "P2 Maximum Avirity Power"  
+run:
+    poke $20295D $08

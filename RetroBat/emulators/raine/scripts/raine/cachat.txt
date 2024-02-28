@@ -1,0 +1,99 @@
+script "Infinite Credits"  
+run:
+    poke $8E02 $09
+script " "  
+script "P1 Finish this Level Now!"  
+on:
+    poke $8DA0 $10|(peek($8DA0)&~$10)
+script "P1 Select Next [Easy] Level" \
+ inter=1,5,1 
+change:
+    poke $8DB6 (param-$1)
+script "P1 Select Next [Normal/Hard] Level" \
+ inter=1,10,1 
+change:
+    poke $8DB6 (param-$1)
+script "P1 Select Perm. Next Pipe" \
+ "0x04/Horizontal"\
+ "0x08/Vertical"\
+ "0x14/Down-Right"\
+ "0x18/Down-Left"\
+ "0x1C/Up-Left"\
+ "0x10/Up-Right"\
+ "0x3C/Up-Down-Right"\
+ "0x34/Up-Down-Left"\
+ "0x38/Up-Left-Right"\
+ "0x32/Down-Left-Right"\
+ "0x2C/4-way"\
+ "0x56/Horizontal with Bomb"\
+ "0x58/Vertical with Bomb"\
+ "0xC2/Vertical with Clock"\
+ "0xC4/Horizontal with Clock" 
+run:
+    poke $8DBC param
+script "P1 Select Temp. Next Pipe" \
+ "0x04/Horizontal"\
+ "0x08/Vertical"\
+ "0x14/Down-Right"\
+ "0x18/Down-Left"\
+ "0x1C/Up-Left"\
+ "0x10/Up-Right"\
+ "0x3C/Up-Down-Right"\
+ "0x34/Up-Down-Left"\
+ "0x38/Up-Left-Right"\
+ "0x32/Down-Left-Right"\
+ "0x2C/4-way"\
+ "0x56/Horizontal with Bomb"\
+ "0x58/Vertical with Bomb"\
+ "0xC2/Vertical with Clock"\
+ "0xC4/Horizontal with Clock" 
+change:
+    poke $8DBC param
+script " "  
+script "P2 Finish this Level Now!"  
+on:
+    poke $8DD0 $10|(peek($8DD0)&~$10)
+script "P2 Select Next [Easy] Level" \
+ inter=1,5,1 
+change:
+    poke $8DE6 (param-$1)
+script "P2 Select Next [Normal/Hard] Level" \
+ inter=1,10,1 
+change:
+    poke $8DE6 (param-$1)
+script "P2 Select Perm. Next Pipe" \
+ "0x04/Horizontal"\
+ "0x08/Vertical"\
+ "0x14/Down-Right"\
+ "0x18/Down-Left"\
+ "0x1C/Up-Left"\
+ "0x10/Up-Right"\
+ "0x3C/Up-Down-Right"\
+ "0x34/Up-Down-Left"\
+ "0x38/Up-Left-Right"\
+ "0x32/Down-Left-Right"\
+ "0x2C/4-way"\
+ "0x56/Horizontal with Bomb"\
+ "0x58/Vertical with Bomb"\
+ "0xC2/Vertical with Clock"\
+ "0xC4/Horizontal with Clock" 
+run:
+    poke $8DEC param
+script "P2 Select Temp. Next Pipe" \
+ "0x04/Horizontal"\
+ "0x08/Vertical"\
+ "0x14/Down-Right"\
+ "0x18/Down-Left"\
+ "0x1C/Up-Left"\
+ "0x10/Up-Right"\
+ "0x3C/Up-Down-Right"\
+ "0x34/Up-Down-Left"\
+ "0x38/Up-Left-Right"\
+ "0x32/Down-Left-Right"\
+ "0x2C/4-way"\
+ "0x56/Horizontal with Bomb"\
+ "0x58/Vertical with Bomb"\
+ "0xC2/Vertical with Clock"\
+ "0xC4/Horizontal with Clock" 
+change:
+    poke $8DEC param

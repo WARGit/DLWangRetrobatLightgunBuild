@@ -1,0 +1,5 @@
+script " "  
+script "This non-arcade system has been added during"  
+script "the amalgamation of MESS into MAME. If there"  
+script "is a softwarelist with games in, then cheats"  
+script "may well appear when you load the game."  

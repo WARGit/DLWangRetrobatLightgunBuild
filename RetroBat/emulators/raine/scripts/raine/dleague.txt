@@ -1,0 +1,30 @@
+script "Infinite Credits"  
+run:
+    poke $10056F $09
+script "Infinite Strikes"  
+run:
+    poke $1026D2 $00
+script "Infinite Balls"  
+run:
+    poke $1026D3 $00
+script "Infinite Outs"  
+run:
+    poke $1026D4 $00
+script "Set Strikes to 0 Now!"  
+on:
+    poke $1026D2 $00
+script "Set Strikes to 2 Now!"  
+on:
+    poke $1026D2 $02
+script "Set Balls to 0 Now!"  
+on:
+    poke $1026D3 $00
+script "Set Balls to 3 Now!"  
+on:
+    poke $1026D3 $03
+script "Set Outs to 0 Now!"  
+on:
+    poke $1026D4 $00
+script "Set Outs to 2 Now!"  
+on:
+    poke $1026D4 $02

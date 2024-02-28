@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./model3.zip</path>
+		<name>model3</name>
+		<playcount>1</playcount>
+		<lastplayed>20220830T100038</lastplayed>
+	</game>
+	<game id="37524">
+		<path>./ROMS/oceanhun.zip</path>
+		<name>The Ocean Hunter</name>
+		<desc>Players will encounter an array of marine life, which dominate the seven seas, while exploring ancient ruins indicating the fascinated by the spectrum of colors, created by the sun light shining through the water, The battle is not only against the threatening marine life, but the titanic icebergs, which are capable of sinking the Ocean Hunter. Featuring spectacular underwater graphics and effects through seven stages.</desc>
+		<image>./images/oceanhun-image.png</image>
+		<video>./videos/oceanhun-video.mp4</video>
+		<marquee>./images/oceanhun-marquee.png</marquee>
+		<thumbnail>./images/oceanhun-thumb.png</thumbnail>
+		<fanart>./images/oceanhun-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Lightgun Shooter</genre>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220830T120113</lastplayed>
+		<md5>65e744ff0f021c4c1beb7240cedcd4cf</md5>
+		<gametime>92</gametime>
+	</game>
+	<game id="37523">
+		<path>./ROMS/swtrilgy.zip</path>
+		<name>Star Wars Trilogy Arcade</name>
+		<desc>Star Wars Trilogy Arcade is a Model 3 shooter allowing the player to ride, fly, and shoot in galactic vehicles.
+
+Players will travel through 6 incredibly detailed intergalactic stages, featuring scenes from A New Hope, Empire Strikes Back, and Return of the Jedi, both challenging the players shooting accuracy as well as vehicle maneuvering capabilities.
+
+Hidden secrets, located in all stages, allow the player to alter the course of the stage, making each game an unconventional and thrilling experience.</desc>
+		<image>./images/swtrilgy-image.png</image>
+		<video>./videos/swtrilgy-video.mp4</video>
+		<marquee>./images/swtrilgy-marquee.png</marquee>
+		<thumbnail>./images/swtrilgy-thumb.png</thumbnail>
+		<fanart>./images/swtrilgy-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em Up, Lightgun Shooter</genre>
+		<family>Star Wars Arcade</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<playcount>2</playcount>
+		<lastplayed>20220830T120453</lastplayed>
+		<md5>ec4ec4d0274787f427cad2d282414f8b</md5>
+		<gametime>123</gametime>
+	</game>
+	<game id="37516">
+		<path>./ROMS/lostwsga.zip</path>
+		<name>The Lost World: Jurassic Park</name>
+		<desc>If you have a good arm at shooting games you're fine. But if you don't have a good arm at shooting games better start practicing, because half of the whole game you'll be shooting a lot of raptors coming at you 30 miles per hour!!!</desc>
+		<image>./images/lostwsga-image.png</image>
+		<video>./videos/lostwsga-video.mp4</video>
+		<marquee>./images/lostwsga-marquee.png</marquee>
+		<thumbnail>./images/lostwsga-thumb.png</thumbnail>
+		<fanart>./images/lostwsga-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter, Lightgun Shooter</genre>
+		<family>Jurassic Park</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>2</players>
+		<playcount>14</playcount>
+		<lastplayed>20220903T123826</lastplayed>
+		<md5>ea639207264326d0525be8d05925f21e</md5>
+		<gametime>905</gametime>
+	</game>
+	<game id="37514">
+		<path>./ROMS/lamachin.zip</path>
+		<name>L.A. Machineguns</name>
+		<desc>During your mission, you will encounter enormous amounts of enemies ranging from human size robots to lightning fast weapon pods. The player is armed with a heavy machine gun which he uses to survive the 4 stages of the game.</desc>
+		<image>./images/lamachin-image.png</image>
+		<video>./videos/lamachin-video.mp4</video>
+		<marquee>./images/lamachin-marquee.png</marquee>
+		<thumbnail>./images/lamachin-thumb.png</thumbnail>
+		<fanart>./images/lamachin-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Lightgun Shooter</genre>
+		<family>Gunblade</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<playcount>2</playcount>
+		<lastplayed>20220903T104754</lastplayed>
+		<md5>a8bdb0aa5a2a6efaa0e1da8c3515d547</md5>
+		<gametime>155</gametime>
+	</game>
+	<game id="37514">
+		<path>./lamachin.zip</path>
+		<name>L.A. Machineguns</name>
+		<desc>During your mission, you will encounter enormous amounts of enemies ranging from human size robots to lightning fast weapon pods. The player is armed with a heavy machine gun which he uses to survive the 4 stages of the game.</desc>
+		<image>./images/lamachin-image.jpg</image>
+		<video>./videos/lamachin-video.mp4</video>
+		<marquee>./images/lamachin-marquee.png</marquee>
+		<thumbnail>./images/lamachin-thumb.png</thumbnail>
+		<fanart>./images/lamachin-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Lightgun Shooter</genre>
+		<family>Gunblade</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<playcount>2</playcount>
+		<lastplayed>20220908T153240</lastplayed>
+		<md5>a8bdb0aa5a2a6efaa0e1da8c3515d547</md5>
+		<gametime>94</gametime>
+	</game>
+	<game id="37524">
+		<path>./oceanhun.zip</path>
+		<name>The Ocean Hunter</name>
+		<desc>Players will encounter an array of marine life, which dominate the seven seas, while exploring ancient ruins indicating the fascinated by the spectrum of colors, created by the sun light shining through the water, The battle is not only against the threatening marine life, but the titanic icebergs, which are capable of sinking the Ocean Hunter. Featuring spectacular underwater graphics and effects through seven stages.</desc>
+		<image>./images/oceanhun-image.jpg</image>
+		<video>./videos/oceanhun-video.mp4</video>
+		<marquee>./images/oceanhun-marquee.png</marquee>
+		<thumbnail>./images/oceanhun-thumb.png</thumbnail>
+		<fanart>./images/oceanhun-fanart.jpg</fanart>
+		<manual>./manuals/oceanhun-manual.pdf</manual>
+		<rating>0.75</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Lightgun Shooter</genre>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>2</players>
+		<md5>65e744ff0f021c4c1beb7240cedcd4cf</md5>
+	</game>
+	<game id="37523">
+		<path>./swtrilgy.zip</path>
+		<name>Star Wars Trilogy Arcade</name>
+		<desc>Star Wars Trilogy Arcade is a Model 3 shooter allowing the player to ride, fly, and shoot in galactic vehicles.
+
+Players will travel through 6 incredibly detailed intergalactic stages, featuring scenes from A New Hope, Empire Strikes Back, and Return of the Jedi, both challenging the players shooting accuracy as well as vehicle maneuvering capabilities.
+
+Hidden secrets, located in all stages, allow the player to alter the course of the stage, making each game an unconventional and thrilling experience.</desc>
+		<image>./images/swtrilgy-image.jpg</image>
+		<video>./videos/swtrilgy-video.mp4</video>
+		<marquee>./images/swtrilgy-marquee.png</marquee>
+		<thumbnail>./images/swtrilgy-thumb.png</thumbnail>
+		<fanart>./images/swtrilgy-fanart.jpg</fanart>
+		<manual>./manuals/swtrilgy-manual.pdf</manual>
+		<rating>0.8</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Lightgun Shooter</genre>
+		<family>Star Wars Arcade</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<playcount>9</playcount>
+		<lastplayed>20220908T174528</lastplayed>
+		<md5>ec4ec4d0274787f427cad2d282414f8b</md5>
+		<gametime>1861</gametime>
+	</game>
+	<game id="37516">
+		<path>./lostwsga.zip</path>
+		<name>The Lost World: Jurassic Park</name>
+		<desc>If you have a good arm at shooting games you're fine. But if you don't have a good arm at shooting games better start practicing, because half of the whole game you'll be shooting a lot of raptors coming at you 30 miles per hour!!!</desc>
+		<image>./images/lostwsga-image.jpg</image>
+		<video>./videos/lostwsga-video.mp4</video>
+		<marquee>./images/lostwsga-marquee.png</marquee>
+		<thumbnail>./images/lostwsga-thumb.png</thumbnail>
+		<fanart>./images/lostwsga-fanart.jpg</fanart>
+		<manual>./manuals/lostwsga-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Lightgun Shooter</genre>
+		<family>Jurassic Park</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>2</players>
+		<playcount>3</playcount>
+		<lastplayed>20230110T174040</lastplayed>
+		<md5>ea639207264326d0525be8d05925f21e</md5>
+		<gametime>272</gametime>
+	</game>
+</gameList>

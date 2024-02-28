@@ -1,0 +1,26 @@
+script "Infinite Credits"  
+run:
+    poke $101009 $09
+script "Infinite Time"  
+on:
+    temp0=peek($101D05)
+run:
+    if (frame%300==$0)and(peek($101D05)!=temp0)
+      poke $101D05 $99
+    endif
+script "Infinite Lives"  
+run:
+    poke $101DD3 $64
+script "Infinite Energy"  
+run:
+    lpoke $101DCE $000C000C
+script "Invincibility" \
+ "comm:Falling down gaps or into water can still kill you though!"  
+run:
+    poke $101E65 $03
+script "Select Starting Level" \
+ inter=1,5,1 
+run:
+    if (peek($101DC9)==$00)
+      poke $101DC9 (param-$1)
+    endif

@@ -1,0 +1,87 @@
+script "Infinite Credits"  
+run:
+    poke $F0001F $63
+script "Invincibility 'ON'" \
+ "comm:To be used when you blink"  
+run:
+    poke $F00B67 $A0
+script "Invincibility 'OFF'"  
+on:
+    poke $F00B67 $00
+script "4th Unit Mode"  
+run:
+    poke $F00B87 $05
+script "Select Perm. Front Weapon" \
+ "0x01/Shot"\
+ "0x02/Missile"\
+ "0x03/Laser"\
+ "0x04/Ball" 
+run:
+    poke $F00B34 param
+script "Select Perm. Back Weapon" \
+ "0x01/Shot"\
+ "0x02/Missile"\
+ "0x03/Laser"\
+ "0x04/Ball" 
+run:
+    poke $F00B38 param
+script "Select Perm. Upper Weapon" \
+ "0x01/Shot"\
+ "0x02/Missile"\
+ "0x03/Laser"\
+ "0x04/Ball" 
+run:
+    poke $F00B36 param
+script "Select Perm. Lower Weapon" \
+ "0x01/Shot"\
+ "0x02/Missile"\
+ "0x03/Laser"\
+ "0x04/Ball" 
+run:
+    poke $F00B3A param
+script "Maximum Power Front"  
+run:
+    poke $F00B3C $05
+script "Maximum Power Back"  
+run:
+    poke $F00B3E $05
+script "Maximum Power Upper"  
+run:
+    poke $F00B3D $05
+script "Maximum Power Lower"  
+run:
+    poke $F00B3F $05
+script "Upper Shot Right upper"  
+on:
+    poke $F00BDE $02
+script "Upper Shot Upper"  
+on:
+    poke $F00BDE $04
+script "Upper Shot Left upper"  
+on:
+    poke $F00BDE $06
+script "Lower Shot Left upper"  
+on:
+    poke $F00BE2 $0A
+script "Lower Shot Upper"  
+on:
+    poke $F00BE2 $0C
+script "Lower Shot Right upper"  
+on:
+    poke $F00BE2 $0E
+script "Quick Direction Change Mode"  
+run:
+    poke $F00B99 $14
+script "No Direction Change Mode"  
+run:
+    poke $F00B99 $13
+script "No Rotate Mode"  
+run:
+    poke $F00BDA $10
+script " "  
+script "P1 Infinite Lives"  
+run:
+    poke $F00B92 $79
+script "P2 Infinite Lives"  
+run:
+    poke $F00BBA $79

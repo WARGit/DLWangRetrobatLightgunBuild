@@ -1,0 +1,87 @@
+script "Infinite Credits"  
+run:
+    poke $F07F $09
+script "Infinite Bonus"  
+run:
+    dpoke $E05B $9909
+script "Select Starting Round" \
+ "comm:You will need to select Round 1 and you will jump to the round(+1) you chose after completing round 1" \
+ inter=1,49,1 
+run:
+    if (peek($E045)==$01)
+      poke $E045 (param)
+    endif
+script " "  
+script "P1 Infinite Lives"  
+run:
+    poke $E1AD $99
+script "P1 Infinite Magnet time" \
+ "comm:Get the magnet first"  
+run:
+    poke $E1B5 $B4
+script "P1 Bat never reduces"  
+run:
+    poke $E1B3 $63
+    poke $E1AA $00
+    poke $E1AB $99
+script "P1 Maximum bat size"  
+run:
+    poke $E1B1 $06
+script "P1 Always have normal ball"  
+run:
+    poke $E1A9 $00
+script "P1 Always have super ball"  
+run:
+    poke $E1A9 $01
+script "P1 Always have magnet"  
+run:
+    poke $E1B4 $43
+script "P1 Get the normal ball Now!"  
+on:
+    poke $E1A9 $00
+script "P1 Get the super ball Now!"  
+on:
+    poke $E1A9 $01
+script "P1 Get the magnet Now!"  
+on:
+    poke $E1B4 $43
+script "P1 Lose the magnet Now!"  
+on:
+    poke $E1B4 $00
+script " "  
+script "P2 Infinite Lives"  
+run:
+    poke $E1ED $99
+script "P2 Infinite Magnet time" \
+ "comm:Get the magnet first"  
+run:
+    poke $E1F5 $B4
+script "P2 Bat never reduces"  
+run:
+    poke $E1F3 $63
+    poke $E1EA $00
+    poke $E1EB $99
+script "P2 Maximum bat size"  
+run:
+    poke $E1F1 $06
+script "P2 Always have normal ball"  
+run:
+    poke $E1E9 $00
+script "P2 Always have super ball"  
+run:
+    poke $E1E9 $01
+script "P2 Always have magnet"  
+run:
+    poke $E1F4 $43
+script "P2 Get the normal ball Now!"  
+on:
+    poke $E1E9 $00
+script "P2 Get the super ball  Now!"  
+on:
+    poke $E1E9 $01
+script "P2 Get the magnet Now!"  
+on:
+    poke $E1F4 $43
+script "P2 Lose the magnet Now!"  
+on:
+    poke $E1F4 $00

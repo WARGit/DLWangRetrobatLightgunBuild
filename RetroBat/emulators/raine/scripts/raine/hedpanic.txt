@@ -1,0 +1,15 @@
+script "Infinite Credits"  
+run:
+    poke $10A8C3 $63
+script "P1 Infinite Lives"  
+run:
+    poke $101C7C $0A
+script "P1 Invincibility"  
+run:
+    poke $100993 $02
+script "P2 Infinite Lives"  
+run:
+    poke $101C70 $0A
+script "P2 Invincibility"  
+run:
+    poke $100994 $02

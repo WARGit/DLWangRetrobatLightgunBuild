@@ -1,0 +1,97 @@
+script "Infinite Credits"  
+run:
+    poke $FF82AB $09
+script "Select Starting Stage" \
+ inter=1,29,1 
+run:
+    if (peek($FF8501)==$00)
+      poke $FF8501 (param-$1)
+    endif
+script " "  
+script "P1 Infinite Lives"  
+run:
+    poke $FF83A4 $99
+script "P1 Infinite Bombs"  
+run:
+    poke $FF83B3 $05
+script "P1 Invincibility"  
+run:
+    poke $FF8323 $F0
+    poke $FF8300 $02
+script "P1 Always Maximum Fire Power"  
+run:
+    poke $FF83B1 $07
+script "P1 Select Weapon" \
+ "0x00/Normal"\
+ "0x02/3-way"\
+ "0x04/Laser" 
+run:
+    poke $FF83B2 param
+script "P1 Always have the H missiles" \
+ "comm:Get the pods first"  
+run:
+    poke $FF83B8 $00
+script "P1 Always have the M missiles" \
+ "comm:Get the pods first"  
+run:
+    poke $FF83B8 $01
+script "P1 Always have the N missiles" \
+ "comm:Get the pods first"  
+run:
+    poke $FF83B8 $02
+script "P1 Get the H missiles Now!" \
+ "comm:Get the pods first"  
+on:
+    poke $FF83B8 $00
+script "P1 Get the M missiles Now!" \
+ "comm:Get the pods first"  
+on:
+    poke $FF83B8 $01
+script "P1 Get the N missiles Now!" \
+ "comm:Get the pods first"  
+on:
+    poke $FF83B8 $02
+script " "  
+script "P2 Infinite Lives"  
+run:
+    poke $FF84A4 $99
+script "P2 Infinite Bombs"  
+run:
+    poke $FF84B3 $05
+script "P2 Invincibility"  
+run:
+    poke $FF8423 $F0
+    poke $FF8400 $02
+script "P2 Always Maximum Fire Power"  
+run:
+    poke $FF84B1 $07
+script "P2 Select Weapon" \
+ "0x00/Normal"\
+ "0x02/3-way"\
+ "0x04/Laser" 
+run:
+    poke $FF84B2 param
+script "P2 Always have the H missiles" \
+ "comm:Get the pods first"  
+run:
+    poke $FF84B8 $00
+script "P2 Always have the M missiles" \
+ "comm:Get the pods first"  
+run:
+    poke $FF84B8 $01
+script "P2 Always have the N missiles" \
+ "comm:Get the pods first"  
+run:
+    poke $FF84B8 $02
+script "P2 Get the H missiles Now!" \
+ "comm:Get the pods first"  
+on:
+    poke $FF84B8 $00
+script "P2 Get the M missiles Now!" \
+ "comm:Get the pods first"  
+on:
+    poke $FF84B8 $01
+script "P2 Get the N missiles Now!" \
+ "comm:Get the pods first"  
+on:
+    poke $FF84B8 $02

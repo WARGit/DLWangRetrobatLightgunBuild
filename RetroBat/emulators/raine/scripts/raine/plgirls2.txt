@@ -1,0 +1,16 @@
+script "Infinite Credits"  
+run:
+    poke $8032 $99
+script "Infinite Time"  
+run:
+    dpoke $8077 $0909
+script "Infinite Energy"  
+run:
+    poke $86E1 $06
+script "Invincibility"  
+run:
+    poke $8079 $78
+    poke $86E0 $40|(peek($86E0)&~$40)
+off:
+    poke $8079 $01
+    poke $86E0 $00|(peek($86E0)&~$40)

@@ -1,0 +1,223 @@
+PCSX2 1.6.0-20200506140834- compiled on May  6 2020
+Savestate version: 0x9a0e0000
+
+Host Machine Init:
+	Operating System =  Microsoft Windows 8  (build 9200), 64-bit
+	Physical RAM     =  16155 MB
+	CPU name         =  Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz
+	Vendor/Model     =  GenuineIntel (stepping 05)
+	CPU speed        =  2.903 ghz (16 logical threads)
+	x86PType         =  Standard OEM
+	x86Flags         =  bfebfbff 7ffafbbf
+	x86EFlags        =  2c100000
+
+x86 Features Detected:
+	SSE2.. SSE3.. SSSE3.. SSE4.1.. SSE4.2.. AVX.. AVX2.. FMA
+
+Reserving memory for recompilers...
+(GameDB) Database Not Found! [V:\RetroBat\roms\windows\PCSX2 1.6.0.pc\GameIndex.dbf]
+
+Loading plugins from V:\RetroBat\roms\windows\PCSX2 1.6.0.pc\plugins...
+	Bound   GS: GSdx32-SSE4.dll [GSdx 0 (MSVC 19.28 SSE4.1/AVX) 1.2.0]
+	Bound  PAD: LilyPad.dll [LilyPad (20200506140834) 0.12.1]
+	Bound SPU2: Spu2-X.dll [SPU2-X 20200506140834 2.0.0]
+	Bound CDVD: cdvdGigaherz.dll [cdvdGigaherz 20200506140834 0.11.0]
+	Bound  USB: nuvee_ps2_usb.dll [nuvee ps2 usb 0.2.0]
+	Bound   FW: FWnull.dll [FWnull Driver 20200506140834 0.7.0]
+	Bound DEV9: DEV9null.dll [DEV9null Driver 20200506140834 0.5.0]
+Plugins loaded successfully.
+
+HLE Notice: ELF does not have a path.
+
+Initializing plugins...
+	Init GS
+	Init PAD
+	Init SPU2
+	Init CDVD
+	Init USB
+	Init FW
+	Init DEV9
+Plugins initialized successfully.
+
+Patches: No CRC found, using 00000000 instead.
+Opening plugins...
+	Opening GS
+	Opening PAD
+	Opening SPU2
+	Opening CDVD
+OK: Gzip quick access index read from disk: 'roms\Time Crisis 3.gz.pindex.tmp'
+isoFile open ok: roms\Time Crisis 3.gz
+	Image type  = DVD
+ * CDVD Disk Open: DVD, Single layer or unknown:
+ * * Track 1: Data (Mode 1) (827424 sectors)
+gunzip: chunk #    0- 2 : 0.50 MB - 12 ms
+	Opening USB
+	Opening FW
+	Opening DEV9
+3.x GL context successfully created
+OpenGL information. GPU: NVIDIA GeForce RTX 2060 SUPER/PCIe/SSE2. Vendor: NVIDIA Corporation. Driver: NVIDIA 526.98
+INFO: GL_ARB_sparse_texture is available
+INFO: GL_ARB_sparse_texture2 is available
+INFO: GL_ARB_gpu_shader5 is available
+INFO: GL_ARB_shader_image_load_store is available
+INFO: GL_ARB_compute_shader is available
+INFO: GL_ARB_shader_storage_buffer_object is available
+INFO: GL_ARB_texture_view is available
+INFO: GL_ARB_vertex_attrib_binding is available
+INFO: GL_ARB_clear_texture is available
+INFO: GL_ARB_multi_bind is available
+INFO: GL_ARB_direct_state_access is available
+INFO: GL_ARB_texture_barrier is available
+INFO: GL_ARB_get_texture_sub_image is available
+
+Current Renderer: OpenGL
+Available VRAM/RAM:3840MB for textures
+GSdx Lookup CRC:00000000
+McdSlot 0 [File]: V:\RetroBat\roms\windows\PCSX2 1.6.0.pc\memcards\my memory card.ps2
+McdSlot 1 [File]: [disabled]
+GSdx Lookup CRC:00000000
+Plugins opened successfully.
+EE/iR5900-32 Recompiler Reset
+	Bios Found: USA     v02.30(20/02/2008)  Console
+	BIOS rom1 module not found, skipping...
+	BIOS rom2 module not found, skipping...
+	BIOS erom module not found, skipping...
+# Initialize memory (rev:4.00, ctm:196Mhz, cpuclk:147Mhz detected)
+Frame buffer size set to  512x512 (3072x3072)
+
+PlayStation 2 ======== Hard reset boot
+ ROMGEN=2008-0220, IOP info (CPUID=1f, CACH_CONFIG=14000200, 2MB, IOP mode)
+ <20080220-175343,ROMconf,PS20230WC20080220.bin:11824>
+# Total accessable memory size: 32 MB (B:2:8:0) (400:2:7c30)
+# TLB spad=0 kernel=1:12 default=13:30 extended=31:38
+# Initialize Start.
+# Initialize GS ...
+# Initialize INTC ...
+# Initialize TIMER ...
+# Initialize DMAC ...
+# Initialize VU1 ...
+# Initialize VIF1 ...
+# Initialize GIF ...
+# Initialize VU0 ...
+# Initialize VIF0 ...
+# Initialize IPU ...
+# Initialize FPU ...
+# Initialize User Memory ...
+# Initialize Scratch Pad ...
+# Initialize Done.
+
+EE DECI2 Manager version 0.06 Sep  5 2006 12:57:08
+  CPUID=2e20, BoardID=0, ROMGEN=2008-0220, 32M
+
+Patches: No CRC found, using 00000000 instead.
+(SYSTEM.CNF) Detected PS2 Disc = cdrom0:\SLUS_206.45;1
+(SYSTEM.CNF) Software version = 1.00
+(SYSTEM.CNF) Disc region type = NTSC
+gunzip: chunk #    0- 4 : 0.25 MB - 11 ms
+gunzip: chunk #    0- 5 : 0.25 MB - 12 ms
+gunzip: chunk #    0- 6 : 0.25 MB - 11 ms
+gunzip: chunk #    0- 7 : 0.25 MB - 12 ms
+gunzip: chunk #    0- 8 : 0.25 MB - 12 ms
+gunzip: chunk #    0- 9 : 0.25 MB - 11 ms
+gunzip: chunk #    0-10 : 0.25 MB - 11 ms
+gunzip: chunk #    0-11 : 0.25 MB - 12 ms
+gunzip: chunk #    0-13 : 0.25 MB - 11 ms
+gunzip: chunk #    0-14 : 0.25 MB - 11 ms
+gunzip: chunk #    0-15 : 0.25 MB - 11 ms
+found 0 symbols
+ELF (cdrom0:\SLUS_206.45;1) Game CRC = 0x7290669C, EntryPoint = 0x00100008
+(SYSTEM.CNF) Detected PS2 Disc = cdrom0:\SLUS_206.45;1
+(SYSTEM.CNF) Software version = 1.00
+(SYSTEM.CNF) Disc region type = NTSC
+
+IOP Realtime Kernel Ver.0.9.1
+    Copyright 1999 (C) Sony Computer Entertainment Inc. 
+Reboot service module.(99/11/10)
+cdvd driver module version 0.1.1 (C)SCEI
+Load File service.(99/11/05)
+Multi Threaded Fileio module.(99/11/15) 
+iop heap service (99/11/03)
+loadelf: fname cdrom0:¥SLUS_206.45;1 secname all
+loadelf version 3.30
+Input ELF format filename = cdrom0:¥SLUS_206.45;1
+0 00100000 0033aa00 ....................................................
+Loaded, cdrom0:¥SLUS_206.45;1
+start address 0x100008
+gp address 00000000
+# Restart Without Memory Clear.
+# Initialize GS ...
+# Initialize INTC ...
+# Initialize TIMER ...
+# Initialize DMAC ...
+# Initialize VU1 ...
+# Initialize VIF1 ...
+# Initialize GIF ...
+# Initialize VU0 ...
+# Initialize VIF0 ...
+# Initialize IPU ...
+# Initialize FPU ...
+# Initialize Scratch Pad ...
+# Restart Without Memory Clear Done.
+Elf entry point @ 0x00100008 about to get recompiled. Load patches first.
+GSdx Lookup CRC:7290669C
+GSdx Lookup CRC:7290669C
+Get Reboot Request From EE
+ROM directory not found
+
+PlayStation 2 ======== Update rebooting..
+gunzip: chunk #  403-14 : 3.75 MB - 18 ms
+
+PlayStation 2 ======== Update reboot complete
+cdvdman Init
+
+IOP Realtime Kernel Ver. 2.1
+    Copyright 1999-2001 (C) Sony Computer Entertainment Inc. 
+Reboot service module.(99/11/10)
+cdvd driver module version 0.1.1 (C)SCEI
+Load File service.(99/11/05)
+Multi Threaded Fileio module.(99/11/15) 
+iop heap service (99/11/03)
+loadmodule: fname cdrom0:¥SIO2MAN.IRX;1 args 0 arg 
+loadmodule: id 25, ret 0
+loadmodule: fname cdrom0:¥PADMAN.IRX;1 args 0 arg 
+loadmodule: id 26, ret 0
+loadmodule: fname cdrom0:¥MTAPMAN.IRX;1 args 0 arg 
+loadmodule: id 27, ret 0
+loadmodule: fname cdrom0:¥MCMAN.IRX;1 args 0 arg 
+loadmodule: id 28, ret 2
+loadmodule: fname cdrom0:¥MCSERV.IRX;1 args 0 arg 
+loadmodule: id 29, ret 2
+loadmodule: fname cdrom0:¥ILINK.IRX;1 args 0 arg 
+loadmodule: id 30, ret 0
+loadmodule: fname cdrom0:¥ILSOCK.IRX;1 args 0 arg 
+loadmodule: id 31, ret 0
+loadmodule: fname cdrom0:¥ILDRV.IRX;1 args 0 arg 
+ildrv.c Jun 21 2001 14:37:09
+My GUID = 0x08004600 0x86b9ffff
+My NodeId = 0xffc0 (Bus=0x03ff, Offset=0x000)
+loadmodule: id 32, ret 0
+loadmodule: fname cdrom0:¥USBD.IRX;1 args 0 arg 
+threadID=177bf53
+USB Driver (Version 0.17.0)
+loadmodule: id 33, ret 0
+loadmodule: fname cdrom0:¥USBGUN.IRX;1 args 0 arg 
+loadmodule: id 34, ret 0
+loadmodule: fname cdrom0:¥LIBSD.IRX;1 args 0 arg 
+loadmodule: id 35, ret 0
+loadmodule: fname cdrom0:¥SDRDRV.IRX;1 args 0 arg 
+SDR driver version 4.0.1 (C) SCEI
+ Exit rsd_main 
+loadmodule: id 36, ret 0
+loadmodule: fname cdrom0:¥IOCDVD.IRX;1 args 0 arg 
+loadmodule: id 37, ret 0
+(UpdateVSyncRate) Mode Changed to NTSC.
+(UpdateVSyncRate) FPS Limit Changed : 59.93 fps
+Frame buffer size set to  1024x1024 (6144x6144)
+GSdx: The config file for this game cannot be found or is invalid. Texture replacements are disabled.
+Loading savestate from slot 0...
+	filename: V:\RetroBat\roms\windows\PCSX2 1.6.0.pc\sstates\SLUS-20645 (7290669C).00.p2s
+EE/iR5900-32 Recompiler Reset
+	Loading GS
+	Loading PAD
+	Loading SPU2
+	Loading USB

@@ -1,0 +1,27 @@
+gametitle=Valkyrie Profile 2: Silmeria (SLUS-21452)
+comment=Widescreen fix by nemesis2000 (pnach by nemesis2000)
+
+//patch=1,EE,e001182D,extended,003798A0
+patch=1,EE,e0011060,extended,0037983A
+patch=1,EE,20379844,extended,3C033f40
+
+patch=1,EE,e0011060,extended,0037983A
+patch=1,EE,20379848,extended,34640000
+
+patch=1,EE,e0011060,extended,0037983A
+patch=1,EE,20423f80,extended,03e00008
+
+patch=1,EE,e0011060,extended,0037983A
+patch=1,EE,20423f84,extended,3c027fff
+
+patch=1,EE,e0011060,extended,0037983A
+patch=1,EE,2049A2CC,extended,00000000
+
+patch=1,EE,e0011060,extended,0037983A
+patch=1,EE,203D9370,extended,00000000
+
+patch=1,EE,e0011060,extended,0037983A
+patch=1,EE,20427E54,extended,00000000
+
+patch=1,EE,e0011060,extended,0037983A
+patch=1,EE,20383FFC,extended,00000000

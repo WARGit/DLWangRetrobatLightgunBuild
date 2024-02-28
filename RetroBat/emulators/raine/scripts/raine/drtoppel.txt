@@ -1,0 +1,16 @@
+script "Invincibility"  
+on:
+    temp0=peek($166A)
+    temp1=peek($166B)
+run:
+    poke $166A $C1
+    poke $166B $16
+off:
+    poke $166A temp0
+    poke $166B temp1
+script "P1 Infinite Lives"  
+run:
+    poke $E006 $07
+script "P2 Infinite Lives"  
+run:
+    poke $E012 $07

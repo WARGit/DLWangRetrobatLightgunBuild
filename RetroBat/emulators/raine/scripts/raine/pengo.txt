@@ -1,0 +1,39 @@
+script "Infinite Credits"  
+run:
+    poke $8808 $63
+script "Infinite Game Time"  
+run:
+    dpoke $8C5B $0100
+script "Invincibility"  
+on:
+    temp0=peek($4C2B)
+run:
+    poke $4C2B $00
+off:
+    poke $4C2B temp0
+script "Always Stone Monster 1"  
+run:
+    poke $8D1F $04
+script "Always Stone Monster 2"  
+run:
+    poke $8D3F $04
+script "Always Stone Monster 3"  
+run:
+    poke $8D5F $04
+script "Stone Monster 1 Now!"  
+on:
+    poke $8D1F $04
+script "Stone Monster 2 Now!"  
+on:
+    poke $8D3F $04
+script "Stone Monster 3 Now!"  
+on:
+    poke $8D5F $04
+script " "  
+script "P1 Infinite Lives"  
+run:
+    poke $8814 $05
+script "P2 Infinite Lives"  
+run:
+    poke $8815 $05
+script " "  

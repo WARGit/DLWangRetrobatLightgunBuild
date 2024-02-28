@@ -1,0 +1,346 @@
+## [10.2.0] - 2021-04-23
+- Added support for "Block King Ball Shooter" for TTX system.
+- Added a way to run Analog Calibration in Demulshooter_GUI for analog arcade guns or analog devices mounted on APAC and/or equivalent.
+
+## [10.1.5] - 2020-09-29
+- Corrected a bug for Model2 script install in DemulShooter_GUI (crosshair keys were not exported correctly in the script).
+- Added an option for Model2 in DemulShooter_GUI to enable white flash removal in-game when shooting.
+
+## [10.1.4] - 2020-09-02
+- Preliminary support for Time Crisis 5
+
+## [10.1.3] - 2020-06-04
+- Added an option to set a virtual LeftMouse button for mouse controllers in DemulShooter_GUI.exe
+
+## [10.1.2] - 2020-05-28
+- Fixed another DemulShooter_GUI.exe bug where you couldn't see available HID axis in the lists.
+
+## [10.1.1] - 2020-05-28
+- Fixed some bugs on DemulShooter_GUI.exe
+
+## [10.1.0] - 2020-05-25
+- Fixed "2 Spicy" autofire.
+- Added Windowed mode support for "SEGA Golden Gun".
+- Added an option to invert Axis for HID devices.
+- Added some more outputs.
+- Added possibility to use the -v option with DemulShooter_GUI.exe
+
+## [10.0.1] - 2020-05-22
+- Fixed DemulShooter.exe and DemulShooterX64.exe crash when no explorer.exe is running.
+
+## [10.0.0] - 2020-05-22
+Complete rewrite of the software core, please be carreful of changes :
+- ! Beware ! : Old config file is not compatible anymore, please set up DemulShooter again.
+- Added support for Gamepad, Joypad, Analog Guns and - in theory - any HID device (See DemulShooter Wiki for usage).
+- DemulShooter_GUI.exe updated to a new version to be able to choose new supported devices.
+- DemulShooter_GUI.exe is now a separated program and can be run at the same time as DemulShooter or DemulShooterX64.
+- DemulShooter.exe is now "command line" only.
+- DemulShooterX64.exe is now "command line" only.
+- DemulShooterX64.exe compatibility is now limited to the games it has been designed for.
+- DsDiag.exe updated to a new version, to be able to test new supported devices.
+- Added MameHooker-compatible outputs, see Wiki for usage and the list of games/outputs (more games/output will be added later).
+- Added support for "Let's Go Jungle Special" for Teknoparrot.
+- Fixed "Ninja Assault" bug with Demul(triggers were not working with XInput controllers).
+- Fixed "Golden Gun" bugs. Still no support for Windowed mode.
+- Changed "Golden Gun" hack : Autofire is now enable by default. Disable it with "-noautofire" option.
+- Changed Model2 hack (See DemulShooter WiKi for necessary modifications).
+- Changed "Silent Hill Arcade" hack for a better one (Usage stays the same).
+- Changed "Friction" hack to support v1.0,v2.0 and v3.0 VsIoboard.dll (Usage stays the same, dll version is automatically detected).
+- Changed "House Of The Dead 4" hack to support both original binary (Rev.A) and the Rev.C binary (Usage stays the same, game version is automatically detected).
+- Changed "Rambo" Lindbergh hack to be able to remove crosshairs with "-nocrosshair" option.
+- Changed "Reload" hack to add support for another binary.
+- Changed "Heavy Fire 3" and "Heavy Fire 4" command line requirements (See DemulShooter GUI or Wiki for usage).
+- Removed deprecated "-ParrotLoader" option for RingWide games.
+- Removed support for "Aliens : Extermination" old HASP-Protected release (-rom=alienshasp).
+  The de-Hasped release of the game has been out for a long time now and is the one to be used.
+- Removed Support for Dolphin4 (-target=dolphin4). 
+  Dolphin 5 has been released now for a long time and is the one to be used.
+
+## [8.8.2]
+- Changed "Friction" support to target vsIOBoard.dll v3.0 (v1.0 and v2.0 won't work)
+- Corrected windowed mode support for Art Is Dead
+
+## [8.8.1] - 2020-04-09
+- Bug correction for "Friction" arcade dump
+
+## [8.8.0] - 2020-04-08
+- Added support for "Friction" arcade dump
+
+## [8.7.0] - 2020-03-19
+- Added support for Luigi's Mansion Arcade (with Teknoparrot) by using DemlShooterX64.exe
+- Reworked Cxbx support, please stricly follow the Wiki now to run the emulator properly
+- Reworked House of The Dead II and House of the Dead 3 support on windows to add other previously non-compatible releases of the game
+- Reworked Reload (window game) to add another previously non-compatible release of the game
+
+## [8.6.1.0] - 2020-02-24
+- Changed HOTD4 Lindbergh support to Rev-C version of the game. Older release will not work anymore.
+- Corrected bug in Cxbx support
+- DemulShooter compiled again as x86, last release was x64 by error and broke a lot of target compatibility (Demul, Hotd3Pc, etc...) 
+
+## [8.6.0.0] - 2020-02-19
+- Added Rambo and TooSpicy support for Teknoparrot, and reworked HOTD4 and Let's Go Jungle support
+- Lindbergh support compatibility should not break anymore now with Teknoparrot updates
+
+## [8.5.7.0] - 2019-10-21
+- Updated TeknoParrot compatibility to 1.0.0.226 for Lindbergh games
+
+## [8.5.6.0] - 2019-10-14
+- Added 2P suport for "Transformers" RingWide game with TeknoParrot 1.0.0.16
+- Lindbergh games will be updated later,so now stick with older Teknopparot  1.0.0.112
+- Added support for "Typing of the Dead Overkill" on Windows just to be able to add credits with the [5] key when plyaing Director's cut mode in "House of The Dead Overkill"
+- "-parrotloader" option will not be maintained anymore as now everycontrol seems to work fine with Teknoparrot
+
+## [8.5.5.0] - 2019-04-04
+- Changed Lindbergh support for compatibility with TeknoParrot 1.0.0.112
+
+## [8.5.4.0] - 2019-03-29
+- Added 2P support for "Let's Go Jungle" with TeknoParrot 1.93 (it won't work with older release)
+- Changed "House of the Dead 4" to be working with TeknoParrot 1.93 (it won't work anymore on older release)
+
+## [8.5.3.0] - 2019-02-14
+- Added a "Virtual Right Click" key for all players.
+
+## [8.5.2.0] - 2019-01-03
+- Added Player2 to "House of the Dead 4"  with TeknoParrot.
+- Changed HOTD4 hack so that the game no longer crash if you run DemulShooter while it's already running.
+
+## [8.5.1.0] - 2018-12-25
+- Fixed a bug preventing "House of the Dead 4" to hook correctly.
+
+## [8.5.0.0] - 2018-12-24
+- Added preliminary support (P1 only) for "House of the Dead 4" with Teknoparrot/Lindbergh emulation.
+
+## [8.4.0.0] - 2018-12-09
+- Added support for "Manic Panic Ghosts" with Demul
+- Second player is now working with "Manic Panic ghosts" and "Pokasuka ghosts"
+- Automatic aiming correction for these 2 games and Atomiswaves games having no calibration and so having ratio issues with black border (only working with Demul 0.7a and gpuDX11 / gpuDX11old)
+- Removed Atomiswave memory files from folder, values are hardcoded now that source is available
+- Minor GUI bugs corrected.
+
+## [8.3c] - 2018-11-21
+- Added a "-noguns" option to remove guns from hod3pc on screen during gameplay (just like arcade mode)
+
+## [8.3b] - 2018-11-14
+- Added a "Bullet Time Mode" key for Virtua Cop 3 and updated controls
+
+## [8.3] - 2018-11-07
+- Corrected a bug for users who are not running "explorer.exe" 
+- Added preliminary support for Virtua Cop 3 (CxBx reload) - Only in windowed mode
+
+## [8.2] - 2018-07-27
+- Changed Demul support to 0.7a_180428 release
+
+## [8.1] - 2018-07-19
+- Corrected another bug for model2
+
+## [8.0] - 2018-07-07
+- Added support for up to 4 devices (so far only Gaia Attack 4 can be played as Player 3 and/or Player 4)
+- As a consequence, some .ini file items syntax had to be modified (making old .ini file not correct anymore, please start again from scratch)
+- Few changes to correct some model2 bugs, created by the previous release 
+- Cleaned up code to publish it on Github
+- PDF user guide replaced by Github Wiki
+
+## [7.6a] - 2018-06-14
+- Few changes to make model2 work with full X-Y range when used with DxWnd and different resolution than the one used by the emulator
+
+## [7.6a] - 2018-06-14
+- Few changes to make some TTX game work with full X-Y range when used with DxWnd and different resolution than the one set in the .INI file
+( Haunted Museum I & II, Fright Fear Land and Gaia Attack 4 )
+
+## [7.6] - 2018-06-01
+- Added support for Gaia Attack 4 (TTX)
+
+## [7.5] - 2018-03-22
+- Added support for Reload (Pc Version)
+- Fixed recently broken Model2 crosshair script auto-installation
+
+## [7.4] - 2018-03-08
+- Added support for Heavy Fire Afghanistan (Pc Version)
+- Added support for Heavy Fire Shattered Spear (Pc Version)
+
+## [7.3] - 2018-03-01
+- Added support for Alevator Action : Death Parade
+
+## [7.2b] - 2018-01-27
+- Added a keyboard key to insert coin in House Of The Dead III (Pc Version)
+
+## [7.2a] - 2018-01-25
+- Added a keyboard key to insert coin in House Of The Dead II (Pc Version)
+
+## [7.2] - 2018-01-25
+- Added support for "House Of The Dead II" PC port
+- Corrected another copy/paste typo in model2 scripts for custom crosshair
+- Changed the Aliens dehasped hooking process, some users had issue with the game's window not beeing detected
+
+## [7.1] - 2018-01-16
+- Rewrote keyboard handling, no need for Microsoft.DirectX.DirectInput.dll dll anymore
+- Corrected a copy/paste typo in model2 scripts for custom crosshair
+
+## [7.0d] - 2018-01-04
+- Fixed Operation GHOST issue where 2P controls were not working if a real keyboard was not plugged (or NumPad missing / deactivated)
+  
+## [7.0c] - 2018-01-03
+- Added debug information in log file
+- Changed Aliens:Extermination executable target to the latest dump (with dongle check removed) named "aliens dehasped.exe"
+  To run the original "abhrelease.exe", the command becomes : Demulshooter.exe -target=globalvr - rom=alienshasp
+
+## [7.0b] - 2017-12-23
+- Fixed "Virtual Middle Button" handling, it was using too much CPU
+
+## [7.0a] - 2017-12-20
+- Changed RawInput handling to support latest Windows10 (1709 build 16299.165)
+- Fixed "Operation GHOST", it's now working with Windows 10
+
+## [7.0] - 2017-12-20
+- DemulShooter commandlines can now be run from anywhere (no need to "cd" to the directory)
+- Changed back Sega Golden Mode hack to the original one, it is working better with TeknoParrot v1.20 (and newer)
+- Corrected a bug for RingWide game where DemulShooter was displaying error windows when the game was closing
+- Added support for latest Demul 0.7a build 111117
+- For Demul/Atomiswave/sprtshot rom, game is reloading only with offscreen shoot, so I added right-click reload.
+- For Demul/Naomi/Pokasuka rom, added middle click for charging "power shot" as well as right click
+- For Demul/Naomi/deathcox rom, game is reloading only when the pointer is moved out of the screen, so I added right-click reload.
+- Added for both Player an option to activate and choose a Keyboard Key to simulate a Middle Click button. 
+- Added a small utility (Ds_Diag.exe) to find and test RawInput devices. Does not work with Xinput (Windows already has what you need to test a gamepad)
+- Replaced old READMe text file by a PDF User Guide
+
+## [6.9d] - 2017-12-06
+- Changed Haunted Museum 2 category from globalVR to TTX
+  So now the game need -target=ttx -tom=hmuseum2 (instead of -target=globalvr -rom=hmuseum2)
+  To find the exact version of your game, FFL_Patcher_v3 has been updated too. Open the game.exe file without applying any patch to get informations.
+
+## [6.9c] - 2017-11-30
+- Added support for "Haunted Museum" release.
+- Added support for "Haunted Museum 2" release. This dump is the same game than "Fright Fear Land" but the dump is supposed to be cleaner.
+  The [-hardffl] option is working with this version too.  
+  To find the exact version of your game, you can use the FFL_Patcher_v2 (it has been updated too) and open the game.exe file without applying any patch.
+
+## [6.9a] - 2017-09-30
+- Corrected "Golden Guns" bugs (shots not registered at select screen)
+- Removed "Golden Guns" autofire when trigger stays pulled (That's how the original arcade behaves)
+
+## [6.9] - 2017-09-26
+- Added support for "Operation G.H.O.S.T" ringwide dump.
+
+## [6.8b] - 2017-07-08
+- Added [-hardffl] option for "Fright Fear Land" arcade dump.
+
+## [6.8a] - 2017-07-06
+- Fixed a typo in the [-h] help display.
+
+## [6.8] - 2017-07-04
+- Added support for "Sega Golden Guns" RingWide dump.
+
+## [6.7a] - 2017-07-03
+- Fixes all "Fright Fear Land" remaining bugs.
+
+## [6.7] - 2017-06-26
+- Fixed "Fright Fear Land", shots are now registering during level-select.
+
+## [6.6] - 2017-06-25
+- Added support for "Music Gun Gun! 2" arcade dump.
+
+## [6.5] - 2017-06-22
+- Added support for "Fright Fear Land" arcade dump. Shots are not registering during level select.
+
+## [6.4] - 2017-06-19
+- Added support for "Dega Dream Riders" Ringwide arcade dump.
+
+## [6.3b] - 2017-06-16
+- Removed pop-up when Demulshooter failed to hook a game at start.
+- Added [-parrotloader] option to overrides all inputs from parrotloader.
+
+## [6.3] - 2017-06-14
+- Added support for "Let's Go Island" Ringwide arcade dump.
+
+## [6.2] - 2017-06-13
+- Added support for "Gundam: Spirit of Zeon" arcade dump.
+
+## [6.0] - 2017-06-02
+- Added support for Xinput compatible devices.
+- Added an "Xinput" tab on the GUI.
+
+## [5.1] - 2017-04-11
+- Added support for "Aliens: Extermination" arcade dump.
+
+## [5.0a] - 2017-04-04
+- Fixed "Lupin the Shooting" reload hook for Naomi.
+- Fixed "Pokasuka Ghost!" bugs.
+
+## [5.0] - 2017-04-05
+- Added a new "Calibration" tab on the GUI (mainly to correct old Act Labs gun aim).
+
+## [4.7] - 2017-03-27
+- Added support for "Pokasuka Ghost!" rom for Atomiwave.
+- Added a new "Model2Emulator" tab on the GUI to install LUA script for 1P/2P custom crosshairs.
+
+## [4.6] - 2017-02-01
+- Added support for "Art Is Dead" game for PC.
+
+## [4.5a] - 2017-01-17
+- Added support for "Brave Fire Fighters" rom for Atomiswave.
+
+## [4.5] - 2017-01-04
+- Added support for "Sega Clay Challenge" rom for Atomiswave.
+
+## [4.4] - 2016-11-08
+- Removed the need of explorer.exe to start DemulShooter.
+- Added verification so that only one instance of DemulShooter can run at the same time.
+
+## [4.3] - 2016-09-10
+- Added [-widescreen] option for some compatible Demul games.
+- Changed command line syntax.
+- Added [-noautoreload] option for "House of the Dead 3" PC game.
+
+## [4.2] - 2016-08-23
+- Added support for the latest Demul (demul 0.7a 180816)
+- Removed support for all other older Demul 0.7 builds.
+
+## [4.1] - 2016-07-19
+- Fixed a bug for "House of the Dead 3" PC Game.
+
+## [4.0] - 2016-07-18
+- Added a GUI button to install no-crosshair icon to "Silent Hill: The Arcade".
+- Added support for Dolphin 5.0 x86
+- Changed Dolphin 4.0.2 x86 support to be the same as Dolphin 5.0 x86.
+- Removed game selection for Dolphin (it's now generic).
+
+## [3.3] - 2016-07-12
+- Change the [-noresize] option for Demul so that it can be less invasive system-wide.
+- Added support for "House of the Dead 2&3 return"  and "Dead Space Extraction" for Dolphin.
+
+## [3.2] - 2016-06-27
+- Fixed "House of the Dead 3" PC game (1P reload and added Left/Right for path choosing)
+
+## [3.1] - 2016-06-26
+- Fixed WindowsXp compatibility with Demul old gpu plugin.
+- Added support for "House of the Dead 3" PC game.
+
+## [3.0] - 2016-05-21
+- Added support for Model2Emulator v1.1a
+- Added support for Dolphin x86 v4.0.2
+- Added support for "Silent Hill the Arcade" Taito Type X dump.
+- Changed command line syntax.
+
+## [2.3] - 2016-04-20
+- Changed the reload hooking for Ninja Assault for Naomi.
+
+## [2.1] - 2016-04-02
+- Added back Death Crimson OX support for Naomi (game was unintentionally removed).
+
+## [2.0] - 2016-04-01
+- Corrected Ninja-Assault (was not working before).
+- Changed command line syntax.
+
+## [1.5] - 2016-03-23
+- Added Atomiswave support for Demul 0.7a
+
+## [1.4] - 2016-03-14
+- Added [-noresize] option for blocking Demul minimizing bug.
+
+## [1.3] - 2016-02-29
+- Added Naomi support for Demul 0.57, 0.58, 0.581, 0.582
+- Changed command line syntax.
+
+## [1.2] - 2016-02-24
+- Initial release
+- Support Naomi roms for Demul 0.7a_v181215, 201215, 221215

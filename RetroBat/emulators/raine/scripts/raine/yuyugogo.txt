@@ -1,0 +1,20 @@
+script "Infinite Credits"  
+run:
+    poke $B00180 $09
+script "Display the Correct Answer"  
+run:
+    print_ingame 1 "Correct Answer : %c" \
+ (peek($B002C0))+0x30
+script "Answer 1 always correct"  
+run:
+    poke $B002C0 $01
+script "Answer 1 is correct for this question Now!"  
+on:
+    poke $B002C0 $01
+script " "  
+script "P1 Always 100% Good Answers"  
+run:
+    poke $B00488 $64
+script "P2 Always 100% Good Answers"  
+run:
+    poke $B00588 $64

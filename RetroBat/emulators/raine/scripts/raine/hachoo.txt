@@ -1,0 +1,12 @@
+script "P1 Infinite Energy"  
+run:
+    poke $F5004 $7F
+script "P1 Power Up"  
+run:
+    poke $F7029 $05
+script "P2 Infinite Energy"  
+run:
+    poke $F5084 $7F
+script "P2 Power Up"  
+run:
+    poke $F70A9 $05

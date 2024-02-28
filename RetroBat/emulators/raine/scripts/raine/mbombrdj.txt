@@ -1,0 +1,34 @@
+script "Infinite Time"  
+run:
+    poke $FFA00C $09
+    poke $FFA00D $05
+    poke $FFA00E $0A
+script "Finish this Match Now!"  
+on:
+    poke $FFA00C $00
+    poke $FFA00D $00
+    poke $FFA00E $00
+script "P1 Infinite Energy"  
+run:
+    poke $FF907B $FF
+script "P1 Drain ALL Energy Now!"  
+on:
+    poke $FF907B $00
+script "P2 Infinite Energy"  
+run:
+    poke $FF927B $FF
+script "P2 Drain ALL Energy Now!"  
+on:
+    poke $FF927B $00
+script "P3 Infinite Energy"  
+run:
+    poke $FF947B $FF
+script "P3 Drain ALL Energy Now!"  
+on:
+    poke $FF947B $00
+script "P4 Infinite Energy"  
+run:
+    poke $FF967B $FF
+script "P4 Drain ALL Energy Now!"  
+on:
+    poke $FF967B $00

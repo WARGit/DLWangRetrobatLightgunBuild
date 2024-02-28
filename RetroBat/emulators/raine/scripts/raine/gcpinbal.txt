@@ -1,0 +1,12 @@
+script "Infinite Credits"  
+run:
+    poke $FF2315 $09
+script "Infinite Energy"  
+run:
+    poke $FF2826 $40
+script "P1 Infinite Lives"  
+run:
+    poke $FF280B $08
+script "P2 Infinite Lives"  
+run:
+    poke $FF281B $08

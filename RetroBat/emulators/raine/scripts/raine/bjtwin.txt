@@ -1,0 +1,65 @@
+script "Infinite Credits"  
+run:
+    poke $F9003 $09
+script "Infinite Bonus Game Time"  
+run:
+    dpoke $F9092 $0990
+script "Infinite 'Power' Time"  
+run:
+    dpoke $F1204 $0140
+script "Always x5 Bonus Multiplier"  
+run:
+    poke $F9071 $04
+script "Always Next Bomb For 'Power'"  
+run:
+    poke $F9073 $13
+script "Get X5 Bonus Multiplier Next!"  
+on:
+    poke $F9071 $04
+script "Get Next Bomb For 'Power' Now!"  
+on:
+    poke $F9073 $13
+script " "  
+script "P1 Infinite Lives"  
+run:
+    poke $F1037 $06
+script "P1 Invincibility"  
+run:
+    poke $F106F $FF
+script "P1 Maximum Items"  
+run:
+    poke $F105D $63
+script "P1 Max Bombs (Solo/Bonus)"  
+run:
+    poke $F106B $18
+script "P1 Max Fire Bombs(Solo/Bonus)"  
+run:
+    poke $F106D $17
+script "P1 Max Bombs (Dual Game)"  
+run:
+    poke $F106B $46
+script "P1 Max Fire Bombs (Dual Game)"  
+run:
+    poke $F106D $45
+script " "  
+script "P2 Infinite Lives"  
+run:
+    poke $F1137 $06
+script "P2 Invincibility"  
+run:
+    poke $F116F $FF
+script "P2 Maximum Items"  
+run:
+    poke $F115D $63
+script "P2 Max Bombs (Solo/Bonus)"  
+run:
+    poke $F116B $18
+script "P2 Max Fire Bombs(Solo/Bonus)"  
+run:
+    poke $F116D $17
+script "P2 Max Bombs (Dual Game)"  
+run:
+    poke $F116B $46
+script "P2 Max Fire Bombs (Dual Game)"  
+run:
+    poke $F116D $45

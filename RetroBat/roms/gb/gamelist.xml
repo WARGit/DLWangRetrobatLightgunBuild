@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./tobu.gb</path>
+		<name>Tobu Tobu Girl</name>
+		<desc>Your cat is floating into the atmosphere and you are the only one who can save it. Jump, dash, and flap your arms to maneuver around perilous obstacles racing against the clock to retrieve your pet friend before it is too late!
+
+Tobu Tobu Girl is a fun and challenging arcade platformer developed by Tangram Games featuring an original soundtrack by potato-tan.
+
+Tobu Tobu Girl is scheduled to release for the Nintendo Game Boy on December 3rd 2017 7 PM CET as a free downloadable ROM and as a limited edition complete in box.</desc>
+		<image>./images/tobu-image.png</image>
+		<video />
+		<marquee>./images/tobu-marquee.png</marquee>
+		<thumbnail>./images/tobu-thumb.png</thumbnail>
+		<rating />
+		<releasedate />
+		<developer>Tangram Games</developer>
+		<publisher>Tangram Games</publisher>
+		<genre>Platform</genre>
+		<playcount />
+		<lastplayed />
+		<md5>48ea776eace6f2582b70dc965cf2df1f</md5>
+		<gametime />
+		<lang>en</lang>
+	</game>
+</gameList>

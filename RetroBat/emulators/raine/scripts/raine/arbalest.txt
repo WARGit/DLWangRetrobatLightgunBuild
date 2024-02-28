@@ -1,0 +1,25 @@
+script "P1 Infinite Lives"  
+run:
+    poke $F0198D $0A
+script "P1 Infinite Bombs"  
+run:
+    poke $F0198E $09
+script "P1 Maximum Fire Power"  
+run:
+    poke $F01988 $07
+script "P1 Invincibility"  
+run:
+    poke $F01998 $5A
+script " "  
+script "P2 Infinite Lives"  
+run:
+    poke $F019E1 $0A
+script "P2 Infinite Bombs"  
+run:
+    poke $F019E2 $09
+script "P2 Maximum Fire Power"  
+run:
+    poke $F019DC $07
+script "P2 Invincibility"  
+run:
+    poke $F019EC $5A

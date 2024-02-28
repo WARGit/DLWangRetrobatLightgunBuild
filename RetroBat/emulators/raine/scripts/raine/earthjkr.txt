@@ -1,0 +1,64 @@
+script "Infinite Credits"  
+run:
+    poke $10094A $09
+script "Select Starting Round" \
+ "comm:Enable on the character selection screen" \
+ inter=1,6,1 
+change:
+    poke $100917 (param-$1)
+script " "  
+script "P1 Infinite Lives"  
+run:
+    poke $100962 $0A
+script "P1 Always have Max Fire Power"  
+run:
+    poke $100965 $05
+script "P1 Invincibility"  
+run:
+    poke $10095C $00
+script "P1 Always Maximum Energy Charge"  
+run:
+    poke $1009B8 $41
+script "P1 Select Sub Weapon" \
+ "0x06/Front Missile"\
+ "0x0C/Homing Missile"\
+ "0x12/Side Missile"\
+ "0x1E/Around Luncher" 
+run:
+    poke $1009BB param
+script "P1 Select Speed" \
+ inter=0,16,1 
+run:
+    poke $100967 (param)
+script "P1 Rapid Fire" \
+ "comm:Can't shoot charge shot"  
+run:
+    poke $1009B5 $00
+script " "  
+script "P2 Infinite Lives"  
+run:
+    poke $1009C6 $0A
+script "P2 Always have Max Fire Power"  
+run:
+    poke $1009C9 $05
+script "P2 Invincibility"  
+run:
+    poke $1009C0 $00
+script "P2 Always Maximum Energy Charge"  
+run:
+    poke $100A1C $41
+script "P2 Select Sub Weapon" \
+ "0x06/Front Missile"\
+ "0x0C/Homing Missile"\
+ "0x12/Side Missile"\
+ "0x1E/Around Luncher" 
+run:
+    poke $100A1F param
+script "P2 Select Speed" \
+ inter=0,16,1 
+run:
+    poke $1009CB (param)
+script "P2 Rapid Fire" \
+ "comm:Can't shoot charge shot"  
+run:
+    poke $100A19 $00

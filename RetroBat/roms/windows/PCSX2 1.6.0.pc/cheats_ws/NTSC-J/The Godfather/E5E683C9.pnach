@@ -1,0 +1,22 @@
+gametitle=The Godfather (NTSC-J)(SLPM-66710)
+comment=Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+//003f013c 00608144 ca7C0B0C 02a30c46
+patch=1,EE,0036006c,word,3c013f20 //3c013f00
+
+//Y-Fov
+//02001446 3000a527
+patch=1,EE,003568b0,word,08164b44
+patch=1,EE,00592d10,word,46140002
+patch=1,EE,00592d14,word,3c013f40
+patch=1,EE,00592d18,word,4481f000
+patch=1,EE,00592d1c,word,461e0002
+patch=1,EE,00592d20,word,080d5a2d
+
+//Mobface
+//803f013c 00188144 02300046
+//patch=1,EE,004d1fac,word,3c013f40 //3c013f80
+//patch=1,EE,004d1ff8,word,3c013f40 //3c013f80

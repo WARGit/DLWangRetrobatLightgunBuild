@@ -1,0 +1,75 @@
+script "P1 Infinite Lives"  
+run:
+    poke $F0DBB $10
+script "P1 Infinite Bombs"  
+run:
+    poke $F0D5F $1C
+script "P1 Invincibility"  
+run:
+    poke $F0CD1 $00
+script "P1 Maximum Weapon Weight"  
+run:
+    poke $F0DCE $02
+    poke $F0DCF $7F
+script "P1 Weapon always Full Power"  
+run:
+    poke $FA60F $60
+script "P1 Select Shot" \
+ "0x00/TWIN"\
+ "0x01/LASER"\
+ "0x02/H.LASER"\
+ "0x03/CHARGE" 
+run:
+    poke $F0D57 param
+script "P1 Select Side" \
+ "0x00/VULCAN"\
+ "0x01/HOMING"\
+ "0x02/SHIELD"\
+ "0x03/EXPAND" 
+run:
+    poke $F0D59 param
+script "P1 Select Bomb" \
+ "0x00/SMALL"\
+ "0x01/ROCKET"\
+ "0x02/BIG"\
+ "0x03/NAPALM" 
+run:
+    poke $F0D5D param
+script " "  
+script "P2 Infinite Lives"  
+run:
+    poke $F0DBD $10
+script "P2 Infinite Bombs"  
+run:
+    poke $F0D69 $1C
+script "P2 Invincibility"  
+run:
+    poke $F0CD3 $00
+script "P2 Maximum Weapon Weight"  
+run:
+    poke $F0DD0 $02
+    poke $F0DD1 $7F
+script "P2 Weapon always Full Power"  
+run:
+    poke $FA70B $60
+script "P2 Select Shot" \
+ "0x00/TWIN"\
+ "0x01/LASER"\
+ "0x02/H.LASER"\
+ "0x03/CHARGE" 
+run:
+    poke $F0D61 param
+script "P2 Select Side" \
+ "0x00/VULCAN"\
+ "0x01/HOMING"\
+ "0x02/SHIELD"\
+ "0x03/EXPAND" 
+run:
+    poke $F0D65 param
+script "P2 Select Bomb" \
+ "0x00/SMALL"\
+ "0x01/ROCKET"\
+ "0x02/BIG"\
+ "0x03/NAPALM" 
+run:
+    poke $F0D67 param

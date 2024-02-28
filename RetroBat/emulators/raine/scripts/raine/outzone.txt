@@ -1,0 +1,91 @@
+script "See the Dip Switch Menu to enable an alternate"  
+script "Invincibility cheat. If you want to skip the"  
+script "Level or see the game very fast then enable"  
+script "Infinite Bombs AND Invincibility and put the"  
+script "frameskip to 11 and hit F10 to push the speed"  
+script "to the maximum. The faster your CPU the better"  
+script "Just walk UP and use bomb to kill the boss."  
+script "Select Starting Level" \
+ inter=1,7,1 
+run:
+    poke $0029C9 (param-$1)
+    dpoke $0029CA $33C0
+off:
+    poke $0029C9 $00
+    dpoke $0029CA $3039
+script " "  
+script "P1 Infinite Lives"  
+run:
+    poke $240BCF $09
+script "P1 Infinite Energy"  
+run:
+    poke $241E7E $D0
+script "P1 Infinite Bombs"  
+run:
+    poke $241E57 $B
+script "P1 Invincibility"  
+run:
+    poke $241E61 $0A
+script "P1 Get Max Firepower Now!"  
+on:
+    poke $241E53 $02
+script "P1 Get Normal Weapon Now!"  
+on:
+    poke $241E3C $00|(peek($241E3C)&~$4B)
+script "P1 Get 3-Way Weapon Now!"  
+on:
+    poke $241E3C $01|(peek($241E3C)&~$4B)
+script "P1 Get Super Ball Now!"  
+on:
+    poke $241E3C $08|(peek($241E3C)&~$08)
+script "P1 Get Super Burner Now!"  
+on:
+    poke $241E3C $40|(peek($241E3C)&~$48)
+script "P1 Get Speed Up Now!"  
+on:
+    poke $241E3C $20|(peek($241E3C)&~$20)
+script "P1 Get Shield Now!"  
+on:
+    poke $241E3C $80|(peek($241E3C)&~$80)
+script " "  
+script "P2 Infinite Lives"  
+run:
+    poke $240BD1 $09
+script "P2 Infinite Energy"  
+run:
+    poke $241EFE $D0
+script "P2 Infinite Bombs"  
+run:
+    poke $241ED7 $B
+script "P2 Invincibility"  
+run:
+    poke $241EE1 $0A
+script "P2 Get Max Firepower Now!"  
+on:
+    poke $241ED3 $02
+script "P2 Get Normal Weapon Now!"  
+on:
+    poke $241EBC $00|(peek($241EBC)&~$4B)
+script "P2 Get 3-Way Weapon Now!"  
+on:
+    poke $241EBC $01|(peek($241EBC)&~$4B)
+script "P2 Get Super Ball Now!"  
+on:
+    poke $241EBC $08|(peek($241EBC)&~$08)
+script "P2 Get Super Burner Now!"  
+on:
+    poke $241EBC $40|(peek($241EBC)&~$48)
+script "P2 Get Speed Up Now!"  
+on:
+    poke $241EBC $20|(peek($241EBC)&~$20)
+script "P2 Get Shield Now!"  
+on:
+    poke $241EBC $80|(peek($241EBC)&~$80)
+script " "  
+script "Skip ROM Checks"  
+on:
+    temp0=dpeek($013B0C)
+run:
+    dpoke $013B0C $6020
+off:
+    dpoke $013B0C temp0

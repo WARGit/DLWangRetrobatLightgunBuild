@@ -1,0 +1,24 @@
+script "Infinite Time"  
+run:
+    poke $FFD590 $09
+    poke $FFD591 $99
+script " "  
+script "P1 Infinite Lives"  
+run:
+    poke $FFD573 $09
+script "P1 Infinite Energy"  
+run:
+    poke $FFDA0D $10
+script "P1 Invincibility"  
+run:
+    poke $FFDA08 $05
+script " "  
+script "P2 Infinite Lives"  
+run:
+    poke $FFD581 $09
+script "P2 Infinite Energy"  
+run:
+    poke $FFDA2D $10
+script "P2 Invincibility"  
+run:
+    poke $FFDA28 $05

@@ -1,0 +1,4 @@
+Reading config file D:\RetroBat\emulators\snes9x\snes9x.conf.
+Saving	config file	D:\RetroBat\emulators\snes9x\snes9x.conf
+Saving	config file	D:\RetroBat\emulators\snes9x\snes9x.conf
+Saving	config file	D:\RetroBat\emulators\snes9x\snes9x.conf

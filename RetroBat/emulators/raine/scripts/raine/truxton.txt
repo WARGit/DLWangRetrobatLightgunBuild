@@ -1,0 +1,44 @@
+script "Infinite Lives"  
+run:
+    poke $81D17 $0A
+script "Infinite Skulls"  
+run:
+    poke $81847 $B
+script "Invincibility" \
+ "0x00/Enabled"\
+ "0x80/Disabled" 
+run:
+    poke $81838 param
+script "Get Max Speed Now!"  
+on:
+    poke $81855 $22
+script "Always Max Speed"  
+run:
+    poke $81855 $22
+script "Get 4 P Now!" \
+ "comm:(5th P = Weapon Power Up)"  
+on:
+    poke $81D2D $04
+script "Select Weapon" \
+ "0x00/Normal"\
+ "0x01/Better"\
+ "0x02/Best" 
+run:
+    poke $81845 param
+script "Select Fire" \
+ "0x01/Red"\
+ "0x02/Green"\
+ "0x03/Blue" 
+run:
+    if (param==$01)
+      poke $81841 $00
+      poke $81843 $00
+    endif
+    if (param==$02)
+      poke $81841 $08
+      poke $81843 $08
+    endif
+    if (param==$03)
+      poke $81841 $10
+      poke $81843 $10
+    endif

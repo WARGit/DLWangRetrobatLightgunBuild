@@ -1,0 +1,37 @@
+script "Infinite Credits"  
+run:
+    poke $10230D $09
+script "Infinite Time for Races" \
+ "comm:Works for all timed race events - 100M Race, 100M Freestyle, 400M Relay + 110M Hurdles."  
+run:
+    poke $1038B3 $00
+script "P1 Always run Very Fast"  
+run:
+    poke $10377B $FF
+script "P2 Always run Very Fast"  
+run:
+    poke $1037CB $FF
+script " "  
+script "100M Freestyle"  
+script " "  
+script "P1 Infinite Oxygen"  
+run:
+    poke $10377D $30
+script "P1 Always swim Very Fast"  
+run:
+    poke $10377B $F6
+script "P2 Infinite Oxygen"  
+run:
+    poke $1037CD $30
+script "P2 Always swim Very Fast"  
+run:
+    poke $1037CB $F6
+script " "  
+script "Pole Vault"  
+script " "  
+script "P1 Successful Vault always = 29 Metres"  
+run:
+    poke $1033C1 $29
+script "P2 Successful Vault always = 29 Metres"  
+run:
+    poke $1033C5 $29

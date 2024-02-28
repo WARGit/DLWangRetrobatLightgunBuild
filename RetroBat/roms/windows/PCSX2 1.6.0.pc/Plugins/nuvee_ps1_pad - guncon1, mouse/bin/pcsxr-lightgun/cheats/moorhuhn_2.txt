@@ -1,0 +1,7 @@
+; NOTE: Be sure to set in-game controller sensitivity to fast / high
+
+; remove gun cursor
+800322b4 0000
+800322b6 0000
+80011554 0000
+80011556 0000

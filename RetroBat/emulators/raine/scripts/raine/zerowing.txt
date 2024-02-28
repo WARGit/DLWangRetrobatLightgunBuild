@@ -1,0 +1,48 @@
+script "P1 Infinite Lives"  
+run:
+    poke $81B9F $63
+script "P1 Invincibility" \
+ "comm:See the Dip Switch Menu to enable an alternate Invincibility cheat."  
+run:
+    poke $8000D $6B
+script "P1 Always have Maximum Power"  
+run:
+    poke $811F1 $03
+script "P1 Always have Maximum Speed"  
+run:
+    poke $80007 $30
+script "P1 Select Weapon" \
+ "0x00/Normal"\
+ "0x01/Laser"\
+ "0x02/Missiles" 
+run:
+    poke $80029 param
+script " "  
+script "P2 Infinite Lives"  
+run:
+    poke $81BA1 $63
+script "P2 Invincibility" \
+ "comm:See the Dip Switch Menu to enable an alternate Invincibility cheat."  
+run:
+    poke $8003D $62
+script "P2 Always have Maximum Power"  
+run:
+    poke $811F3 $03
+script "P2 Always have Maximum Speed"  
+run:
+    poke $80037 $30
+script "P2 Select Weapon" \
+ "0x00/Normal"\
+ "0x01/Laser"\
+ "0x02/Missiles" 
+run:
+    poke $80059 param
+script " "  
+script "Disable Red Screen Flashing" \
+ "comm:Stops the whole screen flashing red when something is hit"  
+on:
+    temp0=dpeek($00186)
+run:
+    dpoke $00186 $6010
+off:
+    dpoke $00186 temp0

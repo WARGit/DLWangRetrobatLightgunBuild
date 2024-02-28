@@ -1,0 +1,41 @@
+script "Infinite Credits"  
+run:
+    poke $1000A0 $09
+script " "  
+script "P1 Infinite Energy"  
+run:
+    poke $100ABB $88
+script "P1 Infinite Bombs"  
+run:
+    poke $100AB6 $09
+script "P1 Always have Full Power Weapon"  
+run:
+    poke $100AB8 $03
+script "P1 Select Weapon" \
+ "0x00/Orange"\
+ "0x01/Blue"\
+ "0x02/Green" 
+run:
+    poke $100AB7 param
+script " "  
+script "P2 Infinite Energy"  
+run:
+    poke $100AEB $88
+script "P2 Infinite Bombs"  
+run:
+    poke $100AE6 $09
+script "P2 Always have Full Power Weapon"  
+run:
+    poke $100AE8 $03
+script "P2 Select Weapon" \
+ "0x00/Orange"\
+ "0x01/Blue"\
+ "0x02/Green" 
+run:
+    poke $100AE7 param
+script " "  
+script "Select Language" \
+ "0x30/Japanese"\
+ "0x31/English" 
+run:
+    poke $100017 param

@@ -1,0 +1,9 @@
+script "Infinite Credits"  
+run:
+    dpoke $102294 $7FFF
+script "P1 Infinite Lives"  
+run:
+    poke $102309 $05
+script "P2 Infinite Lives"  
+run:
+    poke $10230B $05

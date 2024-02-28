@@ -1,0 +1,5 @@
+gametitle=Medal of Honor - Vanguard (NTSC-J)(SLPM-66752)
+comment=Widescreen hack by nemesis2000 (NTSC-J by nemesis2000)
+
+//Widescreen hack 16:9
+patch=1,EE,001308b4,word,00000000

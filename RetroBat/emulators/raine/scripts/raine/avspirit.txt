@@ -1,0 +1,19 @@
+script "Infinite Credits"  
+run:
+    poke $78F8B $99
+script "Invincibility"  
+run:
+    poke $7A527 $78
+script "Infinite Energy (ghost)"  
+run:
+    poke $79E55 $C8
+script "Infinite Energy (player)"  
+run:
+    poke $79F51 $68
+script "No more energy (player)" \
+ "comm:Get hit to be a ghost"  
+on:
+    poke $79F51 $01
+script "Infinite Time for bosses"  
+run:
+    poke $7F038 $28

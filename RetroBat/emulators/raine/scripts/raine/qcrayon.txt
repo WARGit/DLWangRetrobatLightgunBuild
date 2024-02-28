@@ -1,0 +1,45 @@
+script "Infinite Time"  
+run:
+    poke $100A0A $0A
+script "Complete this Quiz Fast Now!" \
+ "comm:Just answer one question correctly"  
+on:
+    poke $100A0E $01
+script "Display the Correct Answer"  
+run:
+    print_ingame 1 "Correct Answer : %c" \
+ (peek($100A14))+0x30
+script "Answer 1 always correct"  
+run:
+    poke $100A14 $01
+script "Answer 1 is correct for this question Now!"  
+on:
+    poke $100A14 $01
+script "Select Perm. Dice Throw Value" \
+ "0x01/1"\
+ "0x02/2"\
+ "0x03/3"\
+ "0x04/4"\
+ "0x05/5"\
+ "0x06/6"\
+ "0xFF/Only Stop at Essential Squares (Fast Game)" 
+run:
+    poke $100A50 param
+script "Select Temp. Dice Throw Value" \
+ "comm:Set on the board/dice screen" \
+ "0x01/1"\
+ "0x02/2"\
+ "0x03/3"\
+ "0x04/4"\
+ "0x05/5"\
+ "0x06/6"\
+ "0xFF/Only Stop at Essential Squares (Fast Game)" 
+change:
+    poke $100A50 param
+script " "  
+script "P1 Infinite Lives"  
+run:
+    poke $1040DD $05
+script "P2 Infinite Lives"  
+run:
+    poke $104105 $05

@@ -1,0 +1,79 @@
+script "Infinite Credits"  
+run:
+    poke $1002A5 $09
+script "Select Starting Area" \
+ "comm:Areas 1-6 are Stage 1, Areas 7-12 are Stage 2, and so on." \
+ inter=1,99, 
+on:
+    temp0l=lpeek(2308A)
+    temp0h=lpeek($2308e
+    temp1=lpeek($23092)
+run:
+    dpoke $2308A $1B7C
+    dpoke $2308C ((param-$1)%$6)*1C
+    lpoke $2308E $000D1B7C
+    dpoke $23092 (param-$1)/6
+    dpoke $23094 $0181
+off:
+    lpoke $2308A temp0l
+    lpoke $2308e temp0h
+    lpoke $23092 temp1
+script " "  
+script "P1 Infinite Lives"  
+run:
+    poke $100429 $08
+script "P1 Infinite Bombs"  
+run:
+    poke $10042D $08
+script "P1 Invincibility" \
+ "comm:See the Dip Switch Menu to enable an alternate Invincibility cheat."  
+run:
+    poke $1005E2 $B4
+off:
+    poke $1005E2 $01
+script "P1 Select Weapon" \
+ "0x01/Red"\
+ "0x02/Blue"\
+ "0x03/Green" 
+run:
+    poke $10042F param
+script "P1 Select Firepower" \
+ "comm:Use with the Select Weapon cheat for the best effect." \
+ inter=1,4, 
+run:
+    poke $10042B param
+script "P1 Get Max Speed Now!"  
+on:
+    poke $1005FC $28
+script "P1 Always Max Speed"  
+run:
+    poke $1005FC $28
+script " "  
+script "P2 Infinite Lives"  
+run:
+    poke $100447 $08
+script "P2 Infinite Bombs"  
+run:
+    poke $10044B $08
+script "P2 Invincibility" \
+ "comm:See the Dip Switch Menu to enable an alternate Invincibility cheat."  
+run:
+    poke $100622 $B4
+off:
+    poke $100622 $01
+script "P2 Select Weapon" \
+ "0x01/Red"\
+ "0x02/Blue"\
+ "0x03/Green" 
+run:
+    poke $10044D param
+script "P2 Select Firepower" \
+ inter=1,4, 
+run:
+    poke $100449 param
+script "P2 Get Max Speed Now!"  
+on:
+    poke $10063C $28
+script "P2 Always Max Speed"  
+run:
+    poke $10063C $28

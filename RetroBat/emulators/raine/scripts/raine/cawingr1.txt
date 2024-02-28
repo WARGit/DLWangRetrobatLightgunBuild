@@ -1,0 +1,186 @@
+script "Infinite Credits"  
+run:
+    poke $FF82AB $09
+script "Infinite Time"  
+run:
+    poke $FF800B $99
+script "Select Starting Stage" \
+ inter=1,10,1 
+run:
+    if (peek($FF8501)==$00)
+      poke $FF8501 (param-$1)
+    endif
+script " "  
+script "P1 Infinite Energy"  
+run:
+    lpoke $FF838C $00600060
+script "P1 Invincibility"  
+run:
+    poke $FF8341 $02
+script "P1 Infinite Ammo"  
+run:
+    poke $FF83BB $99
+script "P1 Infinite Money"  
+run:
+    dpoke $FF83B3 $9999
+script "P1 Infinite Shield on Pickup"  
+run:
+    poke $FF83BD $04
+script "P1 Select Main Weapon" \
+ "0x00/Spread (Yellow)"\
+ "0x01/Missile (Blue)"\
+ "0x02/Guns (Green)" 
+run:
+    poke $FF83C8 param
+script "P1 Select Sub Weapon" \
+ "0x01/Dispenser Level 1"\
+ "0x02/Dispenser Level 2"\
+ "0x03/Dispenser Level 3"\
+ "0x04/Dispenser SP"\
+ "0x05/Missile Level 1"\
+ "0x06/Missile Level 2"\
+ "0x07/Laser Level 1"\
+ "0x08/Laser Level 2"\
+ "0x09/Bomb"\
+ "0x10/Super Bomb" 
+run:
+    if (param==$01)
+      poke $FF83B1 $01
+      poke $FF83B6 $01
+    endif
+    if (param==$02)
+      poke $FF83B1 $01
+      poke $FF83B6 $03
+    endif
+    if (param==$03)
+      poke $FF83B1 $01
+      poke $FF83B6 $04
+    endif
+    if (param==$04)
+      poke $FF83B1 $01
+      poke $FF83B6 $05
+    endif
+    if (param==$05)
+      poke $FF83B1 $05
+      poke $FF83B6 $01
+    endif
+    if (param==$06)
+      poke $FF83B1 $05
+      poke $FF83B6 $02
+    endif
+    if (param==$07)
+      poke $FF83B1 $02
+      poke $FF83B6 $01
+    endif
+    if (param==$08)
+      poke $FF83B1 $02
+      poke $FF83B6 $02
+    endif
+    if (param==$09)
+      poke $FF83B1 $03
+      poke $FF83B6 $01
+    endif
+    if (param==$10)
+      poke $FF83B1 $03
+      poke $FF83B6 $02
+    endif
+script "P1 Weapon Level 6 (max)"  
+run:
+    poke $FF83B0 $05
+script "P1 Weapon Power 99 (max)"  
+run:
+    poke $FF83C6 $99
+script "P1 Rapid Fire"  
+run:
+    poke $FF83A2 $00
+script " "  
+script "P2 Infinite Energy"  
+run:
+    lpoke $FF848C $00600060
+script "P2 Invincibility"  
+run:
+    poke $FF8400 $02
+script "P2 Infinite Ammo"  
+run:
+    poke $FF84BB $99
+script "P2 Infinite Money"  
+run:
+    dpoke $FF84B3 $9999
+script "P2 Infinite Shield on Pickup"  
+run:
+    poke $FF84BD $04
+script "P2 Select Main Weapon" \
+ "0x00/Spread (Yellow)"\
+ "0x01/Missile (Blue)"\
+ "0x02/Guns (Green)" 
+run:
+    poke $FF84C8 param
+script "P2 Select Sub Weapon" \
+ "0x01/Dispenser Level 1"\
+ "0x02/Dispenser Level 2"\
+ "0x03/Dispenser Level 3"\
+ "0x04/Dispenser SP"\
+ "0x05/Missile Level 1"\
+ "0x06/Missile Level 2"\
+ "0x07/Laser Level 1"\
+ "0x08/Laser Level 2"\
+ "0x09/Bomb"\
+ "0x10/Super Bomb" 
+run:
+    if (param==$01)
+      poke $FF84B1 $01
+      poke $FF84B6 $01
+    endif
+    if (param==$02)
+      poke $FF84B1 $01
+      poke $FF84B6 $03
+    endif
+    if (param==$03)
+      poke $FF84B1 $01
+      poke $FF84B6 $04
+    endif
+    if (param==$04)
+      poke $FF84B1 $01
+      poke $FF84B6 $05
+    endif
+    if (param==$05)
+      poke $FF84B1 $05
+      poke $FF84B6 $01
+    endif
+    if (param==$06)
+      poke $FF84B1 $05
+      poke $FF84B6 $02
+    endif
+    if (param==$07)
+      poke $FF84B1 $02
+      poke $FF84B6 $01
+    endif
+    if (param==$08)
+      poke $FF84B1 $02
+      poke $FF84B6 $02
+    endif
+    if (param==$09)
+      poke $FF84B1 $03
+      poke $FF84B6 $01
+    endif
+    if (param==$10)
+      poke $FF84B1 $03
+      poke $FF84B6 $02
+    endif
+script "P2 Weapon Level 6 (max)"  
+run:
+    poke $FF84B0 $05
+script "P2 Weapon Power 99 (max)"  
+run:
+    poke $FF84C6 $99
+script "P2 Rapid Fire"  
+run:
+    poke $FF84A2 $00
+script " "  
+script "Select Region" \
+ "comm:This cheat sets the machine region - the effectiveness may vary! You have to enable this ASAP - ON or before the ROM check screen! Or enable + RESET" \
+ "0x00/Japan"\
+ "0x01/USA"\
+ "0x02/World" 
+run:
+    poke $FF82C5 param

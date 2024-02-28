@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="162272">
+		<path>./ABBAYE.TZX</path>
+		<name>Abbaye Des Morts L'</name>
+		<image>./images/ABBAYE-image.png</image>
+		<marquee>./images/ABBAYE-marquee.png</marquee>
+		<thumbnail>./images/ABBAYE-thumb.png</thumbnail>
+		<publisher>Jerri</publisher>
+		<playcount>1</playcount>
+		<lastplayed>20210612T164516</lastplayed>
+		<crc32>2BDB3DB6</crc32>
+		<md5>2d7230ec574246fb7bf9d4991559f5ba</md5>
+		<gametime>10</gametime>
+		<lang>en</lang>
+	</game>
+</gameList>

@@ -1,0 +1,91 @@
+script "P1 Infinite Energy"  
+run:
+    poke $107869 $28
+script "P1 Invincibility"  
+run:
+    poke $1078C5 $02
+script "P1 Infinite Ammo"  
+run:
+    poke $107845 $06
+script "P1 Select Weapon Now!" \
+ "comm:Use with invincibility enabled and a weapon must be in use at the time." \
+ "0x00/No Weapon"\
+ "0x01/Knife"\
+ "0x02/Revolver"\
+ "0x03/Whip"\
+ "0x05/Assault Rifle"\
+ "0x06/Rocket Launcher"\
+ "0x07/Grenade"\
+ "0x08/Crow Bar"\
+ "0x09/Sword" 
+change:
+    poke $1078BB param
+script " "  
+script "P2 Infinite Energy"  
+run:
+    poke $107969 $28
+script "P2 Invincibility"  
+run:
+    poke $1079C5 $02
+script "P2 Infinite Ammo"  
+run:
+    poke $107945 $06
+script "P2 Select Weapon Now!" \
+ "comm:Use with invincibility enabled and a weapon must be in use at the time." \
+ "0x00/No Weapon"\
+ "0x01/Knife"\
+ "0x02/Revolver"\
+ "0x03/Whip"\
+ "0x05/Assault Rifle"\
+ "0x06/Rocket Launcher"\
+ "0x07/Grenade"\
+ "0x08/Crow Bar"\
+ "0x09/Sword" 
+change:
+    poke $1079BB param
+script " "  
+script "P3 Infinite Energy"  
+run:
+    poke $107A69 $28
+script "P3 Invincibility"  
+run:
+    poke $107AC5 $02
+script "P3 Infinite Ammo"  
+run:
+    poke $107A45 $06
+script "P3 Select Weapon Now!" \
+ "comm:Use with invincibility enabled and a weapon must be in use at the time." \
+ "0x00/No Weapon"\
+ "0x01/Knife"\
+ "0x02/Revolver"\
+ "0x03/Whip"\
+ "0x05/Assault Rifle"\
+ "0x06/Rocket Launcher"\
+ "0x07/Grenade"\
+ "0x08/Crow Bar"\
+ "0x09/Sword" 
+change:
+    poke $107ABB param
+script " "  
+script "P4 Infinite Energy"  
+run:
+    poke $107B69 $28
+script "P4 Invincibility"  
+run:
+    poke $107BC5 $02
+script "P4 Infinite Ammo"  
+run:
+    poke $107B45 $06
+script "P4 Select Weapon Now!" \
+ "comm:Use with invincibility enabled and a weapon must be in use at the time." \
+ "0x00/No Weapon"\
+ "0x01/Knife"\
+ "0x02/Revolver"\
+ "0x03/Whip"\
+ "0x05/Assault Rifle"\
+ "0x06/Rocket Launcher"\
+ "0x07/Grenade"\
+ "0x08/Crow Bar"\
+ "0x09/Sword" 
+change:
+    poke $107BBB param

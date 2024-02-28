@@ -1,0 +1,35 @@
+script "Infinite Credits"  
+run:
+    poke $101227 $09
+script "Infinite Multiplier Timer"  
+run:
+    poke $1026FD $02
+script "Always Combo Bonus x16"  
+run:
+    poke $1026FF $0F
+script " "  
+script "P1 Infinite Lives"  
+run:
+    poke $10254F $07
+script "P1 Infinite Bombs"  
+run:
+    poke $102750 $0F
+script "P1 Invincibility"  
+run:
+    poke $102748 $F0
+script "P1 Maximum Power"  
+run:
+    poke $10272B $04
+script " "  
+script "P2 Infinite Lives"  
+run:
+    poke $102551 $07
+script "P2 Infinite Bombs"  
+run:
+    poke $1027A0 $0F
+script "P2 Invincibility"  
+run:
+    poke $102798 $F0
+script "P2 Maximum Power"  
+run:
+    poke $10277B $04

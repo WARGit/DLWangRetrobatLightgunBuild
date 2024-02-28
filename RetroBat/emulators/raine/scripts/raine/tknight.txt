@@ -1,0 +1,53 @@
+script "Infinite Time"  
+run:
+    poke $608CC $99
+script " "  
+script "P1 Infinite Lives"  
+run:
+    poke $60E1E $03
+script "P1 Infinite Polymorphes"  
+run:
+    poke $60E17 $03
+script "P1 Infinite Energy"  
+run:
+    poke $60DD7 $32
+script "P1 Invincibility"  
+run:
+    poke $60E11 $40
+script "P1 Change to Dragon" \
+ "comm:Infinite Time"  
+on:
+    poke $60F3F $03
+    poke $60F81 $06
+    poke $60F82 $0D
+    poke $60F83 $BE
+run:
+    poke $60E0A $03
+script "P1 Dragon Time Over Now!"  
+on:
+    poke $60E0A $00
+script " "  
+script "P2 Infinite Lives"  
+run:
+    poke $60E9F $03
+script "P2 Infinite Polymorphes"  
+run:
+    poke $60E97 $03
+script "P2 Infinite Energy"  
+run:
+    poke $60E57 $32
+script "P2 Invincibility"  
+run:
+    poke $60E91 $40
+script "P2 Change to Dragon" \
+ "comm:Infinite Time"  
+on:
+    poke $6103F $03
+    poke $61081 $06
+    poke $61082 $0E
+    poke $61083 $3E
+run:
+    poke $60E8A $03
+script "P2 Dragon Time Over Now!"  
+on:
+    poke $60E8A $00

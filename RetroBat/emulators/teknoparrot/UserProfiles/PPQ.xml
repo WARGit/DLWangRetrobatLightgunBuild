@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GameName>Puyo Puyo!! Quest Arcade</GameName>
+  <GameGenre>Puzzle</GameGenre>
+  <GamePath>I:\Core France\collections\collections\Sega RingEdge\roms\puyo puyo quest arcade\bin\Pj24App.exe</GamePath>
+  <TestMenuParameter>-Start TestMode</TestMenuParameter>
+  <TestMenuIsExecutable>false</TestMenuIsExecutable>
+  <ExtraParameters />
+  <TestMenuExtraParameters />
+  <IconName>Icons/PPQ.png</IconName>
+  <ResetHint>false</ResetHint>
+  <ConfigValues>
+    <FieldInformation>
+      <CategoryName>General</CategoryName>
+      <FieldName>Input API</FieldName>
+      <FieldValue>XInput</FieldValue>
+      <FieldType>Dropdown</FieldType>
+      <FieldMin>0</FieldMin>
+      <FieldMax>0</FieldMax>
+      <FieldOptions>
+        <string>DirectInput</string>
+        <string>XInput</string>
+      </FieldOptions>
+    </FieldInformation>
+    <FieldInformation>
+      <CategoryName>General</CategoryName>
+      <FieldName>DongleRegion</FieldName>
+      <FieldValue>JAPAN</FieldValue>
+      <FieldType>Dropdown</FieldType>
+      <FieldMin>0</FieldMin>
+      <FieldMax>0</FieldMax>
+      <FieldOptions>
+        <string>JAPAN</string>
+        <string>USA</string>
+        <string>JAP2N</string>
+        <string>EXPORT</string>
+        <string>CHINA</string>
+      </FieldOptions>
+    </FieldInformation>
+    <FieldInformation>
+      <CategoryName>General</CategoryName>
+      <FieldName>PcbRegion</FieldName>
+      <FieldValue>JAPAN</FieldValue>
+      <FieldType>Dropdown</FieldType>
+      <FieldMin>0</FieldMin>
+      <FieldMax>0</FieldMax>
+      <FieldOptions>
+        <string>JAPAN</string>
+        <string>USA</string>
+        <string>JAP2N</string>
+        <string>EXPORT</string>
+        <string>CHINA</string>
+      </FieldOptions>
+    </FieldInformation>
+    <FieldInformation>
+      <CategoryName>General</CategoryName>
+      <FieldName>FreePlay</FieldName>
+      <FieldValue>1</FieldValue>
+      <FieldType>Bool</FieldType>
+      <FieldMin>0</FieldMin>
+      <FieldMax>0</FieldMax>
+      <FieldOptions />
+    </FieldInformation>
+    <FieldInformation>
+      <CategoryName>General</CategoryName>
+      <FieldName>Windowed</FieldName>
+      <FieldValue>0</FieldValue>
+      <FieldType>Bool</FieldType>
+      <FieldMin>0</FieldMin>
+      <FieldMax>0</FieldMax>
+      <FieldOptions />
+    </FieldInformation>
+  </ConfigValues>
+  <JoystickButtons>
+    <JoystickButtons>
+      <ButtonName>Test</ButtonName>
+      <DirectInputButton>
+        <Button>8</Button>
+        <IsAxis>true</IsAxis>
+        <IsAxisMinus>false</IsAxisMinus>
+        <IsFullAxis>false</IsFullAxis>
+        <PovDirection>0</PovDirection>
+        <IsReverseAxis>false</IsReverseAxis>
+        <JoystickGuid>bfe40830-595b-11ea-8001-444553540000</JoystickGuid>
+      </DirectInputButton>
+      <XInputButton>
+        <IsLeftThumbX>false</IsLeftThumbX>
+        <IsRightThumbX>false</IsRightThumbX>
+        <IsLeftThumbY>false</IsLeftThumbY>
+        <IsRightThumbY>false</IsRightThumbY>
+        <IsAxisMinus>false</IsAxisMinus>
+        <IsLeftTrigger>false</IsLeftTrigger>
+        <IsRightTrigger>false</IsRightTrigger>
+        <ButtonCode>256</ButtonCode>
+        <IsButton>true</IsButton>
+        <ButtonIndex>0</ButtonIndex>
+        <XInputIndex>0</XInputIndex>
+      </XInputButton>
+      <InputMapping>Test</InputMapping>
+      <AnalogType>None</AnalogType>
+      <BindNameDi>Gamepad Z +</BindNameDi>
+      <BindNameXi>Input Device 0 LeftShoulder</BindNameXi>
+      <BindName>Input Device 0 LeftShoulder</BindName>
+      <HideWithDirectInput>false</HideWithDirectInput>
+      <HideWithXInput>false</HideWithXInput>
+      <HideWithRawInput>false</HideWithRawInput>
+      <HideWithKeyboardForAxis>false</HideWithKeyboardForAxis>
+      <HideWithoutKeyboardForAxis>false</HideWithoutKeyboardForAxis>
+      <HideWithRelativeAxis>false</HideWithRelativeAxis>
+      <HideWithoutRelativeAxis>false</HideWithoutRelativeAxis>
+      <HideWithUseDPadForGUN1Stick>false</HideWithUseDPadForGUN1Stick>
+      <HideWithoutUseDPadForGUN1Stick>false</HideWithoutUseDPadForGUN1Stick>
+      <HideWithUseDPadForGUN2Stick>false</HideWithUseDPadForGUN2Stick>
+      <HideWithoutUseDPadForGUN2Stick>false</HideWithoutUseDPadForGUN2Stick>
+      <HideWithUseAnalogAxisToAimGUN1>false</HideWithUseAnalogAxisToAimGUN1>
+      <HideWithoutUseAnalogAxisToAimGUN1>false</HideWithoutUseAnalogAxisToAimGUN1>
+      <HideWithUseAnalogAxisToAimGUN2>false</HideWithUseAnalogAxisToAimGUN2>
+      <HideWithoutUseAnalogAxisToAimGUN2>false</HideWithoutUseAnalogAxisToAimGUN2>
+    </JoystickButtons>
+    <JoystickButtons>
+      <ButtonName>Service 1</ButtonName>
+      <DirectInputButton>
+        <Button>8</Button>
+        <IsAxis>true</IsAxis>
+        <IsAxisMinus>true</IsAxisMinus>
+        <IsFullAxis>false</IsFullAxis>
+        <PovDirection>0</PovDirection>
+        <IsReverseAxis>false</IsReverseAxis>
+        <JoystickGuid>bfe40830-595b-11ea-8001-444553540000</JoystickGuid>
+      </DirectInputButton>
+      <XInputButton>
+        <IsLeftThumbX>false</IsLeftThumbX>
+        <IsRightThumbX>false</IsRightThumbX>
+        <IsLeftThumbY>false</IsLeftThumbY>
+        <IsRightThumbY>false</IsRightThumbY>
+        <IsAxisMinus>false</IsAxisMinus>
+        <IsLeftTrigger>false</IsLeftTrigger>
+        <IsRightTrigger>false</IsRightTrigger>
+        <ButtonCode>512</ButtonCode>
+        <IsButton>true</IsButton>
+        <ButtonIndex>0</ButtonIndex>
+        <XInputIndex>0</XInputIndex>
+      </XInputButton>
+      <InputMapping>Service1</InputMapping>
+      <AnalogType>None</AnalogType>
+      <BindNameDi>Gamepad Z -</BindNameDi>
+      <BindNameXi>Input Device 0 RightShoulder</BindNameXi>
+      <BindName>Input Device 0 RightShoulder</BindName>
+      <HideWithDirectInput>false</HideWithDirectInput>
+      <HideWithXInput>false</HideWithXInput>
+      <HideWithRawInput>false</HideWithRawInput>
+      <HideWithKeyboardForAxis>false</HideWithKeyboardForAxis>
+      <HideWithoutKeyboardForAxis>false</HideWithoutKeyboardForAxis>
+      <HideWithRelativeAxis>false</HideWithRelativeAxis>
+      <HideWithoutRelativeAxis>false</HideWithoutRelativeAxis>
+      <HideWithUseDPadForGUN1Stick>false</HideWithUseDPadForGUN1Stick>
+      <HideWithoutUseDPadForGUN1Stick>false</HideWithoutUseDPadForGUN1Stick>
+      <HideWithUseDPadForGUN2Stick>false</HideWithUseDPadForGUN2Stick>
+      <HideWithoutUseDPadForGUN2Stick>false</HideWithoutUseDPadForGUN2Stick>
+      <HideWithUseAnalogAxisToAimGUN1>false</HideWithUseAnalogAxisToAimGUN1>
+      <HideWithoutUseAnalogAxisToAimGUN1>false</HideWithoutUseAnalogAxisToAimGUN1>
+      <HideWithUseAnalogAxisToAimGUN2>false</HideWithUseAnalogAxisToAimGUN2>
+      <HideWithoutUseAnalogAxisToAimGUN2>false</HideWithoutUseAnalogAxisToAimGUN2>
+    </JoystickButtons>
+    <JoystickButtons>
+      <ButtonName>Coin 1</ButtonName>
+      <DirectInputButton>
+        <Button>56</Button>
+        <IsAxis>false</IsAxis>
+        <IsAxisMinus>false</IsAxisMinus>
+        <IsFullAxis>false</IsFullAxis>
+        <PovDirection>0</PovDirection>
+        <IsReverseAxis>false</IsReverseAxis>
+        <JoystickGuid>bfe40830-595b-11ea-8001-444553540000</JoystickGuid>
+      </DirectInputButton>
+      <XInputButton>
+        <IsLeftThumbX>false</IsLeftThumbX>
+        <IsRightThumbX>false</IsRightThumbX>
+        <IsLeftThumbY>false</IsLeftThumbY>
+        <IsRightThumbY>false</IsRightThumbY>
+        <IsAxisMinus>false</IsAxisMinus>
+        <IsLeftTrigger>false</IsLeftTrigger>
+        <IsRightTrigger>false</IsRightTrigger>
+        <ButtonCode>64</ButtonCode>
+        <IsButton>true</IsButton>
+        <ButtonIndex>0</ButtonIndex>
+        <XInputIndex>0</XInputIndex>
+      </XInputButton>
+      <InputMapping>Coin1</InputMapping>
+      <AnalogType>None</AnalogType>
+      <BindNameDi>Gamepad Buttons8</BindNameDi>
+      <BindNameXi>Input Device 0 LeftThumb</BindNameXi>
+      <BindName>Input Device 0 LeftThumb</BindName>
+      <HideWithDirectInput>false</HideWithDirectInput>
+      <HideWithXInput>false</HideWithXInput>
+      <HideWithRawInput>false</HideWithRawInput>
+      <HideWithKeyboardForAxis>false</HideWithKeyboardForAxis>
+      <HideWithoutKeyboardForAxis>false</HideWithoutKeyboardForAxis>
+      <HideWithRelativeAxis>false</HideWithRelativeAxis>
+      <HideWithoutRelativeAxis>false</HideWithoutRelativeAxis>
+      <HideWithUseDPadForGUN1Stick>false</HideWithUseDPadForGUN1Stick>
+      <HideWithoutUseDPadForGUN1Stick>false</HideWithoutUseDPadForGUN1Stick>
+      <HideWithUseDPadForGUN2Stick>false</HideWithUseDPadForGUN2Stick>
+      <HideWithoutUseDPadForGUN2Stick>false</HideWithoutUseDPadForGUN2Stick>
+      <HideWithUseAnalogAxisToAimGUN1>false</HideWithUseAnalogAxisToAimGUN1>
+      <HideWithoutUseAnalogAxisToAimGUN1>false</HideWithoutUseAnalogAxisToAimGUN1>
+      <HideWithUseAnalogAxisToAimGUN2>false</HideWithUseAnalogAxisToAimGUN2>
+      <HideWithoutUseAnalogAxisToAimGUN2>false</HideWithoutUseAnalogAxisToAimGUN2>
+    </JoystickButtons>
+  </JoystickButtons>
+  <EmulationProfile>SegaJvs</EmulationProfile>
+  <GameProfileRevision>8</GameProfileRevision>
+  <HasSeparateTestMode>true</HasSeparateTestMode>
+  <Is64Bit>false</Is64Bit>
+  <EmulatorType>TeknoParrot</EmulatorType>
+  <Patreon>false</Patreon>
+  <RequiresAdmin>false</RequiresAdmin>
+  <msysType>0</msysType>
+  <InvertedMouseAxis>false</InvertedMouseAxis>
+  <GunGame>false</GunGame>
+  <DevOnly>false</DevOnly>
+  <xAxisMin>0</xAxisMin>
+  <xAxisMax>255</xAxisMax>
+  <yAxisMin>0</yAxisMin>
+  <yAxisMax>255</yAxisMax>
+</GameProfile>

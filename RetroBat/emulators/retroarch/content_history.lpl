@@ -1,0 +1,544 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 2,
+  "items": [
+    {
+      "path": "V:\\RetroBat\\roms\\psx\\Die Hard Trilogy (USA) (v1.0).cue",
+      "label": "",
+      "core_path": "V:\\RetroBat\\emulators\\retroarch\\cores\\pcsx_rearmed_libretro.dll",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "V:\\RetroBat\\roms\\psx\\Die Hard Trilogy (USA) (v1.0).cue",
+      "label": "",
+      "core_path": "V:\\RetroBat\\emulators\\retroarch\\cores\\mednafen_psx_hw_libretro.dll",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "V:\\RetroBat\\roms\\psx\\Point Blank 3 [SLUS-01354].cue",
+      "label": "",
+      "core_path": "V:\\RetroBat\\emulators\\retroarch\\cores\\pcsx_rearmed_libretro.dll",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "V:\\RetroBat\\roms\\psx\\Judge Dredd (USA).chd",
+      "label": "",
+      "core_path": "V:\\RetroBat\\emulators\\retroarch\\cores\\pcsx_rearmed_libretro.dll",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\mame\\timecris.zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\mame_libretro.dll",
+      "core_name": "Arcade (MAME - Current)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\mame\\term2.zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\mame_libretro.dll",
+      "core_name": "Arcade (MAME - Current)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\mame\\targeth.zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\mame_libretro.dll",
+      "core_name": "Arcade (MAME - Current)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\mame\\sgunner2.zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\mame_libretro.dll",
+      "core_name": "Arcade (MAME - Current)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\mame\\sgunner.zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\mame_libretro.dll",
+      "core_name": "Arcade (MAME - Current)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\mame\\revx.zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\mame2016_libretro.dll",
+      "core_name": "Arcade (MAME 2016)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\mame\\revx.zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\mame2003_plus_libretro.dll",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\mame\\revx.zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\mame_libretro.dll",
+      "core_name": "Arcade (MAME - Current)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\mame\\policetr13a.zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\mame_libretro.dll",
+      "core_name": "Arcade (MAME - Current)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\mame\\ptblank2.zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\mame_libretro.dll",
+      "core_name": "Arcade (MAME - Current)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\mame\\ptblank.zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\mame_libretro.dll",
+      "core_name": "Arcade (MAME - Current)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\mame\\opwolf.zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\mame2016_libretro.dll",
+      "core_name": "Arcade (MAME 2016)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\mame\\opwolf.zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\mame_libretro.dll",
+      "core_name": "Arcade (MAME - Current)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\mame\\oneshot.zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\mame_libretro.dll",
+      "core_name": "Arcade (MAME - Current)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\mame\\lockload.zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\mame_libretro.dll",
+      "core_name": "Arcade (MAME - Current)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\mame\\lockload.zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\mame2003_plus_libretro.dll",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\mame\\loffire.zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\mame_libretro.dll",
+      "core_name": "Arcade (MAME - Current)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\mame\\le2.zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\mame_libretro.dll",
+      "core_name": "Arcade (MAME - Current)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\mame\\lethalen.zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\mame_libretro.dll",
+      "core_name": "Arcade (MAME - Current)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\mame\\lghost.zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\mame_libretro.dll",
+      "core_name": "Arcade (MAME - Current)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\mame\\jpark.zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\mame_libretro.dll",
+      "core_name": "Arcade (MAME - Current)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\mame\\gollygho.zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\mame_libretro.dll",
+      "core_name": "Arcade (MAME - Current)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\mame\\bbust2.zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\mame2016_libretro.dll",
+      "core_name": "Arcade (MAME 2016)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\mame\\bbust2.zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\mame_libretro.dll",
+      "core_name": "Arcade (MAME - Current)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\mame\\bbusters.zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\mame_libretro.dll",
+      "core_name": "Arcade (MAME - Current)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\mame\\zombraid.zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\mame_libretro.dll",
+      "core_name": "Arcade (MAME - Current)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\mame\\cryptklr.zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\mame_libretro.dll",
+      "core_name": "Arcade (MAME - Current)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\mame\\cryptklr.zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\mame2016_libretro.dll",
+      "core_name": "Arcade (MAME 2016)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\mame\\alien3.zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\mame2016_libretro.dll",
+      "core_name": "Arcade (MAME 2016)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\mame\\alien3.zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\mame2003_plus_libretro.dll",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\mame\\alien3.zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\mame_libretro.dll",
+      "core_name": "Arcade (MAME - Current)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\megadrive\\T2 - The Arcade Game (USA, Europe).zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\megadrive\\Revolution X (USA, Europe).zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\megadrive\\Lethal Enforcers II - Gun Fighters (USA).zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\megadrive\\Lethal Enforcers II - Gun Fighters (USA).zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\genesis_plus_gx_wide_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX Wide)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\megadrive\\Lethal Enforcers II - Gun Fighters (USA).zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\fbneo_libretro.dll",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "",
+      "db_name": "",
+      "subsystem_ident": "md",
+      "subsystem_name": "Sega Megadrive",
+      "subsystem_roms": [
+        "F:\\RetroBat\\roms\\megadrive\\Lethal Enforcers II - Gun Fighters (USA).zip"
+      ]
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\saturn\\Maximum Force (USA).cue",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\mednafen_saturn_libretro.dll",
+      "core_name": "Sega - Saturn (Beetle Saturn)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\saturn\\Maximum Force (USA).cue",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\kronos_libretro.dll",
+      "core_name": "Sega - Saturn/ST-V (Kronos)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\saturn\\Area 51 (USA)\\Area 51 (USA).cue",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\kronos_libretro.dll",
+      "core_name": "Sega - Saturn/ST-V (Kronos)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\saturn\\Area 51 (USA)\\Area 51 (USA).cue",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\mednafen_saturn_libretro.dll",
+      "core_name": "Sega - Saturn (Beetle Saturn)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\psx\\Area 51 (USA) (Rev 1)\\Area 51 (USA) (Rev 1).cue",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\pcsx_rearmed_libretro.dll",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\nes\\Gotcha! - The Sport! (USA).zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\nestopia_libretro.dll",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\nes\\Gotcha! - The Sport! (USA).zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\mesen_libretro.dll",
+      "core_name": "Nintendo - NES / Famicom (Mesen)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\nes\\Freedom Force (USA).nes",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\mesen_libretro.dll",
+      "core_name": "Nintendo - NES / Famicom (Mesen)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\nes\\To the Earth (USA).zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\mesen_libretro.dll",
+      "core_name": "Nintendo - NES / Famicom (Mesen)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\nes\\Shooting Range (USA).zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\nestopia_libretro.dll",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\nes\\Shooting Range (USA).zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\mesen_libretro.dll",
+      "core_name": "Nintendo - NES / Famicom (Mesen)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\nes\\Mechanized Attack (USA).zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\mesen_libretro.dll",
+      "core_name": "Nintendo - NES / Famicom (Mesen)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "F:\\RetroBat\\roms\\nes\\Hogan's Alley (World).zip",
+      "label": "",
+      "core_path": "F:\\RetroBat\\emulators\\retroarch\\cores\\mesen_libretro.dll",
+      "core_name": "Nintendo - NES / Famicom (Mesen)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\RetroBat\\roms\\snes\\Bazooka Blitzkrieg (USA).zip",
+      "label": "",
+      "core_path": "D:\\RetroBat\\emulators\\retroarch\\cores\\snes9x_libretro.dll",
+      "core_name": "Nintendo - SNES / SFC (Snes9x - Current)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\RetroBat\\roms\\nes\\Hogan's Alley (World).zip",
+      "label": "",
+      "core_path": "D:\\RetroBat\\emulators\\retroarch\\cores\\mesen_libretro.dll",
+      "core_name": "Nintendo - NES / Famicom (Mesen)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "V:\\RetroBat\\roms\\wii\\Chicken Blaster (USA) (En,Fr,Es).wbfs",
+      "label": "",
+      "core_path": "V:\\RetroBat\\emulators\\retroarch\\cores\\dolphin_libretro.dll",
+      "core_name": "Nintendo - GameCube / Wii (Dolphin)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "V:\\RetroBat\\roms\\snes\\Bazooka Blitzkrieg (USA).zip",
+      "label": "",
+      "core_path": "V:\\RetroBat\\emulators\\retroarch\\cores\\snes9x_libretro.dll",
+      "core_name": "Nintendo - SNES / SFC (Snes9x - Current)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "V:\\RetroBat\\roms\\snes\\Battle Clash (USA).zip",
+      "label": "",
+      "core_path": "V:\\RetroBat\\emulators\\retroarch\\cores\\snes9x_libretro.dll",
+      "core_name": "Nintendo - SNES / SFC (Snes9x - Current)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "V:\\RetroBat\\roms\\nes\\Hogan's Alley (World).zip",
+      "label": "",
+      "core_path": "V:\\RetroBat\\emulators\\retroarch\\cores\\mesen_libretro.dll",
+      "core_name": "Nintendo - NES / Famicom (Mesen)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "V:\\RetroBat\\roms\\psx\\Elemental Gearbolt (USA).chd",
+      "label": "",
+      "core_path": "V:\\RetroBat\\emulators\\retroarch\\cores\\pcsx_rearmed_libretro.dll",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "V:\\RetroBat\\roms\\psx\\Point Blank 3 [SLUS-01354].cue",
+      "label": "",
+      "core_path": "V:\\RetroBat\\emulators\\retroarch\\cores\\mednafen_psx_hw_libretro.dll",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "V:\\RetroBat\\roms\\nes\\Gumshoe (USA, Europe).zip",
+      "label": "",
+      "core_path": "V:\\RetroBat\\emulators\\retroarch\\cores\\mesen_libretro.dll",
+      "core_name": "Nintendo - NES / Famicom (Mesen)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "V:\\RetroBat\\roms\\naomi\\confmiss.zip",
+      "label": "",
+      "core_path": "V:\\RetroBat\\emulators\\retroarch\\cores\\flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "V:\\RetroBat\\roms\\naomi\\mok.zip",
+      "label": "",
+      "core_path": "V:\\RetroBat\\emulators\\retroarch\\cores\\flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "V:\\RetroBat\\roms\\megadrive\\Menacer 6-Game Cartridge (USA, Europe).zip",
+      "label": "",
+      "core_path": "V:\\RetroBat\\emulators\\retroarch\\cores\\genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "V:\\RetroBat\\roms\\snes\\X Zone (Japan, USA).zip",
+      "label": "",
+      "core_path": "V:\\RetroBat\\emulators\\retroarch\\cores\\snes9x_libretro.dll",
+      "core_name": "Nintendo - SNES / SFC (Snes9x - Current)",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

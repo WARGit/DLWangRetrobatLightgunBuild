@@ -1,0 +1,3 @@
+script "Infinite Time [SOLO GAME]"  
+run:
+    poke $FE7FF7 $3C

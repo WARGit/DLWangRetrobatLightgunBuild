@@ -1,0 +1,31 @@
+script "P1 Infinite Lives"  
+run:
+    poke $201D50 $07
+script "P1 Infinite Bombs"  
+run:
+    poke $201D43 $07
+script "P1 Always have Max Fire Power"  
+run:
+    poke $201D47 $04
+script "P1 Invincibility 'ON'"  
+run:
+    poke $201D45 $FF
+script "P1 Invincibility 'OFF'"  
+on:
+    poke $201D45 $01
+script " "  
+script "P2 Infinite Lives"  
+run:
+    poke $201BA8 $07
+script "P2 Infinite Bombs"  
+run:
+    poke $201B9B $07
+script "P2 Always have Max Fire Power"  
+run:
+    poke $201B9F $04
+script "P2 Invincibility 'ON'"  
+run:
+    poke $201B9D $FF
+script "P2 Invincibility 'OFF'"  
+on:
+    poke $201B9D $01

@@ -1,0 +1,9 @@
+script "Infinite Credits"  
+run:
+    poke $100144 $09
+script "Infinite Time"  
+run:
+    dpoke $102802 $EFFF
+script "Infinite Turbos"  
+run:
+    poke $102DBB $03

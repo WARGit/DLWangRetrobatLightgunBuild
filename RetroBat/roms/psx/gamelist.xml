@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="105264">
+		<path>./Project - Horned Owl (USA).chd</path>
+		<name>Project : Horned Owl</name>
+		<desc>Based on a popular Japanese anime series called Policenauts, this on-rails first-person shooter gives gamers a glimpse of the future in amazing detail and visual acuity. The character artist from the popular anime Ghost in a Shell created the models for this game, so you can expect some well-drawn and highly detailed characters throughout the game.
+			Putting you behind the controls of a giant mech, it's your duty to blast the evil forces that threaten the peaceful city that you serve. A tracking camera guides you through the 3D environments, as enemies pop up from behind every conceivable hiding place. The gun is accurate and easily calibrated, meaning you' ll be blasting enemies with pinpoint precision.</desc>
+		<emulator>duckstation</emulator>
+		<image>./images/Project - Horned Owl (USA)-image.png</image>
+		<video>./videos/Project - Horned Owl (USA)-video.mp4</video>
+		<marquee>./images/Project - Horned Owl (USA)-marquee.png</marquee>
+		<thumbnail>./images/Project - Horned Owl (USA)-thumb.png</thumbnail>
+		<releasedate>19960831T000000</releasedate>
+		<developer>Alfa System</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220804T155134</lastplayed>
+		<gametime>167</gametime>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="20199">
+		<path>./Elemental Gearbolt (USA).chd</path>
+		<name>Elemental Gearbolt</name>
+		<desc>In a fantastic world divided by class and race, technology from a mysterious source has imbued a young prince with the key to unimaginable power. 
+
+By means of a Neural Network Computer fueled by the grey matter of unfortunate 'volunteers', he plans to conquer the known world, replacing it with a new order of his design. 
+
+The only fly in the ointment is disturbing reports of two powerful Elementals storming across the land on a direct course toward the palace.
+
+One or two players can assume the identities of these Elementals as they crusade for an unknown master toward a climactic battle. 
+
+The story unfolds by means of fully-3D action levels interspersed with hand-drawn animation scenes.</desc>
+		<image>./images/Elemental Gearbolt (USA)-image.png</image>
+		<video>./videos/Elemental Gearbolt (USA)-video.mp4</video>
+		<marquee>./images/Elemental Gearbolt (USA)-marquee.png</marquee>
+		<thumbnail>./images/Elemental Gearbolt (USA)-thumb.png</thumbnail>
+		<releasedate>19980630T000000</releasedate>
+		<developer>Alfa System</developer>
+		<publisher>Working Designs</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20220908T181813</lastplayed>
+		<gametime>192</gametime>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Area 51 (USA) (Rev 1)/Area 51 (USA) (Rev 1).cue</path>
+		<name>Area 51 (USA) (Rev 1)</name>
+		<emulator>libretro</emulator>
+		<core>pcsx_rearmed</core>
+		<playcount>2</playcount>
+		<lastplayed>20230218T222118</lastplayed>
+		<gametime>60</gametime>
+	</game>
+	<game id="19908">
+		<path>./Judge Dredd (USA).chd</path>
+		<name>Judge Dredd</name>
+		<desc>Trouble in Mega-City One: An unidentified perpetrator has taken hostages, including the mayor. Attempts to apprehend him have already lead to the loss of 17 Judges. He states that only one man is allowed to come near: Judge Dredd. There's obviously some history between them. It's time for the toughest lawman of them all to move in and dispense justice via his Lawgiver gun.
+
+Judge Dredd for the PlayStation is an 'on rails' lightgun shooter based on the original comics instead of the 1995 movie. The action moves through pre-rendered environments on a fixed path. 14 levels spread over 4 stages must be cleared of lawbreakers. 
+
+Most enemies are polygonal 3D models overlaid over the video backdrop, but the background can also be shot at: gun turrets and some bosses like hovertanks and other heavy machinery are pre-rendered objects. Powerups are hidden in the scenery as well: there are different ammunition types for the Lawgiver, including rapid fire and heat-seekers. Also available are medikits, extra lives and rockets which can clear the screen of enemies.
+
+Not everything on the screen should be shot at, however: sometimes, innocent citizens will cross the scene. Hitting too many of them means a quick 'game over'.
+
+The storyline of the game is told between levels via live-action cutscenes.</desc>
+		<image>./images/Judge Dredd (USA)-image.png</image>
+		<video>./videos/Judge Dredd (USA)-video.mp4</video>
+		<marquee>./images/Judge Dredd (USA)-marquee.png</marquee>
+		<thumbnail>./images/Judge Dredd (USA)-thumb.png</thumbnail>
+		<fanart>./images/Judge Dredd (USA)-fanart.jpg</fanart>
+		<releasedate>19980301T000000</releasedate>
+		<developer>Gremlin Interactive</developer>
+		<publisher>Gremlin Interactive</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>2</players>
+		<playcount>9</playcount>
+		<lastplayed>20230225T155430</lastplayed>
+		<gametime>1205</gametime>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="20134">
+		<path>./Point Blank 3 [SLUS-01354].cue</path>
+		<name>Point Blank 3</name>
+		<desc>The escapades of Namco's Dr. Dan and Dr. Don continue in Point Blank 3, the third edition of the irreverent, mini-game based light-gun series. A selection of 80 events are offered, many of which thrust the hapless duo into situations that require timely intervention by the player on their behalf, testing your reflexes and shooting accuracy at the same time. The myriad of events present the player with basic tasks that range in both scope and difficulty. A plethora of mini-game formats are provided that include shooting color-coded targets to protecting the two numbskulls from threatening objects, to those that require the player to perform rudimentary mathematics calculations before shooting the correct answer. Cameo appearances by Tekken characters, classic Namco franchises and other such in-jokes abound in the many scenarios players will find themselves embroiled.
+ Arcade, Training and Endurance modes cater mostly to single play, while the Versus and Party modes support multi-player competition, the latter for up to eight players in a tournament-style elimination event. 
+ Arcade mode grants one or two players the opportunity to advance through 16 randomly selected stages on the difficulty level of their choosing, while Training lets players practice any of the available levels. 
+ Endurance sees players attempt to pass as many stages as possible with the scant three lives supplied. After every ten stages a bonus event is provided that gives the player an opportunity to earn extra lives or points. The game supports play with both the standard controller and Namco's GunCon peripheral.</desc>
+		<image>./images/Point Blank 3 [SLUS-01354]-image.png</image>
+		<video>./videos/Point Blank 3 [SLUS-01354]-video.mp4</video>
+		<marquee>./images/Point Blank 3 [SLUS-01354]-marquee.png</marquee>
+		<thumbnail>./images/Point Blank 3 [SLUS-01354]-thumb.png</thumbnail>
+		<fanart>./images/Point Blank 3 [SLUS-01354]-fanart.jpg</fanart>
+		<releasedate>20010516T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>TOSE</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>8</players>
+		<playcount>22</playcount>
+		<lastplayed>20230225T155551</lastplayed>
+		<md5>a8a0f766e16c829c9d367689e6bbf40b</md5>
+		<gametime>1764</gametime>
+		<lang>en</lang>
+	</game>
+	<game id="19405">
+		<path>./Die Hard Trilogy (USA) (v1.0).cue</path>
+		<name>Die Hard Trilogy</name>
+		<desc>Die Hard Trilogy is split into three games, each game representing one of the movies, obviously.  
+
+Die Hard 1 is a third person shooter in a style similar to Tomb Raider.  You are John McClane and must fight through twenty floors of terrorists in the Nakatomi Plaza.  The game has an invisible wall effect which allows you to see John even in small hallways.
+
+Die Hard 2 is a first person rail shooter in the vein of Virtua Cop or Mad Dog McCree.  Once again you take the role of John  McClane firing upon terrorists who happen to be ransacking the Washington/Dulles Airport in search of a South American dictator and druglord.
+
+Die Hard 3 is a fast-paced taxi racer through the city.  John must this time speed through New York City defusing bombs and ramming evildoers off the road behind the wheel of a cab.</desc>
+		<emulator>duckstation</emulator>
+		<image>./images/Die Hard Trilogy (USA) (v1.0)-image.jpg</image>
+		<video>./videos/Die Hard Trilogy (USA) (v1.0)-video.mp4</video>
+		<marquee>./images/Die Hard Trilogy (USA) (v1.0)-marquee.png</marquee>
+		<thumbnail>./images/Die Hard Trilogy (USA) (v1.0)-thumb.png</thumbnail>
+		<fanart>./images/Die Hard Trilogy (USA) (v1.0)-fanart.jpg</fanart>
+		<manual>./manuals/Die Hard Trilogy (USA) (v1.0)-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>19960831T000000</releasedate>
+		<developer>Probe Software</developer>
+		<publisher>Fox Interactive</publisher>
+		<genre>Race, Driving</genre>
+		<family>Die Hard</family>
+		<players>1</players>
+		<playcount>12</playcount>
+		<lastplayed>20230225T162501</lastplayed>
+		<md5>cd840d4acea46d474665b0cf636bcb4b</md5>
+		<gametime>1480</gametime>
+	</game>
+</gameList>

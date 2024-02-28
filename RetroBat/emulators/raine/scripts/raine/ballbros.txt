@@ -1,0 +1,9 @@
+script "Infinite Credits"  
+run:
+    poke $F0201B $09
+script "P1 Maximum Lines"  
+run:
+    dpoke $F00624 $9999
+script "P2 Maximum Lines"  
+run:
+    dpoke $F00626 $9999

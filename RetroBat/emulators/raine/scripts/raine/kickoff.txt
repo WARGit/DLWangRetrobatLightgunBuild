@@ -1,0 +1,18 @@
+script "Infinite Time"  
+run:
+    poke $F0129 $09
+    poke $F012B $5A
+script "Finish Game Now!"  
+on:
+    poke $F0129 $00
+    poke $F012B $00
+script "P1 Select Score" \
+ "comm:The score will not display correctly until the score changes!" \
+ inter=0,9,1 
+change:
+    poke $F012D (param)
+script "P2 Select Score" \
+ "comm:The score will not display correctly until the score changes!" \
+ inter=0,9,1 
+change:
+    poke $F012F (param)

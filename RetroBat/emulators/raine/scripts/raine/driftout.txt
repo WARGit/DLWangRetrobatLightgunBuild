@@ -1,0 +1,21 @@
+script "Infinite Credits"  
+run:
+    poke $300837 $09
+script "Infinite Time"  
+run:
+    dpoke $300E5C $1388
+script "Total Time always 0'00'00"  
+run:
+    dpoke $300E36 $0000
+script "SS1 Time always 0'00'00"  
+run:
+    dpoke $300E54 $0000
+script "SS2 Time always 0'00'00"  
+run:
+    dpoke $300E56 $0000
+script "SS3 Time always 0'00'00"  
+run:
+    dpoke $300E58 $0000
+script "SS4 Time always 0'00'00"  
+run:
+    dpoke $300E5A $0000

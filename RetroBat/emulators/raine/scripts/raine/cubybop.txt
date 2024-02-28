@@ -1,0 +1,12 @@
+script "Infinite Credits"  
+run:
+    poke $8240 $09
+script "Infinite Time"  
+run:
+    poke $8403 $09
+    poke $8404 $09
+    poke $8405 $09
+script "Select next stage" \
+ inter=1,16,1 
+change:
+    poke $8498 (param-$1)

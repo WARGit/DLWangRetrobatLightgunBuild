@@ -1,0 +1,34 @@
+script "Infinite Credits"  
+run:
+    poke $101089 $09
+script "Infinite Time"  
+run:
+    poke $10269B $01
+    poke $10269A $01
+    poke $102699 $01
+script " "  
+script "P1 Infinite Energy"  
+run:
+    poke $1020A6 $B
+    poke $1020A7 $E0
+script "P1 Drain All Energy Now!" \
+ "comm:One hit to knock out"  
+on:
+    poke $1020A6 $00
+    poke $1020A7 $00
+script "P1 Infinite Downs"  
+run:
+    poke $1020AC $00
+script " "  
+script "P2 Infinite Energy"  
+run:
+    poke $1023A6 $B
+    poke $1023A7 $E0
+script "P2 Drain All Energy Now!" \
+ "comm:One hit to knock out"  
+on:
+    poke $1023A6 $00
+    poke $1023A7 $00
+script "P2 Infinite Downs"  
+run:
+    poke $1023AC $00

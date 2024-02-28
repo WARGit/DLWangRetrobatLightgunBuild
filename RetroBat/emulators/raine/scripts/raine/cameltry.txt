@@ -1,0 +1,7 @@
+script "Infinite Credits"  
+run:
+    poke $102333 $09
+script "Infinite Time"  
+run:
+    poke $106686 $09
+    poke $106687 $99

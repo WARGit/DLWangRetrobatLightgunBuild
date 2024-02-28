@@ -1,0 +1,140 @@
+gametitle=Shin Megami Tensei: Persona 3 FES (J)(SLPM-66690)
+comment=Widescreen hack by CeruleansBlue, devina, nemesis2000, sergx12, Arapapa
+
+//16:9 by CeruleansBlue
+patch=1,EE,007ccc1c,word,3fe38e38
+
+//Partial HUD fix
+patch=1,EE,00106cb0,word,3c043f40 
+patch=1,EE,00106cb8,word,00701821
+patch=1,EE,00106cbc,word,24634b2c
+patch=1,EE,00106cc4,word,00000000 
+patch=1,EE,00106cc8,word,24630004
+patch=1,EE,00106ccc,word,3c043f80
+
+//Persona art fix by devina and nemesis2000
+//003f033c 3001a3af 3401a0af 7001a0af 803f023c
+patch=1,EE,0011486c,word,3c033ec0 // 3c033f00
+patch=1,EE,0011487c,word,3c023f90 // 3c023f80
+
+//FMV's fix by nemesis2000
+patch=1,EE,0010ae10,word,1462000a
+patch=1,EE,0010ae18,word,3c02c294
+patch=1,EE,0010ae1c,word,10000008
+patch=1,EE,0010ae2c,word,00000000
+patch=1,EE,0010ae3c,word,3c02c1a8
+patch=1,EE,0010ae50,word,00000000
+
+//Clock, Popup portraits and etc fix by Arapapa
+//02080046 b4f260e4 6c0080c4
+patch=1,EE,004ab050,word,08030000
+patch=1,EE,000c0000,word,46000802
+patch=1,EE,000c0004,word,3c013f40
+patch=1,EE,000c0008,word,4481f000
+patch=1,EE,000c000c,word,461e0002
+patch=1,EE,000c0010,word,0812ac15
+
+//Scene changing effects fix
+//0040023c c0f2a0e4 20108046
+//00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 64 00 00 00 00 00 00 00
+patch=1,EE,e0010000,extended,107CFE54
+patch=1,EE,204ab034,extended,3c02402a
+
+patch=1,EE,e0010000,extended,007CFE54
+patch=1,EE,204ab034,extended,3c024000
+
+//Arcana Card fix by Arapapa
+patch=1,EE,003a0264,word,3c0242be //3c0242fe
+patch=1,EE,003a0338,word,3c0242be //3c0242fe
+patch=1,EE,0039ff50,word,3c024240 //3c0242b4
+
+//Shuffle Time (Card) fix by Arpapa
+//2c0000c6 6000a0e7
+patch=1,EE,0020c924,word,08030024 //c600002c
+patch=1,EE,000c0090,word,c600002c //00000000
+patch=1,EE,000c0094,word,3c013f40 //00000000
+patch=1,EE,000c0098,word,4481f000 //00000000
+patch=1,EE,000c009c,word,461e0002 //00000000
+patch=1,EE,000c00a0,word,0808324a //00000000
+
+//Community (2D Characters & Cards) fix by Arapapa
+//000040c4 0000e0e4 040040c4 (3rd)
+patch=1,EE,001141e0,word,08168a5a
+patch=1,EE,005a2968,word,c4400000
+patch=1,EE,005a296c,word,3c013f40
+patch=1,EE,005a2970,word,4481f000
+patch=1,EE,005a2974,word,461e0002
+patch=1,EE,005a2978,word,08045079
+
+//Community 2D Characters X-position
+//bb43023c 00088244 1002a0c7
+patch=1,EE,0013a154,word,3c024405 //3c0243bb
+//b143023c 00088244 0802a0c7
+patch=1,EE,0013a1f8,word,3c024400 //3c0243b1
+
+//Community Cards X-position
+//c041023c 00088244 7800a0c7 (2nd)
+patch=1,EE,00137294,word,3c024250 //3c0241c0
+
+//Popup Portraits (Left top, In the Battles) fix by Arapapa
+//8045023c 00008244 00000000 42001546 (1st)
+patch=1,EE,003c8abc,word,3c024540 //3c024580 
+
+//Popup Portraits (Left top, In the Battles) X-position
+//100040e4 00009244 00000000 (2nd)
+patch=1,EE,003c8a94,word,00000000
+
+//8042023c 00108244 80c1023c
+patch=1,EE,003ab638,word,3c020000 //3c024280
+
+//Flare effect fix by Arapapa
+//0040023c 00088244 00000000 82090046
+patch=1,EE,00347a38,word,3c023fc0 //3c024000 Zoom
+
+//42090046 2d180000 803f023c
+patch=1,EE,00347a50,word,08030008 Y-Fov
+patch=1,EE,000c0020,word,46000942
+patch=1,EE,000c0024,word,461e2943
+patch=1,EE,000c0028,word,080d1e95
+
+//Head Portraits (Right, In the Battles) fix by Arapapa
+//10004426 7000a527 (1st)
+patch=1,EE,0022da44,word,0803000c #1
+patch=1,EE,000c0030,word,26440010
+patch=1,EE,000c0034,word,c7bf0078
+patch=1,EE,000c0038,word,3c013f40
+patch=1,EE,000c003c,word,4481f000
+patch=1,EE,000c0040,word,461effc2
+patch=1,EE,000c0044,word,e7bf0078
+patch=1,EE,000c0048,word,0808b692
+
+//10014426 7000a527 (1st)
+patch=1,EE,0022db44,word,08030014 #2
+patch=1,EE,000c0050,word,26440110
+patch=1,EE,000c0054,word,c7bf0078
+patch=1,EE,000c0058,word,3c013f40
+patch=1,EE,000c005c,word,4481f000
+patch=1,EE,000c0060,word,461effc2
+patch=1,EE,000c0064,word,e7bf0078
+patch=1,EE,000c0068,word,0808b6d2
+
+//Head Portraits (Right, In the Battles) X-Position
+//f041033c 00008344 00000000 c0051746 (1st)
+patch=1,EE,0022da04,word,3c034220 //3c0341f0
+
+//Emoticon (In the Battles) fix by Arapapa
+//30054426 7000a527
+patch=1,EE,0022dfd8,word,0803001c
+patch=1,EE,000c0070,word,26440530
+patch=1,EE,000c0074,word,c7bf0078
+patch=1,EE,000c0078,word,3c013f40
+patch=1,EE,000c007c,word,4481f000
+patch=1,EE,000c0080,word,461effc2
+patch=1,EE,000c0084,word,e7bf0078
+patch=1,EE,000c0088,word,0808b7f7
+
+//Progressive Scan & 60fps
+//002c0500 2000b2ff
+patch=1,EE,004f9aac,word,3c050000
+patch=1,EE,004f9ab4,word,3c060050
+patch=1,EE,004f9abc,word,3c070001

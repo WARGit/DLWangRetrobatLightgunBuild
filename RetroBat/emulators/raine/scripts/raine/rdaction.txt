@@ -1,0 +1,32 @@
+script "Infinite Time"  
+run:
+    poke $E20D $3C
+script "Invincibility"  
+run:
+    poke $ECF2 $00
+script "All Ammo"  
+run:
+    poke $E113 $04
+    poke $E117 $02
+    poke $E118 $03
+    poke $E119 $04
+script "Infinite Fireballs"  
+run:
+    poke $E111 $FF
+script "Enemies NEVER shoot"  
+run:
+    poke $EC05 $00
+script "Clear this Round Now!"  
+on:
+    poke $E110 $06
+script "Select the Scene" \
+ inter=1,32,1 
+change:
+    poke $E100 (param-$1)
+script " "  
+script "P1 Infinite Lives"  
+run:
+    poke $E130 $07
+script "P2 Infinite Lives"  
+run:
+    poke $E169 $07

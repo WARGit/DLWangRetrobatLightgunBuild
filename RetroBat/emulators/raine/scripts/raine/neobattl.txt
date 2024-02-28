@@ -1,0 +1,45 @@
+script "Infinite Credits"  
+run:
+    poke $200691 $09
+script " "  
+script "P1 Infinite Lives"  
+run:
+    poke $2007CB $0A
+script "P1 Infinite Energy"  
+run:
+    poke $2007CF $05
+script "P1 Invincibility"  
+run:
+    poke $2007DD $03
+script "P1 Select Weapon" \
+ "comm:Weapon names are descriptive not actual (what are the real names?)" \
+ "0x00/Normal"\
+ "0x01/Missile"\
+ "0x02/Fireball"\
+ "0x03/3-Way Double"\
+ "0x04/2-Way Missile"\
+ "0x05/Chain Mail"\
+ "0x06/3-Way Missile" 
+run:
+    poke $2007E9 param
+script " "  
+script "P2 Infinite Lives"  
+run:
+    poke $200807 $0A
+script "P2 Infinite Energy"  
+run:
+    poke $20080B $05
+script "P2 Invincibility"  
+run:
+    poke $200819 $03
+script "P2 Select Weapon" \
+ "comm:Weapon names are descriptive not actual (what are the real names?)" \
+ "0x00/Normal"\
+ "0x01/Missile"\
+ "0x02/Fireball"\
+ "0x03/3-Way Double"\
+ "0x04/2-Way Missile"\
+ "0x05/Chain Mail"\
+ "0x06/3-Way Missile" 
+run:
+    poke $200825 param

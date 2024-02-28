@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="13680">
+		<path>./Silent Scope (USA).chd</path>
+		<name>Silent Scope</name>
+		<desc>Silent Scope on Dreamcast is a shooting game in which you play as a sniper. Through the proposed missions, you must rescue the family of the President of the United States. Each level consists of a number of enemies to be defeated by aiming correctly through the scope of the rifle.</desc>
+		<emulator>libretro</emulator>
+		<core>flycast</core>
+		<image>./images/Silent Scope (USA)-image.png</image>
+		<video>./videos/Silent Scope (USA)-video.mp4</video>
+		<marquee>./images/Silent Scope (USA)-marquee.png</marquee>
+		<thumbnail>./images/Silent Scope (USA)-thumb.png</thumbnail>
+		<fanart>./images/Silent Scope (USA)-fanart.jpg</fanart>
+		<releasedate>20001023T000000</releasedate>
+		<developer>Konami Computer Entertainment Studios</developer>
+		<publisher>Konami</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>1</players>
+		<playcount>5</playcount>
+		<lastplayed>20220804T162503</lastplayed>
+		<md5>8f9e3b311d6f6a78af713be1472ae266</md5>
+		<gametime>166</gametime>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="13637">
+		<path>./Virtua Cop 2 v1.011 (2000)(Sega)(NTSC)(JP)(en)[!].chd</path>
+		<name>Virtua Cop 2</name>
+		<desc>Virtua Cop 2 follows the same gameplay pattern of its predecessor. You are a police officer sent after criminals, from subways and a bank to aboard helicopters. The game moves you automatically, although you can find hiding places to shoot from a safe angle. Your main task is to aim and fire your weapon so as to take out the bad guys for points. Avoid the innocents, as shooting them costs you points. The enemies have tougher firepower than in the original.</desc>
+		<emulator>redream</emulator>
+		<core>redream</core>
+		<image>./images/Virtua Cop 2 v1.011 (2000)(Sega)(NTSC)(JP)(en)[!]-image.png</image>
+		<video>./videos/Virtua Cop 2 v1.011 (2000)(Sega)(NTSC)(JP)(en)[!]-video.mp4</video>
+		<marquee>./images/Virtua Cop 2 v1.011 (2000)(Sega)(NTSC)(JP)(en)[!]-marquee.png</marquee>
+		<thumbnail>./images/Virtua Cop 2 v1.011 (2000)(Sega)(NTSC)(JP)(en)[!]-thumb.png</thumbnail>
+		<fanart>./images/Virtua Cop 2 v1.011 (2000)(Sega)(NTSC)(JP)(en)[!]-fanart.jpg</fanart>
+		<releasedate>20000302T000000</releasedate>
+		<developer>AM2</developer>
+		<publisher>SEGA</publisher>
+		<genre>Lightgun Shooter</genre>
+		<family>Virtua Cop</family>
+		<players>2</players>
+		<playcount>16</playcount>
+		<lastplayed>20220908T152844</lastplayed>
+		<gametime>1035</gametime>
+		<lang>jp,en</lang>
+		<region>jp</region>
+	</game>
+</gameList>

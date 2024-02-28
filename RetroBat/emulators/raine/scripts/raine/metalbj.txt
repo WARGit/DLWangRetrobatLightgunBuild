@@ -1,0 +1,29 @@
+script "Infinite Bonus Stage Time"  
+run:
+    poke $104FB5 $63
+script " "  
+script "P1 Infinite Lives"  
+run:
+    poke $105011 $09
+script "P1 Invincibility"  
+run:
+    poke $10501B $02
+script "P1 Always have Max Beam level"  
+run:
+    poke $105002 $28
+script "P1 Get Max Beam level Now!"  
+on:
+    poke $105002 $28
+script " "  
+script "P2 Infinite Lives"  
+run:
+    poke $105091 $09
+script "P2 Invincibility"  
+run:
+    poke $10509B $02
+script "P2 Always have Max Beam level"  
+run:
+    poke $105082 $28
+script "P2 Get Max Beam level Now!"  
+on:
+    poke $105082 $28

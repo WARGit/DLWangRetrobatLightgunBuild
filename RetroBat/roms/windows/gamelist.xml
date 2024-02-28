@@ -1,0 +1,1010 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="279006">
+		<path>./Big Buck Hunter Arcade.pc</path>
+		<name>Big Buck Hunter: Arcade</name>
+		<lang>en</lang>
+		<image>./images/Big Buck Hunter Arcade.png</image>
+		<video>./videos/Big Buck Hunter Arcade.mp4</video>
+	</game>
+	<game id="308936">
+		<path>./Intake.pc</path>
+		<name>Intake</name>
+		<lang>en</lang>
+	</game>
+	<game id="315842">
+		<path>./Mad Bullets.pc</path>
+		<name>Mad Bullets</name>
+		<lang>en</lang>
+		<video>./videos/Mad Bullets.mp4</video>
+	</game>
+	<game id="316570">
+		<path>./Major Mayhem.pc</path>
+		<name>Major Mayhem</name>
+		<lang>en</lang>
+		<image>./images/Major Mayhem.png</image>
+		<video>./videos/Major Mayhem.mp4</video>
+	</game>
+	<game id="331646">
+		<path>./Reload.pc</path>
+		<name>Reload</name>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Heavy Fire Afghanistan.lnk</path>
+		<name>Heavy Fire: Afghanistan</name>
+		<image>./images/Heavy Fire Afghanistan-image.jpg</image>
+		<video>./videos/Heavy Fire - Afghanistan.mp4</video>
+		<thumbnail>./images/Heavy Fire Afghanistan-thumb.jpg</thumbnail>
+		<rating>0</rating>
+		<releasedate>20111129T000000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<md5>4881235fe6d68107acfa5bf284c8644c</md5>
+	</game>
+	<game>
+		<path>./Heavy Fire Shattered Spear.lnk</path>
+		<name>Heavy Fire Shattered Spear</name>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+	</game>
+	<game>
+		<path>./House of The Dead 3.lnk</path>
+		<name>The House of the Dead 3</name>
+		<desc>Explore a post-apocalyptic wasteland of unrelenting terror! Keep both barrels loaded and bring a friend along. House of the Dead III's storyline has you wading through a flood of blood &amp; gore. Branching paths keep you guessing as you uncover new secrets, new enemies, and special hidden areas. Fend off creatures as you race for your life. Huge interactive levels contain massive armies of zombies! Intense graphics bring every gory detail to life! New Shotgun inflicts devastating damage!</desc>
+		<image>./images/House of The Dead 3-image.png</image>
+		<thumbnail>./images/House of The Dead 3-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<developer>Sega</developer>
+		<genre>Adventure / Survival Horror, Shooter, Lightgun Shooter</genre>
+		<players>2</players>
+		<md5>5dc42aff49d1708d169d191971629830</md5>
+	</game>
+	<game>
+		<path>./Silent Scope 2.lnk</path>
+		<name>Silent Scope 2</name>
+		<image>./images/Silent Scope (USA)-thumb.png</image>
+		<video>./videos/silent scope 2.mp4</video>
+		<marquee>./images/silent scope 2.png</marquee>
+		<thumbnail>./box/Silent Scope (USA)-image.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<md5>dbaaa6548bccb5d50f06e179ca7db407</md5>
+	</game>
+	<game>
+		<path>./Blue Estate.lnk</path>
+		<name>Blue Estate</name>
+		<desc>About This Game
+
+Blue Estate provides previously unmatched immersion in the world of the Los Angeles mafia, packed with black humor, intuitive gameplay, and incredible fun. 
+
+In Blue Estate you will play Tony Luciano, the psychopathic son of the Italian mafia godfather of LA and Clarence, an ex-Navy SEAL, penniless and now a hit-man bent on cleaning up the mess started by Tony. As Tony launches a personal vendetta against the Sik Brother’s gang in an attempt to save his best dancer, Cherry Popz, Clarence wants to end the gang war, taking him to the farthest corners of Jamaica! 
+
+Use different controllers and enjoy the intuitive gameplay to dive into the most polished rail shooter experience! Take on unforgettable enemies, from a mafia golfer packing grenades to Chihuahuas bursting with steroids! And because wild rides are always more fun when you're not alone, invite a friend to join the massacre in the intense cooperative mode!
+
+Features:
+
+The first next gen rail shooter adapted from the Eisner Award nominated graphic novel, Blue Estate by Viktor Kalvachev. 
+
+Can be played with various controllers: keyboard/mouse, Xbox One and Xbox 360 Controller, and the Leap Motion controller. 
+
+2 game modes: STORY MODE - 7 adrenaline-packed missions! ARCADE MODE - where you combine headshots with combos in a race against time! 
+
+2 players in local multiplayer: relive all the levels in an intense cooperative mode! 
+
+A sophisticated scoring system for comparing your scores online! 
+
+Compatible with Light Guns! (unofficial support)</desc>
+		<image>./images/Blue Estate-image.jpg</image>
+		<video>./videos/Blue Estate.mp4</video>
+		<marquee>./images/Blue Estate-01.png</marquee>
+		<thumbnail>./images/Blue Estate-thumb.jpg</thumbnail>
+		<fanart>./images/Blue Estate-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>20150408T000000</releasedate>
+		<developer>HE SAW</developer>
+		<publisher>HeSaw</publisher>
+		<genre>Action, Shooter, Lightgun Shooter</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20220827T091713</lastplayed>
+		<md5>eacc9d99d60756fd27e316cba5a61a00</md5>
+		<gametime>29</gametime>
+	</game>
+	<game>
+		<path>./Dead Storm Pirates.lnk</path>
+		<name>Dead Storm Pirates</name>
+		<image>./images/Dead Storm Pirates.jpg</image>
+		<video>./videos/dead storm pirates.mp4</video>
+		<marquee>./images/Bravo-Logo-Deadstorm-Pirate-Shooting-Simulators.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>2</playcount>
+		<lastplayed>20220827T093044</lastplayed>
+		<md5>decb05261f6169156579f460b1bdf0f0</md5>
+		<gametime>331</gametime>
+	</game>
+	<game>
+		<path>./Gundam SOZ.lnk</path>
+		<name>Gundam SOZ</name>
+		<video>./videos/Mobile Suit Gundam Spirits Of Zeon.mp4</video>
+		<marquee>./images/Japan/Mobile Suit Gundam_ Spirits of Zeon-01.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>2</playcount>
+		<lastplayed>20220827T102059</lastplayed>
+		<md5>cb4cc9222857e4cb9332583d0bf3bb9c</md5>
+		<gametime>200</gametime>
+	</game>
+	<game>
+		<path>./House Of The Dead Remake.lnk</path>
+		<name>House Of The Dead Remake</name>
+		<image>./images/THE HOUSE OF THE DEAD Remake.png</image>
+		<video>./videos/THE HOUSE OF THE DEAD Remake.mp4</video>
+		<marquee>./images/THE HOUSE OF THE DEAD Remake.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>2</playcount>
+		<lastplayed>20220827T111019</lastplayed>
+		<md5>f1826467f4bcc6ce0d4a7bb9fee9ad31</md5>
+	</game>
+	<game>
+		<path>./HOUSE OF THE DEAD Remake/The House of the Dead Remake.exe</path>
+		<name>The House of the Dead Remake</name>
+		<image>./images/The House of the Dead Remake.png</image>
+	</game>
+	<game>
+		<path>./House of the Dead Remake.lnk</path>
+		<name>House of the Dead Remake</name>
+		<image>./images/THE HOUSE OF THE DEAD Remake.png</image>
+		<video>./videos/THE HOUSE OF THE DEAD Remake.mp4</video>
+		<marquee>./images/THE HOUSE OF THE DEAD Remake.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220827T112746</lastplayed>
+		<gametime>97</gametime>
+	</game>
+	<game id="316570">
+		<path>./Major Mayhem.lnk</path>
+		<name>Major Mayhem</name>
+		<image>./images/Major Mayhem.png</image>
+		<video>./videos/Major Mayhem.mp4</video>
+		<marquee>./images/Major Mayhem.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>3</playcount>
+		<lastplayed>20220827T121803</lastplayed>
+		<md5>9d9f0fcfbee781260fc153b7f57e89eb</md5>
+		<gametime>89</gametime>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Music Gun Gun 2.lnk</path>
+		<name>Music Gun Gun 2</name>
+		<video>./videos/Music Gun Gun 2.mp4</video>
+		<marquee>./images/Japan/Music GunGun! 2-01.png</marquee>
+		<thumbnail>./box/Music GunGun! 2-01.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>2</playcount>
+		<lastplayed>20220827T121956</lastplayed>
+		<md5>1de61373316144d1d2a06117f26c72d9</md5>
+		<gametime>127</gametime>
+	</game>
+	<game>
+		<path>./Operation Ghost.lnk</path>
+		<name>Operation Ghost</name>
+		<image>./images/North America/Operation G.H.O.S.T.-01.png</image>
+		<video>./videos/Operation GHOST.mp4</video>
+		<marquee>./images/North America/Operation G.H.O.S.T.-01.png</marquee>
+		<thumbnail>./box/opghost.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>2</playcount>
+		<lastplayed>20220827T123105</lastplayed>
+		<md5>2d3dc5c537d8e54e12f278a5a6983bea</md5>
+		<gametime>104</gametime>
+	</game>
+	<game id="22549">
+		<path>./Time Crisis 3.lnk</path>
+		<name>Time Crisis 3</name>
+		<desc>The third installment in Namco's light gun shooting franchise, Time Crisis 3 offers exciting, fast-paced shooting action by the world renowned VSSE agents as they fight to save an innocent nation from total annihilation. Choose from four weapons--machine gun, handgun, shotgun, and grenade-- to blast your way past enemies. Practice your sharpshooting skills in Sniper Combat and multiple gameplay modes. The game also includes multiple gameplay modes, a new playable character, and the original Time Crisis. It's time to warm up that trigger finger and step into the action.</desc>
+		<image>./images/Time Crisis 3-image.png</image>
+		<video>./videos/Time Crisis 3-video.mp4</video>
+		<marquee>./images/Time Crisis 3-marquee.png</marquee>
+		<thumbnail>./images/Time Crisis 3-thumb.png</thumbnail>
+		<releasedate>20031023T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Lightgun Shooter</genre>
+		<family>Time Crisis</family>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220827T133112</lastplayed>
+		<md5>f585e1aec3b05a3ea2bc3522aeb9569f</md5>
+		<gametime>89</gametime>
+	</game>
+	<game>
+		<path>./Time Crisis Crisis Zone.lnk</path>
+		<name>Time Crisis : Crisis Zone</name>
+		<image>./images/Time Crisis Crisis Zone.png</image>
+		<video>./videos/Time Crisis - Crisis Zone (USA)-video.mp4</video>
+		<marquee>./images/Time Crisis Crisis Zone.png</marquee>
+		<thumbnail>./box/time crisis crisis zone.jpg</thumbnail>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220827T133736</lastplayed>
+		<md5>3445bb8d61d7425f8d713787842b7be3</md5>
+		<gametime>67</gametime>
+	</game>
+	<game id="64545">
+		<path>./Time Crisis 4.lnk</path>
+		<name>Time Crisis 4</name>
+		<desc>When a world class terrorist group led by Gregory Barrows smuggles a top secret weapon that threatens the world. it's up to VSSE (Vital Situation and Swift Elimination) agents Giorgio Bruno and Evan Bernard to put an end to Barrow's scheme for world domination.</desc>
+		<image>./images/Time Crisis 4-image.png</image>
+		<video>./videos/Time Crisis 4-01.mp4</video>
+		<marquee>./images/Time Crisis 4.png</marquee>
+		<thumbnail>./images/Time Crisis 4-thumb.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Shooter, Lightgun Shooter</genre>
+		<family>Time Crisis</family>
+		<arcadesystemname>namco</arcadesystemname>
+		<playcount>2</playcount>
+		<lastplayed>20220827T133242</lastplayed>
+		<md5>ff7685dad5670b4bc5879984ffc55d36</md5>
+		<gametime>247</gametime>
+	</game>
+	<game>
+		<path>./Time Crisis 5.lnk</path>
+		<name>Time Crisis 5</name>
+		<image>./images/Time Crisis 5.png</image>
+		<video>./videos/Time Crisis 5.mp4</video>
+		<marquee>./images/Time Crisis 5.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>9</playcount>
+		<lastplayed>20220827T140027</lastplayed>
+		<md5>8039b86a62ac0d90537ff4e9e0d41c40</md5>
+		<gametime>374</gametime>
+	</game>
+	<game>
+		<path>./Intake.lnk</path>
+		<name>Intake</name>
+		<image>./images/intake1.png</image>
+		<video>./videos/Intake-01.mp4</video>
+		<marquee>./images/intake1.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>5</playcount>
+		<lastplayed>20220827T135805</lastplayed>
+		<md5>220f1ac094e4b1569aa0807f11b4ca96</md5>
+		<gametime>115</gametime>
+	</game>
+	<game>
+		<path>./Haunted Museum.lnk</path>
+		<name>Haunted Museum</name>
+		<image>./images/Haunted Museum.png</image>
+		<video>./videos/panic museum.mp4</video>
+		<marquee>./images/haunted museum.png</marquee>
+		<thumbnail>./box/Haunted Museum-01.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>5</playcount>
+		<lastplayed>20220827T135701</lastplayed>
+		<md5>9d2d7e010be01bdbe2fc271a87128e5a</md5>
+		<gametime>271</gametime>
+	</game>
+	<game>
+		<path>./Haunted Museum 2.lnk</path>
+		<name>Haunted Museum 2</name>
+		<image>./images/Japan/Haunted Museum II-01.png</image>
+		<video>./videos/Haunted museum 2.mp4</video>
+		<marquee>./images/Japan/Haunted Museum II-01.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>9</playcount>
+		<lastplayed>20220827T135719</lastplayed>
+		<md5>3cd2b71060e0dbfa7ed4cb19df745308</md5>
+		<gametime>721</gametime>
+	</game>
+	<game>
+		<path>./House Of The Dead Scarlet Dawn.lnk</path>
+		<name>House Of The Dead Scarlet Dawn</name>
+		<image>./images/House Of The Dead Scarlet Dawn.png</image>
+		<video>./videos/House Of The Dead Scarlet Dawn.mp4</video>
+		<marquee>./images/House Of The Dead Scarlet Dawn.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>15</playcount>
+		<lastplayed>20220827T135747</lastplayed>
+		<md5>494f1b0f19bd6f5caf20fcb5204d1dca</md5>
+		<gametime>1045</gametime>
+	</game>
+	<game>
+		<path>./The Lost World Jurassic Park.lnk</path>
+		<name>The Lost World Jurassic Park</name>
+		<playcount>1</playcount>
+		<lastplayed>20220903T103743</lastplayed>
+		<gametime>21</gametime>
+	</game>
+	<game>
+		<path>./Start Wild West Shoot Out.ahk - Shortcut.lnk</path>
+		<name>Start Wild West Shoot Out.ahk - Shortcut</name>
+		<playcount>1</playcount>
+		<lastplayed>20220907T142614</lastplayed>
+	</game>
+	<game>
+		<path>./Block King Ball Shooter.lnk</path>
+		<name>Block King Ball Shooter</name>
+		<image>./images/Block_Ball_King.png</image>
+		<video>./videos/Block King Ball Shooter.mp4</video>
+		<marquee>./images/Block_Ball_King.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>2</playcount>
+		<lastplayed>20220907T143440</lastplayed>
+	</game>
+	<game>
+		<path>./Fruit Ninja.lnk</path>
+		<name>Fruit Ninja</name>
+		<video>./videos/Fruit Ninja HD.mp4</video>
+		<marquee>./images/Fruit Ninja HD.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>2</playcount>
+		<lastplayed>20220907T153138</lastplayed>
+		<md5>5bbc8591e58c471b21792a53d43efe07</md5>
+		<gametime>85</gametime>
+	</game>
+	<game>
+		<path>./Elevator Action Death Parade.lnk</path>
+		<name>Elevator Action Death Parade</name>
+		<image>./images/Elevator Action Death Parade2.png</image>
+		<video>./videos/Elevator Action Death Parade.mp4</video>
+		<marquee>./images/Elevator Action Death Parade.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>16</playcount>
+		<lastplayed>20220908T151951</lastplayed>
+		<md5>00488820f087284263cf9d6e05bdbd8f</md5>
+		<gametime>2116</gametime>
+	</game>
+	<game>
+		<path>./Silent Hill The Arcade.lnk</path>
+		<name>Silent Hill The Arcade</name>
+		<image>./images/Silent Hill The Arcade2.jpg</image>
+		<video>./videos/Silent Hill The Arcade.mp4</video>
+		<marquee>./images/Silent Hill The Arcade.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>6</playcount>
+		<lastplayed>20220908T152002</lastplayed>
+		<md5>f1a40b12ea7fceb3c3ff8b7b9dbde612</md5>
+		<gametime>290</gametime>
+	</game>
+	<game>
+		<path>./The House Of The Dead Scarlet Dawn.lnk</path>
+		<name>The House Of The Dead Scarlet Dawn</name>
+		<image>./images/House Of The Dead Scarlet Dawn.png</image>
+		<video>./videos/House Of The Dead Scarlet Dawn.mp4</video>
+		<marquee>./images/House Of The Dead Scarlet Dawn.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>3</playcount>
+		<lastplayed>20220908T152015</lastplayed>
+		<gametime>56</gametime>
+	</game>
+	<game id="13650">
+		<path>./Confidential Mission.lnk</path>
+		<name>Confidential Mission</name>
+		<desc>Confidential Mission is a light-gun compatible shooting game most easily likened to Sega's Virtua Cop series. You play as either Howard Gibson or Jean Clifford, both super-agents a la James Bond, and you are taken through scenarios shooting enemies and attempting to avoid civilian casualties.
+The game is a home version of the coin operated arcade machine, and is playable by one or two players. The game includes the popular features of the Virtua Cop series "Justice Shot" (in which you shoot an enemy's gun or gun arm instead of killing them) and the "Combo Shot" in which you can hit an enemy with up to three shots before they expire. The home version does include some mini-games and training modes that were not in the arcade version of the game.</desc>
+		<image>./images/Confidential Mission-image.jpg</image>
+		<video>./videos/Confidential Mission-video.mp4</video>
+		<marquee>./images/Confidential Mission-marquee.png</marquee>
+		<thumbnail>./images/Confidential Mission-thumb.png</thumbnail>
+		<fanart>./images/Confidential Mission-fanart.jpg</fanart>
+		<manual>./manuals/Confidential Mission-manual.pdf</manual>
+		<rating>0.75</rating>
+		<releasedate>20010515T000000</releasedate>
+		<developer>Hitmaker</developer>
+		<publisher>SEGA</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>1-2</players>
+		<md5>1db47588af268f87b5ebc59ed9e56368</md5>
+	</game>
+	<game id="13748">
+		<path>./Death Crimson OX.lnk</path>
+		<name>Death Crimson OX</name>
+		<desc>The Death Crimson OX shooter on Dreamcast, whose universe is only horror and science fiction, will invite you to play as Kô Yamami, accompanied by his assistant Yuri for the game for two. The evil Subliminers ransack the town of Saronica and capture Lily, the leader of the rebellion. Restore order and save Lily. This is the mission of our hero.</desc>
+		<image>./images/Death Crimson OX-image.jpg</image>
+		<video>./videos/Death Crimson OX-video.mp4</video>
+		<marquee>./images/Death Crimson OX-marquee.png</marquee>
+		<thumbnail>./images/Death Crimson OX-thumb.png</thumbnail>
+		<fanart>./images/Death Crimson OX-fanart.jpg</fanart>
+		<manual>./manuals/Death Crimson OX-manual.pdf</manual>
+		<rating>0.65</rating>
+		<releasedate>20010805T000000</releasedate>
+		<developer>Ecole</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>1-2</players>
+		<md5>7c988c57416d22ff8bd71d13e8e51ff4</md5>
+	</game>
+	<game id="37449">
+		<path>./Extreme Hunting 2.lnk</path>
+		<name>Extreme Hunting 2</name>
+		<desc>Embark on a hunting trip of a lifetime with Extreme Hunting 2, the sequel to Sega Amusements' line of coin-operated hunting games. A choice of the most prestigious North American wild game a hunter could ask for including Bison, Bear, Moose, Elk, Deer, and Wolf along with bonus stages featuring Bass, Goose, Bat, Squirrel and more. Don't miss the chance to play our ever-changing Special Hunts. The first game for the ALL.Net online platform, the game links arcade machines into a common community allowing for national tournaments and online rankings as you hunt a widest variety of wild game.</desc>
+		<image>./images/Extreme Hunting 2-image.jpg</image>
+		<video>./videos/Extreme Hunting 2-video.mp4</video>
+		<marquee>./images/Extreme Hunting 2-marquee.png</marquee>
+		<thumbnail>./images/Extreme Hunting 2-thumb.png</thumbnail>
+		<fanart>./images/Extreme Hunting 2-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20060101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Hunting and Fishing, Shooter, Lightgun Shooter</genre>
+		<family>Hunting</family>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<md5>f4034b318008d6463fbc6ab3913e64e8</md5>
+	</game>
+	<game id="37450">
+		<path>./Extreme Hunting.lnk</path>
+		<name>Extreme Hunting</name>
+		<desc>You can hunt a total of 6 animals, each with its own uniqueness and life-like animation. The individual animal hunting stages feature a variety of hunting regions, all with magnificent background imagery. Weather conditions will also come into play depending on the region. Once you complete the entire animal stage you will be able to hunt in that stage's unique bonus spot.</desc>
+		<image>./images/Extreme Hunting-image.jpg</image>
+		<video>./videos/Extreme Hunting-video.mp4</video>
+		<marquee>./images/Extreme Hunting-marquee.png</marquee>
+		<thumbnail>./images/Extreme Hunting-thumb.png</thumbnail>
+		<fanart>./images/Extreme Hunting-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Sammy Studios</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Hunting and Fishing, Shooter, Lightgun Shooter</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<md5>a825bc2121ae9b65bf81ba6639a11045</md5>
+	</game>
+	<game>
+		<path>./House Of The Dead 2.lnk</path>
+		<name>The House of the Dead 2</name>
+		<desc>The House of the Dead 2 is a rail shooter light gun game. It incorporates a branching path system that allows players to take a variety of different routes leading to the same point in the game's story.</desc>
+		<image>./images/House Of The Dead 2-image.jpg</image>
+		<marquee>./images/House Of The Dead 2-marquee.png</marquee>
+		<thumbnail>./images/House Of The Dead 2-thumb.jpg</thumbnail>
+		<fanart>./images/House Of The Dead 2-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>20010706T000000</releasedate>
+		<developer>WOW Entertainment</developer>
+		<publisher>Sega</publisher>
+		<genre>Lightgun Shooter</genre>
+		<md5>f4d62812fb6b0225281a9b490be2c58e</md5>
+	</game>
+	<game id="46807">
+		<path>./Manic Panic Ghosts.lnk</path>
+		<name>Manic Panic Ghosts</name>
+		<desc>Manic Panic Ghosts is a touchscreen hammer type game. Players find themselves lost on a mountain and stop at a mansion to ask for help. Trapped inside they must skillfully use their magic wand and wits to defeat the ghosts and escape the house.Players use a mallet to hit ghosts on the screen in 30 second mini games. You can use the wand to whack, swipe, hit, smack and twirl the enemies. If enough ghosts are defeated, you progress to the next level. The mini stages are totally random, which increases the repeat play rate. The game is also easy to play and suitable for all ages.</desc>
+		<video>./videos/Manic Panic Ghosts-video.mp4</video>
+		<marquee>./images/Manic Panic Ghosts-marquee.png</marquee>
+		<thumbnail>./images/Manic Panic Ghosts-thumb.png</thumbnail>
+		<releasedate>20070101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Lightgun Shooter</genre>
+		<arcadesystemname>naomi</arcadesystemname>
+		<players>1-2</players>
+		<md5>1e17d6fab9321470517631d23ec968fb</md5>
+	</game>
+	<game id="37429">
+		<path>./Sega Clay Challenge.lnk</path>
+		<name>Sega Clay Challenge</name>
+		<desc>An arcade target-practice game by Sega focused on the sport of clay pigeon shooting.</desc>
+		<image>./images/Sega Clay Challenge-image.jpg</image>
+		<video>./videos/Sega Clay Challenge-video.mp4</video>
+		<marquee>./images/Sega Clay Challenge-marquee.png</marquee>
+		<thumbnail>./images/Sega Clay Challenge-thumb.png</thumbnail>
+		<fanart>./images/Sega Clay Challenge-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20080101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<md5>b7391446feda133568cd64d393ff532f</md5>
+	</game>
+	<game>
+		<path>./Lupin The Shooting.lnk</path>
+		<name>Lupin The Shooting</name>
+		<image>./images/lupinsho-image.png</image>
+		<video>./videos/lupinsho-video.mp4</video>
+		<marquee>./images/lupinsho-marquee.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<md5>3d7342a3755678e760566ef760214928</md5>
+	</game>
+	<game>
+		<path>./Sport Shooting USA.lnk</path>
+		<name>Sport Shooting USA</name>
+		<image>./images/sprtshot-fanart.jpg</image>
+		<video>./videos/sprtshot-video.mp4</video>
+		<marquee>./images/sprtshot-marquee.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<md5>09fe9ee5f7a07cf467d2cd5f08b49d54</md5>
+	</game>
+	<game>
+		<path>./Wild West Shoot Out.lnk</path>
+		<name>Wild West Shoot Out</name>
+		<image>./images/wild west shootout2.png</image>
+		<video>./videos/wild west shootout.mp4</video>
+		<marquee>./images/wild west shootout.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>4</playcount>
+		<lastplayed>20220924T105411</lastplayed>
+		<gametime>10</gametime>
+	</game>
+	<game>
+		<path>./Gaia Attack 4.lnk</path>
+		<name>Gaia Attack 4</name>
+		<image>./images/Gaia Attack 4.png</image>
+		<video>./videos/Gaia Attack 4.mp4</video>
+		<marquee>./images/gaia attack 4.png</marquee>
+		<thumbnail>./box/Gaia Attack 4-01.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>3</playcount>
+		<lastplayed>20221004T181532</lastplayed>
+		<md5>87c486a2cfd460c83018359f937980e5</md5>
+		<gametime>173</gametime>
+	</game>
+	<game id="315842">
+		<path>./Mad Bullets.lnk</path>
+		<name>Mad Bullets</name>
+		<image>./images/Mad Bullets-01.png</image>
+		<video>./videos/Mad Bullets.mp4</video>
+		<marquee>./images/Mad Bullets-01.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>6</playcount>
+		<lastplayed>20221004T181451</lastplayed>
+		<md5>dec6b19228c26097520c2e6bcd2cbfec</md5>
+		<gametime>39</gametime>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Rambo.lnk</path>
+		<name>Rambo</name>
+		<desc>Rambo: The Video Game is a first person rail shooter video game developed by Teyon and published by Reef Entertainment.[2] The game is based on the Rambo film series and puts the player in the role of John Rambo. First Blood, First Blood Part II and Rambo III will form the basis for the gameplay as Rambo journeys through scenes from each of the three films. A teaser trailer was released by Machinima, containing montages from previous Rambo films.[3] The game was set to release in winter 2013, but was eventually delayed to early 2014.[1]</desc>
+		<image>./images/Rambo-image.jpg</image>
+		<thumbnail>./images/Rambo-thumb.jpg</thumbnail>
+		<rating>0</rating>
+		<releasedate>20131231T000000</releasedate>
+		<developer>Reef Entraiment</developer>
+		<genre>Action</genre>
+		<players>4</players>
+		<playcount>4</playcount>
+		<lastplayed>20221024T181135</lastplayed>
+		<md5>de8154cbfaab7372e6083aef573bc479</md5>
+		<gametime>79</gametime>
+	</game>
+	<game>
+		<path>./Time Crisis Razing Storm.lnk</path>
+		<name>Time Crisis Razing Storm</name>
+		<image>./images/Time Crisis Razing Storm.png</image>
+		<video>./videos/Time Crisis_ Razing Storm-01.mp4</video>
+		<marquee>./images/Time Crisis Razing Storm.png</marquee>
+		<thumbnail>./box/Razing_Storm_Flyer.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>11</playcount>
+		<lastplayed>20221024T181054</lastplayed>
+		<gametime>581</gametime>
+	</game>
+	<game>
+		<path>./BEGame.lnk</path>
+		<name>BEGame</name>
+		<image>./images/Blue Estate-fanart.jpg</image>
+		<video>./videos/Blue Estate.mp4</video>
+		<marquee>./images/Blue Estate-01.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>1</playcount>
+		<lastplayed>20221024T192516</lastplayed>
+		<gametime>387</gametime>
+	</game>
+	<game>
+		<path>./DeadContainment.bat</path>
+		<name>DeadContainment</name>
+		<image>./images/DeadContainment.jpg</image>
+		<video>./videos/DeadContainment.mp4</video>
+		<marquee>./images/DeadContainment.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>5</playcount>
+		<lastplayed>20221024T191834</lastplayed>
+		<gametime>547</gametime>
+	</game>
+	<game>
+		<path>./Dead Containment.lnk</path>
+		<name>Dead Containment</name>
+		<image>./images/DeadContainment.jpg</image>
+		<video>./videos/DeadContainment.mp4</video>
+		<marquee>./images/DeadContainment.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>4</playcount>
+		<lastplayed>20221025T181028</lastplayed>
+		<gametime>4452</gametime>
+	</game>
+	<game id="289706">
+		<path>./Death Live.lnk</path>
+		<name>Death Live</name>
+		<image>./images/Death Live.jpg</image>
+		<video>./videos/Death Live.mp4</video>
+		<marquee>./images/Death Live.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>3</playcount>
+		<lastplayed>20221031T202607</lastplayed>
+		<md5>f592dd56bf3ce07a87e747ba0014afcd</md5>
+		<gametime>305</gametime>
+	</game>
+	<game>
+		<path>./Ed Hunter.lnk</path>
+		<name>Ed Hunter</name>
+		<image>./images/ed hunter.jpg</image>
+		<video>./videos/ed hunter.mp4</video>
+		<marquee>./images/ed hunter.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>2</playcount>
+		<lastplayed>20221106T175800</lastplayed>
+		<gametime>195</gametime>
+	</game>
+	<game>
+		<path>./Friction.lnk</path>
+		<name>Friction</name>
+		<image>./images/Friction-01.png</image>
+		<video>./videos/Friction.mp4</video>
+		<marquee>./images/Friction-01.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>13</playcount>
+		<lastplayed>20221106T200717</lastplayed>
+		<md5>9b77a7eebc18955b138b678f6e51977d</md5>
+		<gametime>1487</gametime>
+	</game>
+	<game>
+		<path>./The House of the Dead Remake.lnk</path>
+		<name>The House of the Dead Remake</name>
+		<image>./images/The House of the Dead Remake.png</image>
+		<video>./videos/THE HOUSE OF THE DEAD Remake.mp4</video>
+		<marquee>./images/THE HOUSE OF THE DEAD Remake.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>3</playcount>
+		<lastplayed>20221225T181555</lastplayed>
+		<gametime>582</gametime>
+	</game>
+	<game>
+		<path>./The House  Of The Dead Overkill.lnk</path>
+		<name>The House  Of The Dead Overkill</name>
+		<image>./images/House of the Dead, The - Overkill (USA) (En,Fr,Es)-image.png</image>
+		<video>./videos/House of the Dead, The - Overkill (USA) (En,Fr,Es)-video.mp4</video>
+		<marquee>./images/House of the Dead, The - Overkill (USA) (En,Fr,Es)-marquee.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+	</game>
+	<game>
+		<path>./The House Of The Dead 2.lnk</path>
+		<name>The House Of The Dead 2</name>
+		<image>./images/House Of The Dead 2-thumb.jpg</image>
+		<marquee>./images/House Of The Dead 2-marquee.png</marquee>
+		<thumbnail>./images/House Of The Dead 2-thumb.jpg</thumbnail>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+	</game>
+	<game>
+		<path>./DeadContainment.lnk</path>
+		<name>DeadContainment</name>
+		<image>./images/DeadContainment.jpg</image>
+		<video>./videos/DeadContainment.mp4</video>
+		<marquee>./images/DeadContainment.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>1</playcount>
+		<lastplayed>20230218T200810</lastplayed>
+		<gametime>41</gametime>
+	</game>
+	<game id="13748">
+		<path>./Death Crimson.lnk</path>
+		<name>Death Crimson OX</name>
+		<desc>The Death Crimson OX shooter on Dreamcast, whose universe is only horror and science fiction, will invite you to play as Kô Yamami, accompanied by his assistant Yuri for the game for two. The evil Subliminers ransack the town of Saronica and capture Lily, the leader of the rebellion. Restore order and save Lily. This is the mission of our hero.</desc>
+		<image>./images/Death Crimson-image.jpg</image>
+		<video>./videos/Death Crimson-video.mp4</video>
+		<marquee>./images/Death Crimson-marquee.png</marquee>
+		<thumbnail>./images/Death Crimson-thumb.png</thumbnail>
+		<fanart>./images/Death Crimson-fanart.jpg</fanart>
+		<manual>./manuals/Death Crimson-manual.pdf</manual>
+		<rating>0.65</rating>
+		<releasedate>20010805T000000</releasedate>
+		<developer>Ecole</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>1-2</players>
+		<md5>762fec19e533852a3c9a0c83e153dfc2</md5>
+	</game>
+	<game>
+		<path>./Mazan Flash Of The Blade.lnk</path>
+		<name>Mazan Flash Of The Blade</name>
+		<md5>9747c8ab3112193ac3b6aa1c1a45f7b5</md5>
+	</game>
+	<game id="347308">
+		<path>./Tomb Raider.lnk</path>
+		<name>Tomb Raider</name>
+		<desc>The young archaeologist Lara Croft  is traveling on the ship Endurance together with a crew to locate the prehistoric Japanese kingdom of Yamatai and the secrets of the Sun Queen Himiko and her mystical powers. Against the group's advice, Lara presses on to go to the Dragon's Triangle, a location plagued by mysterious storms. When the ship is struck by one of the storms, everyone is stranded on a seemingly desolate island. Lara's task is to bring the crew back together and find out more about the island. She has to fight off the Solarii, a cult led by a mysterious person who has taken an interest in Lara's friend Samantha Nishimura.</desc>
+		<image>./images/Tomb Raider-image.jpg</image>
+		<marquee>./images/Tomb Raider-marquee.png</marquee>
+		<thumbnail>./images/Tomb Raider-thumb.png</thumbnail>
+		<fanart>./images/Tomb Raider-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>20130305T000000</releasedate>
+		<developer>Crystal Dynamics</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Lightgun Shooter</genre>
+		<family>Tomb Raider</family>
+		<playcount>2</playcount>
+		<lastplayed>20230218T193148</lastplayed>
+		<md5>8a2d32c70ca5a671004d2ff7f9bca45d</md5>
+		<gametime>170</gametime>
+	</game>
+	<game id="22761">
+		<path>./Time Crisis 2.lnk</path>
+		<name>Time Crisis 2</name>
+		<desc>Play alone or team up with a friend in this traditional light gun shooter.
+Christy Ryan, the agent responsible for uncovering the corporation's hidden agenda, attempts to escape NDI captivity and report the details of the plot to V.S.S.E. HQ, but is captured by Jakov Kinisky and his bodyguards. V.S.S.E. sends agents Keith Martin and Robert Baxter to shut down the Starline Network and rescue Ryan.</desc>
+		<image>./images/Time Crisis 2-image.png</image>
+		<video>./videos/Time Crisis 2-video.mp4</video>
+		<marquee>./images/Time Crisis 2-marquee.png</marquee>
+		<thumbnail>./images/Time Crisis 2-thumb.png</thumbnail>
+		<fanart>./images/Time Crisis 2-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Lightgun Shooter</genre>
+		<family>Time Crisis</family>
+		<players>2</players>
+		<playcount>4</playcount>
+		<lastplayed>20221024T173117</lastplayed>
+		<md5>3d70a40e0eee92e67c265e8f8d68c4ca</md5>
+		<gametime>432</gametime>
+	</game>
+	<game id="277338">
+		<path>./Banzai Escape.lnk</path>
+		<name>Banzai Escape </name>
+		<desc>Banzai Escape is a 3D rail shooter with anime-style characters. The player controls girl Rokiahi, who is a P.A.S.K.A.L special agent. Her mission is to arrest the CEO of Amino Corp, Mr. Betas, and rescue other agents. The gameplay is very similar to the Time Crisis series - Rokiahi moves automatically, the player controls only her gun (with reloading) and uses the cover system. She hides behind various obstacles to avoid being shoot, but when using cover, her accuracy decreases.</desc>
+		<image>./images/Banzai Escape-image.png</image>
+		<video>./videos/Banzai Escape.mp4</video>
+		<marquee>./images/Banzai Escape-marquee.png</marquee>
+		<thumbnail>./images/Banzai Escape-thumb.png</thumbnail>
+		<fanart>./images/Banzai Escape-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>20160316T000000</releasedate>
+		<developer>Xenoaisam Studio</developer>
+		<publisher>Xenoaisam Studio</publisher>
+		<genre>Shooter, Shooter / 3rd person, Lightgun Shooter</genre>
+		<playcount>6</playcount>
+		<lastplayed>20230225T193604</lastplayed>
+		<md5>0259e9af0d7e74b66ae540884ab6a2de</md5>
+		<gametime>235</gametime>
+	</game>
+	<game id="277338">
+		<path>./Banzai Escape 2.lnk</path>
+		<name>Banzai Escape TWO</name>
+		<desc>Banzai Escape is a 3D rail shooter with anime-style characters. The player controls girl Rokiahi, who is a P.A.S.K.A.L special agent. Her mission is to arrest the CEO of Amino Corp, Mr. Betas, and rescue other agents. The gameplay is very similar to the Time Crisis series - Rokiahi moves automatically, the player controls only her gun (with reloading) and uses the cover system. She hides behind various obstacles to avoid being shoot, but when using cover, her accuracy decreases.</desc>
+		<image>./images/Banzai Escape 2-image.jpg</image>
+		<video>./videos/banzi escape 2.mp4</video>
+		<marquee>./images/Banzai Escape 2-marquee.png</marquee>
+		<thumbnail>./images/Banzai Escape 2-thumb.png</thumbnail>
+		<fanart>./images/Banzai Escape 2-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>20160316T000000</releasedate>
+		<developer>Xenoaisam Studio</developer>
+		<publisher>Xenoaisam Studio</publisher>
+		<genre>Shooter, Shooter / 3rd person, Lightgun Shooter</genre>
+		<playcount>3</playcount>
+		<lastplayed>20230225T193535</lastplayed>
+		<md5>8f9636a615ef18e17cde5cff408ec341</md5>
+		<gametime>98</gametime>
+	</game>
+	<game>
+		<path>./Virtua Cop 3.lnk</path>
+		<name>Virtua Cop 3</name>
+		<marquee>./images/virtua cop 3.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>5</playcount>
+		<lastplayed>20230225T201025</lastplayed>
+		<md5>4a55fcee7754b26c78907cf3902e537e</md5>
+		<gametime>154</gametime>
+	</game>
+	<game>
+		<path>./Dream Raiders.lnk</path>
+		<name>Dream Raiders</name>
+		<image>./images/Dream Raiders.png</image>
+		<video>./videos/Dream Raiders.mp4</video>
+		<marquee>./images/Dream Raiders.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>7</playcount>
+		<lastplayed>20230228T172157</lastplayed>
+		<md5>fefffeb2ad3934a7f4ef186e7a827e5a</md5>
+		<gametime>243</gametime>
+	</game>
+	<game>
+		<path>./Lets Go Island 3d.lnk</path>
+		<name>Lets Go Island 3d</name>
+		<video>./videos/Let's Go Island 3D.mp4</video>
+		<marquee>./images/Let_s Go Island 3D_ Lost on the Island of Tropics-01.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>2</playcount>
+		<lastplayed>20230228T172216</lastplayed>
+		<md5>c16da2db7e84645b75ecb867b168df1f</md5>
+		<gametime>97</gametime>
+	</game>
+	<game>
+		<path>./Maze Of Kings.lnk</path>
+		<name>Maze Of Kings</name>
+		<image>./images/mok-image.png</image>
+		<video>./videos/mok-video.mp4</video>
+		<marquee>./images/mok-marquee.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>2</playcount>
+		<lastplayed>20230228T172228</lastplayed>
+		<md5>186fffa4a4b5ec3391c26843e25bae57</md5>
+		<gametime>63</gametime>
+	</game>
+	<game id="63260">
+		<path>./Ninja Assault.lnk</path>
+		<name>Ninja Assault</name>
+		<desc>Whether you play as Guren, Gunjo or Aoi, you will put your ninja shooter skills at the service of the most beautiful of causes: saving Princess Koto from the clutches of the evil Shogun Kigai! Prepare to fight an army of infernal soldiers and a veritable deluge of bullets.</desc>
+		<video>./videos/Ninja Assault-video.mp4</video>
+		<marquee>./images/Ninja Assault-marquee.png</marquee>
+		<thumbnail>./images/Ninja Assault-thumb.png</thumbnail>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Shooter</genre>
+		<arcadesystemname>naomi</arcadesystemname>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20230228T172235</lastplayed>
+		<md5>6c1ed608f5468ee179dbbfb566d50094</md5>
+	</game>
+	<game>
+		<path>./Rabbids Hollywood Arcade.lnk</path>
+		<name>Rabbids Hollywood Arcade</name>
+		<image>./images/Rabbids Hollywood Arcade.jpg</image>
+		<video>./videos/Rabbids Hollywood Arcade.mp4</video>
+		<marquee>./images/Rabbids Hollywood Arcade.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>3</playcount>
+		<lastplayed>20230228T172242</lastplayed>
+		<gametime>39</gametime>
+	</game>
+	<game>
+		<path>./Reload.lnk</path>
+		<name>Reload</name>
+		<image>./images/United States/Reload-01.png</image>
+		<video>./videos/Reload-01.mp4</video>
+		<marquee>./images/United States/Reload-01.png</marquee>
+		<thumbnail>./box/Reload-01.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>4</playcount>
+		<lastplayed>20230228T172248</lastplayed>
+		<md5>2ac68fba615fa5d7fba4c02869b185e7</md5>
+		<gametime>1522</gametime>
+	</game>
+	<game>
+		<path>./reload.lnk</path>
+		<name>reload</name>
+		<video>./videos/Reload-01.mp4</video>
+		<marquee>./images/United States/Reload-01.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+	</game>
+	<game>
+		<path>./The House  Of The Dead Remake.lnk</path>
+		<name>The House  Of The Dead Remake</name>
+		<video>./videos/THE HOUSE OF THE DEAD Remake.mp4</video>
+		<marquee>./images/THE HOUSE OF THE DEAD Remake.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+	</game>
+	<game>
+		<path>./Lets Go Island.lnk</path>
+		<name>Lets Go Island</name>
+		<video>./videos/Let's Go Island 3D.mp4</video>
+		<marquee>./images/Let_s Go Island 3D_ Lost on the Island of Tropics-01.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>1</playcount>
+		<lastplayed>20230301T163123</lastplayed>
+		<gametime>46</gametime>
+	</game>
+	<game>
+		<path>./Big Buck Hunter Arcade Pro.lnk</path>
+		<name>Big Buck Hunter Arcade Pro</name>
+		<image>./images/Big Buck Hunter Arcade.png</image>
+		<video>./videos/Big Buck Hunter Arcade.mp4</video>
+		<marquee>./images/Big Buck Hunter Arcade.png</marquee>
+		<thumbnail>./box/Big Buck Hunter_ Shooter_s Challenge-01.png</thumbnail>
+		<rating>0</rating>
+		<releasedate>19691231T180000</releasedate>
+		<genre>Lightgun Shooter</genre>
+		<playcount>7</playcount>
+		<lastplayed>20230303T192708</lastplayed>
+		<md5>2d1f3bcccf66ca568f3b781f0b644fcf</md5>
+		<gametime>243</gametime>
+	</game>
+</gameList>

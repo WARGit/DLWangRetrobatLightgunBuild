@@ -1,0 +1,15 @@
+script "Infinite Credits"  
+run:
+    poke $C179C $63
+script "P1 Infinite Helps"  
+run:
+    poke $C0967 $09
+script "P1 Finish this Level Now!"  
+on:
+    poke $C0966 $00
+script "P2 Infinite Helps"  
+run:
+    poke $C1083 $09
+script "P2 Finish this Level Now!"  
+on:
+    poke $C1082 $00

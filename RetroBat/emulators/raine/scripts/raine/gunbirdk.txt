@@ -1,0 +1,26 @@
+script "P1 Infinite Lives"  
+run:
+    poke $FE0329 $05
+script "P1 Infinite Bombs"  
+run:
+    poke $FE032D $06
+script "P1 Maximum Power"  
+run:
+    poke $FE032F $03
+script "P1 Invincibility" \
+ "comm:Sprite Flickers"  
+run:
+    poke $FE0347 $02
+script " "  
+script "P2 Infinite Lives"  
+run:
+    poke $FE03A9 $05
+script "P2 Infinite Bombs"  
+run:
+    poke $FE03AD $06
+script "P2 Maximum Power"  
+run:
+    poke $FE03AF $03
+script "P2 Invincibility"  
+run:
+    poke $FE03C7 $02

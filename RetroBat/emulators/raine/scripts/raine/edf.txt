@@ -1,0 +1,37 @@
+script "P1 Infinite Lives"  
+run:
+    poke $616F5 $03
+script "P1 Invincibility"  
+run:
+    if (peek($616F3)==$01)
+      poke $616F3 $02
+    endif
+script "P1 Weapon level 5 (max)"  
+run:
+    poke $616F7 $04
+script "P1 Select Weapon" \
+ "0x00/Valcan Weapon"\
+ "0x01/Laser Weapon"\
+ "0x02/Atomic Weapon"\
+ "0x03/Homing Weapon" 
+run:
+    poke $61737 param
+script " "  
+script "P2 Infinite Lives"  
+run:
+    poke $61955 $03
+script "P2 Invincibility"  
+run:
+    if (peek($61953)==$01)
+      poke $61953 $02
+    endif
+script "P2 Weapon level 5 (max)"  
+run:
+    poke $61957 $04
+script "P2 Select Weapon" \
+ "0x00/Valcan Weapon"\
+ "0x01/Laser Weapon"\
+ "0x02/Atomic Weapon"\
+ "0x03/Homing Weapon" 
+run:
+    poke $61997 param

@@ -1,0 +1,49 @@
+script "Infinite Credits"  
+run:
+    poke $200708 $09
+script "Invincibility"  
+run:
+    poke $20109D $00
+    poke $20348D $02
+script "Always Maximum Shot Power"  
+run:
+    poke $2010A0 $04
+script "Always Maximum Weapon Energy"  
+run:
+    poke $201095 $04
+script "Rapid Fire - Antiair"  
+run:
+    poke $203453 $01
+script "Rapid Fire - Antisurface"  
+run:
+    poke $203455 $01
+script "Select Weapon" \
+ "0x03/Piercing"\
+ "0x04/Wide"\
+ "0x05/Guide"\
+ "0x06/Laser"\
+ "0x07/H. Bomb" 
+run:
+    poke $201094 param
+script "Select Speed" \
+ "0x14/1"\
+ "0x18/2"\
+ "0x1C/3"\
+ "0x20/4" 
+run:
+    poke $201090 param
+script "Unlock Round Select Mode" \
+ "comm:Reset the game to enter the round selection mode"  
+on:
+    temp0=dpeek($0004F2)
+run:
+    dpoke $0004F2 $4E71
+off:
+    dpoke $0004F2 temp0
+script " "  
+script "P1 Infinite Lives"  
+run:
+    poke $200753 $03
+script "P2 Infinite Lives"  
+run:
+    poke $200755 $03

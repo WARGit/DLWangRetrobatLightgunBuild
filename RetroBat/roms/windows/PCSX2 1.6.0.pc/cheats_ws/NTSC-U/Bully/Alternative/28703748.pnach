@@ -1,0 +1,32 @@
+gametitle=Bully [NTSC-U] (SLUS_212.69)
+comment=Widescreen hack by Arapapa & El_Patas
+
+//Gameplay 16:9
+
+//Zoom
+//803f013c 00008144 1000b07f
+patch=1,EE,0022350C,word,3C013F40 //3C013F80
+
+//Y-FOV
+//00000000 00000000 03A81446 00000000
+//AB3F013C 00008144 02A50046 03A81446
+patch=1,EE,0012449C,word,3C013FAB //00000000
+patch=1,EE,001244A0,word,44810000 //00000000
+patch=1,EE,001244A4,word,4600A502 //4614A803
+patch=1,EE,001244A8,word,4614A803 //00000000
+
+//HUD fix 
+patch=1,EE,0020C0CC,word,3C033F40 //3C033F80 Load Image
+patch=1,EE,0020C0B0,word,3C033F40 //3C033F80 Size text and map
+patch=1,EE,20729748,extended,432B0000 //435C0000 Lenght text (memory value)
+patch=1,EE,2072974C,extended,432B0000 //435C0000 Box text (memory value)
+
+//Render fix
+//D0FFBD27 0040023C
+//D0FFBD27 C03F023C
+patch=1,EE,001D4CF4,word,3C023FC0 //3C024000
+
+//480p by Nemesis2000
+//patch=1,EE,0023ea90,word,24060050
+//patch=1,EE,0023ea94,word,24050000
+//patch=1,EE,0023ea9c,word,23070001

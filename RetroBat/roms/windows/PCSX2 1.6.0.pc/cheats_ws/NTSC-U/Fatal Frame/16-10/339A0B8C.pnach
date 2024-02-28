@@ -1,0 +1,55 @@
+
+; ==========
+ gametitle=Fatal Frame
+ comment= Fatal Frame * SLUS-20388 * NTSC-U * 339A0B8C
+ // 16:10 & 15:10 support by pgert.
+; ==========
+ ; Due to missing renderingfixes, black stripes can show up on ghosts, spirits and photos.
+ ; If using GSdx in HW-mode, this can be fixed by having "Enable HW Hacks" set in the GSdx configuration dialog,
+ ;  and having "Align Sprite" set and "Sprite" set to Half in "Advanced Settings and Hacks".
+; ==========
+
+; ==========
+ // Gameplay
+// patch=1,EE,001885c4,word,3c013f40 // - 16:9
+ patch=1,EE,001885c4,word,3c013f55 // - 16:10
+// patch=1,EE,001885c4,word,3c013f64 // - 15:10
+; ==========
+ // Cutscenes (port of pgert's value for PAL version)
+// patch=1,EE,00183f4c,word,3c013f40 // - 16:9
+ patch=1,EE,00183f4c,word,3c013f55 // - 16:10
+// patch=1,EE,00183f4c,word,3c013f64 // - 15:10
+; ==========
+ // FMV fix
+// patch=1,EE,00180b80,word,24027100 // - 16:9
+// patch=1,EE,00180b90,word,24027100 //
+// patch=1,EE,00180b98,word,24091e00 //
+ patch=1,EE,00180b80,word,24027080 // - 16:10
+ patch=1,EE,00180b90,word,24027080 //
+ patch=1,EE,00180b98,word,24091f00 //
+// patch=1,EE,00180b80,word,240270ab // - 15:10
+// patch=1,EE,00180b90,word,240270ab //
+// patch=1,EE,00180b98,word,24091f11 //
+; ==========
+ // Lens Flare fix
+// patch=1,EE,00136FF4,word,3C013F2B // - 16:9
+// patch=1,EE,001359B0,word,3C014270 //
+// patch=1,EE,00135A94,word,3C0140F0 //
+// patch=1,EE,00135A5C,word,3C014110 //
+// patch=1,EE,00135A18,word,3C014190 //
+ patch=1,EE,00136FF4,word,3C013F1a // - 16:10
+ patch=1,EE,001359B0,word,3C014285 //
+ patch=1,EE,00135A94,word,3C014105 //
+ patch=1,EE,00135A5C,word,3C014120 //
+ patch=1,EE,00135A18,word,3C0141a0 //
+// patch=1,EE,00136FF4,word,3C013F10 // - 15:10
+// patch=1,EE,001359B0,word,3C01428e //
+// patch=1,EE,00135A94,word,3C01410e //
+// patch=1,EE,00135A5C,word,3C01412b //
+// patch=1,EE,00135A18,word,3C0141ab //
+; ==========
+ // Remove effects
+// patch=1,EE,2034A8FC,word,00000000 // blurry bloom
+// patch=1,EE,2034AD7C,word,00000000 // dark filter
+// patch=1,EE,2034AC0C,word,00000000 // post process and noise
+; ==========

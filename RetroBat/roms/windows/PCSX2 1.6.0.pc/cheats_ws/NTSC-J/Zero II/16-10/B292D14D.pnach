@@ -1,0 +1,56 @@
+﻿
+; ==========
+ gametitle=Zero: Akai Chou
+ comment= Zero: Akai Chou * SLPS-25303 * NTSC-J * B292D14D
+ comment= Widescreen hack by nemesis2000 (pnach by nemesis2000)
+ // 16:10 & 15:10 support by pgert.
+; ==========
+ ; This game has a sound-distortion when using the Spu2-X plug-in.
+ ; Therefore (as a suggestion) use this special version of the plug-in:
+ ;  "https://forums.pcsx2.net/attachment.php?aid=65729".
+; ==========
+
+; ==========
+// patch=1,EE,00336d0c,word,3f400000 // aspect - 16:9
+ patch=1,EE,00336d0c,word,3f555555 // - 16:10
+// patch=1,EE,00336d0c,word,3f638e39 // - 15:10
+; ==========
+ // FMV fix
+// patch=1,EE,001e526c,word,3c013f40 // width (1.0f = 640) - 16:9
+ patch=1,EE,001e526c,word,3c013f55 // - 16:10
+// patch=1,EE,001e526c,word,3c013f64 // - 15:10
+ patch=1,EE,001e5270,word,0c079418
+ patch=1,EE,001e5274,word,44811800
+ patch=1,EE,001e5278,word,8f84bdcc
+ patch=1,EE,001e527c,word,0c079d30
+ patch=1,EE,001e5280,word,0040802d
+ patch=1,EE,001e5284,word,0200102d
+ patch=1,EE,001e5288,word,dfbf0008
+ patch=1,EE,001e528c,word,27bd0010
+ patch=1,EE,001e5290,word,03e00008
+ patch=1,EE,001e5294,word,dfb00000
+
+ patch=1,EE,001e5114,word,01c02820
+ patch=1,EE,001e5118,word,e4830030
+
+// patch=1,EE,0033a908,word,0000006a // x-pos = (640-640*ratio)/(2*ratio) Hex - 16:9
+ patch=1,EE,0033a908,word,00000040 // - 16:10
+// patch=1,EE,0033a908,word,00000028 // - 15:10
+; ==========
+// Lens Flare fix
+// patch=1,EE,0014f7dc,word,3c013f40 // 00000000 - 16:9
+ patch=1,EE,0014f7dc,word,3c013f55 // - 16:10
+// patch=1,EE,0014f7dc,word,3c013f64 // - 15:10
+ patch=1,EE,0014f84c,word,44810800 // 00000000
+ patch=1,EE,0014f850,word,46016302 // 00000000
+ patch=1,EE,0013a214,word,0c053df7 // 0c053df8
+ patch=1,EE,0013a29c,word,0c053df7 // 0c053df8
+ patch=1,EE,0013a304,word,0c053df7 // 0c053df8
+ patch=1,EE,0013a37c,word,0c053df7 // 0c053df8
+; ==========
+// Dither Effect Off
+// patch=1,EE,0019ed14,word,10000012 // 54400012
+
+// Cutscenes Focus Effect fix (optional)
+// patch=1,EE,0020b95c,word,00000000 // 0c08308a
+; ==========

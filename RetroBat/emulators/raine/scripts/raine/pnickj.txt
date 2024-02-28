@@ -1,0 +1,180 @@
+script "P1 Select Perm. Next Top Shape" \
+ "0x00/Green"\
+ "0x01/Red"\
+ "0x02/Blue"\
+ "0x03/Yellow"\
+ "0x04/Cyan"\
+ "0x05/Pink"\
+ "0x06/Orange"\
+ "0x07/Purple"\
+ "0x08/Green Star"\
+ "0x09/Red Star"\
+ "0x0A/Blue Star"\
+ "0x0B/Yellow Star"\
+ "0x0C/Cyan Star"\
+ "0x0D/Pink Star"\
+ "0x0E/Orange Star"\
+ "0x0F/Purple Star" 
+run:
+    poke $FF88F4 param
+script "P1 Select Perm. Next Bottom Shape" \
+ "0x00/Green"\
+ "0x01/Red"\
+ "0x02/Blue"\
+ "0x03/Yellow"\
+ "0x04/Cyan"\
+ "0x05/Pink"\
+ "0x06/Orange"\
+ "0x07/Purple"\
+ "0x08/Green Star"\
+ "0x09/Red Star"\
+ "0x0A/Blue Star"\
+ "0x0B/Yellow Star"\
+ "0x0C/Cyan Star"\
+ "0x0D/Pink Star"\
+ "0x0E/Orange Star"\
+ "0x0F/Purple Star" 
+run:
+    poke $FF88F5 param
+script "P1 Select Temp. Next Top Shape" \
+ "0x00/Green"\
+ "0x01/Red"\
+ "0x02/Blue"\
+ "0x03/Yellow"\
+ "0x04/Cyan"\
+ "0x05/Pink"\
+ "0x06/Orange"\
+ "0x07/Purple"\
+ "0x08/Green Star"\
+ "0x09/Red Star"\
+ "0x0A/Blue Star"\
+ "0x0B/Yellow Star"\
+ "0x0C/Cyan Star"\
+ "0x0D/Pink Star"\
+ "0x0E/Orange Star"\
+ "0x0F/Purple Star" 
+change:
+    poke $FF88F4 param
+script "P1 Select Temp. Next Bottom Shape" \
+ "0x00/Green"\
+ "0x01/Red"\
+ "0x02/Blue"\
+ "0x03/Yellow"\
+ "0x04/Cyan"\
+ "0x05/Pink"\
+ "0x06/Orange"\
+ "0x07/Purple"\
+ "0x08/Green Star"\
+ "0x09/Red Star"\
+ "0x0A/Blue Star"\
+ "0x0B/Yellow Star"\
+ "0x0C/Cyan Star"\
+ "0x0D/Pink Star"\
+ "0x0E/Orange Star"\
+ "0x0F/Purple Star" 
+change:
+    poke $FF88F5 param
+script " "  
+script "The Level Picture only changes on certain"  
+script "levels including levels 10, 30 and 50."  
+script " "  
+script "P1 Select Starting Level" \
+ inter=1,98,1 
+run:
+    if (peek($FF8644)==$01)
+      poke $FF8644 (param)
+    endif
+script " "  
+script "P2 Select Perm. Next Top Shape" \
+ "0x00/Green"\
+ "0x01/Red"\
+ "0x02/Blue"\
+ "0x03/Yellow"\
+ "0x04/Cyan"\
+ "0x05/Pink"\
+ "0x06/Orange"\
+ "0x07/Purple"\
+ "0x08/Green Star"\
+ "0x09/Red Star"\
+ "0x0A/Blue Star"\
+ "0x0B/Yellow Star"\
+ "0x0C/Cyan Star"\
+ "0x0D/Pink Star"\
+ "0x0E/Orange Star"\
+ "0x0F/Purple Star" 
+run:
+    poke $FF8954 param
+script "P2 Select Perm. Next Bottom Shape" \
+ "0x00/Green"\
+ "0x01/Red"\
+ "0x02/Blue"\
+ "0x03/Yellow"\
+ "0x04/Cyan"\
+ "0x05/Pink"\
+ "0x06/Orange"\
+ "0x07/Purple"\
+ "0x08/Green Star"\
+ "0x09/Red Star"\
+ "0x0A/Blue Star"\
+ "0x0B/Yellow Star"\
+ "0x0C/Cyan Star"\
+ "0x0D/Pink Star"\
+ "0x0E/Orange Star"\
+ "0x0F/Purple Star" 
+run:
+    poke $FF8955 param
+script "P2 Select Temp. Next Top Shape" \
+ "0x00/Green"\
+ "0x01/Red"\
+ "0x02/Blue"\
+ "0x03/Yellow"\
+ "0x04/Cyan"\
+ "0x05/Pink"\
+ "0x06/Orange"\
+ "0x07/Purple"\
+ "0x08/Green Star"\
+ "0x09/Red Star"\
+ "0x0A/Blue Star"\
+ "0x0B/Yellow Star"\
+ "0x0C/Cyan Star"\
+ "0x0D/Pink Star"\
+ "0x0E/Orange Star"\
+ "0x0F/Purple Star" 
+change:
+    poke $FF8954 param
+script "P2 Select Temp. Next Bottom Shape" \
+ "0x00/Green"\
+ "0x01/Red"\
+ "0x02/Blue"\
+ "0x03/Yellow"\
+ "0x04/Cyan"\
+ "0x05/Pink"\
+ "0x06/Orange"\
+ "0x07/Purple"\
+ "0x08/Green Star"\
+ "0x09/Red Star"\
+ "0x0A/Blue Star"\
+ "0x0B/Yellow Star"\
+ "0x0C/Cyan Star"\
+ "0x0D/Pink Star"\
+ "0x0E/Orange Star"\
+ "0x0F/Purple Star" 
+change:
+    poke $FF8955 param
+script " "  
+script "The Level Picture only changes on certain"  
+script "levels including levels 10, 30 and 50."  
+script " "  
+script "P2 Select Starting Level" \
+ inter=1,98,1 
+run:
+    if (peek($FF8664)==$01)
+      poke $FF8664 (param)
+    endif
+script " "  
+script "Select Region" \
+ "0x00/Japan"\
+ "0x02/USA"\
+ "0x04/ETC" 
+run:
+    poke $FF8037 param

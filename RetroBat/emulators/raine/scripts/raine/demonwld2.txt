@@ -1,0 +1,54 @@
+script "See the Dip Switch Menu to enable Invincibility."  
+script "P1 Infinite Lives"  
+run:
+    poke $C002F9 $0A
+script "P1 Always have the Shield"  
+run:
+    poke $C00355 $1E|(peek($C00355)&~$1E)
+script "P1 Get the Shield Now!"  
+on:
+    poke $C00355 $1E|(peek($C00355)&~$1E)
+script "P1 Lose the Shield Now!"  
+on:
+    poke $C00355 $00|(peek($C00355)&~$1E)
+script "P1 Next 'P' always = Shield"  
+run:
+    poke $C002E9 $02
+script "P1 Next 'P' gives Shield Now!"  
+on:
+    poke $C002E9 $02
+script "P1 Select Weapon" \
+ "0x00/Missiles"\
+ "0x01/Laser"\
+ "0x02/Auto"\
+ "0x03/Bombs"\
+ "0x04/3-Way" 
+run:
+    poke $C002ED param
+script " "  
+script "P2 Infinite Lives"  
+run:
+    poke $C002FB $0A
+script "P2 Always have the Shield"  
+run:
+    poke $C003B5 $1E|(peek($C003B5)&~$1E)
+script "P2 Get the Shield Now!"  
+on:
+    poke $C003B5 $1E|(peek($C003B5)&~$1E)
+script "P2 Lose the Shield Now!"  
+on:
+    poke $C003B5 $00|(peek($C003B5)&~$1E)
+script "P2 Next 'P' always = Shield"  
+run:
+    poke $C002EB $02
+script "P2 Next 'P' gives Shield Now!"  
+on:
+    poke $C002EB $02
+script "P2 Select Weapon" \
+ "0x00/Missiles"\
+ "0x01/Laser"\
+ "0x02/Auto"\
+ "0x03/Bombs"\
+ "0x04/3-Way" 
+run:
+    poke $C002EF param
