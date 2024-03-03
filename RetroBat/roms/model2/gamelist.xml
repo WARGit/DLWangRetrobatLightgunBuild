@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="41716">
+		<path>./The House of The Dead.model2/roms/hotd.zip</path>
+		<name>The House of the Dead</name>
+		<desc>Make your way through a haunted mansion filled with crazed zombies, chainsaw-wielding 'undeads' and other nasty creatures! Your mission is to investigate the status of the mysteriously missing personnel at a genetic engineering center, and the first team of operatives sent to rescue them. You must destroy the Undead's evil creator, Dr. Curien, while saving the scientists and your girl. During the game, you discover that good doctor is the one resurrecting the Undead, and you must stop him and his evil undead minions.
+
+The game is divided into 4 chapters; Armored Giant, Man-Bat, Giant Spider, and 'Magician'. The game allows you to aim and destroy specific body parts. (i.e. you can blow off the arms of a chainsaw-wielding undead enemy), although blowing off their heads is the fastest way of killing them. Awesome and one of the best selling modern video games!</desc>
+		<image>./images/hotd-image.jpg</image>
+		<video>./videos/hotd-video.mp4</video>
+		<marquee>./images/hotd-marquee.png</marquee>
+		<thumbnail>./images/hotd-thumb.jpg</thumbnail>
+		<fanart>./images/hotd-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter</genre>
+		<family>House of the Dead</family>
+		<arcadesystemname>model2</arcadesystemname>
+		<players>1-2</players>
+		<playcount>2</playcount>
+		<lastplayed>20240303T082458</lastplayed>
+		<md5>374ab35f5d8add16c5edbe3b8ee88a40</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+</gameList>
